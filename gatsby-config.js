@@ -1,4 +1,5 @@
 module.exports = {
+	pathPrefix: `/tulisan`,
   siteMetadata: {
     title: `Baca-Quran.id`,
     author: {
