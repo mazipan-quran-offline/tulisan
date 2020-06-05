@@ -58,9 +58,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <a target="_blank" rel="noopener noreferrer" href={`${social.website}`}>
-				<strong>{author.name}</strong>
-        </a> {author.summary}
+        <a target="_blank" rel="noopener noreferrer" href={`${social.website}`}>
+	 <strong>{author.name}</strong>
+        </a>
         {` • `}
         <a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/${social.twitter}`}>
           Twitter
