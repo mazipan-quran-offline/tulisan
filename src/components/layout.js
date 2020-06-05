@@ -61,7 +61,9 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.gatsbyjs.org">Gatsby</a>
+        {` in `}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/mazipan-quran-offline/tulisan/">Github</a>
       </footer>
     </div>
   )
