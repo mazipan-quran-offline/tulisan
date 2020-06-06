@@ -22,6 +22,7 @@ Istrinya bernama Lina Saparlina (42th) dan memiliki 3 putra dengan nama M.Fajar 
 
 Isep Misbah pernah bersekolah di SD Negeri Bojong 1 Cikembar, Sukabumi, Jawa Barat (1986).
 Kemudian melanjutkan ke Mts Pondok Modern Assalam, Sukabumi, Jawa barat (1990) dan MA Pondok Modern Assalam, Sukabumi, Jawa Barat (1993).
+
 Beliau berkuliah di Fakultas Sastra dan Humaniora Universitas Islam Negeri Syarif Hidayatullah, Jakarta (2000)
 
 ## Pekerjaan 
@@ -43,7 +44,9 @@ Kegiatan menulis mushaf sudah dimulai sejak oleh Isep sejak tahun 2016.
 Isep diminta menjadi penulis atau kaligrafer mushaf Al-Quran untuk menjadi standar Indonesia. 
 Tulisan tangan Isep tersebut menggabungkan kebaikan dari gaya klasik dengan gaya modern yang anggun. 
 Dalam 3 tahun tersebut, Isep telah menulis sebanyak 22 juz. 
-Masih kurang 8 juz, Isep menuturkan bahwa proyek tersebut akan diselesaikan pada 2019, adapun proses menulis mushaf dimulai dengan menyelupkan pena (dari lidi aren) ke dalam tinta hitam, untuk kemudian dituliskan hurufnya satu persatu pada kertas karton cetak. 
+Masih kurang 8 juz, Isep menuturkan bahwa proyek tersebut akan diselesaikan pada 2019. 
+
+Proses menulis mushaf dimulai dengan menyelupkan pena (dari lidi aren) ke dalam tinta hitam, untuk kemudian dituliskan hurufnya satu persatu pada kertas karton cetak. 
 Sementara tangan kirinya membuat arah supaya tulisannya rapi. 
 Apabila terdapat kesalahan dalam penulisan, Isep harus kembali menuliskan dari paling depan dalam lembar tersebut.
 Tulisan yang sudah selesai kemudian dikembalikan dan dikirim kepada Lajnah Pentashihan Mushaf Al-Quran supaya bisa dikoreksi ulang. 
