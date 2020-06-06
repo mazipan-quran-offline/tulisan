@@ -1,6 +1,6 @@
-title:
-desc:
-date:
+title: Mengenal Isep Misbah, Kaligrafer Mushaf Al-Quran Indonesia
+description: Biografi singkat untuk lebih mengenal Isep Misbah, sosok dibalik Font standard yang diterbitkan oleh Kementerian Agama Republik Indonesia
+date: "2020-06-07T23:59:59.121Z"
 -------
 
 Nama Isep Misbah mungkin asing terdengar bagi sebagian besar masyarakat Indonesia, 
@@ -67,7 +67,8 @@ Ketika kaligrafer seperti Isep Misbah tidak hanya diharuskan menghasilkan khat y
 
 ## [Baca-Quran.id](https://www.baca-quran.id/) menggunakan Font Isep Misbah
 
-Aplikasi web [Baca-Quran.id](https://www.baca-quran.id/) juga menggunakan Font hasil karya LPMQ dan Isep Misbah sebagai font standard yang dikeluarkan Kementerian Agama Republik Indonesia.
+Aplikasi web [Baca-Quran.id](https://www.baca-quran.id/tulisan/2020-06-06-mengenai-baca-quran/) juga menggunakan Font hasil karya LPMQ dan Isep Misbah sebagai font standard yang dikeluarkan Kementerian Agama Republik Indonesia 
+seperti telah dijelaskan secara lebih panjang pada artikel [Gunakan font Isep Mishab dari LPMQ untuk Al-Qur'an Indonesia](https://www.baca-quran.id/tulisan/2020-06-06-gunakan-font-isep-misbah-dari-lpmq/).
 
 ---
 
