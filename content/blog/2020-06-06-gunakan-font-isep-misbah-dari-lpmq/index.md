@@ -1,7 +1,7 @@
 ---
 title: Gunakan font Isep Mishab dari LPMQ
 description: Membicarakan aplikasi Quran di Indonesia yang seharusnya menggunakan font dengan standard yang sama
-date: "2020-06-06T23:46:37.121Z"
+date: "2020-06-06T23:59:59.121Z"
 ---
 
 Aplikasi Quran ada sangat banyak bertebaran di pasaran, baik yabg versi aplikasi maupun versi web.
