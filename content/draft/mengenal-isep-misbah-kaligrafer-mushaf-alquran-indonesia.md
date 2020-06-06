@@ -4,10 +4,10 @@ description: Biografi singkat untuk lebih mengenal Isep Misbah, sosok dibalik Fo
 date: "2020-06-07T23:59:59.121Z"
 ---
 
-Nama Isep Misbah mungkin asing terdengar bagi sebagian besar masyarakat Indonesia, 
+Nama **Isep Misbah** mungkin asing terdengar bagi sebagian besar masyarakat Indonesia, 
 tapi bisa jadi sebagian besar masyarakat Indonesia sebenarnya menikmati buah hasil karya beliau terutama umat muslim di Indonesia.
 
-*Isep Misbah* adalah kaligrafer huruf Arab asal Indonesia kelahiran Sukabumi 7 Maret 1974. 
+**Isep Misbah** adalah kaligrafer huruf Arab asal Indonesia kelahiran Sukabumi 7 Maret 1974. 
 Beliau dipercaya menjadi kaligrafer tunggal untuk projek penulisan Al-Qur'an Mushaf yang sejak 2016 dibawah pengawasan Lajnah Pentashihan Mushaf Al Quran (LPMQ) Kementerian Agama.
 
 Nama beliau diabadikan sebagai nama Font yang dikembangkan juga oleh Tim IT LPMQ berdasarkan tulisan tangan beliau.
@@ -36,18 +36,21 @@ hal ini dikarenakan beliau sudah memiliki reputasi nasional, bahkan internasiona
 Misbah punya rekam jejak yang sangat luas dalam tradisi seni khat Arab.
 
 Dalam skala nasional, Isep pernah menjadi juara 1 kaligrafi golongan naskah di Musabaqah Tilawatil Quran (MTQ) tahun 2000, disusul juara 1 dekorasi MTQ 2003. 
+
 Dalam kancah internasional, Isep Misbah pernah menjadi juara dalam International 8th Calligraphy Competition di Turki (2007), International Al-Burda Award di Uni Emirat Arab (2010), Mahrajan Assafeer IV di Irak (2015), dan Mustaqbal Asaatidzah di zeytinburnu, Turki (2017).
 
 ## Menulis Mushaf
 
 Kegiatan menulis mushaf sudah dimulai sejak oleh Isep sejak tahun 2016. 
 Isep diminta menjadi penulis atau kaligrafer mushaf Al-Quran untuk menjadi standar Indonesia. 
+
 Tulisan tangan Isep tersebut menggabungkan kebaikan dari gaya klasik dengan gaya modern yang anggun. 
 Dalam 3 tahun tersebut, Isep telah menulis sebanyak 22 juz. 
 Masih kurang 8 juz, Isep menuturkan bahwa proyek tersebut akan diselesaikan pada 2019. 
 
 Proses menulis mushaf dimulai dengan menyelupkan pena (dari lidi aren) ke dalam tinta hitam, untuk kemudian dituliskan hurufnya satu persatu pada kertas karton cetak. 
 Sementara tangan kirinya membuat arah supaya tulisannya rapi. 
+
 Apabila terdapat kesalahan dalam penulisan, Isep harus kembali menuliskan dari paling depan dalam lembar tersebut.
 Tulisan yang sudah selesai kemudian dikembalikan dan dikirim kepada Lajnah Pentashihan Mushaf Al-Quran supaya bisa dikoreksi ulang. 
 Tulisan Isep tersebut gamblang, tajam, luwes dan terdapat ritme yang runtut serta renggang sehingga mudah untuk dibaca.
@@ -57,7 +60,7 @@ Tulisan Isep tersebut gamblang, tajam, luwes dan terdapat ritme yang runtut sert
 Isep Misbah mengandalkan kaligrafi sebagai usaha bersama dengan sesama kaligrafer. 
 Bersama beberapa teman, Isep berniaga dengan memberikan jasa membuat kaligrafi.
 Pada tahap-tahap awal, Isep dan temannya menerima pesanan dekorasi kaligrafi dari berbagai masjid di kawasan Jakarta serta kota sekitarnya.
-Isep dan teman-temannya pernah terkena tipu, namun begitu Isep tidak menyerah malah bertambah semangat.
+Isep dan teman-temannya pernah terkena penipuan, namun begitu Isep tidak menyerah malah bertambah semangat.
 
 Pada tahun 2000 Isep beserta temannya mendirikan Noqtah Art.
 Dari permintaan pelanggan, medium yang digunakan pun semakin beragam mulai dari tinta, cat, lukisan kanvas, tripleks, stainlees steel, kuningan, tembaga, gypsum, bahkan beton. 
@@ -76,4 +79,4 @@ seperti telah dijelaskan secara lebih panjang pada artikel [Gunakan font Isep Mi
 
 ---
 
-Disadur dari versi Jawa Wikipedia [https://jv.m.wikipedia.org/wiki/Isep_Misbah](https://jv.m.wikipedia.org/wiki/Isep_Misbah)
+Disadur dari versi bahasa Jawa Wikipedia pada tautan [https://jv.m.wikipedia.org/wiki/Isep_Misbah](https://jv.m.wikipedia.org/wiki/Isep_Misbah)
