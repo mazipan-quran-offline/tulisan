@@ -14,7 +14,9 @@ Font ini juga tentu memiliki khasnya tersendiri dibandingkan font yang sudah ada
 
 ## Unduh Font LPMP Isep Mishah
 
-Font LPMP Isep Misbah bisa teman-teman dapatkan secara gratis di halaman website kemenag dengan mengisi beberapa data.
+Font LPMP Isep Misbah bisa teman-teman dapatkan secara gratis di halaman [website kemenag](https://quran.kemenag.go.id/) kemudian klik tautan Font Standard, setelahnya akan diminta mengisi beberapa data. 
+Temen-temen juga bisa menemukan Font Isep Misbah dari kode sumber aplikasi [Baca-Quran.id](https://www.baca-quran.id/) yang memang tersedia bebas untuk dipelajari.
+Silahkan klik tautan [quran-offline/tree/master/static/fonts](https://github.com/mazipan/quran-offline/tree/master/static/fonts) untuk mengunduh Font yang sudah saya unduh lebih dulu.
 
 Aplikasi web [Baca-Quran.id](https://www.baca-quran.id/1/) ini saat ini telah menggunakan font yang sama dengan yang digunakan oleh Quran Kemenag, hal ini diharapkan agar web ini lebih mudah dibaca oleh temen-temen di Indonesia.
 Saya pribadi sebagai pengguna juga merasa font ini memang nyaman dan cocok dengan font ini, tulisan yang dihasilkan bisa lumayan mirip dengan mushaf yang saya pelajari dari kecil.
@@ -49,7 +51,5 @@ Tinggal pada kode HTML ditambahkan class tersebut.
 Demikian sekelumit mengenai Font LPMQ Isep Misbah.
 
 Terima kasih,
-
----
 
 Semoga bermanfaat!
