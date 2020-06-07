@@ -10,6 +10,8 @@ tapi bisa jadi sebagian besar masyarakat Indonesia sebenarnya menikmati buah has
 **Isep Misbah** adalah kaligrafer huruf Arab asal Indonesia kelahiran Sukabumi 7 Maret 1974. 
 Beliau dipercaya menjadi kaligrafer tunggal untuk projek penulisan Al-Qur'an Mushaf yang sejak 2016 dibawah pengawasan Lajnah Pentashihan Mushaf Al Quran (LPMQ) Kementerian Agama.
 
+![Potret Isep Misbah](IsepMisbah.jpg)
+
 Nama beliau diabadikan sebagai nama Font yang dikembangkan juga oleh Tim IT LPMQ berdasarkan tulisan tangan beliau.
 Font yang dijadikan standar bagi penulisan Al-Qur'an di Indonesia baik untuk versi digital maupun cetak ini diberi nama Font Isep Misbah LPMQ.
 
