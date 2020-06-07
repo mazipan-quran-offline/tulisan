@@ -59,9 +59,11 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        <a href="/">Baca-Quran.id</a>
         {` `}
-        <a target="_blank" rel="noopener noreferrer" href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()}, Built with ❤️ by
+        {` `}
+        <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">Irfan Maulana</a>
         {` in `}
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/mazipan-quran-offline/tulisan/">Github</a>
       </footer>
