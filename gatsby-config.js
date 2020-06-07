@@ -58,6 +58,13 @@ module.exports = {
         trackingId: `UA-25065548-8`,
       },
     },
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -70,13 +77,12 @@ module.exports = {
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
-    },
-    `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
+		},
+		{
+			resolve: `gatsby-plugin-sitemap`,
+			options: {
+				sitemapSize: 100
+			}
+		}
   ],
 }

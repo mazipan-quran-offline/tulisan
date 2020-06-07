@@ -37,6 +37,11 @@ const SEO = ({ description, lang, meta, title }) => {
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
+        { name: "robots", content: "follow,index" },
+        {
+          name: "theme-color",
+          content: "#071e3d",
+        },
         {
           name: `description`,
           content: metaDescription,
@@ -53,6 +58,7 @@ const SEO = ({ description, lang, meta, title }) => {
           property: `og:type`,
           content: `website`,
         },
+        { property: "og:image", content: "/tulisan/meta-image.png" },
         {
           name: `twitter:card`,
           content: `summary`,
@@ -69,6 +75,11 @@ const SEO = ({ description, lang, meta, title }) => {
           name: `twitter:description`,
           content: metaDescription,
         },
+				{ name: "twitter:image:src", content: "/tulisan/meta-image.png" },
+				{
+					content: '25fxaXcctkaxC3eyPtDYikfEMRCaJE_kQI8d43rvgbA',
+					name: 'google-site-verification'
+				}
       ].concat(meta)}
     />
   )

@@ -18,12 +18,16 @@ Ini menjadi penting karena seringnya kita membaca Al-Qur'an lewat handphone buka
 
 Menggunakan font yang standard dan enak dibaca membuatnya semakin nyaman digunakan untuk kebutuhan sehari-hari.
 
+![Homepage Quran Kemenag](quran-kemenag.png)
+
 ## [Quran Web](https://quranweb.id/)
 
 Salah satu rekomendasi dari saya jika teman-teman membutuhkan aplikasi web untuk membaca Al-Qur'an.
 Web ini sangat ringan untuk dimuat dan memiliki tampilan yang baik di handphone kalian.
 Yang paling keren dari web ini adalah tetap kompatibel dengan handphone jadul, ini karena web ini sangat minim menggunakan JavaScript yang mana supportnya kurang baik di handphone jadul.
 Web ini berhasil mengeksekusinya dengan sangat baik.
+
+![Homepage QuranWeb](quran-web.png)
 
 Memiliki dua tema, mode terang dan mode gelap membuat kalian tetap nyaman membacanya baik siang ataupun malam hari.
 Aplikasi ini juga dilengkapi dengan murotal dan yang pasti bebas dari iklan yang menggangu.
@@ -40,6 +44,8 @@ Baca-Quran.id menjadi alternatif bagi kalian pengguna handphone yang lebih moder
 Baca-Quran.id mendukung berbagai fitur terbaru bawaan browser terbaru, seperti sharing ke sosial media, akses offline dan lainnya.
 Memiliki tampilan yang serupa dengan aplikasi native sehingga serasa sedang mengakses aplikasi native tanpa perlu memasang apapun di handphone.
 Mendukung tiga tema, terang, gelap dan hijau atau nature.
+
+![Homepage Baca-Quran.id](homepage-baca-quran.png)
 
 ## [Alquran Indonesia](https://alquran-indonesia.com)
 
@@ -74,4 +80,4 @@ Terima kasih,
 ---
 
 Semoga bermanfaat!
- 
+
