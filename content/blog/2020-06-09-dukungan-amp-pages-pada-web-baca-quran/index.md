@@ -29,8 +29,22 @@ Pada dasarnya ini adalah versi cepat dari web utama.
 Meskipun bisa diakses mandiri, sebenarnya peruntukannya adalah untuk pengunjung pertama yang datang dari hasil pencarian di Google Search.
 Jadi orang yang meng-klik hasil pencarian akan mendapatkan hasil yang cepat.
 
+Berikut salah satu tangkaoan layar dari hasil pencarian di device Android:
 
+![AMP Baca-Quran.id](amp-baca-quran.jpg]
 
+Hasil pencarian yang memiliki logo petir ⚡ disamping nama webnya adalah halaman yang mendukung AMP.
+Saat ini hanya untuk pencarian di device handphone saja dengan dukungan browser yang terbaru.
+
+Namun begitu, teman-teman yang ingin merasakan pengalaman menggunakan web versi AMP ini bisa mengunjungi tautan dengan awalan `/amp`, misalnya:
+
+- [Daftar surat versi AMP](https://www.baca-quran.id/amp/all-surah/)
+- [Surat Al Fatihah versi AMP](https://www.baca-quran.id/amp/1/)
+- [Surat An Nas versi AMP](https://www.baca-quran.id/amp/114/)
+- Dan lain-lain
+
+Perlu diketahui, versi AMP memiliki fitur yang dipangkas agar mencapai kecepatan muat yang signifikan berbeda dari versi aslinya.
+Jadi perlu dimaklumi kalau ada fitur yang tidak tersedia dalam versi AMP ini.
 
 Terima kasih,
 
