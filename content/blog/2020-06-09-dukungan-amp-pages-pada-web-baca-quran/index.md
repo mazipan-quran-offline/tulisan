@@ -31,7 +31,7 @@ Jadi orang yang meng-klik hasil pencarian akan mendapatkan hasil yang cepat.
 
 Berikut salah satu tangkaoan layar dari hasil pencarian di device Android:
 
-![AMP Baca-Quran.id](amp-baca-quran.jpg]
+![AMP Baca-Quran.id](amp-baca-quran.jpg)
 
 Hasil pencarian yang memiliki logo petir ⚡ disamping nama webnya adalah halaman yang mendukung AMP.
 Saat ini hanya untuk pencarian di device handphone saja dengan dukungan browser yang terbaru.
