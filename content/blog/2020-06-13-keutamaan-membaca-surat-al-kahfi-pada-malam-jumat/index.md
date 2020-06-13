@@ -1,7 +1,7 @@
 ---
 title: Keutamaan membaca surat Al Kahfi pada malam Jumat
 description: Beberapa keutamaan membaca surat Al Kahfi setiap malam Jumat
-date: "2020-06-013T23:59:59.121Z"
+date: "2020-06-13T23:59:59.121Z"
 ---
 
 [Surat Al-Kahfi](https://www.baca-quran.id/18/) menjadi salah satu surat yang direkomendasikan oleh aplikasi web [Baca-Quran.id](https://www.baca-quran.id/18/), 
