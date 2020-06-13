@@ -1,5 +1,5 @@
 ---
-title: Mengenai Baca-Quran
+title: Mengenai Aplikasi Web Baca-Quran.id
 description: Memperkenalkan aplikasi web untuk membaca Al-Qur'an, Baca-Quran.id
 date: "2020-06-06T23:46:37.121Z"
 ---
