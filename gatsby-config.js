@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/tulisan`,
   siteMetadata: {
     title: `Baca-Quran.id`,
     author: {
@@ -6,7 +7,7 @@ module.exports = {
       summary: `Pengembang Antarmuka Web`,
     },
     description: `Tulisan mengenai aplikasi Baca-Qur'an.id`,
-    siteUrl: `https://www.baca-quran.id/tulisan/`,
+    siteUrl: `https://www.baca-quran.id/`,
     social: {
       twitter: `Maz_Ipan`,
       website: `https://mazipan.space/`,
