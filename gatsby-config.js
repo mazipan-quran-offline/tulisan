@@ -10,6 +10,7 @@ module.exports = {
     siteUrl: `https://www.baca-quran.id/`,
     social: {
       twitter: `Maz_Ipan`,
+      facebook: `mazipanneh`,
       website: `https://mazipan.space/`,
     },
   },

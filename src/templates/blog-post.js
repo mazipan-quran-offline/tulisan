@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
+  const rootPath = `${__PATH_PREFIX__}/`
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
@@ -40,6 +41,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+				<footer>
+					Bagikan artikel ke {` `}
+					<a target="_blank" rel="noopener noreferrer" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(location.href)}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(post.frontmatter.description)}`} >Facebook</a>
+					{` • `}
+					<a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.frontmatter.title)}&url=${encodeURIComponent(location.href)}&via=maz_ipan`} >Twitter</a>
+					<br/>
+					Perbaiki artikel di {` `}
+					<a target="_blank" rel="noopener noreferrer" href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${location.pathname.replace(rootPath, '')}index.md`} >Github</a>
+				</footer>
+        <hr
+          style={{
+            marginTop: rhythm(1),
             marginBottom: rhythm(1),
           }}
         />

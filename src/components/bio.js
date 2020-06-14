@@ -29,6 +29,7 @@ const Bio = () => {
           }
           social {
             twitter
+            facebook
             website
           }
         }
@@ -58,12 +59,14 @@ const Bio = () => {
         }}
       />
       <p>
-        <a target="_blank" rel="noopener noreferrer" href={`${social.website}`}>
-	 <strong>{author.name}</strong>
-        </a>
-        {` • `}
+				<strong>{author.name}</strong>
+        <br/>
         <a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/${social.twitter}`}>
           Twitter
+        </a>
+        {` • `}
+        <a target="_blank" rel="noopener noreferrer" href={`https://facebook.com/${social.facebook}`}>
+          Facebook
         </a>
       </p>
     </div>
