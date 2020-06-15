@@ -6,7 +6,7 @@ date: "2020-06-16T23:59:59.121Z"
 
 Al Qur'an sebagai Kitab Suci, Wahyu Ilahi, mempunyai adab-adab tersendiri bagi org-org yg membacanya. Adab-adab itu sudah diatur dgn sangat baik, untuk penghormatan dan keagungan Al-Quran, tiap-tiap org harus berpedoman kepadanya dan mengerjakannya.
 
-[Adab membaca Al-Quran](photo-of-a-person-kneeling-in-front-of-book-2608353.jpg)
+![Adab membaca Al-Quran](photo-of-a-person-kneeling-in-front-of-book-2608353.jpg)
 Photo by [Abdullah Ghatasheh](https://www.pexels.com/@abdghat?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-a-person-kneeling-in-front-of-book-2608353/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 
@@ -58,20 +58,20 @@ Diriwayatkan pula oleh Abu Daud, dan Wa-il binHijr yg maksudnya sebagai berikut:
 
 Ayat-ayat sajadah itu terdapat pada 15 tempat yaitu:
 
-- Surat Al-A'raaf ayat 206
-- Surat Ar-ra'd ayat 15
-- Surat An-Nahl ayat 50
-- Surat Bani Israil ayat 109
-- Surat Maryam ayat 58
-- Surat Al-Haji ayat 18 dan ayat 77
-- Surat Al Furqaan ayat 60
-- Surat Annaml ayat 26
-- Surat As-Sajdah ayat 15
-- Surat As-Shad ayat 24
-- Surat Haamim ayat 38
-- Surat An-Najm ayat 62
-- Surat Al-Insyiqaq ayat 21, dan
-- Surat Al-'Alaq ayat 19
+- [Surat Al-A'raf](https://www.baca-quran.id/7/) ayat 206
+- [Surat Ar-Ra'd](https://www.baca-quran.id/13/) ayat 15
+- [Surat An-Nahl](https://www.baca-quran.id/16/) ayat 50
+- [Surat Al-Isra'](https://www.baca-quran.id/17/) ayat 109
+- [Surat Maryam](https://www.baca-quran.id/19/) ayat 58
+- [Surat Al-Hajj](https://www.baca-quran.id/22/) ayat 18 dan ayat 77
+- [Surat Al-Furqan](https://www.baca-quran.id/25/) ayat 60
+- [Surat An-Naml](https://www.baca-quran.id/27/) ayat 26
+- [Surat As-Sajdah](https://www.baca-quran.id/32/) ayat 15
+- [Surat Sad](https://www.baca-quran.id/38/) ayat 24
+- [Surat Fussilat](https://www.baca-quran.id/41/) ayat 38
+- [Surat An-Najm](https://www.baca-quran.id/53/) ayat 62
+- [Surat Al-Insyiqaq](https://www.baca-quran.id/84/) ayat 21, dan
+- [Surat Al-'Alaq](https://www.baca-quran.id/96/) ayat 19
 
 ## Diresapkan arti dan maksudnya
 
