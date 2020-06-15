@@ -46,9 +46,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
 				<footer>
 					Bagikan artikel ke {` `}
-					<a target="_blank" rel="noopener noreferrer" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(location.href)}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(post.frontmatter.description)}`} >Facebook</a>
+					<a target="_blank" rel="noopener noreferrer" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(location.pathname)}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(post.frontmatter.description)}`} >Facebook</a>
 					{` • `}
-					<a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.frontmatter.title)}&url=${encodeURIComponent(location.href)}&via=maz_ipan`} >Twitter</a>
+					<a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.frontmatter.title)}&url=${encodeURIComponent(location.pathname)}&via=maz_ipan`} >Twitter</a>
 					<br/>
 					Perbaiki artikel di {` `}
 					<a target="_blank" rel="noopener noreferrer" href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${location.pathname.replace(rootPath, '')}index.md`} >Github</a>
