@@ -58,7 +58,10 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer style={{
+				width: '100%',
+				textAlign: 'center'
+			}}>
         <a href="/">Baca-Quran.id</a>
         {` `}
         © {new Date().getFullYear()}, Built with ❤️ by
