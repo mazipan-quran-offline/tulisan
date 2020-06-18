@@ -36,7 +36,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
 		>
 			{!isFirst && (
 				<Link to={prevPage} rel="prev" style={navStyle}>
-					← Prev
+					&lt;&lt;
 				</Link>
 			)}
 			{isFirst && (
@@ -65,7 +65,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
 			)}
 			{!isLast && (
 				<Link to={nextPage} rel="next" style={navStyle}>
-					Next →
+					&gt;&gt;
 				</Link>
 			)}
 		</div>
