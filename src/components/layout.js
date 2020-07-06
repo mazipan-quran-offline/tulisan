@@ -60,11 +60,14 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer style={{
 				width: '100%',
-				textAlign: 'center'
+				textAlign: 'center',
+				padding: '.5em 1em',
 			}}>
         <a href="/">Baca-Quran.id</a>
         {` `}
-        © {new Date().getFullYear()}, Built with ❤️ by
+        © {new Date().getFullYear()}
+				<br/>
+				Built with ❤️ by
         {` `}
         <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">Irfan Maulana</a>
         {` in `}
