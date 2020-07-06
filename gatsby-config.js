@@ -7,7 +7,7 @@ module.exports = {
       summary: `Pengembang Antarmuka Web`,
     },
     description: `Tulisan mengenai aplikasi Baca-Qur'an.id`,
-    siteUrl: `https://www.baca-quran.id/`,
+    siteUrl: `https://www.baca-quran.id/tulisan/`,
     social: {
       twitter: `Maz_Ipan`,
       facebook: `mazipanneh`,
