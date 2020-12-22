@@ -71,7 +71,7 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">Irfan Maulana</a>
         <br/>
-        <a target="_blank" rel="noopener noreferrer" href="https://baca-quran.id/stories/">BacaQuran.id Web Stories</a>
+        <a href="https://www.baca-quran.id/stories/">BacaQuran.id Web Stories</a>
       </footer>
     </div>
   )
