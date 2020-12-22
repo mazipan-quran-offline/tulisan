@@ -70,8 +70,8 @@ const Layout = ({ location, title, children }) => {
 				Built with ❤️ by
         {` `}
         <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">Irfan Maulana</a>
-        {` in `}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/mazipan-quran-offline/tulisan/">Github</a>
+        <br/>
+        <a target="_blank" rel="noopener noreferrer" href="https://baca-quran.id/stories/">BacaQuran.id Web Stories</a>
       </footer>
     </div>
   )
