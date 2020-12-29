@@ -12,7 +12,6 @@ export default props => {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {props.headComponents}
-				<script data-ad-client="ca-pub-5442972248172818" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </head>
       <body {...props.bodyAttributes} className="light">
         {props.preBodyComponents}
@@ -22,6 +21,17 @@ export default props => {
           id="___gatsby"
         />
         {props.postBodyComponents}
+
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<ins className="adsbygoogle"
+						style={{display: 'block'}}
+						data-ad-client="ca-pub-5442972248172818"
+						data-ad-slot="6305953167"
+						data-ad-format="auto"
+						data-full-width-responsive="true"></ins>
+				<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
       </body>
     </html>
   );
