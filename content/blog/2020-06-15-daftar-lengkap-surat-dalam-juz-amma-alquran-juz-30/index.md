@@ -15,6 +15,8 @@ Karena banyak terdiri dari surat pendek, makanya di Indonesia biasanya Juz 30 in
 
 Pun bahwa surat-surat dalam juz 30 ini sangat dekat dengan keseharian kita, banyak surat yang secara rutin dibaca pada sholat lima waktu karena pendek dan mudah dihafalkan.
 
+Baca juga artikel [Daftar lengkap Al-Quran 30 juz dan terjemahan bahasa Indonesia](/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/).
+
 Berikut adalah daftar lengkap Juz 30 Al-Quran atau dikenal dengan Juz Amma beserta terjemahan dalam bahasa indonesia yang diurutkan berdasarkan nomor suratnya dalam Al-Quran:
 
 | No. | No. Surat | Nama Surah | Bahasa Arab | Arti | Jumlah Ayat |

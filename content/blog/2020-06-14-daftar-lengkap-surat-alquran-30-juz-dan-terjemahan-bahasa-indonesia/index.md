@@ -7,6 +7,7 @@ date: "2020-06-14T23:59:59.121Z"
 Berikut adalah daftar lengkap dari 114 surat dalam Al-Quran yang terdiri dari 30 juz.
 Dalam daftar ini disertakan pula tautan ke halaman yang berisikan bacaan lengkap semua ayat dalam surat tersebut.
 Jika ingin membaca terjemahan dan tafsir dalam bahasa indonesia juga sudah tersedia pada tautan yang sama.
+Baca juga artikel [Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30](/2020-06-15-daftar-lengkap-surat-dalam-juz-amma-alquran-juz-30/).
 
 |No. Surat | Nama Surat | Tulisan Arab | Terjemahan | Jumlah Ayat |
 |----------|----------- |------------- |----------- |------------ |
@@ -126,7 +127,7 @@ Jika ingin membaca terjemahan dan tafsir dalam bahasa indonesia juga sudah terse
 | 114        | [An-Nas](https://www.baca-quran.id/114/) | الناس | Manusia | 6 |
 
 Untuk memahami Al-Quran dengan benar memang tidak akan cukup hanya membaca lewat internet atau membaca terjemahan dan tafsir.
-Kita diharuskan untuk belajar pada ulama yang ahli pada keilmua Al-Quran dikarenakan ada banyak hal yang mesti diperhatikan dalam memahami Al-Quran, mulai dari sejarah dan sebab turunnya sebuah ayat, tempat dimana ayat tersebut disampaikan, dan banyak hal lain akan mempengaruhi bagaimana sebuah ayat Al-Quran dipahami.
+Kita diharuskan untuk belajar pada ulama yang ahli pada keilmuan Al-Quran dikarenakan ada banyak hal yang mesti diperhatikan dalam memahami Al-Quran, mulai dari sejarah dan sebab turunnya sebuah ayat, tempat dimana ayat tersebut disampaikan, dan banyak hal lain akan mempengaruhi bagaimana sebuah ayat Al-Quran dipahami.
 
 Sebagai orang awam paling tidak kita berusaham memperbaiki bacaan Al-Quran kita sesuai dengan tajwidnya, membiasakan membaca sesering mungkin serta membaca terjemahan sebisa kita.
 Selanjutnya kita perlu menemui guru yang bisa mengajarkan ilmu Al-Quran lebih baik lagi.
