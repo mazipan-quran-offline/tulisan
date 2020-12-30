@@ -78,12 +78,12 @@ module.exports = {
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
-		},
-		{
-			resolve: `gatsby-plugin-sitemap`,
-			options: {
-				sitemapSize: 100
-			}
-		}
+    },
+    {
+	resolve: `gatsby-plugin-sitemap`,
+	options: {
+	  sitemapSize: 100
+	}
+    }
   ],
 }
