@@ -22,16 +22,16 @@ export default props => {
         />
         {props.postBodyComponents}
 
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<ins className="adsbygoogle"
-						style={{display: 'block'}}
-						data-ad-client="ca-pub-5442972248172818"
-						data-ad-slot="6305953167"
-						data-ad-format="auto"
-						data-full-width-responsive="true"></ins>
-				<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horizontal Ads Banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5442972248172818"
+     data-ad-slot="7319719723"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			
       </body>
     </html>
   );
