@@ -23,7 +23,7 @@ export default props => {
         {props.postBodyComponents}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Horizontal Ads Banner -->
+
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
      data-ad-client="ca-pub-5442972248172818"
