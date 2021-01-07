@@ -36,15 +36,14 @@ export default (props) => {
 
           <ins
             className="adsbygoogle"
-            style="display:block"
             style={{
               display: 'block',
               background: '#fff',
             }}
-            data-ad-format="fluid"
-            data-ad-layout-key="-6h+ed+1l-6o+ab"
-            data-ad-client="ca-pub-5442972248172818"
-            data-ad-slot="5701222588"
+						data-ad-client="ca-pub-5442972248172818"
+						data-ad-slot="4265678371"
+						data-ad-format="auto"
+						data-full-width-responsive="true"
           ></ins>
         </div>
       </body>
