@@ -11,8 +11,10 @@ const adsWrapper = {
 
 export default (props) => {
   React.useEffect(() => {
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  });
+    setTimeout(() => {
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    }, 1000);
+  }, []);
 
   return (
     <html {...props.htmlAttributes}>
