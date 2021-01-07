@@ -80,10 +80,10 @@ module.exports = {
       },
     },
     {
-	resolve: `gatsby-plugin-sitemap`,
-	options: {
-	  sitemapSize: 100
-	}
-    }
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        sitemapSize: 100,
+      },
+    },
   ],
-}
+};

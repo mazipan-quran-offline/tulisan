@@ -1,7 +1,7 @@
 ---
 title: 7 Aplikasi web untuk membaca Al Qur'an
 description: 7 Rekomendasi aplikasi web yang bisa digunakan untuk membaca Al-Qur'an untuk masyarakat Indonesia
-date: "2020-06-07T01:46:37.121Z"
+date: '2020-06-07T01:46:37.121Z'
 ---
 
 Saya pribadi lebih memilih aplikasi web dibandingkan harus memasang aplikasi native secara langsung lewat Google Play maupun App Store.
@@ -74,10 +74,8 @@ Cukup buka web dan akses aplikasinya, dan mulai membaca.
 
 Mari budayakan membaca Al-Qur'an.
 
-
 Terima kasih,
 
 ---
 
 Semoga bermanfaat!
-

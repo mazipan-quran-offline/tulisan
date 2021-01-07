@@ -1,10 +1,10 @@
 ---
 title: Keutamaan membaca surat Al Kahfi pada malam Jumat
 description: Beberapa keutamaan membaca surat Al Kahfi setiap malam Jumat
-date: "2020-06-13T23:59:59.121Z"
+date: '2020-06-13T23:59:59.121Z'
 ---
 
-[Surat Al-Kahfi](https://www.baca-quran.id/18/) menjadi salah satu surat yang direkomendasikan oleh aplikasi web [Baca-Quran.id](https://www.baca-quran.id/18/), 
+[Surat Al-Kahfi](https://www.baca-quran.id/18/) menjadi salah satu surat yang direkomendasikan oleh aplikasi web [Baca-Quran.id](https://www.baca-quran.id/18/),
 hal ini karena adanya keutamaan untuk membacanya setiap malam Jumat seperti disebutkan dalam beberapa hadits.
 Karena disarankan untuk dibaca secara rutin, makanya akan lebih mudah dalam mencari surat ini karena ada dalam daftar surat rekomendasi yang bisa ditemukan di beranda aplikasi.
 Membiasakan membaca surat Al-Kahfi setiap malam Jumat adalah salah satu hal yang bisa kita masukkan dalam kegiatan kita setiap hari Kamis malam Jumat.
@@ -17,19 +17,19 @@ Dari Abu Said al-Khudri Radhiyallahu ‘anhu, Rasulullah Shallallahu ‘alaihi w
 
 مَنْ قَرَأَ سُورَةَ الْكَهْفِ لَيْلَةَ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ فِيمَا بَيْنَهُ وَبَيْنَ الْبَيْتِ الْعَتِيقِ
 
-*“Barang siapa yang membaca surat Al-Kahfi pada malam Jumat, dia akan disinari cahaya antara dirinya dan Ka’bah.”* (HR. ad-Darimi  3470 dan dishahihkan al-Albani dalam Shahihul Jami’, 6471)
+_“Barang siapa yang membaca surat Al-Kahfi pada malam Jumat, dia akan disinari cahaya antara dirinya dan Ka’bah.”_ (HR. ad-Darimi 3470 dan dishahihkan al-Albani dalam Shahihul Jami’, 6471)
 
 Atau dalam riwayat lain, Rasulullah bersabda,
 
 مَنْ قَرَأَ سُورَةَ الْكَهْفِ فِى يَوْمِ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ
 
-*“Barang siapa yang membaca surat Al-Kahfi pada hari Jumat, dia akan disinari cahaya di antara dua Jumat.”* (HR. Hakim 6169, Baihaqi  635, dan dishahihkan al-Albani dalam Shahihul Jami’, no. 6470)
+_“Barang siapa yang membaca surat Al-Kahfi pada hari Jumat, dia akan disinari cahaya di antara dua Jumat.”_ (HR. Hakim 6169, Baihaqi 635, dan dishahihkan al-Albani dalam Shahihul Jami’, no. 6470)
 
 Bahkan, karena kuatnya pengaruh cahaya yang Allah berikan, orang yang memperhatikan surat Al-Kahfi akan dilindungi dari fitnah Dajjal. Dari Abu Darda’ Radhiyallahu ‘anhu, Rasulullah Shallallahu ‘alaihi wa sallam bersabda,
 
 مَنْ حَفِظَ عَشْرَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْكَهْفِ عُصِمَ مِنَ الدَّجَّالِ
 
-*“Siapa yang menghafal 10 ayat pertama surat Al-Kahfi maka dia akan dilindungi dari fitnah Dajjal.”* (HR. Muslim 1919, Abu Daud 4325, dan yang lainnya)
+_“Siapa yang menghafal 10 ayat pertama surat Al-Kahfi maka dia akan dilindungi dari fitnah Dajjal.”_ (HR. Muslim 1919, Abu Daud 4325, dan yang lainnya)
 
 ## Kandungan utama surat Al-Kahfi
 

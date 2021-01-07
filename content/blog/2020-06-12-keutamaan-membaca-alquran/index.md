@@ -1,7 +1,7 @@
 ---
 title: Keutamaan Membaca Al-Quran
 description: Beberapa keutamaan yang bisa kita dapatkan dengan membaca Al-Quran setiap hari
-date: "2020-06-12T23:46:37.121Z"
+date: '2020-06-12T23:46:37.121Z'
 ---
 
 Al-Quran adalah kalam Allah SWT yang merupakan sebuah mukjizat yang diturunkan kepada Nabi Muhammad SAW, di tulis dalam mushaf dan diriwayatkan secara mutawatir.

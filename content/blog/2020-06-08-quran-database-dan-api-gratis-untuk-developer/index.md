@@ -1,10 +1,10 @@
 ---
 title: Quran Database dan Rest API gratis untuk developer
 description: Beberapa Quran database dan Rest API yang bisa digunakan oleh para developer untuk mengembangkan Aplikasi Quran
-date: "2020-06-08T23:59:59.121Z"
+date: '2020-06-08T23:59:59.121Z'
 ---
 
-Mengembangkan aplikasi Quran tentu membutuhkan data Quran. 
+Mengembangkan aplikasi Quran tentu membutuhkan data Quran.
 Mendapatkan data yang tepat akan menjadi penentu apakah proses pengembangan aplikasi bisa berjalan mudah atau malah berjalan rumit.
 
 Berikut beberapa Quran Database dan Rest API yang bisa digunakan oleh para temen-temen developer dalam mengembangkan aplikasi Quran sendiri:
@@ -19,10 +19,10 @@ Keunggulan lain yang bisa didapatkan dengan memilih Rest API ini adalah web doku
 ## [Quran.Cloud](https://alquran.cloud/)
 
 Dokumentasi Rest API mereka terletak di halaman [alquran.cloud/api](https://alquran.cloud/api)
-Data yang disediakan juga salah satu yang terbaik menurut saya pribadi. 
+Data yang disediakan juga salah satu yang terbaik menurut saya pribadi.
 Lengkap dengan berbagai variasinya.
 Sudah tersedia data audionya juga.
-Endpoint yang disediakan cukup banyak, bisa menggunakan offset dan terdapat beberapa pilihan jenis khat. 
+Endpoint yang disediakan cukup banyak, bisa menggunakan offset dan terdapat beberapa pilihan jenis khat.
 
 ## [QuranDatabase.org](http://www.qurandatabase.org/)
 

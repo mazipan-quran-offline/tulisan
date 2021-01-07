@@ -1,7 +1,7 @@
 ---
 title: Dukungan AMP Pages pada Baca-Quran.id
 description: Mempercepat waktu muat untuk pengunjung pertama web Baca-Quran.id dengan mengoptimalkan penggunaan AMP Pages
-date: "2020-06-09T23:59:59.121Z"
+date: '2020-06-09T23:59:59.121Z'
 ---
 
 Web [Baca-Quran.id](https://www.baca-quran.id/) memang mengedepankan pengalaman yang mirip aplikasi Native.

@@ -1,23 +1,20 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React from 'react';
+import { Link, graphql } from 'gatsby';
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import Bio from '../components/bio';
+import Layout from '../components/layout';
+import SEO from '../components/seo';
+import { rhythm, scale } from '../utils/typography';
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+  const rootPath = `${__PATH_PREFIX__}/`;
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
+  const { previous, next } = pageContext;
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
+      <SEO title={post.frontmatter.title} description={post.frontmatter.description || post.excerpt} />
       <article>
         <header>
           <h1
@@ -44,15 +41,42 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
-				<footer>
-					Bagikan artikel ke {` `}
-					<a target="_blank" rel="noopener noreferrer" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://www.baca-quran.id' + location.pathname)}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(post.frontmatter.description)}`} >Facebook</a>
-					{` • `}
-					<a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.frontmatter.title)}&url=${encodeURIComponent('https://www.baca-quran.id' + location.pathname)}&via=maz_ipan`} >Twitter</a>
-					<br/>
-					Perbaiki artikel di {` `}
-					<a target="_blank" rel="noopener noreferrer" href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${location.pathname.replace(rootPath, '')}index.md`} >Github</a>
-				</footer>
+        <footer>
+          Bagikan artikel ke {` `}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+              'https://www.baca-quran.id' + location.pathname,
+            )}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(
+              post.frontmatter.description,
+            )}`}
+          >
+            Facebook
+          </a>
+          {` • `}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+              post.frontmatter.title,
+            )}&url=${encodeURIComponent('https://www.baca-quran.id' + location.pathname)}&via=maz_ipan`}
+          >
+            Twitter
+          </a>
+          <br />
+          Perbaiki artikel di {` `}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${location.pathname.replace(
+              rootPath,
+              '',
+            )}index.md`}
+          >
+            Github
+          </a>
+        </footer>
         <hr
           style={{
             marginTop: rhythm(1),
@@ -91,10 +115,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
@@ -114,4 +138,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

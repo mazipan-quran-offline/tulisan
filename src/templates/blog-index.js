@@ -1,27 +1,27 @@
 // Gatsby supports TypeScript natively!
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React from 'react';
+import { Link, graphql } from 'gatsby';
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Pagination from "../components/pagination"
-import { rhythm } from "../utils/typography"
+import Layout from '../components/layout';
+import SEO from '../components/seo';
+import Pagination from '../components/pagination';
+import { rhythm } from '../utils/typography';
 
 const BlogIndex = ({ data, location, pageContext }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const siteTitle = data.site.siteMetadata.title;
+  const posts = data.allMarkdownRemark.edges;
 
-  const { currentPage, numPages } = pageContext
-  const isFirst = currentPage === 1
-  const isLast = currentPage === numPages
-  const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
-  const nextPage = (currentPage + 1).toString()
+  const { currentPage, numPages } = pageContext;
+  const isFirst = currentPage === 1;
+  const isLast = currentPage === numPages;
+  const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString();
+  const nextPage = (currentPage + 1).toString();
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Semua artikel terkait Baca-Quran.id" />
       {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
+        const title = node.frontmatter.title || node.fields.slug;
         return (
           <article key={node.fields.slug}>
             <header>
@@ -44,7 +44,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
               />
             </section>
           </article>
-        )
+        );
       })}
 
       <Pagination
@@ -56,10 +56,10 @@ const BlogIndex = ({ data, location, pageContext }) => {
         isLast={isLast}
       />
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogIndex
+export default BlogIndex;
 
 export const pageQuery = graphql`
   query($skip: Int!, $limit: Int!) {
@@ -68,11 +68,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      skip: $skip
-      limit: $limit
-    ) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, skip: $skip, limit: $limit) {
       edges {
         node {
           excerpt
@@ -88,4 +84,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

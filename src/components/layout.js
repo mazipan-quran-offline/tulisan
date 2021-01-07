@@ -1,11 +1,11 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from 'react';
+import { Link } from 'gatsby';
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm, scale } from '../utils/typography';
 
 const Layout = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header
+  const rootPath = `${__PATH_PREFIX__}/`;
+  let header;
 
   if (location.pathname === rootPath) {
     header = (
@@ -26,7 +26,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
-    )
+    );
   } else {
     header = (
       <h3
@@ -45,7 +45,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h3>
-    )
+    );
   }
   return (
     <div
@@ -58,23 +58,26 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer style={{
-				width: '100%',
-				textAlign: 'center',
-				padding: '.5em 1em',
-			}}>
+      <footer
+        style={{
+          width: '100%',
+          textAlign: 'center',
+          padding: '.5em 1em',
+        }}
+      >
         <a href="/">Baca-Quran.id</a>
+        {` `}© {new Date().getFullYear()}
+        <br />
+        Built with ❤️ by
         {` `}
-        © {new Date().getFullYear()}
-				<br/>
-				Built with ❤️ by
-        {` `}
-        <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">Irfan Maulana</a>
-        <br/>
+        <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">
+          Irfan Maulana
+        </a>
+        <br />
         <a href="https://www.baca-quran.id/stories/">BacaQuran.id Web Stories</a>
       </footer>
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
