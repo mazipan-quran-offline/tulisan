@@ -75,6 +75,8 @@ const Layout = ({ location, title, children }) => {
         </a>
         <br />
         <a href="https://www.baca-quran.id/stories/">BacaQuran.id Web Stories</a>
+        <br />
+        <a href="https://ksana.in" target="_blank" rel="noopener noreferrer">Kunjungi karya lainnya, ksana.in</a>
       </footer>
     </div>
   );
