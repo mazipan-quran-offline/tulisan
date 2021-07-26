@@ -15,7 +15,7 @@ Untuk memudahkan dalam mengingat penghitungan jumlah rakaat yang telah diselesai
 
 Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 
-## Surat Untuk Rakaat Ganjil
+## Surat Untuk Taraweh Pada Rakaat Ganjil
 
 | Rakaat Ke | No. Surat | Nama Surah                                     | Bahasa Arab | Arti                      | Jumlah Ayat |
 | --- | --------- | ---------------------------------------------- | ----------- | ------------------------- | ----------- |
@@ -30,12 +30,12 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 | 17  | 110       | [An-Nasr](https://www.baca-quran.id/110/)      | النصر       | Pertolongan               | 3           |
 | 19  | 111       | [Al-Lahab](https://www.baca-quran.id/111/)     | اللهب       | Api Yang Bergejolak       | 5           |
 
-## Surat Untuk Rakaat Genap
+## Surat Untuk Taraweh Pada Rakaat Genap
 
 Bacaan surat untuk rakaat-rakaat genap biasanya akan dibaca surat pendek seperti [Al-Ikhlas](https://www.baca-quran.id/112/) pada malam Ramadhan ke 1-15.
 Sementara pada malam Ramadhan ke 16-30 biasanya akan dibacakan surat [Al-Qadr](https://www.baca-quran.id/97/) pada rakaat-rakaat genap.
  
-## Surat untuk sholat Witir
+## Surat Untuk Sholat Witir
 
 Mengutip keterangan dalam Kumpulan Risalah Bimbingan Sholat Lengkap, Muhajir dan Abdul Gani Asykur (1989: 85), 
 ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](https://www.baca-quran.id/87/) pada rakaat pertama, kemudian membaca surat [Al Kafirun](https://www.baca-quran.id/109/) pada rakaat kedua. 
