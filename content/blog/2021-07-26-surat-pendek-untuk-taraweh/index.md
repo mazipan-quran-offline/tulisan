@@ -1,7 +1,7 @@
 ---
 title: Daftar Surat Pendek Untuk Taraweh
 description: Doa yang dianjurkan untuk dibaca saat sedang sakit supaya cepat sembuh
-date: '2021-07-06T23:59:59.121Z'
+date: '2021-07-26T23:59:59.121Z'
 ---
 
 Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat isya selesai.
