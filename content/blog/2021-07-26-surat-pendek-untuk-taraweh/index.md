@@ -18,118 +18,120 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 ## Surat Untuk Taraweh Pada Rakaat Ganjil
 
 <div class="table-wrapper" markdown="block">
-  <thead>
-    <tr>
-      <th>Rakaat Ke</th>
-      <th>No. Surat</th>
-      <th>Nama Surah</th>
-      <th>Bahasa Arab</th>
-      <th>Arti</th>
-      <th>Jumlah Ayat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>102</td>
-      <td>
-        <a href="https://www.baca-quran.id/102/" rel="nofollow">At-Takasur</a>
-      </td>
-      <td>التكاثر</td>
-      <td>Bermegah-Megahan</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>103</td>
-      <td>
-        <a href="https://www.baca-quran.id/103/" rel="nofollow">Al-'Asr</a>
-      </td>
-      <td>العصر</td>
-      <td>Asar</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>104</td>
-      <td>
-        <a href="https://www.baca-quran.id/104/" rel="nofollow">Al-Humazah</a>
-      </td>
-      <td>الهمزة</td>
-      <td>Pengumpat</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>105</td>
-      <td>
-        <a href="https://www.baca-quran.id/105/" rel="nofollow">Al-Fil</a>
-      </td>
-      <td>الفيل</td>
-      <td>Gajah</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>106</td>
-      <td>
-        <a href="https://www.baca-quran.id/106/" rel="nofollow">Quraisy</a>
-      </td>
-      <td>قريش</td>
-      <td>Quraisy</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>107</td>
-      <td>
-        <a href="https://www.baca-quran.id/107/" rel="nofollow">Al-Ma'un</a>
-      </td>
-      <td>الماعون</td>
-      <td>Barang Yang Berguna</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>108</td>
-      <td>
-        <a href="https://www.baca-quran.id/108/" rel="nofollow">Al-Kausar</a>
-      </td>
-      <td>الكوثر</td>
-      <td>Pemberian Yang Banyak</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>109</td>
-      <td>
-        <a href="https://www.baca-quran.id/109/" rel="nofollow">Al-Kafirun</a>
-      </td>
-      <td>الكٰفرون</td>
-      <td>Orang-Orang kafir</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>110</td>
-      <td>
-        <a href="https://www.baca-quran.id/110/" rel="nofollow">An-Nasr</a>
-      </td>
-      <td>النصر</td>
-      <td>Pertolongan</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>111</td>
-      <td>
-        <a href="https://www.baca-quran.id/111/" rel="nofollow">Al-Lahab</a>
-      </td>
-      <td>اللهب</td>
-      <td>Api Yang Bergejolak</td>
-      <td>5</td>
-    </tr>
-  </tbody>
+  <table>
+    <thead>
+      <tr>
+        <th>Rakaat Ke</th>
+        <th>No. Surat</th>
+        <th>Nama Surah</th>
+        <th>Bahasa Arab</th>
+        <th>Arti</th>
+        <th>Jumlah Ayat</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>102</td>
+        <td>
+          <a href="https://www.baca-quran.id/102/" rel="nofollow">At-Takasur</a>
+        </td>
+        <td>التكاثر</td>
+        <td>Bermegah-Megahan</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>103</td>
+        <td>
+          <a href="https://www.baca-quran.id/103/" rel="nofollow">Al-'Asr</a>
+        </td>
+        <td>العصر</td>
+        <td>Asar</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>104</td>
+        <td>
+          <a href="https://www.baca-quran.id/104/" rel="nofollow">Al-Humazah</a>
+        </td>
+        <td>الهمزة</td>
+        <td>Pengumpat</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>105</td>
+        <td>
+          <a href="https://www.baca-quran.id/105/" rel="nofollow">Al-Fil</a>
+        </td>
+        <td>الفيل</td>
+        <td>Gajah</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>106</td>
+        <td>
+          <a href="https://www.baca-quran.id/106/" rel="nofollow">Quraisy</a>
+        </td>
+        <td>قريش</td>
+        <td>Quraisy</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>107</td>
+        <td>
+          <a href="https://www.baca-quran.id/107/" rel="nofollow">Al-Ma'un</a>
+        </td>
+        <td>الماعون</td>
+        <td>Barang Yang Berguna</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>108</td>
+        <td>
+          <a href="https://www.baca-quran.id/108/" rel="nofollow">Al-Kausar</a>
+        </td>
+        <td>الكوثر</td>
+        <td>Pemberian Yang Banyak</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>109</td>
+        <td>
+          <a href="https://www.baca-quran.id/109/" rel="nofollow">Al-Kafirun</a>
+        </td>
+        <td>الكٰفرون</td>
+        <td>Orang-Orang kafir</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td>110</td>
+        <td>
+          <a href="https://www.baca-quran.id/110/" rel="nofollow">An-Nasr</a>
+        </td>
+        <td>النصر</td>
+        <td>Pertolongan</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>111</td>
+        <td>
+          <a href="https://www.baca-quran.id/111/" rel="nofollow">Al-Lahab</a>
+        </td>
+        <td>اللهب</td>
+        <td>Api Yang Bergejolak</td>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ## Surat Untuk Taraweh Pada Rakaat Genap
