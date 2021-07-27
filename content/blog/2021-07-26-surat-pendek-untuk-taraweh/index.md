@@ -46,11 +46,15 @@ ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](h
 
 Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sholat akan membaca 3 surat pendek juz amma seperti surat Al Ikhlas, Al Falaq, dan An Naas.
 
+<div class="table-wrapper" markdown="block">
+ 
 | No. Surat | Nama Surah                                     | Bahasa Arab | Arti                      | Jumlah Ayat |
 | --------- | ---------------------------------------------- | ----------- | ------------------------- | ----------- |
 | 112       | [Al-Ikhlas](https://www.baca-quran.id/112/)    | الاخلاص     | Ikhlas                    | 4           |
 | 113       | [Al-Falaq](https://www.baca-quran.id/113/)     | الفلق       | Subuh                     | 5           |
 | 114       | [An-Nas](https://www.baca-quran.id/114/)       | الناس       | Manusia                   | 6           |
+
+</div>
 
 ---
 
