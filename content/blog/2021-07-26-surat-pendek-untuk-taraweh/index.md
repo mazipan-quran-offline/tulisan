@@ -18,20 +18,118 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 ## Surat Untuk Taraweh Pada Rakaat Ganjil
 
 <div class="table-wrapper" markdown="block">
- 
-| Rakaat Ke | No. Surat | Nama Surah                                     | Bahasa Arab | Arti                      | Jumlah Ayat |
-| --- | --------- | ---------------------------------------------- | ----------- | ------------------------- | ----------- |
-| 1  | 102       | [At-Takasur](https://www.baca-quran.id/102/)   | التكاثر     | Bermegah-Megahan          | 8           |
-| 3  | 103       | [Al-'Asr](https://www.baca-quran.id/103/)      | العصر       | Asar                      | 3           |
-| 5  | 104       | [Al-Humazah](https://www.baca-quran.id/104/)   | الهمزة      | Pengumpat                 | 9           |
-| 7  | 105       | [Al-Fil](https://www.baca-quran.id/105/)       | الفيل       | Gajah                     | 5           |
-| 9  | 106       | [Quraisy](https://www.baca-quran.id/106/)      | قريش        | Quraisy                   | 4           |
-| 11  | 107       | [Al-Ma'un](https://www.baca-quran.id/107/)     | الماعون     | Barang Yang Berguna       | 7           |
-| 13  | 108       | [Al-Kausar](https://www.baca-quran.id/108/)    | الكوثر      | Pemberian Yang Banyak     | 3           |
-| 15  | 109       | [Al-Kafirun](https://www.baca-quran.id/109/)   | الكٰفرون    | Orang-Orang kafir         | 6           |
-| 17  | 110       | [An-Nasr](https://www.baca-quran.id/110/)      | النصر       | Pertolongan               | 3           |
-| 19  | 111       | [Al-Lahab](https://www.baca-quran.id/111/)     | اللهب       | Api Yang Bergejolak       | 5           |
- 
+  <thead>
+    <tr>
+      <th>Rakaat Ke</th>
+      <th>No. Surat</th>
+      <th>Nama Surah</th>
+      <th>Bahasa Arab</th>
+      <th>Arti</th>
+      <th>Jumlah Ayat</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>102</td>
+      <td>
+        <a href="https://www.baca-quran.id/102/" rel="nofollow">At-Takasur</a>
+      </td>
+      <td>التكاثر</td>
+      <td>Bermegah-Megahan</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>103</td>
+      <td>
+        <a href="https://www.baca-quran.id/103/" rel="nofollow">Al-'Asr</a>
+      </td>
+      <td>العصر</td>
+      <td>Asar</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>104</td>
+      <td>
+        <a href="https://www.baca-quran.id/104/" rel="nofollow">Al-Humazah</a>
+      </td>
+      <td>الهمزة</td>
+      <td>Pengumpat</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>105</td>
+      <td>
+        <a href="https://www.baca-quran.id/105/" rel="nofollow">Al-Fil</a>
+      </td>
+      <td>الفيل</td>
+      <td>Gajah</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>106</td>
+      <td>
+        <a href="https://www.baca-quran.id/106/" rel="nofollow">Quraisy</a>
+      </td>
+      <td>قريش</td>
+      <td>Quraisy</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>107</td>
+      <td>
+        <a href="https://www.baca-quran.id/107/" rel="nofollow">Al-Ma'un</a>
+      </td>
+      <td>الماعون</td>
+      <td>Barang Yang Berguna</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>108</td>
+      <td>
+        <a href="https://www.baca-quran.id/108/" rel="nofollow">Al-Kausar</a>
+      </td>
+      <td>الكوثر</td>
+      <td>Pemberian Yang Banyak</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>109</td>
+      <td>
+        <a href="https://www.baca-quran.id/109/" rel="nofollow">Al-Kafirun</a>
+      </td>
+      <td>الكٰفرون</td>
+      <td>Orang-Orang kafir</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>110</td>
+      <td>
+        <a href="https://www.baca-quran.id/110/" rel="nofollow">An-Nasr</a>
+      </td>
+      <td>النصر</td>
+      <td>Pertolongan</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>111</td>
+      <td>
+        <a href="https://www.baca-quran.id/111/" rel="nofollow">Al-Lahab</a>
+      </td>
+      <td>اللهب</td>
+      <td>Api Yang Bergejolak</td>
+      <td>5</td>
+    </tr>
+  </tbody>
 </div>
 
 ## Surat Untuk Taraweh Pada Rakaat Genap
@@ -47,13 +145,46 @@ ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](h
 Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sholat akan membaca 3 surat pendek juz amma seperti surat Al Ikhlas, Al Falaq, dan An Naas.
 
 <div class="table-wrapper" markdown="block">
- 
-| No. Surat | Nama Surah                                     | Bahasa Arab | Arti                      | Jumlah Ayat |
-| --------- | ---------------------------------------------- | ----------- | ------------------------- | ----------- |
-| 112       | [Al-Ikhlas](https://www.baca-quran.id/112/)    | الاخلاص     | Ikhlas                    | 4           |
-| 113       | [Al-Falaq](https://www.baca-quran.id/113/)     | الفلق       | Subuh                     | 5           |
-| 114       | [An-Nas](https://www.baca-quran.id/114/)       | الناس       | Manusia                   | 6           |
-
+  <table>
+    <thead>
+      <tr>
+        <th>No. Surat</th>
+        <th>Nama Surah</th>
+        <th>Bahasa Arab</th>
+        <th>Arti</th>
+        <th>Jumlah Ayat</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>112</td>
+        <td>
+          <a href="https://www.baca-quran.id/112/" rel="nofollow">Al-Ikhlas</a>
+        </td>
+        <td>الاخلاص</td>
+        <td>Ikhlas</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>113</td>
+        <td>
+          <a href="https://www.baca-quran.id/113/" rel="nofollow">Al-Falaq</a>
+        </td>
+        <td>الفلق</td>
+        <td>Subuh</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>114</td>
+        <td>
+          <a href="https://www.baca-quran.id/114/" rel="nofollow">An-Nas</a>
+        </td>
+        <td>الناس</td>
+        <td>Manusia</td>
+        <td>6</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
