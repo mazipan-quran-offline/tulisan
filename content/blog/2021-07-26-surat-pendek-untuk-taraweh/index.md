@@ -17,6 +17,8 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 
 ## Surat Untuk Taraweh Pada Rakaat Ganjil
 
+<div class="table-wrapper" markdown="block">
+ 
 | Rakaat Ke | No. Surat | Nama Surah                                     | Bahasa Arab | Arti                      | Jumlah Ayat |
 | --- | --------- | ---------------------------------------------- | ----------- | ------------------------- | ----------- |
 | 1  | 102       | [At-Takasur](https://www.baca-quran.id/102/)   | التكاثر     | Bermegah-Megahan          | 8           |
@@ -29,6 +31,8 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 | 15  | 109       | [Al-Kafirun](https://www.baca-quran.id/109/)   | الكٰفرون    | Orang-Orang kafir         | 6           |
 | 17  | 110       | [An-Nasr](https://www.baca-quran.id/110/)      | النصر       | Pertolongan               | 3           |
 | 19  | 111       | [Al-Lahab](https://www.baca-quran.id/111/)     | اللهب       | Api Yang Bergejolak       | 5           |
+ 
+</div>
 
 ## Surat Untuk Taraweh Pada Rakaat Genap
 
