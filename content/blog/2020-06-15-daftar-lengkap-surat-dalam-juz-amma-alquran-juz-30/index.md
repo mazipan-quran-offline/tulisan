@@ -4,7 +4,7 @@ description: Sebuah daftar lengkap bacaan-bacaan surat dalam Juz Amma, Al-Quran 
 date: '2020-06-15T23:59:59.121Z'
 ---
 
-**Juz 30** dalam Al-Quran dikenal dengan **Juz Amma** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi عَمَّ يَتَسَاۤءَلُوْنَۚ ('Amma yatasaaa aluun).
+**Juz 30** dalam Al-Quran dikenal dengan **[Juz Amma](https://www.baca-quran.id/juz-amma/)** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi عَمَّ يَتَسَاۤءَلُوْنَۚ ('Amma yatasaaa aluun).
 
 Juz 30 merupakan juz terakhir atau pamungkas dari keseluruhan isi Al-Quran yang dimulai dari Surat Al-fatihah dan diteruskan dengan Surat Al-Baqarah sampai ke An-Nas.
 
@@ -19,7 +19,7 @@ Pun bahwa surat-surat dalam juz 30 ini sangat dekat dengan keseharian kita, bany
 
 Baca juga artikel [Daftar lengkap Al-Quran 30 juz dan terjemahan bahasa Indonesia](/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/).
 
-Juz Amma, atau Juz 30 terdiri dari 37 surat mulai dari Surat 78 [An-Naba'](https://www.baca-quran.id/78/) sampai surat ke 114 atau surat terakhir di Al-Qur'an yakni surat [An-Nas](https://www.baca-quran.id/114/).
+[Juz Amma](https://www.baca-quran.id/juz-amma/), atau Juz 30 terdiri dari 37 surat mulai dari Surat 78 [An-Naba'](https://www.baca-quran.id/78/) sampai surat ke 114 atau surat terakhir di Al-Qur'an yakni surat [An-Nas](https://www.baca-quran.id/114/).
 
 Berikut adalah **daftar lengkap surat di Juz 30 Al-Quran** atau dikenal dengan Juz Amma beserta terjemahan dalam bahasa indonesia yang diurutkan berdasarkan nomor suratnya dalam Al-Quran:
 
@@ -62,6 +62,8 @@ Berikut adalah **daftar lengkap surat di Juz 30 Al-Quran** atau dikenal dengan J
 | 35  | 112       | [Al-Ikhlas](https://www.baca-quran.id/112/)    | الاخلاص     | Ikhlas                    | 4           |
 | 36  | 113       | [Al-Falaq](https://www.baca-quran.id/113/)     | الفلق       | Subuh                     | 5           |
 | 37  | 114       | [An-Nas](https://www.baca-quran.id/114/)       | الناس       | Manusia                   | 6           |
+
+Baca juga [Daftar Lengkap Juz Amma di Baca-Quran.id](https://www.baca-quran.id/juz-amma/).
 
 Semoga kita senantiasa diberikan keleluasaan untuk membaca, mempelajari, memahami dan menghafal berbagai surat di Juz Amma ini dan juga Juz lainnya di dalam Al-Qur'an.
 
