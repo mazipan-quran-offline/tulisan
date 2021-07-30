@@ -1,6 +1,6 @@
 ---
 title: Daftar Surat Pendek Untuk Taraweh
-description: Doa yang dianjurkan untuk dibaca saat sedang sakit supaya cepat sembuh
+description: Daftar urutan surat-surat pendek yang dibaca saat sholat taraweh pada bulan ramadhan
 date: '2021-07-26T23:59:59.121Z'
 ---
 
