@@ -74,11 +74,18 @@ const Layout = ({ location, title, children }) => {
           Irfan Maulana
         </a>
         <br /><br />
-        <a href="https://www.baca-quran.id/stories/">BacaQuran.id Web Stories</a>
+        <a href="https://www.baca-quran.id/stories/">
+          BacaQuran.id Web Stories
+        </a>
         <br /><br />
         <span>Cek juga: </span>
-        <a href="https://ksana.in" target="_blank" rel="noopener noreferrer">Ksana.in</a>
-        <span>, </span><a href="https://pramuka.online" target="_blank" rel="noopener noreferrer">Pramuka.Online</a
+        <a href="https://ksana.in" target="_blank" rel="noopener noreferrer">
+          Ksana.in
+        </a>
+        <span>, </span>
+        <a href="https://pramuka.online" target="_blank" rel="noopener noreferrer">
+          Pramuka.Online
+        </a>
       </footer>
     </div>
   );
