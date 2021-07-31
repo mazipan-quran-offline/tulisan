@@ -73,10 +73,12 @@ const Layout = ({ location, title, children }) => {
         <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">
           Irfan Maulana
         </a>
-        <br />
+        <br /><br />
         <a href="https://www.baca-quran.id/stories/">BacaQuran.id Web Stories</a>
-        <br />
-        <a href="https://ksana.in" target="_blank" rel="noopener noreferrer">Kunjungi karya lainnya, ksana.in</a>
+        <br /><br />
+        <span>Cek juga: </span>
+        <a href="https://ksana.in" target="_blank" rel="noopener noreferrer">Ksana.in</a>
+        <span>, </span><a href="https://pramuka.online" target="_blank" rel="noopener noreferrer">Pramuka.Online</a
       </footer>
     </div>
   );
