@@ -9,7 +9,7 @@ Dalam daftar ini disertakan pula tautan ke halaman yang berisikan bacaan lengkap
 Jika ingin membaca terjemahan dan tafsir dalam bahasa indonesia juga sudah tersedia pada tautan yang sama.
 Baca juga artikel [Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30](/2020-06-15-daftar-lengkap-surat-dalam-juz-amma-alquran-juz-30/).
 
-| No. Surat | Nama Surat                                     | Tulisan Arab | Terjemahan                | Jumlah Ayat |
+| No.       | Nama Surat                                     | Tulisan Arab | Terjemahan                | Jumlah Ayat |
 | --------- | ---------------------------------------------- | ------------ | ------------------------- | ----------- |
 | 1         | [Al-Fatihah](https://www.baca-quran.id/1/)     | الفاتحة      | Pembukaan                 | 7           |
 | 2         | [Al-Baqarah](https://www.baca-quran.id/2/)     | البقرة       | Sapi                      | 286         |
