@@ -56,6 +56,10 @@ Tapi seharusnya untuk aplikasi dasar sudah cukup mumpuni buat temen-temen.
 Di deploy di Vercel yang punya reputasi baik.
 Tinggal melihat apakah repsonse nya selalu baik setiap kali kalian hit.
 
+## [Equran.id](https://equran.id/apidev)
+
+Website Al Quran Digital Bahasa Indonesia yang menyediakan API gratis untuk Developer. Pada API tersebut terdapat detail surat, tafsir, dan terjemahan dari tiap ayat Al-Quran. Tersedia pula audio untuk setiap surat. Sumber utama dari data yang terdapat pada API ini adalah Aplikasi Quran Kementrian Agama Republik Indonesia dan audio murottal Misyari Rasyid Al-'Afasi.
+
 Terima kasih,
 
 Semoga bermanfaat!
