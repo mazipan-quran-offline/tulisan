@@ -1,6 +1,6 @@
 ---
-title: Kandungan Surat Al-Fatihah
-description: Beberapa kandungan
+title: Kandungan dan Keutamaan Surat Al-Fatihah
+description: Beberapa kandungan utama dan keutamaan membaca surat Al-Fatihah
 date: '2023-04-29T23:59:59.121Z'
 ---
 
