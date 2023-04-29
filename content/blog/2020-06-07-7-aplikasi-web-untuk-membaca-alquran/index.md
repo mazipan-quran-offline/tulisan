@@ -67,6 +67,10 @@ Sayangnya pada halaman surat terdapat iklannyang cukup besar.
 Positifnya web ini punya tampilan yang nyaman, ukuran font yang pas, dan layout yang asik dan tidak capek dilihat untuk digunakan sehari-hari.
 Web ini masih masuk dalam rekomendasi saya.
 
+## [Bisa Quran](https://bisaquran.com/)
+
+BisaQuran adalah sebuah sistem belajar Qur’an yang cepat, mudah dan menyenangkan. Telah dirasakan manfaatnya oleh lebih dari **2.573** pengguna di Jakarta, Surabaya, Medan, Bekasi, Makassar serta berbagai kota lainnya. Lihat pula [berbagai tanya jawab](https://bisaquran.com/pertanyaan) mengenai penggunaan metode ini.
+
 Demikian beberapa rekomendasi aplikasi web pembaca Al-Qur'an yang bisa teman-teman gunakan secara gratis.
 Mudah-mudahan teman-teman bisa tetap membaca Al-Qur'an dimanapun saat senggang.
 Sehabis sholat, di sela-sela kerja saat santai, malam hari maupun siang hari.
