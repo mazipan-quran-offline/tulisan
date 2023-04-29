@@ -3,7 +3,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
-import Meta from '../components/meta';
+import MetaHead from '../components/MetaHead';
 import Pagination from '../components/pagination';
 import { rhythm } from '../utils/typography';
 
@@ -19,7 +19,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Meta title="Semua artikel terkait Baca-Quran.id" />
+      <MetaHead title="Semua artikel terkait Baca-Quran.id" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (

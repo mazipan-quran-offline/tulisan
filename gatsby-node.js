@@ -66,12 +66,14 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
+    const slug = process.env.NODE_ENV === "development" ? post.fields.slug : `/tulisan${post.fields.slug}`;
+
     createPage({
       path: post.fields.slug,
       component: blogPost,
       context: {
         id: post.id,
-        slug: post.fields.slug,
+        slug: slug,
         previous,
         next,
         previousPostId,
