@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Tulisan mengenai aplikasi Baca-Qur'an.id]]></description><link>https://www.baca-quran.id</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Apr 2023 04:39:59 GMT</lastBuildDate><item><title><![CDATA[Daftar Surat Pendek Untuk Taraweh]]></title><description><![CDATA[Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat…]]></description><link>https://www.baca-quran.id/tulisan/2021-07-26-surat-pendek-untuk-taraweh/</link><guid isPermaLink="false">https://www.baca-quran.id/tulisan/2021-07-26-surat-pendek-untuk-taraweh/</guid><pubDate>Mon, 26 Jul 2021 23:59:59 GMT</pubDate><content:encoded>&lt;p&gt;Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat isya selesai.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Tulisan mengenai aplikasi Baca-Qur'an.id]]></description><link>https://www.baca-quran.id</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Apr 2023 04:46:25 GMT</lastBuildDate><item><title><![CDATA[Daftar Surat Pendek Untuk Taraweh]]></title><description><![CDATA[Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat…]]></description><link>https://www.baca-quran.id/tulisan/2021-07-26-surat-pendek-untuk-taraweh/</link><guid isPermaLink="false">https://www.baca-quran.id/tulisan/2021-07-26-surat-pendek-untuk-taraweh/</guid><pubDate>Mon, 26 Jul 2021 23:59:59 GMT</pubDate><content:encoded>&lt;p&gt;Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat isya selesai.
 Di Indonesia sendiri, pengerjaan sholat taraweh umumnya dikerjakan sebanyak 20 rakaat atau 8 rakaat.&lt;/p&gt;
 &lt;p&gt;Karena jumlah rakaat yang cukup banyak, maka banyak jamaah yang memilih menjalankan sholat sunah ini secara berjamaah.
 Diakui atau tidak, banyak jamaah yang kesulitan menjalankan/mengerjakan sholat sunah ini sendirian. Jumlah rakaatnya yang banyak mengharuskan kita untuk menghafal dan membaca cukup banyak surat di tiap rakaatnya.
@@ -250,13 +250,13 @@ Ini bertujuan agar kita bisa lebih memahami apa yang kita sampaikan kepada Allah
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Sujud&quot;
         title=&quot;&quot;
-        src=&quot;/static/31eb863fa477d6a71d4780db0b0df66d/1c72d/316-pai04129-eye.jpg&quot;
-        srcset=&quot;/static/31eb863fa477d6a71d4780db0b0df66d/a80bd/316-pai04129-eye.jpg 148w,
-/static/31eb863fa477d6a71d4780db0b0df66d/1c91a/316-pai04129-eye.jpg 295w,
-/static/31eb863fa477d6a71d4780db0b0df66d/1c72d/316-pai04129-eye.jpg 590w,
-/static/31eb863fa477d6a71d4780db0b0df66d/a8a14/316-pai04129-eye.jpg 885w,
-/static/31eb863fa477d6a71d4780db0b0df66d/fbd2c/316-pai04129-eye.jpg 1180w,
-/static/31eb863fa477d6a71d4780db0b0df66d/01ab0/316-pai04129-eye.jpg 1300w&quot;
+        src=&quot;/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/1c72d/316-pai04129-eye.jpg&quot;
+        srcset=&quot;/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/a80bd/316-pai04129-eye.jpg 148w,
+/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/1c91a/316-pai04129-eye.jpg 295w,
+/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/1c72d/316-pai04129-eye.jpg 590w,
+/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/a8a14/316-pai04129-eye.jpg 885w,
+/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/fbd2c/316-pai04129-eye.jpg 1180w,
+/tulisan/static/31eb863fa477d6a71d4780db0b0df66d/01ab0/316-pai04129-eye.jpg 1300w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -342,11 +342,11 @@ Photo by &lt;a href=&quot;https://www.rawpixel.com/pai&quot;&gt;Chanikarn Thongs
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Adab membaca Al-Quran&quot;
         title=&quot;&quot;
-        src=&quot;/static/a1c722b6278ccb16e8eff9ada855a79b/1c72d/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg&quot;
-        srcset=&quot;/static/a1c722b6278ccb16e8eff9ada855a79b/a80bd/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 148w,
-/static/a1c722b6278ccb16e8eff9ada855a79b/1c91a/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 295w,
-/static/a1c722b6278ccb16e8eff9ada855a79b/1c72d/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 590w,
-/static/a1c722b6278ccb16e8eff9ada855a79b/b4294/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 600w&quot;
+        src=&quot;/tulisan/static/a1c722b6278ccb16e8eff9ada855a79b/1c72d/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg&quot;
+        srcset=&quot;/tulisan/static/a1c722b6278ccb16e8eff9ada855a79b/a80bd/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 148w,
+/tulisan/static/a1c722b6278ccb16e8eff9ada855a79b/1c91a/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 295w,
+/tulisan/static/a1c722b6278ccb16e8eff9ada855a79b/1c72d/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 590w,
+/tulisan/static/a1c722b6278ccb16e8eff9ada855a79b/b4294/photo-of-a-person-kneeling-in-front-of-book-2608353.jpg 600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -416,7 +416,7 @@ Meski begitu ada beberapa surat yang juga diturunkan di Madinah seperti Surah &l
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg&quot;
+    href=&quot;/tulisan/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -429,10 +429,10 @@ Meski begitu ada beberapa surat yang juga diturunkan di Madinah seperti Surah &l
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Contoh sampul buku Juz Amma yang beredar di Indonesia&quot;
         title=&quot;&quot;
-        src=&quot;/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg&quot;
-        srcset=&quot;/static/6d03bedd818d5789957624074d70e118/a80bd/juz-amma.jpg 148w,
-/static/6d03bedd818d5789957624074d70e118/1c91a/juz-amma.jpg 295w,
-/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg 446w&quot;
+        src=&quot;/tulisan/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg&quot;
+        srcset=&quot;/tulisan/static/6d03bedd818d5789957624074d70e118/a80bd/juz-amma.jpg 148w,
+/tulisan/static/6d03bedd818d5789957624074d70e118/1c91a/juz-amma.jpg 295w,
+/tulisan/static/6d03bedd818d5789957624074d70e118/3a193/juz-amma.jpg 446w&quot;
         sizes=&quot;(max-width: 446px) 100vw, 446px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -442,7 +442,7 @@ Meski begitu ada beberapa surat yang juga diturunkan di Madinah seperti Surah &l
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Karena banyak terdiri dari surat pendek, makanya di Indonesia biasanya Juz 30 ini dibukukan tersendiri dengan disebut Juz Amma dan diajarkan pada anak-anak sejak dini baik secara hafalan maupun secara bacaan dan tulisan.&lt;/p&gt;
 &lt;p&gt;Pun bahwa surat-surat dalam juz 30 ini sangat dekat dengan keseharian kita, banyak surat yang secara rutin dibaca pada sholat lima waktu karena pendek dan mudah dihafalkan.&lt;/p&gt;
-&lt;p&gt;Baca juga artikel &lt;a href=&quot;/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/&quot;&gt;Daftar lengkap Al-Quran 30 juz dan terjemahan bahasa Indonesia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Baca juga artikel &lt;a href=&quot;/tulisan/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/&quot;&gt;Daftar lengkap Al-Quran 30 juz dan terjemahan bahasa Indonesia&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.baca-quran.id/juz-amma/&quot;&gt;Juz Amma&lt;/a&gt;, atau Juz 30 terdiri dari 37 surat mulai dari Surat 78 &lt;a href=&quot;https://www.baca-quran.id/78/&quot;&gt;An-Naba&apos;&lt;/a&gt; sampai surat ke 114 atau surat terakhir di Al-Qur&apos;an yakni surat &lt;a href=&quot;https://www.baca-quran.id/114/&quot;&gt;An-Nas&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Berikut adalah &lt;strong&gt;daftar lengkap surat di Juz 30 Al-Quran&lt;/strong&gt; atau dikenal dengan Juz Amma beserta terjemahan dalam bahasa indonesia yang diurutkan berdasarkan nomor suratnya dalam Al-Quran:&lt;/p&gt;
 &lt;table&gt;
@@ -763,7 +763,7 @@ Meski begitu ada beberapa surat yang juga diturunkan di Madinah seperti Surah &l
 Dalam daftar ini disertakan pula tautan ke halaman…]]></description><link>https://www.baca-quran.id/tulisan/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/</link><guid isPermaLink="false">https://www.baca-quran.id/tulisan/2020-06-14-daftar-lengkap-surat-alquran-30-juz-dan-terjemahan-bahasa-indonesia/</guid><pubDate>Sun, 14 Jun 2020 23:59:59 GMT</pubDate><content:encoded>&lt;p&gt;Berikut adalah daftar lengkap dari 114 surat dalam Al-Quran yang terdiri dari 30 juz.
 Dalam daftar ini disertakan pula tautan ke halaman yang berisikan bacaan lengkap semua ayat dalam surat tersebut.
 Jika ingin membaca terjemahan dan tafsir dalam bahasa indonesia juga sudah tersedia pada tautan yang sama.
-Baca juga artikel &lt;a href=&quot;/2020-06-15-daftar-lengkap-surat-dalam-juz-amma-alquran-juz-30/&quot;&gt;Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30&lt;/a&gt;.&lt;/p&gt;
+Baca juga artikel &lt;a href=&quot;/tulisan/2020-06-15-daftar-lengkap-surat-dalam-juz-amma-alquran-juz-30/&quot;&gt;Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1723,7 +1723,7 @@ Jadi orang yang meng-klik hasil pencarian akan mendapatkan hasil yang cepat.&lt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3d09471abaac9907972cb55a824f7196/47311/amp-baca-quran.jpg&quot;
+    href=&quot;/tulisan/static/3d09471abaac9907972cb55a824f7196/47311/amp-baca-quran.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1736,12 +1736,12 @@ Jadi orang yang meng-klik hasil pencarian akan mendapatkan hasil yang cepat.&lt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;AMP Baca-Quran.id&quot;
         title=&quot;&quot;
-        src=&quot;/static/3d09471abaac9907972cb55a824f7196/1c72d/amp-baca-quran.jpg&quot;
-        srcset=&quot;/static/3d09471abaac9907972cb55a824f7196/a80bd/amp-baca-quran.jpg 148w,
-/static/3d09471abaac9907972cb55a824f7196/1c91a/amp-baca-quran.jpg 295w,
-/static/3d09471abaac9907972cb55a824f7196/1c72d/amp-baca-quran.jpg 590w,
-/static/3d09471abaac9907972cb55a824f7196/a8a14/amp-baca-quran.jpg 885w,
-/static/3d09471abaac9907972cb55a824f7196/47311/amp-baca-quran.jpg 1080w&quot;
+        src=&quot;/tulisan/static/3d09471abaac9907972cb55a824f7196/1c72d/amp-baca-quran.jpg&quot;
+        srcset=&quot;/tulisan/static/3d09471abaac9907972cb55a824f7196/a80bd/amp-baca-quran.jpg 148w,
+/tulisan/static/3d09471abaac9907972cb55a824f7196/1c91a/amp-baca-quran.jpg 295w,
+/tulisan/static/3d09471abaac9907972cb55a824f7196/1c72d/amp-baca-quran.jpg 590w,
+/tulisan/static/3d09471abaac9907972cb55a824f7196/a8a14/amp-baca-quran.jpg 885w,
+/tulisan/static/3d09471abaac9907972cb55a824f7196/47311/amp-baca-quran.jpg 1080w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1810,7 +1810,7 @@ Beliau dipercaya menjadi kaligrafer tunggal untuk projek penulisan Al-Qur&apos;a
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg&quot;
+    href=&quot;/tulisan/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1823,10 +1823,10 @@ Beliau dipercaya menjadi kaligrafer tunggal untuk projek penulisan Al-Qur&apos;a
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Potret Isep Misbah&quot;
         title=&quot;&quot;
-        src=&quot;/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg&quot;
-        srcset=&quot;/static/fa6807fed66988b7f6867d8b9fc81a05/a80bd/IsepMisbah.jpg 148w,
-/static/fa6807fed66988b7f6867d8b9fc81a05/1c91a/IsepMisbah.jpg 295w,
-/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg 540w&quot;
+        src=&quot;/tulisan/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg&quot;
+        srcset=&quot;/tulisan/static/fa6807fed66988b7f6867d8b9fc81a05/a80bd/IsepMisbah.jpg 148w,
+/tulisan/static/fa6807fed66988b7f6867d8b9fc81a05/1c91a/IsepMisbah.jpg 295w,
+/tulisan/static/fa6807fed66988b7f6867d8b9fc81a05/09d21/IsepMisbah.jpg 540w&quot;
         sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1894,7 +1894,7 @@ Ini menjadi penting karena seringnya kita membaca Al-Qur&apos;an lewat handphone
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png&quot;
+    href=&quot;/tulisan/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1907,10 +1907,10 @@ Ini menjadi penting karena seringnya kita membaca Al-Qur&apos;an lewat handphone
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Homepage Quran Kemenag&quot;
         title=&quot;&quot;
-        src=&quot;/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png&quot;
-        srcset=&quot;/static/4c2a7ff186749d6ca984bcc8923e14ab/12f09/quran-kemenag.png 148w,
-/static/4c2a7ff186749d6ca984bcc8923e14ab/e4a3f/quran-kemenag.png 295w,
-/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png 406w&quot;
+        src=&quot;/tulisan/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png&quot;
+        srcset=&quot;/tulisan/static/4c2a7ff186749d6ca984bcc8923e14ab/12f09/quran-kemenag.png 148w,
+/tulisan/static/4c2a7ff186749d6ca984bcc8923e14ab/e4a3f/quran-kemenag.png 295w,
+/tulisan/static/4c2a7ff186749d6ca984bcc8923e14ab/e33ef/quran-kemenag.png 406w&quot;
         sizes=&quot;(max-width: 406px) 100vw, 406px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1929,7 +1929,7 @@ Web ini berhasil mengeksekusinya dengan sangat baik.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png&quot;
+    href=&quot;/tulisan/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1942,10 +1942,10 @@ Web ini berhasil mengeksekusinya dengan sangat baik.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Homepage QuranWeb&quot;
         title=&quot;&quot;
-        src=&quot;/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png&quot;
-        srcset=&quot;/static/3d77356743b27466bec2b3b823407713/12f09/quran-web.png 148w,
-/static/3d77356743b27466bec2b3b823407713/e4a3f/quran-web.png 295w,
-/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png 406w&quot;
+        src=&quot;/tulisan/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png&quot;
+        srcset=&quot;/tulisan/static/3d77356743b27466bec2b3b823407713/12f09/quran-web.png 148w,
+/tulisan/static/3d77356743b27466bec2b3b823407713/e4a3f/quran-web.png 295w,
+/tulisan/static/3d77356743b27466bec2b3b823407713/e33ef/quran-web.png 406w&quot;
         sizes=&quot;(max-width: 406px) 100vw, 406px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1970,7 +1970,7 @@ Mendukung tiga tema, terang, gelap dan hijau atau nature.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
+    href=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1983,10 +1983,10 @@ Mendukung tiga tema, terang, gelap dan hijau atau nature.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Homepage Baca-Quran.id&quot;
         title=&quot;&quot;
-        src=&quot;/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
-        srcset=&quot;/static/42c5020cb2e7110248af10cd562100e6/12f09/homepage-baca-quran.png 148w,
-/static/42c5020cb2e7110248af10cd562100e6/e4a3f/homepage-baca-quran.png 295w,
-/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png 502w&quot;
+        src=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
+        srcset=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/12f09/homepage-baca-quran.png 148w,
+/tulisan/static/42c5020cb2e7110248af10cd562100e6/e4a3f/homepage-baca-quran.png 295w,
+/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png 502w&quot;
         sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -2057,7 +2057,7 @@ Selama tidak ada pembaruan data ataupun kode dari saya, maka teman-teman bisa me
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
+    href=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2070,10 +2070,10 @@ Selama tidak ada pembaruan data ataupun kode dari saya, maka teman-teman bisa me
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Homepage Baca-Quran.id&quot;
         title=&quot;&quot;
-        src=&quot;/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
-        srcset=&quot;/static/42c5020cb2e7110248af10cd562100e6/12f09/homepage-baca-quran.png 148w,
-/static/42c5020cb2e7110248af10cd562100e6/e4a3f/homepage-baca-quran.png 295w,
-/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png 502w&quot;
+        src=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png&quot;
+        srcset=&quot;/tulisan/static/42c5020cb2e7110248af10cd562100e6/12f09/homepage-baca-quran.png 148w,
+/tulisan/static/42c5020cb2e7110248af10cd562100e6/e4a3f/homepage-baca-quran.png 295w,
+/tulisan/static/42c5020cb2e7110248af10cd562100e6/eea79/homepage-baca-quran.png 502w&quot;
         sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
