@@ -3,7 +3,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
-import SEO from '../components/seo';
+import Meta from '../components/meta';
 import Pagination from '../components/pagination';
 import { rhythm } from '../utils/typography';
 
@@ -19,7 +19,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Semua artikel terkait Baca-Quran.id" />
+      <Meta title="Semua artikel terkait Baca-Quran.id" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
@@ -68,7 +68,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, skip: $skip, limit: $limit) {
+    allMarkdownRemark(sort: {frontmatter: {date: DESC}}, skip: $skip, limit: $limit) {
       edges {
         node {
           excerpt
