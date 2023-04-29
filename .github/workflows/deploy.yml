@@ -52,8 +52,9 @@ jobs:
       - name: Perform build checking
         run: pnpm run build
 
-      - uses: enriikke/gatsby-gh-pages-action@v2.2.1
+      - name: Deploy API to prod
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: gh-pages
-          gatsby-args: --prefix-paths
+          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
