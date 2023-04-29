@@ -1,13 +1,12 @@
-name: Deploy
-
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+    types: [opened, synchronize]
+
+name: PR Check
 
 jobs:
-  deploy:
-
+  install-deps:
+    name: Install dependencies
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -51,9 +50,3 @@ jobs:
 
       - name: Perform build checking
         run: pnpm run build
-
-      - uses: enriikke/gatsby-gh-pages-action@v2.2.1
-        with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: gh-pages
-          gatsby-args: --prefix-paths

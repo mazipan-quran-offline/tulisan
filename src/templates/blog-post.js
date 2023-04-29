@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby';
 
 // import Bio from '../components/bio';
 import Layout from '../components/layout';
-import SEO from '../components/seo';
+import Meta from '../components/meta';
 import { rhythm, scale } from '../utils/typography';
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
@@ -14,7 +14,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title={post.frontmatter.title} description={post.frontmatter.description || post.excerpt} />
+      <Meta title={post.frontmatter.title} description={post.frontmatter.description || post.excerpt} />
       <article>
         <header>
           <h1
