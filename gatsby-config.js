@@ -4,11 +4,12 @@
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
 
+const pathPrefix = `/tulisan`;
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: `/tulisan`,
+  pathPrefix: pathPrefix,
   siteMetadata: {
     title: `Baca-Quran.id`,
     author: {
@@ -93,6 +94,15 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + pathPrefix + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + pathPrefix + node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
             },
             query: `{
               allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
@@ -115,18 +125,18 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: `Tulisan - Baca Qur'an`,
-    //     short_name: `BacaQuran`,
-    //     start_url: `/tulisan/`,
-    //     background_color: `#ffffff`,
-    //     theme_color: `#663399`,
-    //     display: `minimal-ui`,
-    //     icon: `content/assets/icon.png`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Tulisan - Baca Qur'an`,
+        short_name: `BacaQuran`,
+        start_url: `/tulisan/`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/icon.png`,
+      },
+    },
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
