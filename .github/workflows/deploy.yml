@@ -34,7 +34,7 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-yarn-
 
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - uses: enriikke/gatsby-gh-pages-action@v2.2.1
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
