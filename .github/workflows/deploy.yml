@@ -49,10 +49,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-${{ github.sha }}-cache-project
 
-      - name: Perform build checking
+      - name: Perform build
         run: pnpm run build
 
-      - name: Deploy API to prod
+      - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           personal_token: ${{ secrets.ACCESS_TOKEN }}
