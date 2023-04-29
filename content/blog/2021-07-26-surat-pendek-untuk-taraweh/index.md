@@ -1,6 +1,6 @@
 ---
-title: Daftar Surat Pendek Untuk Taraweh
-description: Daftar urutan surat-surat pendek yang dibaca saat sholat taraweh pada bulan ramadhan
+title: Urutan Surat Pendek Untuk Taraweh
+description: Daftar berurut untuk surat-surat pendek yang dibaca saat sholat taraweh pada bulan ramadhan
 date: '2021-07-26T23:59:59.121Z'
 ---
 
@@ -138,11 +138,11 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 
 Bacaan surat untuk rakaat-rakaat genap biasanya akan dibaca surat pendek seperti [Al-Ikhlas](https://www.baca-quran.id/112/) pada malam Ramadhan ke 1-15.
 Sementara pada malam Ramadhan ke 16-30 biasanya akan dibacakan surat [Al-Qadr](https://www.baca-quran.id/97/) pada rakaat-rakaat genap.
- 
+
 ## Surat Untuk Sholat Witir
 
-Mengutip keterangan dalam Kumpulan Risalah Bimbingan Sholat Lengkap, Muhajir dan Abdul Gani Asykur (1989: 85), 
-ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](https://www.baca-quran.id/87/) pada rakaat pertama, kemudian membaca surat [Al Kafirun](https://www.baca-quran.id/109/) pada rakaat kedua. 
+Mengutip keterangan dalam Kumpulan Risalah Bimbingan Sholat Lengkap, Muhajir dan Abdul Gani Asykur (1989: 85),
+ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](https://www.baca-quran.id/87/) pada rakaat pertama, kemudian membaca surat [Al Kafirun](https://www.baca-quran.id/109/) pada rakaat kedua.
 
 Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sholat akan membaca 3 surat pendek juz amma seperti surat Al Ikhlas, Al Falaq, dan An Naas.
 
