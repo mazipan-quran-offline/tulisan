@@ -11,7 +11,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
 
-  const { currentPage, numPages } = pageContext;
+  const { currentPage, numPages, isDev } = pageContext;
   const isFirst = currentPage === 1;
   const isLast = currentPage === numPages;
   const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString();
@@ -22,6 +22,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
       <MetaHead title="Semua artikel terkait Baca-Quran.id" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
+        console.debug({ pageContext, node });
         return (
           <article key={node.fields.slug}>
             <header>
@@ -30,7 +31,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
                   marginBottom: rhythm(1 / 4),
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none` }} to={isDev ? node.fields.slug : `/tulisan${node.fields.slug}`}>
                   {title}
                 </Link>
               </h3>

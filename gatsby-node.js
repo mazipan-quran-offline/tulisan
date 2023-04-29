@@ -10,6 +10,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`);
 const blogIndex = path.resolve('./src/templates/blog-index.js');
+const isDev = process.env.NODE_ENV === "development";
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -55,6 +56,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         skip: i * postsPerPage,
         numPages,
         currentPage: i + 1,
+        isDev,
       },
     });
   });
@@ -66,20 +68,33 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
-    const slug = process.env.NODE_ENV === "development" ? post.fields.slug : `/tulisan${post.fields.slug}`;
-
     createPage({
       path: post.fields.slug,
       component: blogPost,
       context: {
         id: post.id,
-        slug: slug,
+        slug: post.fields.slug,
+        isDev,
         previous,
         next,
         previousPostId,
         nextPostId,
       },
     });
+
+    // createPage({
+    //   path: "/tulisan" + post.fields.slug,
+    //   component: blogPost,
+    //   context: {
+    //     id: post.id,
+    //     slug: "/tulisan" + post.fields.slug,
+    //     isDev,
+    //     previous,
+    //     next,
+    //     previousPostId,
+    //     nextPostId,
+    //   },
+    // });
   });
 };
 
