@@ -81,20 +81,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         nextPostId,
       },
     });
-
-    // createPage({
-    //   path: "/tulisan" + post.fields.slug,
-    //   component: blogPost,
-    //   context: {
-    //     id: post.id,
-    //     slug: "/tulisan" + post.fields.slug,
-    //     isDev,
-    //     previous,
-    //     next,
-    //     previousPostId,
-    //     nextPostId,
-    //   },
-    // });
   });
 };
 
