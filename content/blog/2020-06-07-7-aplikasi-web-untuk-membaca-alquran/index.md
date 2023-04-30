@@ -59,13 +59,7 @@ Web ini sebenarnya lebih cocok digunakan untuk membaca tafsir dibandingkan memba
 Tapi web ini juga bisa menjadi alternatif jika membutuhkan aplikasi web Al-Qur'an.
 Web ini tidak memiliki iklan tapi sering menampilkan popup modal yang cukup mengganggu pada saat digunakan.
 
-## [Lite Quran](https://litequran.net/)
 
-Pada daftar surat tidak terlihat kalau aplikasi ini memuat iklan, sehingga kesan pertama sangat baik.
-Apalagi dengan tampilan sederhana yang membuat aplikasi ini menjadi cukup cepat dan enak diakses.
-Sayangnya pada halaman surat terdapat iklannyang cukup besar.
-Positifnya web ini punya tampilan yang nyaman, ukuran font yang pas, dan layout yang asik dan tidak capek dilihat untuk digunakan sehari-hari.
-Web ini masih masuk dalam rekomendasi saya.
 
 ## [Bisa Quran](https://bisaquran.com/)
 
