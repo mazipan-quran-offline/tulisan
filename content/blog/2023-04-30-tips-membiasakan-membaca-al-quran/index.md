@@ -8,23 +8,23 @@ date: '2023-04-30T23:59:59.121Z'
 
 Berikut adalah beberapa tips yang dapat membantu kita untuk terbiasa membaca Al-Quran:
 
-1. Jadwalkan waktu untuk [membaca Al-Quran]((https://www.baca-quran.id/tulisan/2020-06-12-keutamaan-membaca-alquran/)) setiap hari
+### 1. Jadwalkan waktu untuk [membaca Al-Quran]((https://www.baca-quran.id/tulisan/2020-06-12-keutamaan-membaca-alquran/)) setiap hari
 
 Tentukan waktu yang tepat untuk membaca Al-Quran setiap hari, baik itu di pagi hari, siang, sore, atau malam. Jangan biarkan waktu yang sudah ditentukan terlewat begitu saja, sehingga kita akan terbiasa membaca Al-Quran secara konsisten.
 
-2. Mulailah dengan membaca surat yang mudah
+### 2. Mulailah dengan membaca surat yang mudah
 
 Jangan terlalu memaksakan diri untuk membaca surat yang sulit di awal, mulailah dengan membaca surat yang mudah terlebih dahulu. Dengan membaca surat yang mudah, kita akan lebih mudah memahami maknanya dan semakin terbiasa membaca Al-Quran.
 
-3. Carilah teman atau kelompok yang juga terbiasa membaca Al-Quran
+### 3. Carilah teman atau kelompok yang juga terbiasa membaca Al-Quran
 
 Bergabunglah dengan kelompok atau teman yang juga memiliki keinginan untuk terbiasa membaca Al-Quran. Kita dapat belajar bersama-sama dan saling mengingatkan untuk membaca Al-Quran secara rutin.
 
-4. Gunakan bantuan terjemahan Al-Quran
+### 4. Gunakan bantuan terjemahan Al-Quran
 
 Jika kita merasa kesulitan dalam memahami makna Al-Quran, kita dapat menggunakan bantuan terjemahan Al-Quran. Dengan demikian, kita akan lebih mudah memahami makna dan hikmah yang terkandung di dalam Al-Quran.
 
-5. Berdoa dan meminta bantuan kepada Allah SWT
+### 5. Berdoa dan meminta bantuan kepada Allah SWT
 
 Kita juga perlu selalu berdoa dan meminta bantuan kepada Allah SWT agar kita dapat terbiasa membaca Al-Quran dengan baik dan benar. Meminta petunjuk dan rahmat Allah SWT akan membantu kita untuk semakin terbiasa dan bersemangat membaca Al-Quran.
 

@@ -1,6 +1,6 @@
 ---
-title: Kandungan dan Keutamaan [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/)
-description: Beberapa kandungan utama dan keutamaan membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/)
+title: Kandungan dan Keutamaan Surat Al-Fatihah
+description: Beberapa kandungan utama dan keutamaan membaca Surat Al-Fatihah
 date: '2023-04-29T23:59:59.121Z'
 ---
 
@@ -24,23 +24,23 @@ Terakhir, [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) juga mengandung
 
 Berikut adalah beberapa keutamaan/pahala yang dapat kita peroleh dari membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/):
 
-**1. Dapat membuka pintu kebaikan**
+### 1. Dapat membuka pintu kebaikan
 
 [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) dianggap sebagai pintu gerbang menuju Al-Quran, sehingga membaca surat ini sebelum membaca Al-Quran lainnya dapat membuka pintu kebaikan dan memberikan kemudahan dalam memahami Al-Quran.
 
-**2. Mendapatkan pahala seperti membaca sepertiga Al-Quran**
+### 2. Mendapatkan pahala seperti membaca sepertiga Al-Quran
 
 Rasulullah SAW bersabda bahwa membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) setara dengan membaca sepertiga dari Al-Quran, sehingga pahalanya sangat besar bagi kita yang membacanya.
 
-**3. Mendapatkan perlindungan dari Allah SWT**
+### 3. Mendapatkan perlindungan dari Allah SWT
 
 Membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) juga dapat memberikan perlindungan kepada kita dari segala macam bahaya dan musibah, karena di dalam surat ini terdapat doa untuk selalu dijauhkan dari jalan yang sesat dan diberikan kemudahan dalam menjalani kehidupan.
 
-**4. Dapat mendatangkan rahmat dan keberkahan**
+### 4. Dapat mendatangkan rahmat dan keberkahan
 
 [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) mengandung pesan untuk selalu mengikuti jalan yang diberikan oleh Allah SWT dan menghindari jalan yang sesat. Dengan berpegang teguh pada ajaran Al-Quran dan sunnah Rasulullah SAW, kita akan selalu mendapatkan rahmat dan keberkahan dari Allah SWT.
 
-**5. Dapat membantu pengobatan penyakit**
+### 5. Dapat membantu pengobatan penyakit
 
 Membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) juga dapat membantu pengobatan penyakit, karena di dalamnya terdapat doa untuk kesembuhan dan keselamatan. Rasulullah SAW juga pernah menyarankan untuk membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/) sebagai doa ketika mengobati orang sakit.
 
