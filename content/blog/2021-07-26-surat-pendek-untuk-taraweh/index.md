@@ -34,7 +34,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>1</td>
         <td>102</td>
         <td>
-          <a href="https://www.baca-quran.id/102/" rel="nofollow">At-Takasur</a>
+          <a href="https://www.baca-quran.id/surah/102/" rel="nofollow">At-Takasur</a>
         </td>
         <td>التكاثر</td>
         <td>Bermegah-Megahan</td>
@@ -44,7 +44,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>3</td>
         <td>103</td>
         <td>
-          <a href="https://www.baca-quran.id/103/" rel="nofollow">Al-'Asr</a>
+          <a href="https://www.baca-quran.id/surah/103/" rel="nofollow">Al-'Asr</a>
         </td>
         <td>العصر</td>
         <td>Asar</td>
@@ -54,7 +54,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>5</td>
         <td>104</td>
         <td>
-          <a href="https://www.baca-quran.id/104/" rel="nofollow">Al-Humazah</a>
+          <a href="https://www.baca-quran.id/surah/104/" rel="nofollow">Al-Humazah</a>
         </td>
         <td>الهمزة</td>
         <td>Pengumpat</td>
@@ -64,7 +64,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>7</td>
         <td>105</td>
         <td>
-          <a href="https://www.baca-quran.id/105/" rel="nofollow">Al-Fil</a>
+          <a href="https://www.baca-quran.id/surah/105/" rel="nofollow">Al-Fil</a>
         </td>
         <td>الفيل</td>
         <td>Gajah</td>
@@ -74,7 +74,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>9</td>
         <td>106</td>
         <td>
-          <a href="https://www.baca-quran.id/106/" rel="nofollow">Quraisy</a>
+          <a href="https://www.baca-quran.id/surah/106/" rel="nofollow">Quraisy</a>
         </td>
         <td>قريش</td>
         <td>Quraisy</td>
@@ -84,7 +84,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>11</td>
         <td>107</td>
         <td>
-          <a href="https://www.baca-quran.id/107/" rel="nofollow">Al-Ma'un</a>
+          <a href="https://www.baca-quran.id/surah/107/" rel="nofollow">Al-Ma'un</a>
         </td>
         <td>الماعون</td>
         <td>Barang Yang Berguna</td>
@@ -94,7 +94,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>13</td>
         <td>108</td>
         <td>
-          <a href="https://www.baca-quran.id/108/" rel="nofollow">Al-Kausar</a>
+          <a href="https://www.baca-quran.id/surah/108/" rel="nofollow">Al-Kausar</a>
         </td>
         <td>الكوثر</td>
         <td>Pemberian Yang Banyak</td>
@@ -104,7 +104,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>15</td>
         <td>109</td>
         <td>
-          <a href="https://www.baca-quran.id/109/" rel="nofollow">Al-Kafirun</a>
+          <a href="https://www.baca-quran.id/surah/109/" rel="nofollow">Al-Kafirun</a>
         </td>
         <td>الكٰفرون</td>
         <td>Orang-Orang kafir</td>
@@ -114,7 +114,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>17</td>
         <td>110</td>
         <td>
-          <a href="https://www.baca-quran.id/110/" rel="nofollow">An-Nasr</a>
+          <a href="https://www.baca-quran.id/surah/110/" rel="nofollow">An-Nasr</a>
         </td>
         <td>النصر</td>
         <td>Pertolongan</td>
@@ -124,7 +124,7 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
         <td>19</td>
         <td>111</td>
         <td>
-          <a href="https://www.baca-quran.id/111/" rel="nofollow">Al-Lahab</a>
+          <a href="https://www.baca-quran.id/surah/111/" rel="nofollow">Al-Lahab</a>
         </td>
         <td>اللهب</td>
         <td>Api Yang Bergejolak</td>
@@ -136,13 +136,13 @@ Beberapa surat yang umumnya dibaca dalam taraweh 20 rakaat antara lain:
 
 ## Surat Untuk Taraweh Pada Rakaat Genap
 
-Bacaan surat untuk rakaat-rakaat genap biasanya akan dibaca surat pendek seperti [Al-Ikhlas](https://www.baca-quran.id/112/) pada malam Ramadhan ke 1-15.
-Sementara pada malam Ramadhan ke 16-30 biasanya akan dibacakan surat [Al-Qadr](https://www.baca-quran.id/97/) pada rakaat-rakaat genap.
+Bacaan surat untuk rakaat-rakaat genap biasanya akan dibaca surat pendek seperti [Al-Ikhlas](https://www.baca-quran.id/surah/112/) pada malam Ramadhan ke 1-15.
+Sementara pada malam Ramadhan ke 16-30 biasanya akan dibacakan surat [Al-Qadr](https://www.baca-quran.id/surah/97/) pada rakaat-rakaat genap.
 
 ## Surat Untuk Sholat Witir
 
 Mengutip keterangan dalam Kumpulan Risalah Bimbingan Sholat Lengkap, Muhajir dan Abdul Gani Asykur (1989: 85),
-ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](https://www.baca-quran.id/87/) pada rakaat pertama, kemudian membaca surat [Al Kafirun](https://www.baca-quran.id/109/) pada rakaat kedua.
+ketika mengerjakan witir umumnya imam sholat akan membacakan surat [Al ‘Ala](https://www.baca-quran.id/surah/87/) pada rakaat pertama, kemudian membaca surat [Al Kafirun](https://www.baca-quran.id/surah/109/) pada rakaat kedua.
 
 Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sholat akan membaca 3 surat pendek juz amma seperti surat Al Ikhlas, Al Falaq, dan An Naas.
 
@@ -161,7 +161,7 @@ Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sho
       <tr>
         <td>112</td>
         <td>
-          <a href="https://www.baca-quran.id/112/" rel="nofollow">Al-Ikhlas</a>
+          <a href="https://www.baca-quran.id/surah/112/" rel="nofollow">Al-Ikhlas</a>
         </td>
         <td>الاخلاص</td>
         <td>Ikhlas</td>
@@ -170,7 +170,7 @@ Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sho
       <tr>
         <td>113</td>
         <td>
-          <a href="https://www.baca-quran.id/113/" rel="nofollow">Al-Falaq</a>
+          <a href="https://www.baca-quran.id/surah/113/" rel="nofollow">Al-Falaq</a>
         </td>
         <td>الفلق</td>
         <td>Subuh</td>
@@ -179,7 +179,7 @@ Sedangkan untuk rakaat terakhir atau rakaat yang berjumlah ganjil, maka imam sho
       <tr>
         <td>114</td>
         <td>
-          <a href="https://www.baca-quran.id/114/" rel="nofollow">An-Nas</a>
+          <a href="https://www.baca-quran.id/surah/114/" rel="nofollow">An-Nas</a>
         </td>
         <td>الناس</td>
         <td>Manusia</td>

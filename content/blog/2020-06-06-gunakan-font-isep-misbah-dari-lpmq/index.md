@@ -20,7 +20,7 @@ Bisa juga langsung ke tautan [https://lajnah.kemenag.go.id/unduhan](https://lajn
 Temen-temen juga bisa menemukan Font Isep Misbah dari kode sumber aplikasi [Baca-Quran.id](https://www.baca-quran.id/) yang memang tersedia bebas untuk dipelajari.
 Silahkan klik tautan [quran-offline/tree/master/static/fonts](https://github.com/mazipan/quran-offline/tree/master/static/fonts) untuk mengunduh Font yang sudah saya unduh lebih dulu.
 
-Aplikasi web [Baca-Quran.id](https://www.baca-quran.id/1/) ini saat ini telah menggunakan font yang sama dengan yang digunakan oleh Quran Kemenag, hal ini diharapkan agar web ini lebih mudah dibaca oleh temen-temen di Indonesia.
+Aplikasi web [Baca-Quran.id](https://www.baca-quran.id/surah/1/) ini saat ini telah menggunakan font yang sama dengan yang digunakan oleh Quran Kemenag, hal ini diharapkan agar web ini lebih mudah dibaca oleh temen-temen di Indonesia.
 Saya pribadi sebagai pengguna juga merasa font ini memang nyaman dan cocok dengan font ini, tulisan yang dihasilkan bisa lumayan mirip dengan mushaf yang saya pelajari dari kecil.
 Dengan menyetel ukuran font lebih besar maka huruf menjadi lebih mudah dibaca lagi.
 
