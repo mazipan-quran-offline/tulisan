@@ -20,7 +20,7 @@
   "scripts": {
     "build": "gatsby build --prefix-paths",
     "clean": "gatsby clean",
-    "dev": "gatsby develop",
+    "dev": "gatsby develop -p 3500",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve --prefix-paths",
     "start": "npm run develop",
