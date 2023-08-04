@@ -17,6 +17,7 @@ export default (props) => {
 
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5442972248172818"
           crossOrigin="anonymous"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-63FEW7H70N"></script>
       </head>
       <body {...props.bodyAttributes} className="light">
         {props.preBodyComponents}

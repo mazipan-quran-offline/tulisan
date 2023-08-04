@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 import { rhythm, scale } from '../utils/typography';
 
@@ -9,6 +9,18 @@ const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   let header;
 
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      // eslint-disable-next-line no-undef
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function gtag() {
+        window.dataLayer.push(arguments);
+      }
+
+      window.gtag('js', new Date());
+      window.gtag('config', 'G-63FEW7H70N');
+    }
+  }, [])
   if (location.pathname === rootPath) {
     header = (
       <h1
@@ -57,6 +69,8 @@ const Layout = ({ location, title, children }) => {
       </h3>
     );
   }
+
+
   return (
     <div
       style={{
