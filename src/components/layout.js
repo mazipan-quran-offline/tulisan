@@ -76,7 +76,7 @@ const Layout = ({ location, title, children }) => {
         }}
       >
         <a href="/">Baca-Quran.id</a>
-        {` `}© {new Date().getFullYear()}
+        {` `}© 2018-{new Date().getFullYear()}
         <br />
         Built with ❤️ by
         {` `}
