@@ -57,21 +57,23 @@ Diriwayatkan pula oleh Abu Daud, dan Wa-il binHijr yg maksudnya sebagai berikut:
 
 Ayat-ayat sajadah itu terdapat pada 15 tempat yaitu:
 
-- [Surat Al-A'raf](https://www.baca-quran.id/surah/7/206/) ayat 206
-- [Surat Ar-Ra'd](https://www.baca-quran.id/surah/13/15/) ayat 15
-- [Surat An-Nahl](https://www.baca-quran.id/surah/16/50/) ayat 50
-- [Surat Al-Isra'](https://www.baca-quran.id/surah/17/109) ayat 109
-- [Surat Maryam](https://www.baca-quran.id/surah/19/58/) ayat 58
-- [Surat Al-Hajj](https://www.baca-quran.id/surah/22/18/) ayat 18
-- [Surat Al-Hajj](https://www.baca-quran.id/surah/22/77/) ayat 77
-- [Surat Al-Furqan](https://www.baca-quran.id/surah/25/60/) ayat 60
-- [Surat An-Naml](https://www.baca-quran.id/surah/27/26/) ayat 26
-- [Surat As-Sajdah](https://www.baca-quran.id/surah/32/15/) ayat 15
-- [Surat Sad](https://www.baca-quran.id/surah/38/24/) ayat 24
-- [Surat Fussilat](https://www.baca-quran.id/surah/41/38/) ayat 38
-- [Surat An-Najm](https://www.baca-quran.id/surah/53/62/) ayat 62
-- [Surat Al-Insyiqaq](https://www.baca-quran.id/surah/84/21/) ayat 21
-- [Surat Al-'Alaq](https://www.baca-quran.id/surah/96/19/) ayat 19
+| Nomor | Surat                                                       | Ayat |
+| ----- | ----------------------------------------------------------- | ---- |
+| 1     | [Surat Al-A'raf](https://www.baca-quran.id/surah/7/206/)    | 206  |
+| 2     | [Surat Ar-Ra'd](https://www.baca-quran.id/surah/13/15/)     | 15   |
+| 3     | [Surat An-Nahl](https://www.baca-quran.id/surah/16/50/)     | 50   |
+| 4     | [Surat Al-Isra'](https://www.baca-quran.id/surah/17/109)    | 109  |
+| 5     | [Surat Maryam](https://www.baca-quran.id/surah/19/58/)      | 58   |
+| 6     | [Surat Al-Hajj](https://www.baca-quran.id/surah/22/18/)     | 18   |
+| 7     | [Surat Al-Hajj](https://www.baca-quran.id/surah/22/77/)     | 77   |
+| 8     | [Surat Al-Furqan](https://www.baca-quran.id/surah/25/60/)   | 60   |
+| 9     | [Surat An-Naml](https://www.baca-quran.id/surah/27/26/)     | 26   |
+| 10    | [Surat As-Sajdah](https://www.baca-quran.id/surah/32/15/)   | 15   |
+| 11    | [Surat Sad](https://www.baca-quran.id/surah/38/24/)         | 24   |
+| 12    | [Surat Fussilat](https://www.baca-quran.id/surah/41/38/)    | 38   |
+| 13    | [Surat An-Najm](https://www.baca-quran.id/surah/53/62/)     | 62   |
+| 14    | [Surat Al-Insyiqaq](https://www.baca-quran.id/surah/84/21/) | 21   |
+| 15    | [Surat Al-'Alaq](https://www.baca-quran.id/surah/96/19/)    | 19   |
 
 ## Diresapkan arti dan maksudnya
 
