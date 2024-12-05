@@ -10,50 +10,26 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Install Node.js
-        uses: actions/setup-node@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 19
-
-      - uses: pnpm/action-setup@v2.2.2
-        name: Install pnpm
-        id: pnpm-install
-        with:
-          version: 8
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        run: |
-          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
-
-      - uses: actions/cache@v3
-        name: Setup pnpm cache
-        with:
-          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
+          node-version: 20
+          cache: 'pnpm'
 
       - name: Install dependencies
         run: pnpm install
-
-      - uses: actions/cache@v3
-        name: Cache project
-        with:
-          path: '.'
-          key: ${{ runner.os }}-${{ github.sha }}-cache-project
-          restore-keys: |
-            ${{ runner.os }}-${{ github.sha }}-cache-project
 
       - name: Perform build
         run: pnpm run build
 
       - name: Deploy to GH Pages
-        uses: peaceiris/actions-gh-pages@v3.7.3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./public

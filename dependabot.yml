@@ -1,0 +1,23 @@
+# Basic set up for three package managers
+version: 2
+updates:
+  # Maintain dependencies for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      gatsby:
+        applies-to: version-updates
+        patterns:
+        - "gatsby-*"
+        - "@gatsbyjs*"
+        update-types:
+        - "minor"
+        - "patch"
+    ignore:
+      - dependency-name: "gatsby*"
+        update-types: ["version-update:semver-major"]
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: "npm"

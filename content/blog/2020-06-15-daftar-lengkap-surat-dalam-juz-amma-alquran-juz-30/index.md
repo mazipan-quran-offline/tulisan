@@ -1,7 +1,7 @@
 ---
 title: Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30
 description: Sebuah daftar lengkap bacaan-bacaan surat dalam Juz Amma, Al-Quran Juz 30 beserta terjemahan dan tafsir dalam bahasa Indonesia
-date: '2020-06-15T23:59:59.121Z'
+date: '2024-12-04T23:59:59.121Z'
 ---
 
 **Juz 30** dalam Al-Quran dikenal dengan **[Juz Amma](https://www.baca-quran.id/juz-amma/)** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi عَمَّ يَتَسَاۤءَلُوْنَۚ ('Amma yatasaaa aluun).

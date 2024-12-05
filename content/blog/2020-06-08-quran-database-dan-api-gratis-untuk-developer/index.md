@@ -1,7 +1,7 @@
 ---
 title: Quran Database dan Rest API gratis untuk developer
 description: Beberapa Quran database dan Rest API yang bisa digunakan oleh para developer untuk mengembangkan Aplikasi Quran
-date: '2020-06-08T23:59:59.121Z'
+date: '2024-12-01T23:59:59.121Z'
 ---
 
 Mengembangkan aplikasi Quran tentu membutuhkan data Quran.
