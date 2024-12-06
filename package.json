@@ -30,6 +30,7 @@
     "@gatsbyjs/reach-router": "^2.0.1",
     "gatsby": "^5.14.0",
     "gatsby-core-utils": "^4.14.0",
+    "gatsby-plugin-disqus": "^1.2.6",
     "gatsby-plugin-feed": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-manifest": "^5.14.0",

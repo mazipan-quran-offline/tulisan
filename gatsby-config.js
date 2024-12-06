@@ -137,5 +137,11 @@ module.exports = {
         entryLimit: 1000,
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+          shortname: `baca-quran-id`
+      }
+    }
   ],
 };

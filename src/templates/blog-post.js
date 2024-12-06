@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
+import { Disqus } from 'gatsby-plugin-disqus';
 
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
@@ -7,9 +8,16 @@ import { rhythm, scale } from '../utils/typography';
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
+
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
+
+  let disqusConfig = {
+    url: `${data.site.siteMetadata.siteUrl + '/tulisan' + location.pathname}`,
+    identifier: post.id,
+    title: post.title,
+  };
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -84,6 +92,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
       </article>
 
+      <div
+        data-disquss-identifier={disqusConfig.identifier}
+        data-disquss-title={disqusConfig.title}
+        data-disquss-url={disqusConfig.url}
+      >
+        <Disqus config={disqusConfig} />
+      </div>
+
       <nav>
         <ul
           style={{
@@ -121,6 +137,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
