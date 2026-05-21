@@ -6,6 +6,8 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
     groups:
       gatsby:
         applies-to: version-updates
@@ -20,4 +22,4 @@ updates:
         update-types: ["version-update:semver-major"]
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: "npm"
+      prefix: "deps(dependabot)"
