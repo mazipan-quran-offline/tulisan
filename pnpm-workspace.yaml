@@ -1,0 +1,38 @@
+savePrefix: ''
+blockExoticSubdeps: true
+minimumReleaseAge: 1440 # In minutes -- 1440 minutes = 1 day
+minimumReleaseAgeExclude:
+  - webpack@5.107.0
+trustPolicy: 'no-downgrade'
+trustPolicyExclude:
+  - 'semver@5.7.2'
+  - 'semver@7.8.0'
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+  core-js: true
+  core-js-pure: true
+  es5-ext: true
+  gatsby: true
+  gatsby-cli: true
+  lmdb: true
+  msgpackr-extract: true
+  sharp: true
+overrides:
+  "semver": "7.8.0"
+  "msgpackr": "2.0.1"
+  '@parcel/reporter-dev-server@>=1.6.1 <=2.16.3': ^2.16.4
+  cookie@<0.7.0: ^0.7.0
+  file-type@>=13.0.0 <21.3.1: ^21.3.1
+  immutable@<3.8.3: ^3.8.3
+  lodash@<=4.17.23: ^4.17.24
+  lodash@>=4.0.0 <=4.17.23: ^4.17.24
+  on-headers@<1.1.0: ^1.1.0
+  path-to-regexp@<0.1.13: ^0.1.13
+  serialize-javascript@<7.0.5: ^7.0.5
+  serialize-javascript@<=7.0.2: ^7.0.3
+  tmp@<=0.2.3: ^0.2.4
+  webpack@>=5.49.0 <5.104.0: ^5.104.0
+  webpack@>=5.49.0 <=5.104.0: ^5.107.0
+  ws@>=8.0.0 <8.17.1: ^8.17.1
+  ws@>=8.0.0 <8.20.1: ^8.20.1
