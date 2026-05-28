@@ -1,7 +1,7 @@
 ---
 title: Amalan dan Keutamaan Bulan Muharram
 description: Mengenal keutamaan bulan Muharram sebagai salah satu bulan haram, serta amalan yang dianjurkan seperti puasa sunnah, sedekah, dan memperbanyak ibadah.
-date: '2026-06-15T23:59:59.121Z'
+date: '2026-06-05T23:59:59.121Z'
 ---
 
 Bulan Muharram memiliki kedudukan yang istimewa dalam Islam. Selain menjadi bulan pertama dalam kalender Hijriah, Muharram juga termasuk salah satu bulan yang dimuliakan oleh Allah, sehingga sangat dianjurkan untuk diisi dengan memperbanyak amal kebaikan.
@@ -20,7 +20,7 @@ Ada beberapa amalan yang bisa kita lakukan untuk memuliakan bulan Muharram.
 
 **Memperbanyak Puasa Sunnah**
 
-Puasa adalah amalan utama di bulan Muharram. Yang paling istimewa adalah puasa Asyura pada tanggal 10 Muharram, yang dianjurkan pula didahului dengan puasa Tasu'a pada tanggal 9 Muharram. Penjelasan lengkapnya bisa Anda baca pada artikel [Panduan Puasa Tasu'a dan Asyura](/2026-06-22-panduan-puasa-tasua-dan-asyura/).
+Puasa adalah amalan utama di bulan Muharram. Yang paling istimewa adalah puasa Asyura pada tanggal 10 Muharram, yang dianjurkan pula didahului dengan puasa Tasu'a pada tanggal 9 Muharram. Penjelasan lengkapnya bisa Anda baca pada artikel [Panduan Puasa Tasu'a dan Asyura](/2026-06-11-panduan-puasa-tasua-dan-asyura/).
 
 **Memperbanyak Sedekah**
 
@@ -38,4 +38,4 @@ Sebagai awal tahun Hijriah, Muharram menjadi waktu yang tepat untuk merenungi pe
 
 Keutamaan bulan Muharram sebaiknya tidak berlalu begitu saja. Dengan mengisinya melalui puasa sunnah, sedekah, dan ibadah yang lebih khusyuk, kita berharap memperoleh keberkahan di sepanjang tahun yang baru.
 
-Untuk memahami makna pergantian tahun Hijriah, silakan baca [Sejarah dan Makna Tahun Baru Islam](/2026-06-13-sejarah-dan-makna-tahun-baru-islam/). Anda juga bisa membaca Al-Qur'an secara lengkap kapan saja di [Baca-Quran.id](https://www.baca-quran.id/).
+Untuk memahami makna pergantian tahun Hijriah, silakan baca [Sejarah dan Makna Tahun Baru Islam](/2026-06-02-sejarah-dan-makna-tahun-baru-islam/). Anda juga bisa membaca Al-Qur'an secara lengkap kapan saja di [Baca-Quran.id](https://www.baca-quran.id/).
