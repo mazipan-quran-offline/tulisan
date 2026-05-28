@@ -64,6 +64,7 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
+          require.resolve(`./plugins/gatsby-remark-table-wrapper`),
         ],
       },
     },

@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import { Link, graphql } from 'gatsby';
 import { Disqus } from 'gatsby-plugin-disqus';
 
@@ -103,29 +103,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
-  const contentRef = useRef(null);
-
   const disqusConfig = {
     url: `${data.site.siteMetadata.siteUrl}/tulisan${location.pathname}`,
     identifier: post.id,
     title: post.frontmatter.title,
   };
-
-  // Inject scroll wrapper around all tables in the rendered markdown
-  useEffect(() => {
-    const el = contentRef.current;
-    if (!el) return;
-    el.querySelectorAll('table').forEach((table) => {
-      if (table.parentElement.classList.contains('table-scroll-wrapper')) return;
-      const wrapper = document.createElement('div');
-      wrapper.className = 'table-scroll-wrapper';
-      wrapper.setAttribute('role', 'region');
-      wrapper.setAttribute('aria-label', 'Scrollable table');
-      wrapper.setAttribute('tabindex', '0');
-      table.parentNode.insertBefore(wrapper, table);
-      wrapper.appendChild(table);
-    });
-  }, []);
 
   const pageUrl = `https://www.baca-quran.id${location.pathname}`;
   const encodedUrl = encodeURIComponent(pageUrl);
@@ -156,7 +138,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </header>
 
         <section
-          ref={contentRef}
           className="blog-post__content"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />

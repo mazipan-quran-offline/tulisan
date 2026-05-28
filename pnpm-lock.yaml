@@ -111,6 +111,9 @@ importers:
       typography-theme-wordpress-2016:
         specifier: 0.16.19
         version: 0.16.19
+      unist-util-visit:
+        specifier: ^2.0.3
+        version: 2.0.3
     devDependencies:
       gatsby-plugin-pnpm:
         specifier: 1.2.10
