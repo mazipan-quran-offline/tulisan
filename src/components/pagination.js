@@ -1,67 +1,145 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const marginStyle = {
-  margin: '1em 0 2em 0',
-};
+const ChevronLeft = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={16}
+    height={16}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2.5}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <polyline points="15 18 9 12 15 6" />
+  </svg>
+);
 
-const flexStyle = {
-  display: 'flex',
-  flexWrap: 'wrap',
-  justifyContent: 'space-between',
-  alignItems: 'center',
-};
-
-const navStyle = {
-  padding: '.25em 1em',
-  textDecoration: 'none',
-  boxShadow: 'none',
-  borderRadius: '4px',
-  color: '#ffffff',
-  background: '#007acc',
-};
-
-const numberStyle = {
-  margin: '0 .25em',
-  padding: '.25em 1em',
-  textDecoration: 'none',
-  boxShadow: 'none',
-  borderRadius: '4px',
-};
+const ChevronRight = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={16}
+    height={16}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2.5}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <polyline points="9 18 15 12 9 6" />
+  </svg>
+);
 
 const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast }) => {
+  if (numPages <= 1) return null;
+
+  const pages = Array.from({ length: numPages }, (_, i) => i + 1);
+
+  // Build the visible page list with ellipsis
+  const getVisiblePages = () => {
+    if (numPages <= 7) return pages.map((p) => ({ type: 'page', num: p }));
+
+    const result = [];
+    pages.forEach((p) => {
+      if (p === 1 || p === numPages) {
+        result.push({ type: 'page', num: p });
+      } else if (Math.abs(p - currentPage) <= 1) {
+        result.push({ type: 'page', num: p });
+      } else if (
+        (p === 2 && currentPage > 4) ||
+        (p === numPages - 1 && currentPage < numPages - 3)
+      ) {
+        result.push({ type: 'ellipsis', key: `e-${p}` });
+      }
+    });
+    return result;
+  };
+
+  const visiblePages = getVisiblePages();
+
   return (
-    <div style={{ ...flexStyle, ...marginStyle }}>
-      {!isFirst && (
-        <Link to={prevPage} rel="prev" style={navStyle}>
-          &lt;&lt;
+    <nav className="pagination" aria-label="Navigasi halaman">
+      {isFirst ? (
+        <span
+          className="pagination__btn pagination__btn--nav"
+          aria-disabled="true"
+          style={{ opacity: 0.35, cursor: 'default', pointerEvents: 'none' }}
+        >
+          <ChevronLeft />
+        </span>
+      ) : (
+        <Link
+          to={prevPage}
+          rel="prev"
+          className="pagination__btn pagination__btn--nav"
+          aria-label="Halaman sebelumnya"
+        >
+          <ChevronLeft />
         </Link>
       )}
-      {isFirst && <span>&nbsp;</span>}
 
-      <div className="numbering" style={flexStyle}>
-        {Array.from({ length: numPages }, (_, i) => (
+      {visiblePages.map((item) => {
+        if (item.type === 'ellipsis') {
+          return (
+            <span key={item.key} className="pagination__ellipsis" aria-hidden="true">
+              &hellip;
+            </span>
+          );
+        }
+
+        const pageNum = item.num;
+        const isActive = pageNum === currentPage;
+        const to = pageNum === 1 ? '/' : `/${pageNum}`;
+
+        if (isActive) {
+          return (
+            <span
+              key={pageNum}
+              className="pagination__btn pagination__btn--active"
+              aria-current="page"
+              aria-label={`Halaman ${pageNum}, halaman aktif`}
+            >
+              {pageNum}
+            </span>
+          );
+        }
+
+        return (
           <Link
-            key={`pagination-number${i + 1}`}
-            to={`/${i === 0 ? '' : i + 1}`}
-            style={{
-              ...numberStyle,
-              color: i + 1 === currentPage ? '#ffffff' : '',
-              background: i + 1 === currentPage ? '#007acc' : '',
-            }}
+            key={pageNum}
+            to={to}
+            className="pagination__btn"
+            aria-label={`Halaman ${pageNum}`}
           >
-            {i + 1}
+            {pageNum}
           </Link>
-        ))}
-      </div>
+        );
+      })}
 
-      {isLast && <span>&nbsp;</span>}
-      {!isLast && (
-        <Link to={nextPage} rel="next" style={navStyle}>
-          &gt;&gt;
+      {isLast ? (
+        <span
+          className="pagination__btn pagination__btn--nav"
+          aria-disabled="true"
+          style={{ opacity: 0.35, cursor: 'default', pointerEvents: 'none' }}
+        >
+          <ChevronRight />
+        </span>
+      ) : (
+        <Link
+          to={nextPage}
+          rel="next"
+          className="pagination__btn pagination__btn--nav"
+          aria-label="Halaman selanjutnya"
+        >
+          <ChevronRight />
         </Link>
       )}
-    </div>
+    </nav>
   );
 };
 
