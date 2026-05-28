@@ -626,12 +626,24 @@ tbody tr:last-child td {
 
 .hero::before {
   content: '';
+  /* Oversized so filter: blur doesn't leave hard edges at the boundary */
   position: absolute;
-  inset: 0;
-  background-image:
-    radial-gradient(circle at 20% 50%, rgba(79, 70, 229, 0.15) 0%, transparent 50%),
-    radial-gradient(circle at 80% 20%, rgba(109, 40, 217, 0.1) 0%, transparent 40%),
-    radial-gradient(circle at 60% 80%, rgba(129, 140, 248, 0.08) 0%, transparent 40%);
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  left: -50%;
+  background:
+    /* Large indigo orb — left-center */
+    radial-gradient(circle 520px at 25% 65%, rgba(99, 102, 241, 0.55) 0%, transparent 100%),
+    /* Violet orb — top-right */
+    radial-gradient(circle 420px at 85% 15%, rgba(139, 92, 246, 0.5) 0%, transparent 100%),
+    /* Blue-indigo orb — bottom-right */
+    radial-gradient(circle 380px at 72% 90%, rgba(79, 70, 229, 0.4) 0%, transparent 100%),
+    /* Soft magenta accent — top-left */
+    radial-gradient(circle 280px at 8% 12%, rgba(168, 85, 247, 0.35) 0%, transparent 100%),
+    /* Cyan whisper — center-right */
+    radial-gradient(circle 240px at 60% 40%, rgba(56, 189, 248, 0.2) 0%, transparent 100%);
+  filter: blur(72px);
   pointer-events: none;
 }
 
@@ -642,7 +654,8 @@ tbody tr:last-child td {
   left: 0;
   right: 0;
   height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(129, 140, 248, 0.3), transparent);
+  background: linear-gradient(90deg, transparent, rgba(129, 140, 248, 0.4), transparent);
+  z-index: 2;
 }
 
 .hero__inner {
@@ -886,6 +899,23 @@ tbody tr:last-child td {
   height: 100%;
 }
 
+/* Blurry light orbs layered on top of the SVG pattern */
+.post-hero::before {
+  content: '';
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  left: -50%;
+  background:
+    radial-gradient(circle 340px at 18% 55%, rgba(255, 255, 255, 0.18) 0%, transparent 100%),
+    radial-gradient(circle 280px at 82% 30%, rgba(255, 255, 255, 0.14) 0%, transparent 100%),
+    radial-gradient(circle 200px at 52% 80%, rgba(255, 255, 255, 0.1) 0%, transparent 100%);
+  filter: blur(48px);
+  pointer-events: none;
+  z-index: 1;
+}
+
 /* Fade the bottom edge so it blends into the page background */
 .post-hero::after {
   content: '';
@@ -893,9 +923,10 @@ tbody tr:last-child td {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 60%;
+  height: 65%;
   background: linear-gradient(to bottom, transparent, var(--bg));
   pointer-events: none;
+  z-index: 2;
 }
 
 @media (max-width: 768px) {
