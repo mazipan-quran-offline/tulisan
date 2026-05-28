@@ -25,6 +25,14 @@ date: '2026-05-28T10:00:00.000Z'
 - `title`, `description`, dan `date` adalah tiga field yang dipakai.
 - Gunakan format tanggal ISO. Bila menerbitkan beberapa artikel pada hari yang sama, bedakan jamnya agar urutannya rapi.
 
+## Aturan Tanggal Terbit
+
+Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluruh artikel tanpa memandang tanggalnya, lalu mengurutkannya dari yang terbaru. Jadi tanggal menentukan urutan tampilan sekaligus kapan artikel dianggap terbit. Ikuti aturan berikut.
+
+- **Jangan menumpuk banyak artikel pada satu tanggal yang sama.** Saat menerbitkan beberapa artikel sekaligus (bulk), beri jarak sekitar 2 hingga 3 hari antar artikel agar penerbitan terlihat bertahap dan lebih alami, bukan seperti unggahan massal dalam sehari.
+- **Hindari tanggal di masa depan untuk artikel biasa.** Karena proses build menampilkan semua artikel termasuk yang bertanggal masa depan, gunakan tanggal paling lambat hari ini. Bila perlu memberi jarak, mundurkan tanggalnya (ke masa lalu), jangan majukan, supaya tidak ada artikel yang tampil dengan tanggal yang belum tiba.
+- **Untuk artikel musiman atau yang terikat tanggal acara,** jadwalkan penerbitannya 1 hingga 2 minggu sebelum tanggal acara, bukan tepat di hari H. Lead time ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik. Gunakan alur "Konten Terjadwal" di bawah agar artikel otomatis terbit pada tanggalnya (di sinilah tanggal masa depan justru diperbolehkan, karena PR baru di-merge saat tanggalnya tiba).
+
 ## Gaya Penulisan
 
 - Tulis dalam Bahasa Indonesia dengan nada formal namun tetap ramah dan terasa manusiawi, tidak kaku.
