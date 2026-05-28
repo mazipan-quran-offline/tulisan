@@ -61,17 +61,18 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 **Cara membuat konten terjadwal:**
 
 1. Tulis artikel seperti biasa di `content/blog/`. Sebaiknya samakan nilai `date` pada frontmatter dengan tanggal terbit yang diinginkan, dan gunakan tanggal tersebut pula sebagai awalan nama folder.
-2. Buat satu Pull Request terpisah untuk setiap artikel terjadwal, agar tiap artikel bisa terbit pada tanggalnya masing-masing.
-3. Cantumkan token tanggal pada **judul PR** dengan format `[publish: YYYY-MM-DD]`, contohnya:
-   `[publish: 2026-06-16] CONTENT: Amalan dan Keutamaan Bulan Muharram`
-4. Biarkan PR tetap terbuka. Token pada judul inilah yang menjadi penanda jadwal sekaligus sumber tanggal terbitnya.
+2. Jadwalkan penerbitan 1 hingga 2 minggu sebelum tanggal acara, bukan tepat di hari H. Hal ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik, sekaligus memberi kelonggaran terhadap jeda penjadwalan.
+3. Buat satu Pull Request terpisah untuk setiap artikel terjadwal, agar tiap artikel bisa terbit pada tanggalnya masing-masing.
+4. Cantumkan token tanggal pada **judul PR** dengan format `[publish: YYYY-MM-DD]`, contohnya:
+   `[publish: 2026-06-05] CONTENT: Amalan dan Keutamaan Bulan Muharram`
+5. Biarkan PR tetap terbuka. Token pada judul inilah yang menjadi penanda jadwal sekaligus sumber tanggal terbitnya.
 
 **Cara kerja otomatisasinya:**
 
-- Workflow `scheduled-merge.yml` berjalan dua kali sehari (serta bisa dijalankan manual lewat `workflow_dispatch`).
+- Workflow `scheduled-merge.yml` berjalan setiap dua hari sekali (serta bisa dijalankan manual lewat `workflow_dispatch`).
 - Tanggal dibandingkan dengan waktu WIB (UTC+7). Ketika tanggal hari ini sudah mencapai tanggal pada token, workflow akan menghapus token `[publish: ...]` dari judul PR lalu menambahkan label `automerge`.
 - Kodiak kemudian me-merge PR tersebut setelah pemeriksaan (PR check) lolos, dan push ke `master` memicu workflow `Deploy` ke GitHub Pages.
-- Catatan: penjadwalan cron GitHub akurat pada level tanggal, bukan menit, sehingga waktu terbit pasti tepat di tanggalnya namun bukan pada jam yang presisi.
+- Catatan: karena workflow berjalan setiap dua hari sekali dan cron GitHub bisa sedikit terlambat, penerbitan akurat pada level tanggal (bukan jam) dan bisa meleset satu hingga dua hari. Karena itulah artikel dijadwalkan jauh-jauh hari sebelum acara.
 
 **Penting:** jangan menambahkan label `automerge` secara manual pada PR terjadwal kecuali memang ingin segera menerbitkannya, sebab label itulah yang menjadi pemicu merge oleh Kodiak.
 
