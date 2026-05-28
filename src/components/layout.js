@@ -103,12 +103,8 @@ const Layout = ({ location, title, children }) => {
         </a>
         <br />
         <span>Cek juga: </span>
-        <a href="https://ksana.in/" target="_blank" rel="noopener noreferrer">
-          Ksana.in
-        </a>
-        <span>, </span>
-        <a href="https://www.tanyaaja.in/" target="_blank" rel="noopener noreferrer">
-          TanyaAja.in
+        <a href="https://tools.mazipan.space/" target="_blank" rel="noopener noreferrer">
+          Web Tool Libraries
         </a>
       </footer>
     </div>
