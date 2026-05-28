@@ -83,7 +83,7 @@ const Layout = ({ location, title, children }) => {
       </header>
 
       <main id="main-content" className="site-main" tabIndex={-1}>
-        <div className="site-main__inner">{children}</div>
+        {children}
       </main>
 
       <footer className="site-footer" role="contentinfo">

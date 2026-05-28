@@ -117,6 +117,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <div className="site-main__inner">
       <MetaHead
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
@@ -234,6 +235,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           )}
         </ul>
       </nav>
+      </div>
     </Layout>
   );
 };

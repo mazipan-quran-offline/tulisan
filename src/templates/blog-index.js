@@ -51,6 +51,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
     <Layout location={location} title={siteTitle}>
       <MetaHead title="Semua artikel terkait Baca-Quran.id" />
 
+      {/* Hero is a direct child of <main> so its background spans the full screen */}
       {isFirst && (
         <section className="hero" aria-labelledby="hero-heading">
           <div className="hero__inner">
@@ -63,8 +64,9 @@ const BlogIndex = ({ data, location, pageContext }) => {
               <span>Baca-Qur&apos;an.id</span>
             </h1>
             <p className="hero__description">
-              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi Baca-Qur'an.id.
-              Temukan konten berkualitas untuk membantu perjalanan membaca Al-Qur'an Anda.
+              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi
+              Baca-Qur'an.id. Temukan konten berkualitas untuk membantu
+              perjalanan membaca Al-Qur'an Anda.
             </p>
             <div className="hero__stats" aria-label="Statistik blog">
               <div>
@@ -84,69 +86,72 @@ const BlogIndex = ({ data, location, pageContext }) => {
         </section>
       )}
 
-      <div className="section-header">
-        <h2 className="section-title">
-          {isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}
-        </h2>
-        <span className="section-count" aria-live="polite">
-          {totalCount} artikel
-        </span>
-      </div>
+      {/* Constrained content area */}
+      <div className="site-main__inner">
+        <div className="section-header">
+          <h2 className="section-title">
+            {isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}
+          </h2>
+          <span className="section-count" aria-live="polite">
+            {totalCount} artikel
+          </span>
+        </div>
 
-      <div className="post-grid" role="list" aria-label="Daftar artikel">
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug;
-          return (
-            <article
-              key={node.fields.slug}
-              className="post-card"
-              role="listitem"
-            >
-              <div className="post-card__pattern" aria-hidden="true">
-                <AbstractPattern slug={node.fields.slug} />
-              </div>
-              <div className="post-card__body">
-                <div className="post-card__meta">
-                  <time
-                    className="post-card__date"
-                    dateTime={node.frontmatter.dateISO}
-                  >
-                    {node.frontmatter.date}
-                  </time>
+        <div className="post-grid" role="list" aria-label="Daftar artikel">
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug;
+            return (
+              <article
+                key={node.fields.slug}
+                className="post-card"
+                role="listitem"
+              >
+                <div className="post-card__pattern" aria-hidden="true">
+                  <AbstractPattern slug={node.fields.slug} />
                 </div>
-                <h3 className="post-card__title">
-                  <Link to={node.fields.slug}>{title}</Link>
-                </h3>
-                <p
-                  className="post-card__excerpt"
-                  dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
-                  }}
-                />
-                <Link
-                  to={node.fields.slug}
-                  className="post-card__cta"
-                  aria-label={`Baca artikel: ${title}`}
-                  tabIndex={-1}
-                  aria-hidden="true"
-                >
-                  Baca artikel
-                  <ArrowRightIcon />
-                </Link>
-              </div>
-            </article>
-          );
-        })}
-      </div>
+                <div className="post-card__body">
+                  <div className="post-card__meta">
+                    <time
+                      className="post-card__date"
+                      dateTime={node.frontmatter.dateISO}
+                    >
+                      {node.frontmatter.date}
+                    </time>
+                  </div>
+                  <h3 className="post-card__title">
+                    <Link to={node.fields.slug}>{title}</Link>
+                  </h3>
+                  <p
+                    className="post-card__excerpt"
+                    dangerouslySetInnerHTML={{
+                      __html: node.frontmatter.description || node.excerpt,
+                    }}
+                  />
+                  <Link
+                    to={node.fields.slug}
+                    className="post-card__cta"
+                    aria-label={`Baca artikel: ${title}`}
+                    tabIndex={-1}
+                    aria-hidden="true"
+                  >
+                    Baca artikel
+                    <ArrowRightIcon />
+                  </Link>
+                </div>
+              </article>
+            );
+          })}
+        </div>
 
-      <Pagination
-        numPages={numPages}
-        currentPage={currentPage}
-        prevPage={prevPage}
-        nextPage={nextPage}
-        isFirst={isFirst}
-        isLast={isLast}
-      />
+        <Pagination
+          numPages={numPages}
+          currentPage={currentPage}
+          prevPage={prevPage}
+          nextPage={nextPage}
+          isFirst={isFirst}
+          isLast={isLast}
+        />
+      </div>
     </Layout>
   );
 };
