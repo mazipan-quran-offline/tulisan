@@ -869,6 +869,42 @@ tbody tr:last-child td {
 }
 
 /* ============================================
+   POST HERO PATTERN BANNER
+   ============================================ */
+
+.post-hero {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.post-hero svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Fade the bottom edge so it blends into the page background */
+.post-hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60%;
+  background: linear-gradient(to bottom, transparent, var(--bg));
+  pointer-events: none;
+}
+
+@media (max-width: 768px) {
+  .post-hero {
+    height: 160px;
+  }
+}
+
+/* ============================================
    BLOG POST ARTICLE
    ============================================ */
 

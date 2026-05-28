@@ -4,6 +4,7 @@ import { Disqus } from 'gatsby-plugin-disqus';
 
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
+import AbstractPattern from '../components/AbstractPattern';
 
 const CalendarIcon = () => (
   <svg
@@ -117,12 +118,17 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="site-main__inner">
       <MetaHead
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
 
+      {/* Full-width decorative pattern banner for the post */}
+      <div className="post-hero" aria-hidden="true">
+        <AbstractPattern slug={location.pathname} />
+      </div>
+
+      <div className="site-main__inner">
       <article className="blog-post">
         <header className="blog-post__header">
           <div className="blog-post__meta">
