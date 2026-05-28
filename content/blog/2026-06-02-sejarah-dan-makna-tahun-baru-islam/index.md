@@ -1,7 +1,7 @@
 ---
 title: Sejarah dan Makna Tahun Baru Islam (1 Muharram)
 description: Mengenal sejarah dan makna Tahun Baru Islam atau 1 Muharram, mulai dari peristiwa hijrah hingga semangat muhasabah diri di awal tahun Hijriah.
-date: '2026-06-13T23:59:59.121Z'
+date: '2026-06-02T23:59:59.121Z'
 ---
 
 Setiap tanggal 1 Muharram, umat Islam di seluruh dunia memperingati Tahun Baru Islam atau pergantian tahun dalam kalender Hijriah. Berbeda dengan perayaan tahun baru pada umumnya, momen ini lebih kental dengan nuansa perenungan dan muhasabah, yaitu mengevaluasi diri agar tahun yang baru menjadi lebih baik daripada sebelumnya.
@@ -30,6 +30,6 @@ Muharram sendiri termasuk salah satu dari empat bulan haram, yaitu bulan-bulan y
 
 Cara terbaik menyambut Tahun Baru Islam adalah dengan muhasabah, yaitu merenungi perjalanan setahun yang telah berlalu lalu menyusun niat dan target kebaikan untuk tahun yang akan datang. Perbanyak istigfar atas kekurangan di masa lalu, dan panjatkan rasa syukur atas nikmat yang telah diberikan.
 
-Anda juga bisa mengisinya dengan memperbanyak membaca Al-Qur'an dan berdzikir. Silakan baca pula artikel [Tips Membiasakan Membaca Al-Quran](/2023-04-30-tips-membiasakan-membaca-al-quran/) untuk membantu menjaga rutinitas ibadah Anda, serta [Amalan dan Keutamaan Bulan Muharram](/2026-06-15-amalan-dan-keutamaan-bulan-muharram/) untuk mengetahui amal yang dianjurkan di bulan ini.
+Anda juga bisa mengisinya dengan memperbanyak membaca Al-Qur'an dan berdzikir. Silakan baca pula artikel [Tips Membiasakan Membaca Al-Quran](/2023-04-30-tips-membiasakan-membaca-al-quran/) untuk membantu menjaga rutinitas ibadah Anda, serta [Amalan dan Keutamaan Bulan Muharram](/2026-06-05-amalan-dan-keutamaan-bulan-muharram/) untuk mengetahui amal yang dianjurkan di bulan ini.
 
 Semoga di tahun yang baru ini kita semua diberi kemudahan untuk berhijrah menuju kebaikan. Selamat Tahun Baru Islam. Untuk membaca Al-Qur'an secara lengkap, silakan kunjungi [Baca-Quran.id](https://www.baca-quran.id/).
