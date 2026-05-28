@@ -54,8 +54,7 @@
     "react-helmet": "6.1.0",
     "react-typography": "0.16.23",
     "typography": "0.16.24",
-    "typography-theme-wordpress-2016": "0.16.19",
-    "unist-util-visit": "^2.0.3"
+    "typography-theme-wordpress-2016": "0.16.19"
   },
   "devDependencies": {
     "gatsby-plugin-pnpm": "1.2.10",

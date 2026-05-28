@@ -219,10 +219,16 @@ p {
 
 a {
   color: var(--link);
+  box-shadow: none;
   text-decoration: underline;
   text-decoration-color: transparent;
   text-underline-offset: 3px;
   transition: color var(--transition), text-decoration-color var(--transition);
+}
+
+a:hover,
+a:active {
+  box-shadow: none;
 }
 
 a:hover {
