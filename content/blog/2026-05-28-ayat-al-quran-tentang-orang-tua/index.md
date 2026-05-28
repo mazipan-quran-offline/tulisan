@@ -1,7 +1,7 @@
 ---
 title: 10 Ayat Al-Quran tentang Berbakti kepada Orang Tua
 description: Kumpulan ayat Al-Quran tentang berbakti kepada orang tua (birrul walidain) beserta artinya dan penjelasan singkatnya.
-date: '2026-05-28T14:00:00.000Z'
+date: '2026-05-13T23:59:59.121Z'
 ---
 
 Berbakti kepada orang tua, atau yang dikenal dengan istilah birrul walidain, menempati kedudukan yang sangat tinggi dalam Islam. Begitu mulianya kedudukan ini, sampai Al-Quran sering menyandingkan perintah berbuat baik kepada orang tua dengan perintah untuk menyembah Allah. Ini menunjukkan betapa besar hak orang tua atas diri kita.

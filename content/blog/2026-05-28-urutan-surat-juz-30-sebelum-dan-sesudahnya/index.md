@@ -1,7 +1,7 @@
 ---
 title: Urutan Surat di Juz 30, Surat Sebelum dan Sesudahnya
 description: Panduan lengkap urutan surat dalam Juz 30 atau Juz Amma beserta surat sebelum dan sesudahnya, dilengkapi tabel dan tanya jawab singkat.
-date: '2026-05-28T09:00:00.000Z'
+date: '2026-05-28T23:59:59.121Z'
 ---
 
 Banyak di antara kita yang hafal surat-surat pendek dalam **Juz 30**, namun terkadang masih ragu ketika ditanya, surat apa yang datang sebelum atau sesudah sebuah surat tertentu. Pertanyaan seperti "setelah surat Al-Kafirun surat apa?" atau "sebelum At-Takasur surat apa?" sebenarnya sangat sering muncul, terutama ketika kita sedang menghafal secara berurutan.

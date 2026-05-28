@@ -1,7 +1,7 @@
 ---
 title: 10 Ayat Al-Quran tentang Bersyukur dan Keutamaannya
 description: Kumpulan ayat Al-Quran tentang bersyukur beserta artinya, lengkap dengan penjelasan singkat agar hati lebih lapang dan tenang.
-date: '2026-05-28T11:00:00.000Z'
+date: '2026-05-22T23:59:59.121Z'
 ---
 
 Bersyukur adalah cara terindah untuk menikmati setiap pemberian Allah. Dengan bersyukur, hati menjadi lebih lapang, pikiran lebih tenang, dan nikmat yang ada terasa semakin berkah. Al-Quran banyak sekali menyebut tentang syukur, sebab sikap inilah yang membedakan antara hamba yang ingat kepada Tuhannya dan yang lalai.

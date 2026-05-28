@@ -1,7 +1,7 @@
 ---
 title: 10 Ayat Al-Quran tentang Jodoh, Cinta, dan Pernikahan
 description: Kumpulan ayat Al-Quran tentang jodoh, cinta, dan pernikahan beserta artinya untuk memahami kasih sayang dalam bingkai Islam.
-date: '2026-05-28T15:00:00.000Z'
+date: '2026-05-10T23:59:59.121Z'
 ---
 
 Cinta dan jodoh adalah tema yang dekat dengan hati setiap orang. Dalam Islam, urusan ini bukan sekadar perasaan, melainkan bagian dari tanda kebesaran Allah yang ditata dengan penuh hikmah. Al-Quran menggambarkan bagaimana pasangan diciptakan untuk saling melengkapi, menumbuhkan ketenangan, serta menebarkan kasih sayang.

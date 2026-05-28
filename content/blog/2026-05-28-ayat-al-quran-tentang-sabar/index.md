@@ -1,7 +1,7 @@
 ---
 title: 10 Ayat Al-Quran tentang Sabar dan Keutamaannya
 description: Kumpulan ayat Al-Quran tentang sabar beserta artinya, lengkap dengan penjelasan singkat untuk menguatkan hati dalam menghadapi ujian hidup.
-date: '2026-05-28T10:00:00.000Z'
+date: '2026-05-25T23:59:59.121Z'
 ---
 
 Sabar adalah salah satu sifat mulia yang sangat sering disebut dalam Al-Quran. Dalam menjalani kehidupan, setiap orang pasti diuji dengan berbagai keadaan, baik berupa kesulitan maupun kemudahan. Di titik inilah kesabaran menjadi bekal yang menenangkan, sebab Allah selalu menyertai orang-orang yang sabar.
