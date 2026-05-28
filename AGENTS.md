@@ -54,6 +54,27 @@ date: '2026-05-28T10:00:00.000Z'
 - Hindari membuat artikel yang topiknya sudah ada untuk mencegah saling memakan kata kunci (keyword cannibalization).
 - Rencana konten dan daftar peluang artikel didokumentasikan pada issue tracker repositori ini.
 
+## Konten Terjadwal (Artikel Musiman)
+
+Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten terkait Idul Adha, Tahun Baru Islam, atau puasa Asyura), gunakan alur penerbitan terjadwal berikut. Alur ini dijalankan oleh workflow `.github/workflows/scheduled-merge.yml` dan bot merge Kodiak.
+
+**Cara membuat konten terjadwal:**
+
+1. Tulis artikel seperti biasa di `content/blog/`. Sebaiknya samakan nilai `date` pada frontmatter dengan tanggal terbit yang diinginkan, dan gunakan tanggal tersebut pula sebagai awalan nama folder.
+2. Buat satu Pull Request terpisah untuk setiap artikel terjadwal, agar tiap artikel bisa terbit pada tanggalnya masing-masing.
+3. Cantumkan token tanggal pada **judul PR** dengan format `[publish: YYYY-MM-DD]`, contohnya:
+   `[publish: 2026-06-16] CONTENT: Amalan dan Keutamaan Bulan Muharram`
+4. Biarkan PR tetap terbuka. Token pada judul inilah yang menjadi penanda jadwal sekaligus sumber tanggal terbitnya.
+
+**Cara kerja otomatisasinya:**
+
+- Workflow `scheduled-merge.yml` berjalan dua kali sehari (serta bisa dijalankan manual lewat `workflow_dispatch`).
+- Tanggal dibandingkan dengan waktu WIB (UTC+7). Ketika tanggal hari ini sudah mencapai tanggal pada token, workflow akan menghapus token `[publish: ...]` dari judul PR lalu menambahkan label `automerge`.
+- Kodiak kemudian me-merge PR tersebut setelah pemeriksaan (PR check) lolos, dan push ke `master` memicu workflow `Deploy` ke GitHub Pages.
+- Catatan: penjadwalan cron GitHub akurat pada level tanggal, bukan menit, sehingga waktu terbit pasti tepat di tanggalnya namun bukan pada jam yang presisi.
+
+**Penting:** jangan menambahkan label `automerge` secara manual pada PR terjadwal kecuali memang ingin segera menerbitkannya, sebab label itulah yang menjadi pemicu merge oleh Kodiak.
+
 ## Contoh Referensi
 
 Beberapa artikel yang bisa dijadikan acuan format:
