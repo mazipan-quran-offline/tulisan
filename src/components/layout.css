@@ -1,5 +1,8 @@
 .font-arabic {
-  font-family: 'Noto Naskh Arabic', serif;
+  font-family: var(--font-arabic);
   font-size: 1.5rem;
   text-align: right;
+  direction: rtl;
+  line-height: 2;
+  display: block;
 }

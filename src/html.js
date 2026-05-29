@@ -18,7 +18,7 @@ export default (props) => {
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@400;500;600;700;800&family=Noto+Naskh+Arabic&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@400;500;600;700;800&family=Noto+Naskh+Arabic:wght@400;700&display=swap"
           rel="stylesheet"
         />
 
