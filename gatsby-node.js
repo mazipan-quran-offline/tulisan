@@ -27,6 +27,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           fields {
             slug
           }
+          frontmatter {
+            title
+            date(formatString: "DD MMMM YYYY")
+            description
+          }
+          excerpt(pruneLength: 120)
         }
       }
     }
@@ -68,6 +74,21 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
+    // Pick up to 3 other articles as related posts (next in chronological order, wrapping around)
+    const relatedPosts = [];
+    for (let i = 1; i <= 3; i++) {
+      const relatedIndex = (index + i) % posts.length;
+      if (relatedIndex !== index) {
+        const p = posts[relatedIndex];
+        relatedPosts.push({
+          slug: p.fields.slug,
+          title: p.frontmatter.title,
+          date: p.frontmatter.date,
+          description: p.frontmatter.description || p.excerpt,
+        });
+      }
+    }
+
     createPage({
       path: post.fields.slug,
       component: blogPost,
@@ -79,6 +100,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         next,
         previousPostId,
         nextPostId,
+        relatedPosts,
       },
     });
   });
