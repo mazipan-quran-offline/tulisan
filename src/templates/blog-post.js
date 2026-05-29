@@ -99,11 +99,29 @@ const ArrowRightIcon = () => (
   </svg>
 );
 
+const BookOpenIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={14}
+    height={14}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+    <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+  </svg>
+);
+
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
-  const { previous, next } = pageContext;
+  const { previous, next, relatedPosts } = pageContext;
   const disqusConfig = {
     url: `${data.site.siteMetadata.siteUrl}/tulisan${location.pathname}`,
     identifier: post.id,
@@ -199,6 +217,28 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <Disqus config={disqusConfig} />
         </div>
       </section>
+
+      {relatedPosts && relatedPosts.length > 0 && (
+        <section className="related-posts" aria-label="Artikel lainnya untuk dibaca">
+          <h2 className="related-posts__title">
+            <BookOpenIcon />
+            Baca Juga
+          </h2>
+          <ul className="related-posts__grid">
+            {relatedPosts.map(rp => (
+              <li key={rp.slug} className="related-posts__item">
+                <Link to={rp.slug} className="related-posts__link">
+                  <span className="related-posts__date">{rp.date}</span>
+                  <span className="related-posts__name">{rp.title}</span>
+                  {rp.description && (
+                    <span className="related-posts__desc">{rp.description}</span>
+                  )}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <nav className="post-nav" aria-label="Navigasi antar artikel">
         <ul className="post-nav__grid">
