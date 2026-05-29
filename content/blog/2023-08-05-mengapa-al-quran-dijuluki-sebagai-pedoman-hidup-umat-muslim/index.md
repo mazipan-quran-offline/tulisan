@@ -34,7 +34,23 @@ Inti dari ajaran Al-Quran adalah rahmat dan kasih sayang. Setiap surat dalam Al-
 
 ### Sumber Keberkahan dan Ketenangan Jiwa
 
-Di luar aspek intelektual dan sosial, Al-Quran memiliki dimensi spiritual yang sangat dalam bagi para pembacanya. Allah berfirman dalam Surah Ar-Ra'd ayat 28: "Ketahuilah, hanya dengan mengingat Allah hati menjadi tenteram." Membaca Al-Quran adalah salah satu bentuk dzikir, mengingat Allah, yang paling utama. Banyak orang yang merasakan ketenangan yang sulit dijelaskan saat membaca Al-Quran, bahkan ketika mereka belum sepenuhnya memahami artinya. Bagi umat Muslim, pengalaman ini adalah bukti nyata bahwa Al-Quran bukan sekadar teks, melainkan firman yang hidup dan berbicara langsung ke dalam hati.
+Di luar aspek intelektual dan sosial, Al-Quran memiliki dimensi spiritual yang sangat dalam bagi para pembacanya. Allah berfirman dalam [Surah Ar-Ra'd ayat 28](https://www.baca-quran.id/surah/13/28/): "Ketahuilah, hanya dengan mengingat Allah hati menjadi tenteram." Membaca Al-Quran adalah salah satu bentuk dzikir, mengingat Allah, yang paling utama. Banyak orang yang merasakan ketenangan yang sulit dijelaskan saat membaca Al-Quran, bahkan ketika mereka belum sepenuhnya memahami artinya. Bagi umat Muslim, pengalaman ini adalah bukti nyata bahwa Al-Quran bukan sekadar teks, melainkan firman yang hidup dan berbicara langsung ke dalam hati.
+
+## Ayat-Ayat Al-Quran Terkait
+
+Berikut beberapa ayat yang dapat Anda baca untuk memperdalam pemahaman tentang Al-Quran sebagai pedoman hidup:
+
+- [QS. Al-Baqarah: 2](https://www.baca-quran.id/surah/2/2/) — Al-Quran sebagai petunjuk bagi orang yang bertakwa
+- [QS. Ali 'Imran: 104](https://www.baca-quran.id/surah/3/104/) — Seruan kepada kebaikan dan menjauhi kemungkaran
+- [QS. An-Nisa': 28](https://www.baca-quran.id/surah/4/28/) — Allah hendak meringankan beban manusia
+- [QS. Al-Ma'idah: 8](https://www.baca-quran.id/surah/5/8/) — Berlaku adil dalam segala kondisi
+- [QS. Al-Anfal: 46](https://www.baca-quran.id/surah/8/46/) — Taat kepada Allah dan Rasul-Nya
+- [QS. Hud: 115](https://www.baca-quran.id/surah/11/115/) — Bersabar dan teguh mengikuti perintah Allah
+- [QS. Ar-Ra'd: 28](https://www.baca-quran.id/surah/13/28/) — Hati menjadi tenteram dengan mengingat Allah
+- [QS. Al-Furqan: 62](https://www.baca-quran.id/surah/25/62/) — Siang dan malam sebagai renungan bagi yang bersyukur
+- [QS. Al-Hujurat: 10](https://www.baca-quran.id/surah/49/10/) — Persaudaraan sesama mukmin
+- [QS. Al-Qadr: 1](https://www.baca-quran.id/surah/97/1/) — Kemuliaan malam Al-Quran diturunkan
+- [QS. Az-Zalzalah: 7](https://www.baca-quran.id/surah/99/7/) — Balasan sekecil apapun amal kebaikan
 
 ---
 

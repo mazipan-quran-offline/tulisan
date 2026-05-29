@@ -8,7 +8,7 @@ Alhamdulillah, kita sebagai umat muslim diberikan rahmat oleh Allah SWT berupa A
 
 Dalam artikel kali ini, kita akan membahas [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/), surat yang paling sering dibaca dan menjadi bagian wajib dalam setiap rakaat sholat. Surat ini terdiri dari 7 ayat dan termasuk dalam golongan surat Makkiyah. Meski ayatnya singkat, Al-Fatihah menyimpan kedalaman makna yang sangat luar biasa dan dianggap sebagai ummul kitab atau induk dari seluruh Al-Quran.
 
-## Kandungan Surat Al-Fatihah
+## Kandungan [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/)
 
 **Pengenalan sifat-sifat Allah.** Surat Al-Fatihah dibuka dengan menyebutkan tiga sifat utama Allah SWT, yaitu sebagai Rabbul 'Alamin (Pemelihara dan Pengatur seluruh alam), Ar-Rahman (Maha Pengasih), dan Ar-Rahim (Maha Penyayang). Penyebutan sifat-sifat ini di awal surat mengajarkan kita bahwa sebelum bermohon kepada Allah, kita perlu mengenal siapa Dia, yaitu Tuhan yang bukan sekadar berkuasa, tetapi juga sangat menyayangi hamba-hamba-Nya.
 
@@ -18,7 +18,7 @@ Dalam artikel kali ini, kita akan membahas [Surat Al-Fatihah](https://www.baca-q
 
 **Keseimbangan antara memuji, mengakui kelemahan, dan memohon.** Secara keseluruhan, Al-Fatihah mengajarkan struktur doa yang sempurna: dimulai dengan memuji Allah (Alhamdulillah), mengakui kekuasaan dan kasih sayang-Nya, lalu menyerahkan diri dan meminta bimbingan. Inilah adab berdoa yang paling ideal menurut Al-Quran.
 
-## Keutamaan Membaca Surat Al-Fatihah
+## Keutamaan Membaca [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/)
 
 ### 1. Wajib dalam setiap rakaat sholat
 
@@ -40,4 +40,4 @@ Al-Fatihah mengandung pesan untuk selalu mengikuti jalan yang diridhai Allah dan
 
 Menghadiahkan bacaan Al-Fatihah kepada orang tua, keluarga, atau orang-orang yang kita cintai adalah amalan yang banyak dilakukan oleh umat Islam. Pahala membacanya dipersembahkan sebagai doa dan hadiah spiritual yang melampaui batas fisik, menjadikannya salah satu bentuk bakti paling sederhana namun sangat bermakna.
 
-Demikianlah ulasan tentang kandungan dan keutamaan Surat Al-Fatihah. Surat yang singkat ini menyimpan kedalaman yang tidak habis dikaji. Semoga setiap kali kita membacanya dalam sholat, kita tidak sekadar mengucapkan kata-kata, tetapi benar-benar menghayati dan merasakan ikatan yang semakin erat dengan Allah SWT.
+Demikianlah ulasan tentang kandungan dan keutamaan [Surat Al-Fatihah](https://www.baca-quran.id/surah/1/). Surat yang singkat ini menyimpan kedalaman yang tidak habis dikaji. Semoga setiap kali kita membacanya dalam sholat, kita tidak sekadar mengucapkan kata-kata, tetapi benar-benar menghayati dan merasakan ikatan yang semakin erat dengan Allah SWT.
