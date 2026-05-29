@@ -12,61 +12,61 @@ Berikut ini adalah sepuluh ayat Al-Quran tentang kebahagiaan dunia dan akhirat y
 
 "Dan di antara mereka ada yang berdoa, 'Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.'"
 
-Inilah doa yang paling lengkap tentang kebahagiaan. Doa ini mengajarkan bahwa seorang mukmin tidak hanya memohon kebaikan akhirat, tetapi juga kebaikan dunia, seraya memohon perlindungan dari keburukan.
+Doa ini, yang dikenal sebagai Rabbana atina fiddunya hasanah, adalah salah satu doa paling sering dianjurkan dalam Islam karena mencakup segala yang dibutuhkan manusia. Perhatikan bahwa doa ini tidak memisahkan antara doa untuk dunia dan doa untuk akhirat, melainkan memohon keduanya sekaligus. Ini adalah cerminan dari pandangan Islam yang tidak membenturkan dunia dan akhirat sebagai dua hal yang saling bertentangan. Seorang Muslim yang baik tidak perlu memilih antara sukses di dunia atau sukses di akhirat; keduanya bisa dan seharusnya berjalan beriringan ketika kita menata niat dan cara hidup kita dengan benar.
 
 ## 2. [QS. Al-Qasas: 77](https://www.baca-quran.id/surah/28/77/)
 
 "Dan carilah (pahala) negeri akhirat dengan apa yang telah dianugerahkan Allah kepadamu, tetapi janganlah kamu lupakan bagianmu di dunia..."
 
-Ayat ini menegaskan keseimbangan yang indah. Akhirat adalah tujuan utama, namun bagian kita di dunia tidak boleh diabaikan. Keduanya berjalan beriringan tanpa harus saling mengorbankan.
+Ayat ini menetapkan prioritas dengan sangat jelas: akhirat adalah tujuan utama, dan harta serta kemampuan yang Allah berikan harus digunakan untuk meraih tujuan itu. Namun Al-Quran juga secara tegas mengatakan "jangan lupakan bagianmu di dunia." Bagian kita di dunia mencakup kebutuhan hidup, kesenangan yang halal, keluarga, dan kontribusi kepada masyarakat. Memenuhi semua itu bukanlah penghalang akhirat, melainkan bagian dari tugas kita sebagai khalifah di bumi. Yang menjadi masalah bukan ketika kita menikmati dunia, tetapi ketika kita tenggelam di dalamnya hingga lupa tujuan yang lebih besar.
 
 ## 3. [QS. Fussilat: 30](https://www.baca-quran.id/surah/41/30/)
 
 "Sesungguhnya orang-orang yang berkata, 'Tuhan kami adalah Allah' kemudian mereka meneguhkan pendirian mereka, maka malaikat-malaikat akan turun kepada mereka (dengan berkata), 'Janganlah kamu merasa takut dan janganlah kamu bersedih hati; dan bergembiralah kamu dengan (memperoleh) surga yang telah dijanjikan kepadamu.'"
 
-Ayat ini memberikan kabar gembira bagi orang yang istiqamah. Keteguhan dalam keimanan akan mendatangkan ketenangan di dunia dan kebahagiaan abadi berupa surga di akhirat.
+Ayat ini menggambarkan sebuah momen yang luar biasa: malaikat turun untuk menenangkan dan menggembirakan orang-orang yang istiqamah dalam keimanan mereka. "Janganlah takut dan jangan bersedih" adalah pesan untuk kehidupan dunia sekarang, sementara "bergembiralah dengan surga" adalah jaminan kebahagiaan akhirat. Keistiqamahan dalam beriman, yaitu mempertahankan keyakinan dan akhlak meski situasi berubah-ubah, adalah kunci yang membuka keduanya: ketenangan di dunia dan surga di akhirat.
 
 ## 4. [QS. Yunus: 64](https://www.baca-quran.id/surah/10/64/)
 
 "Bagi mereka berita gembira di dalam kehidupan di dunia dan di akhirat. Tidak ada perubahan bagi kalimat-kalimat (janji-janji) Allah. Demikian itulah kemenangan yang agung."
 
-Ayat ini menjanjikan kebahagiaan ganda bagi para kekasih Allah. Berita gembira itu hadir di dunia dalam bentuk ketenangan, dan di akhirat dalam bentuk balasan yang sempurna.
+Kalimat "tidak ada perubahan bagi janji-janji Allah" adalah penegasan yang sangat kuat. Dalam dunia yang penuh ketidakpastian, di mana janji manusia bisa diingkari dan situasi bisa berubah kapan saja, Al-Quran menawarkan satu kepastian: janji Allah tidak berubah. Kebahagiaan yang Allah janjikan untuk para wali-Nya di dunia dan akhirat adalah kepastian yang tidak bergantung pada situasi ekonomi, politik, atau kondisi apapun. Ini adalah fondasi yang jauh lebih kokoh dari kebahagiaan manapun yang bisa kita bangun sendiri.
 
 ## 5. [QS. Ali 'Imran: 185](https://www.baca-quran.id/surah/3/185/)
 
 "Setiap yang bernyawa akan merasakan mati. Dan hanya pada hari Kiamat sajalah diberikan dengan sempurna balasanmu. Barangsiapa dijauhkan dari neraka dan dimasukkan ke dalam surga, sungguh, dia memperoleh kemenangan..."
 
-Ayat ini mengingatkan bahwa kebahagiaan dunia bersifat sementara. Kemenangan yang sesungguhnya adalah ketika kita selamat dari neraka dan meraih surga, sehingga orientasi hidup pun menjadi lebih jelas.
+Ayat ini memberikan perspektif yang menyeluruh tentang apa yang dimaksud dengan kemenangan sejati. Semua pencapaian dunia, karier yang gemilang, kekayaan yang berlimpah, popularitas yang luas, tidak disebut sebagai kemenangan. Kemenangan yang sesungguhnya satu-satunya adalah selamat dari neraka dan masuk ke dalam surga. Kesadaran ini tidak membuat kita pesimis terhadap dunia, melainkan membantu kita meletakkan setiap usaha duniawi pada perspektif yang benar: semuanya adalah sarana, bukan tujuan akhir.
 
 ## 6. [QS. Al-Kahf: 46](https://www.baca-quran.id/surah/18/46/)
 
 "Harta dan anak-anak adalah perhiasan kehidupan dunia, tetapi amal kebajikan yang terus-menerus adalah lebih baik pahalanya di sisi Tuhanmu serta lebih baik untuk menjadi harapan."
 
-Ayat ini menata ulang cara pandang kita terhadap kebahagiaan. Harta dan keluarga adalah keindahan dunia yang patut disyukuri, namun amal kebaikan adalah bekal yang nilainya jauh lebih kekal.
+Ayat ini tidak melarang kita memiliki harta dan keluarga, bahkan menyebutnya sebagai "perhiasan kehidupan dunia" yang indah dan layak disyukuri. Namun Al-Quran mengingatkan bahwa ada sesuatu yang "lebih baik": amal kebajikan yang terus-menerus atau al-baqiyatus shalihaat, amal yang pahalanya terus mengalir bahkan setelah kita tiada. Ini mengajari kita untuk tidak hanya berinvestasi dalam hal-hal yang nilainya habis di dunia, tetapi juga secara aktif menanam benih kebaikan yang akan berbuah panjang.
 
 ## 7. [QS. Ta-Ha: 124](https://www.baca-quran.id/surah/20/124/)
 
 "Dan barangsiapa berpaling dari peringatan-Ku, maka sungguh, dia akan menjalani kehidupan yang sempit..."
 
-Ayat ini menjelaskan sumber kegelisahan yang sebenarnya. Hidup yang jauh dari petunjuk Allah akan terasa sempit meski dipenuhi harta, sebab ketenangan hati hanya datang dari kedekatan dengan-Nya.
+Ayat ini menjelaskan akar dari banyak kegelisahan yang manusia rasakan. Ada orang yang secara materi berkecukupan, tetapi hidupnya terasa sempit dan tidak tenang. Al-Quran menunjukkan bahwa "kehidupan yang sempit" itu bukan selalu soal kekurangan materi, melainkan bisa berupa kekosongan jiwa yang dialami oleh mereka yang jauh dari Allah. Sebaliknya, seseorang yang hidupnya sederhana namun dekat dengan Allah bisa merasakan keluasan dan kelapangan yang tidak bisa dijelaskan oleh logika materi semata.
 
 ## 8. [QS. Al-Hadid: 20](https://www.baca-quran.id/surah/57/20/)
 
 "Ketahuilah, sesungguhnya kehidupan dunia hanyalah permainan dan senda gurau, perhiasan dan saling berbangga di antara kamu serta berlomba dalam kekayaan dan anak keturunan..."
 
-Ayat ini mengajak kita untuk tidak terlalu terikat pada gemerlap dunia. Memahami hakikat dunia yang sementara akan membuat hati lebih lapang dan tidak mudah kecewa.
+Ayat ini menggunakan kata "hanyalah" yang dalam bahasa Arab bermakna penyempitan atau pembatasan. Al-Quran tidak mengatakan dunia tidak ada nilainya sama sekali, tetapi bahwa esensinya tidak melebihi semua hal yang disebutkan: permainan, senda gurau, perhiasan, dan perlombaan. Semua itu bersifat sementara dan tidak memberikan kebahagiaan yang abadi. Orang yang bijak menggunakan dunia sebagai ladang, bukan sebagai tujuan, sehingga ia tidak mudah tersesat dalam kesenangan yang menipu.
 
 ## 9. [QS. Al-A'la: 16-17](https://www.baca-quran.id/surah/87/16/)
 
 "Sedangkan kamu (orang-orang) memilih kehidupan dunia, padahal kehidupan akhirat itu lebih baik dan lebih kekal."
 
-Ayat ini menjadi peringatan agar kita tidak mengutamakan yang fana di atas yang kekal. Kebahagiaan akhirat selalu lebih baik, sehingga selayaknya menjadi prioritas dalam setiap pilihan hidup.
+Dua kata terakhir dalam ayat ini, "lebih baik" dan "lebih kekal", merangkum seluruh argumen Al-Quran tentang mengapa akhirat harus menjadi prioritas. Dunia mungkin terasa nyata dan teraba, sementara akhirat terasa abstrak. Tetapi dunia bersifat sementara dan terbatas, sementara akhirat kekal dan tanpa batas. Memilih yang sementara di atas yang kekal, yang lebih kecil di atas yang lebih besar, adalah sebuah logika yang bila kita renungkan dengan jernih, tidak masuk akal. Namun Al-Quran memahami bahwa godaan dunia sangat kuat, itulah mengapa ia terus mengingatkan kita dengan berbagai cara.
 
 ## 10. [QS. Ad-Duha: 4](https://www.baca-quran.id/surah/93/4/)
 
 "Dan sungguh, yang kemudian (akhirat) itu lebih baik bagimu daripada yang permulaan (dunia)."
 
-Ayat ini menutup dengan penegasan yang menenangkan. Apa pun keadaan kita di dunia, ada kebaikan yang lebih besar menanti di akhirat bagi mereka yang bersabar dan beriman.
+Ayat ini disampaikan kepada Rasulullah SAW di saat beliau sedang dalam kesedihan karena wahyu sempat terhenti. Allah menutup kegelisahan itu dengan jaminan yang sangat menenangkan: apa yang menanti lebih baik dari apa yang ada sekarang. Bagi kita yang membacanya hari ini, pesan ini tetap relevan: apapun kesulitan, kekurangan, atau ketidaksempurnaan yang kita alami di dunia, ada yang lebih baik yang menanti di sisi Allah bagi mereka yang bersabar dan beriman. Ini adalah obat yang sangat ampuh untuk jiwa yang sedang kelelahan.
 
 Sebagai penutup, kebahagiaan sejati lahir dari keseimbangan antara mengejar kebaikan dunia dan menyiapkan bekal akhirat. Semoga ayat-ayat di atas membantu kita menata niat agar setiap aktivitas dunia bernilai ibadah dan menjadi tabungan kebaikan untuk kehidupan yang kekal.
 
