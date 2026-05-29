@@ -1,0 +1,6 @@
+{
+  "name": "gatsby-remark-arabic-text",
+  "version": "1.0.0",
+  "description": "Wraps Arabic-text paragraphs with font-arabic class and dir=rtl at build time",
+  "main": "index.js"
+}
