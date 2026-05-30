@@ -103,7 +103,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Semua Surah
+              📚 Semua Surah
             </a>
             <a
               className="site-footer__link"
@@ -111,7 +111,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Baca Per Ayat
+              📖 Baca Per Ayat
             </a>
             <a
               className="site-footer__link"
@@ -119,7 +119,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Juz Amma
+              📒 Juz Amma
             </a>
             <a
               className="site-footer__link"
@@ -127,7 +127,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Ayat Kursi
+              🪑 Ayat Kursi
             </a>
           </div>
 
@@ -139,7 +139,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Doa Harian
+              🙏 Doa Harian
             </a>
             <a
               className="site-footer__link"
@@ -147,7 +147,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Wirid
+              🧎 Wirid
             </a>
             <a
               className="site-footer__link"
@@ -155,7 +155,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Dzikir Pagi & Petang
+              🌅 Dzikir Pagi & Petang
             </a>
             <a
               className="site-footer__link"
@@ -163,7 +163,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tasbih
+              📿 Tasbih
             </a>
             <a
               className="site-footer__link"
@@ -171,7 +171,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tahlil
+              🤲 Tahlil
             </a>
           </div>
 
@@ -183,7 +183,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Asmaul Husna
+              💯 Asmaul Husna
             </a>
             <a
               className="site-footer__link"
@@ -191,7 +191,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Jadwal Sholat
+              ⏰ Jadwal Sholat
             </a>
             <a
               className="site-footer__link"
@@ -199,7 +199,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Pencatat Ibadah
+              ⏺️ Pencatat Ibadah
             </a>
             <a
               className="site-footer__link"
@@ -207,7 +207,7 @@ const Layout = ({ location, title, children }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Kalender Hijriyah
+              📅 Kalender Hijriyah
             </a>
           </div>
 
