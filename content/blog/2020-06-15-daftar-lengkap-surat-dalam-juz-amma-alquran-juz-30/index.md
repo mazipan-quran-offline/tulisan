@@ -4,7 +4,7 @@ description: Daftar lengkap dan urutan surat dalam Juz Amma (Al-Quran Juz 30) ya
 date: '2024-12-04T23:59:59.121Z'
 ---
 
-**Juz 30** dalam Al-Quran dikenal dengan **[Juz Amma](https://www.baca-quran.id/juz-amma/)** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi <bdi class="font-arabic-inline" dir="rtl">عَمَّ يَتَسَاۤءَلُوْنَۚ</bdi> ('Amma yatasaaa aluun).
+**Juz 30** dalam Al-Quran dikenal dengan **[Juz Amma](https://www.baca-quran.id/juz-amma/)** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi <span style="font-family: 'Noto Naskh Arabic', serif">عَمَّ يَتَسَاۤءَلُوْنَۚ</span> ('Amma yatasaaa aluun).
 
 Juz 30 merupakan juz terakhir atau pamungkas dari keseluruhan isi Al-Quran yang dimulai dari Surat Al-fatihah dan diteruskan dengan Surat Al-Baqarah sampai ke An-Nas.
 
@@ -81,7 +81,7 @@ Daftar lengkap 37 surat dalam Juz 30 beserta arti dan jumlah ayatnya bisa Anda l
 
 **Mengapa Juz 30 disebut Juz Amma?**
 
-Juz 30 disebut Juz Amma karena diawali oleh surat An-Naba' yang dibuka dengan ayat berbunyi <bdi class="font-arabic-inline" dir="rtl">عَمَّ يَتَسَاۤءَلُوْنَۚ</bdi> ('Amma yatasaa aluun), sehingga kata "Amma" kemudian melekat menjadi nama populer untuk juz ini.
+Juz 30 disebut Juz Amma karena diawali oleh surat An-Naba' yang dibuka dengan ayat berbunyi <span style="font-family: 'Noto Naskh Arabic', serif">عَمَّ يَتَسَاۤءَلُوْنَۚ</span> ('Amma yatasaa aluun), sehingga kata "Amma" kemudian melekat menjadi nama populer untuk juz ini.
 
 **Berapa banyak surat pendek dalam Juz 30?**
 
