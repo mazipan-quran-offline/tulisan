@@ -58,7 +58,7 @@ Ketika para sahabat lulus dari 4 fitnah di atas. Maka Allah memberikan pujian ya
 Demikian istimewanya surat ini, hingga Rasulullah Shallallahu ‘alaihi wa sallam jadikan sebagai sumber cahaya bagi manusia. Sehingga mereka terhindari dari fitnah Dajjal, fitnah dunia, dan agama. Tentu saja, ini bagi mereka yang berusaha merenungi kandungan isi dan maknanya.
 
 Ditulis Oleh:
-Ustadz Abu Rufaydah, Lc. MA حفظه الله (Kontributor Bimbinganislam.com)
+Ustadz Abu Rufaydah, Lc. MA <span class="arabic">حفظه الله</span> (Kontributor Bimbinganislam.com)
 
 Referensi: https://bimbinganislam.com/keutamaan-surat-al-kahfi-di-malam-jumat/
 

@@ -7,7 +7,6 @@
   display: block;
 }
 
-.font-arabic-inline {
+.arabic {
   font-family: var(--font-arabic);
-  font-size: 1.2em;
 }
