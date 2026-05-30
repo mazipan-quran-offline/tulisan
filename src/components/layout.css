@@ -6,8 +6,3 @@
   line-height: 2;
   display: block;
 }
-
-.font-arabic-inline {
-  font-family: var(--font-arabic);
-  font-size: 1.2em;
-}
