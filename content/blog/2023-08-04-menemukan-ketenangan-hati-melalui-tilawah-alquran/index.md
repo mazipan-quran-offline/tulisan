@@ -13,7 +13,7 @@ Tilawah Al-Quran adalah tindakan membaca Al-Quran dengan penuh perenungan dan ke
 ### [Surah Ar-Ra'd (13): Ayat 28](https://www.baca-quran.id/surah/13/28/)
 
 <section>
-  <p class="font-arabic">
+  <p class="font-arabic" dir="rtl">
     الَّذِيْنَ اٰمَنُوْا وَتَطْمَىِٕنُّ قُلُوْبُهُمْ بِذِكْرِ اللّٰهِ ۗ اَلَا بِذِكْرِ اللّٰهِ تَطْمَىِٕنُّ الْقُلُوْبُ
   </p>
   <b>Terjemahan:</b>
@@ -25,7 +25,7 @@ Tilawah Al-Quran adalah tindakan membaca Al-Quran dengan penuh perenungan dan ke
 ### [Surah Az-Zumar (39): Ayat 23](https://www.baca-quran.id/surah/39/23/)
 
 <section>
-  <p class="font-arabic">
+  <p class="font-arabic" dir="rtl">
     اَللّٰهُ نَزَّلَ اَحْسَنَ الْحَدِيْثِ كِتٰبًا مُّتَشَابِهًا مَّثَانِيَۙ تَقْشَعِرُّ مِنْهُ جُلُوْدُ الَّذِيْنَ يَخْشَوْنَ رَبَّهُمْ ۚ ثُمَّ تَلِيْنُ جُلُوْدُهُمْ وَقُلُوْبُهُمْ اِلٰى ذِكْرِ اللّٰهِ ۗذٰلِكَ هُدَى اللّٰهِ يَهْدِيْ بِهٖ مَنْ يَّشَاۤءُ ۗوَمَنْ يُّضْلِلِ اللّٰهُ فَمَا لَهٗ مِنْ هَادٍ
   </p>
   <b>Terjemahan:</b>

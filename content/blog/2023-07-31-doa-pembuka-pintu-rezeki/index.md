@@ -37,7 +37,7 @@ Doa saja tidaklah cukup tanpa tiga pilar ini, dan ketiganya saling menguatkan sa
 ### Doa pembuka pintu rezeki 1
 
 <section>
-  <p class="font-arabic">
+  <p class="font-arabic" dir="rtl">
     أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ
     لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَسُوْءِ الْكِبَرِ، رَبِّ أَعُوْذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ
   </p>
@@ -54,7 +54,7 @@ Doa ini adalah doa pagi yang sangat dianjurkan. Membuka hari dengan pengakuan ba
 ### Doa pembuka pintu rezeki 2
 
 <section>
-  <p class="font-arabic">
+  <p class="font-arabic" dir="rtl">
     رَضِيْتُ بِاللهِ رَبًّا، وَبِاْلإِسْلاَمِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا
   </p>
   <b>Terjemahan:</b>
@@ -68,7 +68,7 @@ Doa yang singkat namun sangat dalam ini adalah pernyataan kepuasan dan penerimaa
 ### Doa pembuka pintu rezeki 3
 
 <section>
-  <p class="font-arabic">
+  <p class="font-arabic" dir="rtl">
     بِسْمِ اللهِ عَلَى نَفْسِي وَمَالِي وَدِيْنِيْ. اَللَّهُمَّ رَضِّنِيْ بِقَضَائِكَ، وَبَارِكْ لِيْ فِيْمَا قُدِّرَ لِيْ حَتَّى لَا أُحِبَّ تَعْجِيْلَ مَا أَخَّرْتَ وَلَا تَأْخِيْرَ مَا عَجَّلْتَ
   </p>
   <b>Terjemahan:</b>
