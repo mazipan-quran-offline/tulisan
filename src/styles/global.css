@@ -384,6 +384,18 @@ tbody tr:last-child td {
   box-shadow: var(--card-shadow);
 }
 
+.gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+.gatsby-resp-image-image {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  display: block;
+}
+
 /* ============================================
    LAYOUT ROOT
    ============================================ */
