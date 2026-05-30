@@ -35,10 +35,28 @@ Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluru
 
 ## Gaya Penulisan
 
-- Tulis dalam Bahasa Indonesia dengan nada formal namun tetap ramah dan terasa manusiawi, tidak kaku.
+- Tulis dalam Bahasa Indonesia dengan nada hangat dan terasa manusiawi, seperti seseorang yang benar-benar peduli dan ingin berbagi, bukan seperti ringkasan ensiklopedia.
 - **Jangan pernah menggunakan tanda pemisah "--" atau tanda pisah panjang (em dash).** Gunakan koma untuk menggantikannya agar kalimat terasa lebih alami.
 - Sapa pembaca dengan "Anda".
-- Buat tulisan mudah dipindai di layar ponsel, sebab mayoritas pembaca mengakses dari perangkat seluler. Manfaatkan judul bagian (heading), poin, dan tabel.
+- Buat tulisan mudah dipindai di layar ponsel, sebab mayoritas pembaca mengakses dari perangkat seluler. Manfaatkan judul bagian (heading) dan tabel bila sesuai.
+
+### Panjang dan Kedalaman Konten
+
+- **Setiap bagian (section) harus berisi minimal 4 hingga 6 kalimat**, bukan 1 atau 2. Jelaskan mengapa sesuatu itu penting, berikan konteks historis atau spiritual, dan hubungkan dengan kehidupan nyata pembaca.
+- **Hindari paragraf yang terlalu pendek dan terasa seperti poin ringkasan.** Tulis dengan kalimat penuh yang mengalir, bukan daftar fakta yang terputus-putus.
+- Target panjang artikel minimal sekitar **700 hingga 900 kata** agar konten cukup dalam untuk memberikan manfaat nyata.
+
+### Cara Menuliskan Sub-topik
+
+- **Gunakan format bold-headed paragraph** untuk sub-topik dalam sebuah section, bukan bullet list mentah. Caranya: tulis nama sub-topik dicetak tebal di awal paragraf, lalu langsung lanjutkan penjelasannya dalam kalimat yang mengalir di paragraf yang sama.
+  - Contoh yang benar: `**Menjaga Sahur** — Sahur bukan sekadar kebiasaan...`
+  - Contoh yang salah: `- Menjaga Sahur: penting karena mengandung berkah.`
+- Pengecualian: tabel dan daftar langkah prosedural yang memang paling jelas dalam format berurutan tetap boleh menggunakan format list.
+
+### Pembuka Artikel
+
+- **Jangan memulai artikel dengan kalimat template** seperti "Artikel ini membahas...", "Artikel ini merangkum...", atau "Artikel ini menjelaskan...". Kalimat tersebut terasa seperti AI dan membuang perhatian pembaca.
+- Buka dengan kalimat yang langsung menempatkan pembaca dalam konteks: jelaskan mengapa topik ini relevan, apa yang membuat momen ini istimewa, atau tegangan/pertanyaan yang akan dijawab artikel.
 
 ## Tautan ke Proyek Utama (Wajib)
 
@@ -86,8 +104,11 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 
 ## Contoh Referensi
 
-Beberapa artikel yang bisa dijadikan acuan format:
+Beberapa artikel yang bisa dijadikan acuan format dan gaya penulisan:
 
-- Format daftar ayat: `content/blog/2023-05-01-10-ayat-tentang-kebahagiaan/`
+- Gaya narasi hangat dengan section panjang: `content/blog/2023-08-05-mengapa-al-quran-dijuluki-sebagai-pedoman-hidup-umat-muslim/`
+- Format bold-headed paragraph untuk sub-topik: `content/blog/2026-06-05-amalan-dan-keutamaan-bulan-muharram/`
+- Artikel panduan dengan niat Arab + penjelasan kontekstual: `content/blog/2026-06-11-panduan-puasa-tasua-dan-asyura/`
+- Format daftar ayat dengan komentar mendalam per ayat: `content/blog/2026-05-28-ayat-al-quran-tentang-kebahagiaan-dunia-dan-akhirat/`
 - Format tabel dan tanya jawab: `content/blog/2026-05-28-urutan-surat-juz-30-sebelum-dan-sesudahnya/`
 - Format panduan dengan gambar: `content/blog/2024-12-06-panduan-menggunakan-tasbih-digital-online/`
