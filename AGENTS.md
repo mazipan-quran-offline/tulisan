@@ -102,6 +102,13 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 
 **Penting:** jangan menambahkan label `automerge` secara manual pada PR terjadwal kecuali memang ingin segera menerbitkannya, sebab label itulah yang menjadi pemicu merge oleh Kodiak.
 
+## Alur Kerja PR (Pull Request)
+
+- Setiap pekerjaan selalu dikerjakan di **branch baru yang dibuat dari `master` terbaru**, bukan melanjutkan branch lama.
+- Gunakan satu branch per PR. Jangan menambahkan commit baru ke branch yang PRnya sudah dibuka.
+- **Setiap kali pengguna mengatakan "I merged it" (atau sejenisnya), langsung buat branch baru dan PR baru** untuk pekerjaan berikutnya. Jangan menunggu instruksi tambahan.
+- Alur baku: `git checkout origin/master -b nama-branch` → kerjakan perubahan → commit → push → buka PR.
+
 ## Contoh Referensi
 
 Beberapa artikel yang bisa dijadikan acuan format dan gaya penulisan:
