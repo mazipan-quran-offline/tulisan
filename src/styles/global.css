@@ -1433,6 +1433,11 @@ tbody tr:last-child td {
   display: block;
 }
 
+.font-arabic-inline {
+  font-family: var(--font-arabic);
+  font-size: 1.2em;
+}
+
 /* ============================================
    RESPONSIVE
    ============================================ */
