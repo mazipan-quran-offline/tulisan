@@ -7,8 +7,10 @@ module.exports = ({ markdownAST }) => {
   // Basic Arabic block + Supplement + Extended-A + Presentation Forms A/B
   const ARABIC_RE =
     /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]/;
+  // Also matches spaces *between* Arabic words so the whole phrase lands in
+  // one <bdi> and maintains correct RTL word order as a single inline unit.
   const ARABIC_SPLIT_RE =
-    /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]+/g;
+    /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]+(?:\s+[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]+)*/g;
 
   // Treat paragraph as an Arabic block only when ≥40% of non-space chars
   // are Arabic. Inline quoted Arabic phrases stay well below this.
@@ -40,7 +42,7 @@ module.exports = ({ markdownAST }) => {
       }
       nodes.push({
         type: 'html',
-        value: `<bdi class="font-arabic-inline">${match[0]}</bdi>`,
+        value: `<bdi class="font-arabic-inline" dir="rtl">${match[0]}</bdi>`,
       });
       lastIndex = match.index + match[0].length;
     }
