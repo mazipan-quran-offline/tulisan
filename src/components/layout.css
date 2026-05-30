@@ -6,3 +6,7 @@
   line-height: 2;
   display: block;
 }
+
+.arabic {
+  font-family: var(--font-arabic);
+}

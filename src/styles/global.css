@@ -1445,6 +1445,10 @@ tbody tr:last-child td {
   display: block;
 }
 
+.arabic {
+  font-family: var(--font-arabic);
+}
+
 /* ============================================
    RESPONSIVE
    ============================================ */
