@@ -1447,6 +1447,7 @@ tbody tr:last-child td {
 
 .arabic {
   font-family: var(--font-arabic);
+  direction: rtl;
 }
 
 /* ============================================
