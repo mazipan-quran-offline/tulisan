@@ -1,5 +1,5 @@
 ---
-title: Bacaan Dzikir Setelah Sholat Fardhu: Subhanallah, Alhamdulillah, dan Allahu Akbar
+title: "Bacaan Dzikir Setelah Sholat Fardhu: Subhanallah, Alhamdulillah, dan Allahu Akbar"
 description: Bacaan dzikir setelah sholat fardhu lengkap beserta artinya, termasuk keutamaan membaca Subhanallah, Alhamdulillah, dan Allahu Akbar sebanyak 33 kali.
 date: '2026-06-05T23:59:59.121Z'
 ---
