@@ -536,7 +536,7 @@ tbody tr:last-child td {
   margin: 0 auto;
   padding: 3rem 1.5rem 2rem;
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1fr auto auto auto auto;
   gap: 3rem;
   align-items: start;
 }
@@ -1437,6 +1437,13 @@ tbody tr:last-child td {
    RESPONSIVE
    ============================================ */
 
+@media (max-width: 1024px) {
+  .site-footer__inner {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
 @media (max-width: 768px) {
   :root {
     --header-height: 56px;
@@ -1464,9 +1471,17 @@ tbody tr:last-child td {
   }
 
   .site-footer__inner {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     padding: 2rem 1rem 1.5rem;
-    gap: 2rem;
+    gap: 1.5rem 1rem;
+  }
+
+  .site-footer__brand {
+    grid-column: 1 / -1;
+  }
+
+  .site-footer__links {
+    min-width: 0;
   }
 
   .related-posts__grid {

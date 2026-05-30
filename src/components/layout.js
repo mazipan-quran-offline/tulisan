@@ -96,6 +96,122 @@ const Layout = ({ location, title, children }) => {
           </div>
 
           <div className="site-footer__links">
+            <span className="site-footer__link-label">Al-Qur'an</span>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/all-surah/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📚 Semua Surah
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/surah/1/1/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📖 Baca Per Ayat
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/juz-amma/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📒 Juz Amma
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/ayat-kursi/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🪑 Ayat Kursi
+            </a>
+          </div>
+
+          <div className="site-footer__links">
+            <span className="site-footer__link-label">Doa & Dzikir</span>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/daily-doa/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🙏 Doa Harian
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/wirid/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🧎 Wirid
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/adhkar/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🌅 Dzikir Pagi & Petang
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/tasbih/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📿 Tasbih
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/tahlil/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🤲 Tahlil
+            </a>
+          </div>
+
+          <div className="site-footer__links">
+            <span className="site-footer__link-label">Fitur Lainnya</span>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/asmaul-husna/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💯 Asmaul Husna
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/jadwal-sholat/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ⏰ Jadwal Sholat
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/pencatat-ibadah/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ⏺️ Pencatat Ibadah
+            </a>
+            <a
+              className="site-footer__link"
+              href="https://www.baca-quran.id/kalender-hijriyah/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📅 Kalender Hijriyah
+            </a>
+          </div>
+
+          <div className="site-footer__links">
             <span className="site-footer__link-label">Tautan</span>
             <a className="site-footer__link" href="https://www.baca-quran.id/">
               Baca-Quran.id
