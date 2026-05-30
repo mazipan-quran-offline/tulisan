@@ -7,11 +7,11 @@ You are helping create scheduled articles for the **tulisan** blog, which suppor
 
 ## Rules from AGENTS.md
 
-!`cat /home/user/tulisan/AGENTS.md`
+!`cat $CLAUDE_PROJECT_DIR/AGENTS.md`
 
 ## Existing articles (to avoid keyword cannibalization)
 
-!`find /home/user/tulisan/content/blog -name "index.md" | sort | xargs grep -l "" | sed 's|.*/content/blog/||;s|/index.md||'`
+!`find $CLAUDE_PROJECT_DIR/content/blog -name "index.md" | sort | sed 's|.*/content/blog/||;s|/index.md||'`
 
 ## Your task
 
