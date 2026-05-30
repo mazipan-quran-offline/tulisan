@@ -1471,9 +1471,17 @@ tbody tr:last-child td {
   }
 
   .site-footer__inner {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     padding: 2rem 1rem 1.5rem;
-    gap: 2rem;
+    gap: 1.5rem 1rem;
+  }
+
+  .site-footer__brand {
+    grid-column: 1 / -1;
+  }
+
+  .site-footer__links {
+    min-width: 0;
   }
 
   .related-posts__grid {
