@@ -9,4 +9,5 @@
 
 .arabic {
   font-family: var(--font-arabic);
+  direction: rtl;
 }
