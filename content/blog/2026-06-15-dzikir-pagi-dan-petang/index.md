@@ -1,5 +1,5 @@
 ---
-title: Dzikir Pagi dan Petang: Bacaan Lengkap Beserta Keutamaannya
+title: "Dzikir Pagi dan Petang: Bacaan Lengkap Beserta Keutamaannya"
 description: Kumpulan bacaan dzikir pagi dan petang yang dianjurkan Rasulullah SAW, lengkap dengan tulisan Arab, latin, dan terjemahan bahasa Indonesia.
 date: '2026-06-15T23:59:59.121Z'
 ---
