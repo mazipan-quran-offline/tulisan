@@ -1,0 +1,125 @@
+---
+title: "Dzikir Pagi dan Petang: Bacaan Lengkap Beserta Keutamaannya"
+description: Kumpulan bacaan dzikir pagi dan petang yang dianjurkan Rasulullah SAW, lengkap dengan tulisan Arab, latin, dan terjemahan bahasa Indonesia.
+date: '2026-06-15T23:59:59.121Z'
+---
+
+Ada dua waktu dalam sehari yang memiliki kedudukan istimewa dalam Islam: pagi setelah subuh dan petang menjelang maghrib. Di dua waktu inilah para malaikat bergantian menjaga manusia, dan di dua waktu inilah Allah SWT memerintahkan hamba-hamba-Nya untuk memperbanyak dzikir dan doa. Amalan ini dikenal sebagai dzikir pagi dan petang, atau dalam bahasa Arab disebut *al-adzkaar al-masaa'iyah wal ashbahiyyah*.
+
+Rasulullah SAW sangat menekankan amalan ini dan beliau sendiri tidak pernah meninggalkannya. Bagi seorang muslim yang ingin memiliki benteng perlindungan, ketenangan hati, dan keberkahan sepanjang hari, dzikir pagi dan petang adalah amalan yang paling dianjurkan.
+
+## Waktu Membaca Dzikir Pagi dan Petang
+
+**Dzikir pagi** dibaca setelah sholat subuh hingga sebelum matahari terbit (waktu duha). Sebagian ulama memperluaskan batas waktunya hingga sebelum tergelincir matahari (waktu zuhur).
+
+**Dzikir petang** dibaca setelah sholat ashar hingga sebelum matahari terbenam. Sebagian ulama memperluaskan hingga sebelum tengah malam.
+
+## Bacaan Dzikir Pagi dan Petang
+
+### 1. Ayat Kursi (1 kali)
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ
+  </p>
+  <b>Terjemahan:</b>
+  <div style="margin-bottom: 1em">
+    <p>Allah, tidak ada tuhan selain Dia, Yang Maha Hidup, Yang terus menerus mengurus (makhluk-Nya). Dia tidak mengantuk dan tidak tidur. Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya, dan Dia Maha Tinggi, Maha Besar. (QS. Al-Baqarah: 255)</p>
+  </div>
+</section>
+
+Rasulullah SAW bersabda: "Barang siapa membaca ayat kursi setiap pagi dan petang, maka tidak ada yang bisa menyakitinya." (HR. Thabrani)
+
+### 2. Al-Ikhlas, Al-Falaq, dan An-Naas (3 kali tiap surat)
+
+Tiga surat pendek ini dianjurkan dibaca masing-masing tiga kali pada dzikir pagi dan petang. Rasulullah SAW bersabda bahwa ketiganya cukup untuk menjaga seseorang dari segala sesuatu. (HR. Abu Dawud dan Tirmidzi)
+
+### 3. Sayyidul Istighfar
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ
+  </p>
+  <b>Latin:</b> Allahumma anta rabbii laa ilaaha illaa anta, khalaqtanii wa ana 'abduka, wa ana 'alaa 'ahdika wa wa'dika mastatha'tu, a'uudzu bika min syarri maa shana'tu, abuu'u laka bini'matika 'alayya wa abuu'u bidzambii, faghfir lii fa-innahu laa yaghfirudz dzunuuba illaa anta.
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Ya Allah, Engkau adalah Tuhanku, tidak ada tuhan selain Engkau. Engkau yang menciptakanku dan aku adalah hamba-Mu. Aku berada di atas perjanjian dan janji-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang aku perbuat. Aku mengakui nikmat-Mu atasku dan aku mengakui dosaku, maka ampunilah aku, sesungguhnya tidak ada yang mengampuni dosa-dosa kecuali Engkau.</p>
+  </div>
+</section>
+
+Rasulullah SAW bersabda: "Siapa yang mengucapkan sayyidul istighfar ini di siang hari dengan penuh keyakinan, lalu meninggal di hari itu sebelum petang, maka ia termasuk penghuni surga. Dan siapa yang mengucapkannya di malam hari dengan penuh keyakinan lalu meninggal sebelum pagi, maka ia termasuk penghuni surga." (HR. Bukhari)
+
+### 4. Tasbih, Tahmid, Tahlil, dan Takbir
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    سُبْحَانَ اللَّهِ وَبِحَمْدِهِ
+  </p>
+  <b>Latin:</b> Subhanallahi wa bihamdih (dibaca 100 kali di pagi dan petang)
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Maha Suci Allah dan segala puji bagi-Nya.</p>
+  </div>
+</section>
+
+Rasulullah SAW bersabda: "Barang siapa mengucapkan 'Subhanallahi wa bihamdih' sebanyak 100 kali di pagi hari dan 100 kali di sore hari, maka tidak ada seorang pun yang datang pada hari kiamat dengan sesuatu yang lebih baik dari apa yang ia bawa, kecuali orang yang mengucapkan seperti yang ia ucapkan atau lebih banyak." (HR. Muslim)
+
+Untuk memudahkan menghitung 100 kali tasbih ini, Anda bisa menggunakan [tasbih digital dari Baca-Quran.id](https://www.baca-quran.id/tasbih/) yang tersedia gratis langsung dari browser.
+
+### 5. Doa Perlindungan Pagi Hari
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ
+  </p>
+  <b>Latin:</b> Ashbahnaa wa ashbahal mulku lillah, walhamdulillah, laa ilaaha illallahu wahdahu laa syariika lah
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Kami memasuki waktu pagi dan kerajaan hanya milik Allah, segala puji bagi Allah, tidak ada tuhan selain Allah semata, tiada sekutu bagi-Nya.</p>
+  </div>
+</section>
+
+Di waktu petang, kata *ashbahnaa* diganti dengan *amsaynaa* dan *ashbahal mulku* diganti dengan *amsal mulku*.
+
+### 6. Doa Perlindungan dari Segala Keburukan
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ
+  </p>
+  <b>Latin:</b> Allahumma bika ashbahnaa wa bika amsaynaa wa bika nahyaa wa bika namuutu wa ilaykan nusyuur
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Ya Allah, dengan (pertolongan) Mu kami memasuki waktu pagi, dengan (pertolongan) Mu kami memasuki waktu petang, dengan (pertolongan) Mu kami hidup, dengan (pertolongan) Mu kami mati, dan kepada-Mu lah (kami) kembali.</p>
+  </div>
+</section>
+
+### 7. Doa Memohon Kesehatan dan Keselamatan (Afiyah)
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ
+  </p>
+  <b>Latin:</b> Allahumma innii as-alukal 'afwa wal 'aafiyata fid dun-yaa wal aakhirah
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Ya Allah, sesungguhnya aku memohon kepada-Mu pemaafan dan kesehatan (afiyah) di dunia dan akhirat.</p>
+  </div>
+</section>
+
+### 8. Tahlil (10 kali di pagi hari)
+
+<section>
+  <p class="font-arabic" dir="rtl">
+    لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+  </p>
+  <b>Latin:</b> Laa ilaaha illallahu wahdahu laa syariika lahu, lahul mulku wa lahul hamdu yuhyii wa yumiitu wa huwa 'alaa kulli syai'in qadiir (dibaca 10 kali di pagi hari)
+  <div style="margin-bottom: 1em">
+    <p><b>Terjemahan:</b> Tidak ada tuhan selain Allah semata, tidak ada sekutu bagi-Nya. Milik-Nyalah segala kerajaan dan segala pujian. Dia yang menghidupkan dan mematikan, dan Dia Maha Kuasa atas segala sesuatu.</p>
+  </div>
+</section>
+
+Rasulullah SAW bersabda: "Barang siapa mengucapkan ini 10 kali di pagi hari, maka Allah akan mencatat baginya 10 kebaikan, menghapus 10 keburukan, dan mengangkat 10 derajat..." (HR. Ahmad)
+
+## Keutamaan Mengamalkan Dzikir Pagi dan Petang
+
+Dzikir pagi dan petang yang diamalkan secara rutin memberikan manfaat yang bersifat menyeluruh — tidak hanya di akhirat, tetapi juga dalam kehidupan sehari-hari. Ia menjadi perisai dari gangguan jin dan manusia, mendatangkan ketenangan batin yang nyata, serta menjadi pengingat bahwa setiap hari dimulai dan diakhiri di bawah penjagaan Allah.
+
+Yang membuat amalan ini istimewa adalah fleksibilitasnya: ia tidak membutuhkan tempat khusus, pakaian tertentu, atau kondisi tertentu. Ia bisa diamalkan sambil duduk setelah subuh, sambil berjalan menuju tempat kerja, atau sambil menunggu di perjalanan. Yang dibutuhkan hanyalah lisan yang bergerak dan hati yang hadir.
+
+Untuk melengkapi rutinitas dzikir Anda, baca juga artikel tentang [bacaan dzikir setelah sholat fardhu](/2026-06-05-dzikir-setelah-sholat-fardhu/) dan [cara berzikir yang benar menurut sunnah](/2026-06-25-cara-berzikir-yang-benar-menurut-sunnah/).
