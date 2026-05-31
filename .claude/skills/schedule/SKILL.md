@@ -31,6 +31,7 @@ Before writing anything, present a plan to the user:
 For each article:
 - Create the folder `content/blog/YYYY-MM-DD-slug/` with `index.md` inside
 - Follow all writing rules from AGENTS.md (tone, length, format, no em-dashes, bold-headed paragraphs, etc.)
+- **YAML rule**: if `title` or `description` contains a colon (`:`), wrap the whole value in double quotes — e.g. `title: "Judul: Subjudul"`. Unquoted colons break the YAML parser and fail CI.
 - Include at least one link to `https://www.baca-quran.id/` or a subpage
 - Cross-link to related articles using relative paths like `[Title](/slug/)`
 
