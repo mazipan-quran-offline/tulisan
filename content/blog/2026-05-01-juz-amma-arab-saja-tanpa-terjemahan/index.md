@@ -10,23 +10,21 @@ Artikel ini akan menjelaskan manfaat membaca [Juz 30](/2020-06-15-daftar-lengkap
 
 ## Mengapa Membaca Juz Amma dalam Arab Saja?
 
-Membaca teks Arab tanpa terjemahan memiliki sejumlah manfaat, di antaranya:
+Membaca teks Arab tanpa terjemahan memiliki sejumlah manfaat yang tidak selalu disadari, namun terasa nyata dalam jangka panjang.
 
-**Melatih kelancaran membaca.** Tanpa bergantung pada tulisan latin, mata dan lisan kita terbiasa langsung dengan huruf hijaiah, sehingga kemampuan membaca semakin terasah.
+**Melatih kelancaran membaca huruf hijaiah.** Ketika kita membaca teks Arab tanpa bantuan transliterasi latin, mata dan lisan kita dipaksa untuk langsung berinteraksi dengan huruf hijaiah. Inilah cara paling efektif untuk membangun kelancaran membaca Al-Quran secara mandiri. Ketergantungan pada tulisan latin sering kali tanpa sadar menghambat kemampuan kita mengenali huruf secara langsung, sehingga melepas tulisan latin adalah langkah penting dalam perjalanan menjadi pembaca Al-Quran yang mandiri.
 
-**Memperkuat hafalan.** Bagi yang sedang menghafal, membaca Arab saja membantu mengingat letak ayat dan urutannya tanpa terganggu oleh teks tambahan.
+**Memperkuat hafalan.** Bagi yang sedang dalam proses menghafal surat-surat Juz 30, membaca teks Arab saja sangat membantu. Tanpa gangguan visual dari terjemahan atau transliterasi, otak lebih fokus pada pola huruf dan urutan ayat. Ini mempercepat proses pembentukan ingatan jangka panjang, terutama jika dibarengi dengan mengulang bacaan secara rutin setiap hari.
 
-**Menjaga kekhusyukan.** Tampilan yang bersih dan fokus pada ayat membuat hati lebih tenang dan mudah meresapi bacaan.
+**Menjaga kekhusyukan dan konsentrasi.** Tampilan halaman yang bersih dan hanya menampilkan teks Arab memberikan ruang fokus yang lebih besar. Ketika mata tidak melompat-lompat antara teks Arab, transliterasi, dan terjemahan, pikiran lebih mudah masuk ke dalam keadaan khusyuk. Banyak orang merasakan perbedaan kualitas bacaan mereka ketika membaca dari mushaf atau tampilan yang hanya menampilkan teks Arab.
 
-**Mempersiapkan bacaan sholat.** Surat-surat dalam Juz Amma sering dibaca saat sholat, sehingga membiasakan membaca teks Arabnya akan sangat bermanfaat.
+**Mempersiapkan bacaan dalam sholat.** Surat-surat dalam Juz 30 adalah yang paling sering dibaca saat sholat. Ketika kita terbiasa membacanya langsung dari teks Arab tanpa bantuan transliterasi, bacaan kita dalam sholat pun akan terasa lebih alami dan tidak terbata-bata. Ini juga membantu ketika kita ingin membaca surat yang lebih panjang atau tidak biasa selama sholat.
 
 ## Cara Membaca Juz Amma Arab Saja di Baca-Quran.id
 
-Anda bisa membaca seluruh surat dalam Juz 30 secara online dengan langkah sederhana berikut:
+Anda bisa membaca seluruh surat dalam Juz 30 secara online dengan tampilan Arab yang bersih dan nyaman di layar ponsel maupun komputer.
 
-Kunjungi halaman [Juz Amma di Baca-Quran.id](https://www.baca-quran.id/juz-amma/), lalu pilih surat yang ingin Anda baca. Setiap surat menampilkan teks Arab yang jelas dan mudah dibaca di layar ponsel.
-
-Bila Anda ingin tampilan yang lebih fokus pada teks Arab, silakan sesuaikan preferensi tampilan melalui halaman [Setelan](https://www.baca-quran.id/settings/). Dengan begitu, pengalaman membaca dapat disesuaikan dengan kebutuhan Anda.
+Kunjungi halaman [Juz Amma di Baca-Quran.id](https://www.baca-quran.id/juz-amma/), lalu pilih surat yang ingin Anda baca. Setiap surat menampilkan teks Arab yang jelas dan mudah dibaca di berbagai ukuran layar. Bila Anda ingin tampilan yang lebih fokus pada teks Arab, silakan sesuaikan preferensi tampilan melalui halaman [Setelan](https://www.baca-quran.id/settings/) untuk menyembunyikan terjemahan dan menampilkan teks Arab saja, sehingga pengalaman membaca dapat disesuaikan sepenuhnya dengan kebutuhan Anda.
 
 ## Contoh Teks Arab Surat Pendek
 
@@ -60,4 +58,6 @@ Sebagai gambaran, berikut dua surat pendek yang sangat sering dibaca, ditampilka
 
 مِنَ الْجِنَّةِ وَالنَّاسِ
 
-Sebagai penutup, membaca Juz Amma dalam teks Arab saja adalah cara yang baik untuk melatih kemandirian dan memperkuat hafalan. Untuk membaca seluruh surat secara lengkap beserta teks Arabnya, silakan kunjungi halaman [Juz Amma di Baca-Quran.id](https://www.baca-quran.id/juz-amma/). Anda juga bisa menyimak artikel [Arti dan Makna Nama Surat dalam Juz 30](/2026-05-04-arti-dan-makna-nama-surat-juz-30/) untuk memahami kandungan setiap suratnya.
+Kedua surat di atas adalah contoh betapa indahnya teks Arab Al-Quran ketika dibaca tanpa gangguan tambahan. Pola huruf, harakat, dan ritme bacaannya memiliki keindahan tersendiri yang lebih terasa ketika kita membacanya secara langsung.
+
+Membaca Juz Amma dalam teks Arab saja adalah cara yang baik untuk melatih kemandirian dan memperkuat hafalan. Untuk membaca seluruh surat secara lengkap beserta teks Arabnya, silakan kunjungi halaman [Juz Amma di Baca-Quran.id](https://www.baca-quran.id/juz-amma/). Anda juga bisa menyimak artikel [Arti dan Makna Nama Surat dalam Juz 30](/2026-05-04-arti-dan-makna-nama-surat-juz-30/) untuk memahami kandungan setiap suratnya lebih dalam.

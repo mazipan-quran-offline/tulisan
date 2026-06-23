@@ -64,6 +64,8 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
+          require.resolve(`./plugins/gatsby-remark-table-wrapper`),
+          require.resolve(`./plugins/gatsby-remark-arabic-text`),
         ],
       },
     },

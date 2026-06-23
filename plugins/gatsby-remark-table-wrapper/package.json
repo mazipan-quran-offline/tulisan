@@ -1,0 +1,6 @@
+{
+  "name": "gatsby-remark-table-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps markdown tables with a scroll container at build time",
+  "main": "index.js"
+}
