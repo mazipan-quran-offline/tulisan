@@ -91,7 +91,8 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 3. Buat satu Pull Request terpisah untuk setiap artikel terjadwal, agar tiap artikel bisa terbit pada tanggalnya masing-masing.
 4. Cantumkan token tanggal pada **judul PR** dengan format `[publish: YYYY-MM-DD]`, contohnya:
    `[publish: 2026-06-05] CONTENT: Amalan dan Keutamaan Bulan Muharram`
-5. Biarkan PR tetap terbuka. Token pada judul inilah yang menjadi penanda jadwal sekaligus sumber tanggal terbitnya.
+5. Tambahkan label **`scheduled`** pada PR tersebut untuk memudahkan identifikasi dan pengelompokan konten terjadwal.
+6. Biarkan PR tetap terbuka. Token pada judul inilah yang menjadi penanda jadwal sekaligus sumber tanggal terbitnya.
 
 **Cara kerja otomatisasinya:**
 
