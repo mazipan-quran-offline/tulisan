@@ -14,8 +14,8 @@ automerge_label = "automerge" # default: "automerge"
 # GitHub branch protection requirements.
 require_automerge_label = true
 
-# Rebase the PR branch on top of the base branch instead of creating a merge commit.
-method = "rebase"
+# Squash all PR commits into a single commit when merging, keeping history clean.
+method = "squash"
 
 [update]
 always = true # default: false
