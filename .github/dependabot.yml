@@ -25,106 +25,38 @@ updates:
       prefix: 'chore'
       include: 'scope'
     groups:
-      wego:
+      gatsby:
         applies-to: version-updates
         patterns:
-          - '@wego/*'
+          - 'gatsby'
+          - 'gatsby-*'
+          - '@gatsbyjs/*'
         update-types:
-          - 'major'
           - 'minor'
           - 'patch'
-      core-deps:
+      react:
         applies-to: version-updates
         patterns:
           - 'react'
           - 'react-dom'
-          - '@types/react'
-          - '@types/react-dom'
-          - '@tanstack/*'
+          - 'react-helmet'
+          - 'react-typography'
         update-types:
           - 'minor'
           - 'patch'
-      build:
+      typography:
         applies-to: version-updates
         patterns:
-          - '@rslib/*'
-          - '@rsbuild/*'
-          - 'sass'
-        update-types:
-          - 'minor'
-          - 'patch'
-      vite:
-        applies-to: version-updates
-        patterns:
-          - 'vite'
-          - '@vitejs/*'
-        update-types:
-          - 'minor'
-          - 'patch'
-      vitest:
-        applies-to: version-updates
-        patterns:
-          - 'vitest'
-          - '@vitest/*'
-          - 'jsdom'
-        update-types:
-          - 'minor'
-          - 'patch'
-      storybook:
-        applies-to: version-updates
-        patterns:
-          - 'storybook'
-          - '@storybook/*'
-          - 'storybook-addon-*'
-        update-types:
-          - 'minor'
-          - 'patch'
-      testing:
-        applies-to: version-updates
-        patterns:
-          - '@testing-library/*'
-          - 'msw'
-        update-types:
-          - 'minor'
-          - 'patch'
-      biome:
-        applies-to: version-updates
-        patterns:
-          - '@biomejs/*'
-        update-types:
-          - 'minor'
-          - 'patch'
-      typescript:
-        applies-to: version-updates
-        patterns:
-          - 'typescript'
-        update-types:
-          - 'minor'
-          - 'patch'
-      docs:
-        applies-to: version-updates
-        patterns:
-          - 'typedoc'
-          - 'typedoc-*'
-          - 'remark-*'
-        update-types:
-          - 'minor'
-          - 'patch'
-      runtime-libs:
-        applies-to: version-updates
-        patterns:
-          - 'clsx'
-          - 'luxon'
-          - '@types/luxon'
-          - 'prop-types'
+          - 'typography'
+          - 'typography-*'
         update-types:
           - 'minor'
           - 'patch'
       dev-tools:
         applies-to: version-updates
         patterns:
-          - 'husky'
-          - 'lint-staged'
+          - 'prettier'
+          - 'semver'
         update-types:
           - 'minor'
           - 'patch'
@@ -135,24 +67,6 @@ updates:
         update-types:
           - 'minor'
           - 'patch'
-    ignore:
-      # Follows our main consumers (roxana + olympias) — keep in sync with their versions
-      - dependency-name: 'react'
-        update-types: ['version-update:semver-major']
-      - dependency-name: 'react-dom'
-        update-types: ['version-update:semver-major']
-      - dependency-name: '@tanstack/react-query'
-        update-types: ['version-update:semver-major']
-      - dependency-name: '@types/react'
-        update-types: ['version-update:semver-major']
-      - dependency-name: '@types/react-dom'
-        update-types: ['version-update:semver-major']
-
-      # Support problems with newer versions
-      - dependency-name: 'undici'
-        update-types: ['version-update:semver-major']
-      - dependency-name: 'chokidar'
-        update-types: ['version-update:semver-major']
 
   # GitHub Actions used by workflows
   - package-ecosystem: 'github-actions'
