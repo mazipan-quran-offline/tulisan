@@ -1,6 +1,6 @@
 ---
 title: Keutamaan Surat Al-Ikhlas, Al-Falaq, dan An-Nas
-description: Mengenal keutamaan tiga surat penutup Al-Quran: Al-Ikhlas, Al-Falaq, dan An-Nas, serta waktu dan cara mengamalkannya.
+description: "Mengenal keutamaan tiga surat penutup Al-Quran: Al-Ikhlas, Al-Falaq, dan An-Nas, serta waktu dan cara mengamalkannya."
 date: '2026-06-14T23:59:59.121Z'
 ---
 
