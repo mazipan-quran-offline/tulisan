@@ -1,25 +1,177 @@
-# Basic set up for three package managers
+# Dependabot configuration
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+#
 version: 2
 updates:
-  # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "monthly"
+      interval: 'weekly'
+      day: 'monday'
+      time: '12:00'
+      timezone: 'Asia/Jakarta'
+    open-pull-requests-limit: 10
     cooldown:
-      default-days: 7
+      default-days: 5
+      semver-major-days: 30
+      semver-minor-days: 14
+      semver-patch-days: 7
+      exclude:
+        - '@wego/*'
+    # Reviewers come from CODEOWNERS — GitHub removed the "reviewers" field in 2025
+    labels: ['dependencies', 'automated', 'javascript']
+    versioning-strategy: increase
+    commit-message:
+      prefix: 'chore'
+      include: 'scope'
     groups:
-      gatsby:
+      wego:
         applies-to: version-updates
         patterns:
-        - "gatsby-*"
-        - "@gatsbyjs*"
+          - '@wego/*'
         update-types:
-        - "minor"
-        - "patch"
+          - 'major'
+          - 'minor'
+          - 'patch'
+      core-deps:
+        applies-to: version-updates
+        patterns:
+          - 'react'
+          - 'react-dom'
+          - '@types/react'
+          - '@types/react-dom'
+          - '@tanstack/*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      build:
+        applies-to: version-updates
+        patterns:
+          - '@rslib/*'
+          - '@rsbuild/*'
+          - 'sass'
+        update-types:
+          - 'minor'
+          - 'patch'
+      vite:
+        applies-to: version-updates
+        patterns:
+          - 'vite'
+          - '@vitejs/*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      vitest:
+        applies-to: version-updates
+        patterns:
+          - 'vitest'
+          - '@vitest/*'
+          - 'jsdom'
+        update-types:
+          - 'minor'
+          - 'patch'
+      storybook:
+        applies-to: version-updates
+        patterns:
+          - 'storybook'
+          - '@storybook/*'
+          - 'storybook-addon-*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      testing:
+        applies-to: version-updates
+        patterns:
+          - '@testing-library/*'
+          - 'msw'
+        update-types:
+          - 'minor'
+          - 'patch'
+      biome:
+        applies-to: version-updates
+        patterns:
+          - '@biomejs/*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      typescript:
+        applies-to: version-updates
+        patterns:
+          - 'typescript'
+        update-types:
+          - 'minor'
+          - 'patch'
+      docs:
+        applies-to: version-updates
+        patterns:
+          - 'typedoc'
+          - 'typedoc-*'
+          - 'remark-*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      runtime-libs:
+        applies-to: version-updates
+        patterns:
+          - 'clsx'
+          - 'luxon'
+          - '@types/luxon'
+          - 'prop-types'
+        update-types:
+          - 'minor'
+          - 'patch'
+      dev-tools:
+        applies-to: version-updates
+        patterns:
+          - 'husky'
+          - 'lint-staged'
+        update-types:
+          - 'minor'
+          - 'patch'
+      miscellaneous:
+        applies-to: version-updates
+        patterns:
+          - '*'
+        update-types:
+          - 'minor'
+          - 'patch'
     ignore:
-      - dependency-name: "gatsby*"
-        update-types: ["version-update:semver-major"]
+      # Follows our main consumers (roxana + olympias) — keep in sync with their versions
+      - dependency-name: 'react'
+        update-types: ['version-update:semver-major']
+      - dependency-name: 'react-dom'
+        update-types: ['version-update:semver-major']
+      - dependency-name: '@tanstack/react-query'
+        update-types: ['version-update:semver-major']
+      - dependency-name: '@types/react'
+        update-types: ['version-update:semver-major']
+      - dependency-name: '@types/react-dom'
+        update-types: ['version-update:semver-major']
+
+      # Support problems with newer versions
+      - dependency-name: 'undici'
+        update-types: ['version-update:semver-major']
+      - dependency-name: 'chokidar'
+        update-types: ['version-update:semver-major']
+
+  # GitHub Actions used by workflows
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: 'weekly'
+      day: 'monday'
+      time: '10:00'
+      timezone: 'Asia/Jakarta'
+    cooldown:
+      default-days: 5
+    open-pull-requests-limit: 5
+    groups:
+      minor-and-patch:
+        applies-to: security-updates
+        update-types:
+          - 'patch'
+          - 'minor'
     commit-message:
-      # Prefix all commit messages with "npm: "
-      prefix: "deps(dependabot)"
+      prefix: 'chore'
+      include: 'scope'
+    labels: ['dependencies', 'automated', 'github-actions']
