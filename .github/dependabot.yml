@@ -16,8 +16,6 @@ updates:
       semver-major-days: 30
       semver-minor-days: 14
       semver-patch-days: 7
-      exclude:
-        - '@wego/*'
     # Reviewers come from CODEOWNERS — GitHub removed the "reviewers" field in 2025
     labels: ['dependencies', 'automated', 'javascript']
     versioning-strategy: increase
