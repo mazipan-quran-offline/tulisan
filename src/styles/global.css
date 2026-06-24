@@ -85,7 +85,7 @@
   --badge-border: #c7d2fe;
 
   --hero-text: #f8fafc;
-  --hero-text-muted: #94a3b8;
+  --hero-text-muted: #cbd5e1;
   --hero-accent: #818cf8;
   --hero-border: rgba(255, 255, 255, 0.08);
   --hero-badge-bg: rgba(129, 140, 248, 0.2);
@@ -158,7 +158,7 @@
   --badge-border: #312e81;
 
   --hero-text: #f1f5f9;
-  --hero-text-muted: #64748b;
+  --hero-text-muted: #94a3b8;
   --hero-accent: #818cf8;
   --hero-border: rgba(255, 255, 255, 0.06);
   --hero-badge-bg: rgba(129, 140, 248, 0.15);
@@ -479,33 +479,31 @@ tbody tr:last-child td {
   border-color: rgba(255, 255, 255, 0.18);
 }
 
-.site-header__actions {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  flex-shrink: 0;
-}
-
-/* Theme Toggle Button */
+/* Theme Toggle Button — floating action button, bottom-right */
 .theme-toggle {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 1000;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: var(--radius);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  background: rgba(255, 255, 255, 0.06);
-  color: var(--header-text);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent);
+  color: #ffffff;
   cursor: pointer;
   padding: 0;
-  transition: background-color var(--transition), border-color var(--transition), transform var(--transition);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: background-color var(--transition), transform var(--transition), box-shadow var(--transition);
 }
 
 .theme-toggle:hover {
-  background: rgba(255, 255, 255, 0.14);
-  border-color: rgba(255, 255, 255, 0.22);
-  transform: scale(1.05);
+  background: var(--accent-hover);
+  transform: scale(1.08);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3), 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 .theme-toggle:active {
@@ -513,8 +511,8 @@ tbody tr:last-child td {
 }
 
 .theme-toggle svg {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   flex-shrink: 0;
 }
 
@@ -741,7 +739,7 @@ tbody tr:last-child td {
   font-family: var(--font-sans);
   font-size: 0.6875rem;
   font-weight: 600;
-  color: #64748b;
+  color: var(--hero-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 0.375rem;

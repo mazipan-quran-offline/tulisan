@@ -76,9 +76,6 @@ const Layout = ({ location, title, children }) => {
             )}
           </div>
 
-          <div className="site-header__actions">
-            <ThemeToggle />
-          </div>
         </div>
       </header>
 
@@ -234,6 +231,14 @@ const Layout = ({ location, title, children }) => {
             </a>
             <a
               className="site-footer__link"
+              href="https://games.mazipan.space/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Games
+            </a>
+            <a
+              className="site-footer__link"
               href="https://mazipan.space/"
               target="_blank"
               rel="noopener noreferrer"
@@ -249,6 +254,8 @@ const Layout = ({ location, title, children }) => {
           <span>Built with ❤️ by Irfan Maulana</span>
         </div>
       </footer>
+
+      <ThemeToggle />
     </div>
   );
 };
