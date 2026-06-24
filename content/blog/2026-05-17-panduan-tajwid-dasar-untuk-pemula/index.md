@@ -1,5 +1,5 @@
 ---
-title: Panduan Tajwid Dasar untuk Pemula: Belajar Membaca Al-Quran dengan Benar
+title: "Panduan Tajwid Dasar untuk Pemula: Belajar Membaca Al-Quran dengan Benar"
 description: Mengenal aturan tajwid dasar dalam membaca Al-Quran, termasuk makharijul huruf, hukum nun mati, dan mad yang paling sering ditemui.
 date: '2026-05-17T23:59:59.121Z'
 ---

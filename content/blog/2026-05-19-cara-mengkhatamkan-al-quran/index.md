@@ -1,5 +1,5 @@
 ---
-title: Cara Mengkhatamkan Al-Quran: Tips dan Target Harian
+title: "Cara Mengkhatamkan Al-Quran: Tips dan Target Harian"
 description: Panduan praktis cara mengkhatamkan Al-Quran dengan target harian yang realistis, cocok untuk pemula hingga yang sudah rutin membaca.
 date: '2026-05-19T23:59:59.121Z'
 ---
