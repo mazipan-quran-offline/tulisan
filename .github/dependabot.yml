@@ -1,25 +1,89 @@
-# Basic set up for three package managers
+# Dependabot configuration
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+#
 version: 2
 updates:
-  # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "monthly"
+      interval: 'weekly'
+      day: 'monday'
+      time: '12:00'
+      timezone: 'Asia/Jakarta'
+    open-pull-requests-limit: 10
     cooldown:
-      default-days: 7
+      default-days: 5
+      semver-major-days: 30
+      semver-minor-days: 14
+      semver-patch-days: 7
+    # Reviewers come from CODEOWNERS — GitHub removed the "reviewers" field in 2025
+    labels: ['dependencies', 'automated', 'javascript']
+    versioning-strategy: increase
+    commit-message:
+      prefix: 'chore'
+      include: 'scope'
     groups:
       gatsby:
         applies-to: version-updates
         patterns:
-        - "gatsby-*"
-        - "@gatsbyjs*"
+          - 'gatsby'
+          - 'gatsby-*'
+          - '@gatsbyjs/*'
         update-types:
-        - "minor"
-        - "patch"
-    ignore:
-      - dependency-name: "gatsby*"
-        update-types: ["version-update:semver-major"]
+          - 'minor'
+          - 'patch'
+      react:
+        applies-to: version-updates
+        patterns:
+          - 'react'
+          - 'react-dom'
+          - 'react-helmet'
+          - 'react-typography'
+        update-types:
+          - 'minor'
+          - 'patch'
+      typography:
+        applies-to: version-updates
+        patterns:
+          - 'typography'
+          - 'typography-*'
+        update-types:
+          - 'minor'
+          - 'patch'
+      dev-tools:
+        applies-to: version-updates
+        patterns:
+          - 'prettier'
+          - 'semver'
+        update-types:
+          - 'minor'
+          - 'patch'
+      miscellaneous:
+        applies-to: version-updates
+        patterns:
+          - '*'
+        update-types:
+          - 'minor'
+          - 'patch'
+
+  # GitHub Actions used by workflows
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: 'weekly'
+      day: 'monday'
+      time: '10:00'
+      timezone: 'Asia/Jakarta'
+    cooldown:
+      default-days: 5
+    open-pull-requests-limit: 5
+    groups:
+      minor-and-patch:
+        applies-to: security-updates
+        update-types:
+          - 'patch'
+          - 'minor'
     commit-message:
-      # Prefix all commit messages with "npm: "
-      prefix: "deps(dependabot)"
+      prefix: 'chore'
+      include: 'scope'
+    labels: ['dependencies', 'automated', 'github-actions']
