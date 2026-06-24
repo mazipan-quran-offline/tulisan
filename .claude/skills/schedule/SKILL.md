@@ -50,6 +50,7 @@ For **each article separately**:
    [publish: YYYY-MM-DD] CONTENT: Article Title Here
    ```
    The `[publish: YYYY-MM-DD]` token is mandatory — the `scheduled-merge.yml` workflow uses it to auto-merge on the right date.
+5. Add the **`scheduled`** label to the PR.
 
 **Never put multiple articles in one PR. Never use the same branch for two articles.**
 

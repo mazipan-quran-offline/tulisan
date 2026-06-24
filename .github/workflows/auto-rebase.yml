@@ -1,0 +1,105 @@
+name: Auto-Rebase
+
+# Updates stale automerge PRs that are behind master but have no conflicts.
+#
+# Complements Kodiak's own [update] always = true setting as a fallback.
+# Uses GitHub's update-branch API (merge-style update, no force-push needed).
+#
+# Skips PRs where mergeable_state is:
+#   - 'dirty'   → has conflicts, manual resolution required
+#   - 'clean'   → already up-to-date, nothing to do
+#   - 'blocked' → waiting on reviews/checks, Kodiak will handle once unblocked
+#   - 'unknown' → GitHub hasn't computed mergeability yet (retried up to 5×)
+
+on:
+  schedule:
+    - cron: '0 17 */2 * *' # ~00:00 WIB, every 2 days (same cadence as scheduled-merge)
+  workflow_dispatch:
+  pull_request:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-stale-prs:
+    # For label events, only run when the added label is 'automerge'
+    if: >
+      github.event_name != 'pull_request' ||
+      github.event.label.name == 'automerge'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Update stale automerge PRs
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const AUTOMERGE_LABEL = 'automerge';
+
+            // GitHub computes mergeability asynchronously; poll until resolved.
+            async function fetchMergeableState(prNumber) {
+              for (let attempt = 1; attempt <= 5; attempt++) {
+                const { data } = await github.rest.pulls.get({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: prNumber,
+                });
+                if (data.mergeable !== null) return data;
+                core.info(`PR #${prNumber}: mergeability pending (attempt ${attempt}/5), waiting 3 s…`);
+                await new Promise(r => setTimeout(r, 3000));
+              }
+              return null;
+            }
+
+            // Collect PRs to inspect.
+            let candidates;
+            if (context.eventName === 'pull_request') {
+              // Triggered by label event — only inspect this specific PR.
+              candidates = [context.payload.pull_request];
+            } else {
+              candidates = await github.paginate(github.rest.pulls.list, {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                base: 'master',
+                per_page: 100,
+              });
+            }
+
+            let updated = 0;
+            for (const pr of candidates) {
+              if (pr.draft) continue;
+
+              const hasLabel = pr.labels.some(l => l.name === AUTOMERGE_LABEL);
+              if (!hasLabel) continue;
+
+              const fullPr = await fetchMergeableState(pr.number);
+              if (!fullPr) {
+                core.warning(`PR #${pr.number}: could not determine mergeability after retries, skipping.`);
+                continue;
+              }
+
+              const { mergeable_state: state } = fullPr;
+
+              if (state !== 'behind') {
+                core.info(`PR #${pr.number}: mergeable_state='${state}', no update needed.`);
+                continue;
+              }
+
+              // 'behind' means stale but no conflicts — safe to update.
+              core.info(`PR #${pr.number} is behind master. Updating branch…`);
+              try {
+                await github.rest.pulls.updateBranch({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: pr.number,
+                });
+                core.info(`PR #${pr.number} updated successfully.`);
+                updated++;
+              } catch (err) {
+                core.warning(`PR #${pr.number} update failed: ${err.message}`);
+              }
+            }
+
+            core.info(`Done. Updated ${updated} PR(s).`);

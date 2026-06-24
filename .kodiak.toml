@@ -14,8 +14,12 @@ automerge_label = "automerge" # default: "automerge"
 # GitHub branch protection requirements.
 require_automerge_label = true
 
+# Squash all PR commits into a single commit when merging, keeping history clean.
+method = "squash"
+
 [update]
 always = true # default: false
+always_update = true # update PRs with automerge label whenever the base branch changes
 ignored_usernames = ["dependabot", "snyk-bot"]
 
 [approve]
