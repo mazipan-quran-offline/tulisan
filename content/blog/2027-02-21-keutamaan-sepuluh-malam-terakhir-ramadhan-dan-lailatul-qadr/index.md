@@ -2,6 +2,7 @@
 title: Keutamaan Sepuluh Malam Terakhir Ramadhan dan Lailatul Qadr
 description: Mengenal keutamaan sepuluh malam terakhir Ramadhan, malam Lailatul Qadr, serta amalan seperti iktikaf dan doa yang dianjurkan untuk meraihnya.
 date: '2027-02-21T23:59:59.121Z'
+tags: ["ibadah", "amalan", "ramadhan"]
 ---
 
 Sepuluh malam terakhir Ramadhan adalah puncak dari keseluruhan bulan suci. Jika Ramadhan adalah sebuah perjalanan, maka sepuluh malam terakhir adalah garis finish yang paling mulia, tempat di mana segala amalan dan doa yang kita kumpulkan selama dua puluh hari sebelumnya seolah bertemu dengan puncak keberkahan yang tidak tertandingi. Pada rentang waktu inilah tersembunyi Lailatul Qadr, malam yang nilainya lebih baik daripada seribu bulan atau lebih dari delapan puluh tiga tahun ibadah. Rasulullah sangat menganjurkan umatnya untuk meningkatkan ibadah secara sungguh-sungguh pada malam-malam ini, bahkan beliau sendiri mengencangkan ikat pinggang dan membangunkan keluarganya untuk turut serta menghidupkan malam. Untuk menemani ibadah Anda di malam-malam terbaik ini, sempatkan pula bertadarus melalui [Baca-Quran.id](https://www.baca-quran.id/).
@@ -24,7 +25,7 @@ Iktikaf, yaitu berdiam diri di masjid dengan niat beribadah kepada Allah, adalah
 
 Salah satu doa yang sangat dianjurkan oleh Rasulullah untuk diperbanyak pada malam-malam di sepuluh hari terakhir adalah doa berikut, yang diajarkan beliau kepada Aisyah radhiyallahu 'anha:
 
-اللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي
+اللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي
 
 *Allahumma innaka 'afuwwun tuhibbul 'afwa fa'fu 'anni.*
 
