@@ -2,6 +2,7 @@
 title: "Kisah Nabi Nuh AS: Keteguhan Iman di Tengah Penolakan dan Banjir Besar"
 description: "Kisah Nabi Nuh AS dalam Al-Quran: 950 tahun berdakwah, perintah membangun bahtera, banjir besar, dan pelajaran sabar yang tak lekang oleh waktu."
 date: '2026-07-10T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Bayangkan Anda berdakwah kepada orang-orang selama 950 tahun, dan sebagian besar dari mereka menolak dengan keras, bahkan anak kandung Anda sendiri mengingkari kebenaran yang Anda bawa. Itulah realita yang dihadapi Nabi Nuh AS, salah satu nabi dengan ketabahan paling luar biasa dalam sejarah kemanusiaan. Kisahnya diabadikan Allah dalam Al-Quran sebagai pelajaran tentang keimanan sejati, kesabaran tanpa batas, dan keadilan Allah yang tidak memandang status atau hubungan darah.
