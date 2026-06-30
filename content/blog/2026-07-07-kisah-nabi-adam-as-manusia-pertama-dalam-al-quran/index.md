@@ -2,6 +2,7 @@
 title: "Kisah Nabi Adam AS: Manusia Pertama dan Awal Kehidupan di Bumi"
 description: "Kisah Nabi Adam AS dalam Al-Quran: penciptaan manusia pertama, ujian di surga, tobat yang diterima, dan pelajaran mendalam bagi kita semua."
 date: '2026-07-07T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Jauh sebelum bumi dihuni oleh manusia seperti yang kita kenal sekarang, Allah SWT menciptakan makhluk pertama dari tanah liat dan menghembuskan ruh ke dalamnya. Inilah awal dari kisah yang menjadi pondasi keberadaan kita semua: kisah Nabi Adam AS, manusia pertama sekaligus nabi pertama yang Allah pilih untuk menjadi khalifah di muka bumi. Kisah ini bukan sekadar cerita sejarah kuno, melainkan cermin yang memantulkan hakikat diri kita, dari mana kita berasal, dan apa tujuan keberadaan kita.
