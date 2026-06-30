@@ -2,6 +2,7 @@
 title: "Kisah Nabi Sulaiman AS: Raja Bijak yang Dikaruniai Keajaiban Luar Biasa"
 description: "Kisah Nabi Sulaiman AS dalam Al-Quran: bisa berbicara dengan hewan, menguasai angin dan jin, menaklukkan Ratu Balqis, dan hikmah di balik kekuasaan yang taat."
 date: '2026-07-24T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Di antara seluruh nabi yang Allah ceritakan dalam Al-Quran, ada satu yang memiliki keistimewaan paling beragam dan mengagumkan secara duniawi: kerajaan yang tidak tertandingi, kemampuan berbicara dengan hewan, pasukan yang terdiri dari manusia, jin, dan burung, serta angin yang bisa membawanya pergi ke mana ia mau. Namun yang paling luar biasa dari semua itu bukan kekuasaannya, melainkan bagaimana ia menggunakan kekuasaan itu sepenuhnya dalam ketaatan kepada Allah. Itulah Nabi Sulaiman AS, putra Nabi Dawud, yang kerajaan dan kebijaksanaannya diabadikan Al-Quran sebagai pelajaran tentang hakikat kekuatan yang sesungguhnya.
@@ -38,7 +39,7 @@ Bahkan kematian Nabi Sulaiman AS mengandung pelajaran yang dalam. Ketika Sulaima
 
 **Kekuasaan adalah amanah, bukan tujuan.** Sulaiman memiliki kekuatan yang tidak tertandingi di dunia, namun ia menggunakannya untuk menegakkan kebenaran, menyebarkan tauhid, dan berbuat adil, bukan untuk kesombongan atau pemenuhan nafsu pribadi. Kekuasaan yang tidak disertai ketaatan kepada Allah hanya akan menjadi sumber kerusakan.
 
-**Syukur adalah kunci keberkahan.** Berkali-kali dalam kisah Sulaiman, Allah menegaskan bahwa semua karunia itu adalah ujian: apakah ia bersyukur atau kufur. Sulaiman selalu memilih syukur, dan itulah yang membuat kekuasaannya menjadi berkah bagi banyak orang.
+**Syukur adalah kunci keberkahan.** Berkali-kali dalam kisah Sulaiman, Allah menegaskan bahwa semua karunia itu adalah ujian: apakah ia akan bersyukur atau kufur. Sulaiman selalu memilih syukur, dan itulah yang membuat kekuasaannya menjadi berkah bagi banyak orang.
 
 **Kebijaksanaan dalam berdiplomasi.** Cara Sulaiman menangani Ratu Balqis bukan dengan kekuatan senjata semata, melainkan dengan menunjukkan kekuatan yang sesungguhnya dan memberi ruang bagi sang ratu untuk memilih dengan akalnya sendiri. Hasilnya jauh lebih abadi dari sekadar penaklukan militer.
 
