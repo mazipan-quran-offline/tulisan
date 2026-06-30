@@ -2,6 +2,7 @@
 title: "Kisah Nabi Musa AS: Pembebasan Bani Israel dan Mukjizat Agung dalam Al-Quran"
 description: "Kisah Nabi Musa AS dalam Al-Quran: dari bayi di sungai Nil, tongkat yang membelah laut, hingga perjuangan membebaskan Bani Israel dari Firaun yang zalim."
 date: '2026-07-17T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Kisah seorang bayi yang diletakkan ibunya di atas peti lalu dihanyutkan ke sungai agar selamat dari pembantaian, kemudian tumbuh dewasa di istana orang yang justru sedang membunuhi bayi-bayi dari kaumnya, lalu kembali menjadi pembebas bagi orang-orang yang tertindas itu, adalah salah satu kisah paling dramatis dan penuh hikmah dalam Al-Quran. Itulah kisah Nabi Musa AS, nabi yang namanya paling sering disebut dalam Al-Quran, lebih dari 130 kali, dan yang perjuangannya menjadi simbol keberanian melawan kezaliman di sepanjang masa.
