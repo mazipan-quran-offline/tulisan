@@ -2,6 +2,7 @@
 title: Panduan dan Amalan Idul Fitri, dari Takbir hingga Silaturahmi
 description: Panduan amalan Idul Fitri, mulai dari takbir, zakat fitrah, sholat Id, hingga silaturahmi dan saling memaafkan di hari kemenangan.
 date: '2027-02-28T23:59:59.121Z'
+tags: ["ibadah", "amalan", "ramadhan"]
 ---
 
 Idul Fitri adalah hari kemenangan yang paling dinantikan oleh umat Islam setelah menjalani ibadah puasa selama sebulan penuh di bulan Ramadhan. Ada keharuan yang sulit diungkapkan dengan kata-kata ketika malam takbir tiba: suara gema takbir yang memenuhi udara, cahaya masjid yang benderang, dan perasaan lega yang bercampur dengan rasa syukur atas semua ibadah yang telah dikerjakan. Hari raya ini bukan sekadar perayaan, melainkan momen untuk mensyukuri keberhasilan menyempurnakan ibadah, sekaligus mempererat kembali tali persaudaraan yang mungkin sempat renggang. Untuk menemani momen istimewa ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
