@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Mimpi dan Maknanya dalam Islam"
 description: "Kumpulan ayat Al-Quran tentang mimpi beserta artinya, menelusuri kisah-kisah wahyu melalui mimpi para nabi dan pelajaran mendalam yang terkandung di dalamnya."
 date: '2026-07-14T10:00:00.000Z'
+tags: ["ayat-quran", "tafsir", "kisah-nabi"]
 ---
 
 Dari sekian banyak cara Allah berkomunikasi dalam Al-Quran, mimpi tampil sebagai yang paling intim dan paling tak terduga. Para nabi menerima petunjuk ilahi melaluinya; mimpi mengubah arah sejarah. Nabi Yusuf mendapatkan kabar tentang masa depannya lewat mimpi di masa kanak-kanak. Nabi Ibrahim menerima perintah yang paling berat sepanjang hidupnya juga melalui mimpi. Rasulullah SAW pun melihat janji tentang Mekkah dalam mimpinya sebelum Perjanjian Hudaibiyah. Sepuluh ayat berikut membawa kita menelusuri narasi Al-Quran yang kaya tentang mimpi, maknanya, dan pelajaran yang masih sangat relevan hingga hari ini.
