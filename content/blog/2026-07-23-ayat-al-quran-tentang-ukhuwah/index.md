@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Ukhuwah dan Persaudaraan Islam"
 description: "Kumpulan ayat Al-Quran tentang ukhuwah Islamiyah beserta artinya, mengingatkan kembali indahnya persaudaraan sejati yang dibangun di atas iman, kasih sayang, dan saling menguatkan."
 date: '2026-07-23T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak", "keluarga"]
 ---
 
 Salah satu ajaran Islam yang paling revolusioner adalah pernyataan bahwa orang-orang beriman adalah bersaudara, bukan karena darah, tetapi karena iman. Ikatan ini melampaui batas suku, ras, dan kebangsaan. Al-Quran menggunakan kata "ikhwah" (persaudaraan) bukan sebagai metafora indah semata, melainkan sebagai kenyataan hukum dan spiritual dengan tanggung jawab yang nyata. Persaudaraan ini memiliki konsekuensi praktis: hak dan kewajiban, empati dan pengorbanan, rekonsiliasi dan kesetiaan. Sepuluh ayat berikut memperlihatkan seperti apa persaudaraan itu sesungguhnya.
