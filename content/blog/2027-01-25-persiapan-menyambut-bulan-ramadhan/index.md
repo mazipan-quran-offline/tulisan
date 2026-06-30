@@ -2,6 +2,7 @@
 title: Persiapan Menyambut Bulan Ramadhan agar Lebih Bermakna
 description: Panduan persiapan menyambut bulan Ramadhan, mulai dari persiapan ilmu, ruhani, hingga fisik, agar ibadah puasa terasa lebih maksimal dan bermakna.
 date: '2027-01-25T23:59:59.121Z'
+tags: ["ibadah", "amalan", "ramadhan"]
 ---
 
 Bulan Ramadhan adalah bulan yang paling dinanti oleh umat Islam di seluruh dunia. Di bulan inilah Al-Qur'an diturunkan sebagai petunjuk bagi seluruh manusia, pintu ampunan dibuka selebar-lebarnya, dan setiap amal kebaikan dilipatgandakan pahalanya. Namun kedatangan Ramadhan yang setahun sekali ini bisa terasa sangat berbeda tergantung pada seberapa siap kita menyambutnya. Ramadhan yang disambut dengan persiapan yang baik akan menghasilkan pengalaman ibadah yang jauh lebih dalam, penuh, dan berkesan dibandingkan dengan Ramadhan yang hanya kita hadiri tanpa kesiapan apapun. Untuk menemani persiapan Anda, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
