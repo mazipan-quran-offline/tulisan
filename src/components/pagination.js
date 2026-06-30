@@ -38,25 +38,31 @@ const ChevronRight = () => (
 const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast }) => {
   if (numPages <= 1) return null;
 
-  const pages = Array.from({ length: numPages }, (_, i) => i + 1);
-
-  // Build the visible page list with ellipsis
+  // Build the visible page list with a wing of ±2 around the current page.
+  // e.g. current=6 of 15 → 1, …, 4, 5, 6, 7, 8, …, 15
+  // A single hidden page is shown directly instead of as an ellipsis.
   const getVisiblePages = () => {
-    if (numPages <= 7) return pages.map((p) => ({ type: 'page', num: p }));
+    const WING = 2;
+    const shown = new Set([1, numPages]);
+    for (let p = Math.max(2, currentPage - WING); p <= Math.min(numPages - 1, currentPage + WING); p++) {
+      shown.add(p);
+    }
 
+    const sorted = [...shown].sort((a, b) => a - b);
     const result = [];
-    pages.forEach((p) => {
-      if (p === 1 || p === numPages) {
-        result.push({ type: 'page', num: p });
-      } else if (Math.abs(p - currentPage) <= 1) {
-        result.push({ type: 'page', num: p });
-      } else if (
-        (p === 2 && currentPage > 4) ||
-        (p === numPages - 1 && currentPage < numPages - 3)
-      ) {
-        result.push({ type: 'ellipsis', key: `e-${p}` });
+
+    for (let i = 0; i < sorted.length; i++) {
+      if (i > 0) {
+        const gap = sorted[i] - sorted[i - 1];
+        if (gap === 2) {
+          result.push({ type: 'page', num: sorted[i - 1] + 1 });
+        } else if (gap > 2) {
+          result.push({ type: 'ellipsis', key: `e-${sorted[i - 1]}` });
+        }
       }
-    });
+      result.push({ type: 'page', num: sorted[i] });
+    }
+
     return result;
   };
 
