@@ -2,6 +2,7 @@
 title: 7 Tasbih Digital Online Gratis Terbaik yang Bisa Digunakan Tanpa Instal Aplikasi
 description: Daftar tasbih digital online gratis terbaik yang bisa digunakan langsung dari browser tanpa perlu menginstal aplikasi, lengkap dengan perbandingan fitur.
 date: '2026-07-01T23:59:59.121Z'
+tags: ["dzikir", "aplikasi", "teknologi"]
 ---
 
 Tasbih digital telah menjadi solusi modern bagi banyak muslim yang ingin berdzikir dengan hitungan yang akurat tanpa harus membawa tasbih fisik ke mana-mana. Dari sekian banyak pilihan yang tersedia, kategori yang paling praktis adalah tasbih berbasis web — bisa dibuka langsung dari browser tanpa perlu mengunduh atau menginstal aplikasi apa pun.
