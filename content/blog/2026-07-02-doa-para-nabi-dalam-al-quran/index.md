@@ -2,6 +2,7 @@
 title: "10 Doa Para Nabi dalam Al-Quran yang Menyentuh Hati"
 description: "Kumpulan doa-doa indah para nabi dalam Al-Quran beserta artinya, dari Ibrahim hingga Yunus, sebagai inspirasi cara bermunajat yang tulus kepada Allah."
 date: '2026-07-02T10:00:00.000Z'
+tags: ["doa", "kisah-nabi", "tafsir"]
 ---
 
 Para nabi bukan sekadar penyampai wahyu yang berdiri jauh di atas manusia biasa. Mereka adalah manusia yang juga menangis, berdoa, dan bergantung penuh kepada Allah dalam setiap langkah hidup mereka. Al-Quran tidak hanya merekam risalah yang mereka bawa, tetapi juga mengabadikan doa-doa pribadi mereka, munajat yang lahir dari momen-momen paling nyata dalam kehidupan: di kegelapan perut ikan, di atas fondasi Ka'bah yang sedang dibangun, di ruang sepi seorang tua yang merindukan keturunan. Doa-doa itu bukan sekadar teks yang indah, melainkan jejak spiritual yang bisa kita telusuri dan jadikan cermin dalam kehidupan kita sendiri.
