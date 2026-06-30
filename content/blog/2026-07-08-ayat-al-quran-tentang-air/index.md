@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Air sebagai Rahmat dan Sumber Kehidupan"
 description: "Kumpulan ayat Al-Quran tentang air beserta artinya, menggali makna spiritual dan ilmiah air sebagai simbol rahmat Allah yang menghidupkan segala sesuatu di alam semesta."
 date: '2026-07-08T10:00:00.000Z'
+tags: ["ayat-quran", "tafsir"]
 ---
 
 Air adalah elemen alam yang paling sering disebut dalam Al-Quran. Ia hadir dalam ratusan ayat, bukan sekadar sebagai fakta ilmiah tentang alam semesta, melainkan sebagai tanda yang berulang kali dihadirkan Allah untuk mengajak manusia berpikir dan bersyukur. Dalam Al-Quran, air bukan hanya H2O. Ia adalah simbol rahmat, tanda kekuasaan, metafora kebangkitan rohani, dan bukti ketergantungan total segala sesuatu di alam semesta kepada Sang Pencipta. Setiap kali hujan turun, setiap kali tanah yang kering kembali menghijau, Al-Quran mengajak kita untuk melihat lebih dari sekadar proses meteorologi, melainkan tanda kasih sayang Allah yang turun menyentuh bumi.
