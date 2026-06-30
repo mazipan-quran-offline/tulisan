@@ -2,6 +2,7 @@
 title: Amalan di Pekan Pertama Ramadhan agar Semangat Terjaga
 description: Panduan amalan di pekan pertama Ramadhan, mulai dari niat puasa, sahur, tarawih, hingga tadarus, agar semangat ibadah terjaga sejak awal.
 date: '2027-02-01T23:59:59.121Z'
+tags: ["ibadah", "amalan", "ramadhan", "puasa"]
 ---
 
 Pekan pertama Ramadhan adalah momen yang sangat menentukan bagi keseluruhan bulan suci itu. Pada hari-hari awal inilah semangat ibadah biasanya sedang tinggi-tingginya, rumah-rumah terasa lebih hidup, masjid-masjid penuh sesak dengan jamaah Tarawih, dan udara terasa sedikit berbeda. Semangat awal ini adalah modal yang sangat berharga, dan tugas kita adalah menggunakannya sebaik mungkin untuk membangun kebiasaan-kebiasaan baik yang akan bertahan hingga akhir bulan. Karena amalan yang dibangun dengan konsisten sejak hari pertama jauh lebih mudah dipertahankan daripada amalan yang baru dimulai di tengah perjalanan. Untuk menemani ibadah Anda, sempatkan pula bertadarus melalui [Baca-Quran.id](https://www.baca-quran.id/).
