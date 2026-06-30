@@ -2,6 +2,7 @@
 title: Panduan Ibadah di Bulan Syaban
 description: Mengenal keistimewaan bulan Syaban dan amalan yang dianjurkan, termasuk puasa sunnah dan malam Nisfu Syaban, sebagai persiapan Ramadan.
 date: '2027-01-19T23:59:59.121Z'
+tags: ["ibadah", "puasa", "amalan"]
 ---
 
 Bulan Syaban sering kali hadir tanpa banyak perhatian. Diapit oleh bulan Rajab yang dimuliakan dan bulan Ramadan yang dinantikan, Syaban seolah menjadi bulan peralihan yang terlewat begitu saja. Padahal, justru di sinilah letak keistimewaannya. Rasulullah shallallahu alaihi wa sallam sendiri memberikan perhatian besar pada bulan ini, lebih dari bulan-bulan lain di luar Ramadan. Mengenal Syaban dengan lebih dalam adalah langkah pertama untuk mengisi hari-hari kita dengan amalan yang bermakna.
