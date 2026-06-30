@@ -2,6 +2,7 @@
 title: "Kisah Nabi Ibrahim AS: Bapak Para Nabi dan Ujian Keimanan yang Luar Biasa"
 description: "Kisah Nabi Ibrahim AS dalam Al-Quran: menghancurkan berhala, selamat dari api, pengorbanan Ismail, dan warisan spiritual yang dirasakan hingga kini."
 date: '2026-07-14T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Ada seorang pemuda yang berani menghancurkan ratusan berhala seorang diri, kemudian dilempar ke dalam api yang menyala-nyala sebagai hukumannya, namun tidak terbakar sedikit pun. Ada seorang ayah yang diperintahkan menyembelih putra satu-satunya yang dicintainya sepenuh jiwa, dan ia pun bersiap melaksanakannya tanpa ragu. Pemuda dan ayah itu adalah orang yang sama: Nabi Ibrahim AS, sosok yang Allah juluki sebagai khalilullah, kekasih Allah, dan bapak para nabi. Kisah hidupnya adalah rangkaian ujian yang luar biasa berat, sekaligus rangkaian kemenangan iman yang menginspirasi jutaan manusia sepanjang zaman.
