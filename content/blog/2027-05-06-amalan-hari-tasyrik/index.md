@@ -2,6 +2,7 @@
 title: Amalan di Hari Tasyrik (11, 12, dan 13 Dzulhijjah)
 description: Mengenal hari Tasyrik pada 11, 12, dan 13 Dzulhijjah, larangan berpuasa di dalamnya, serta amalan yang dianjurkan seperti takbir, dzikir, dan doa.
 date: '2027-05-06T23:59:59.121Z'
+tags: ["ibadah", "amalan"]
 ---
 
 Hari Tasyrik adalah tiga hari yang mengiringi Hari Raya Idul Adha, yaitu tanggal 11, 12, dan 13 Dzulhijjah. Hari-hari ini masih merupakan bagian dari rangkaian perayaan Idul Adha dan memiliki keistimewaan tersendiri yang sering kali belum banyak disadari oleh umat Islam. Banyak yang mengira bahwa setelah sholat Id dan penyembelihan kurban, rangkaian ibadah Dzulhijjah sudah selesai. Padahal, Allah masih mengundang kita untuk terus mengisi hari-hari Tasyrik dengan ibadah dan rasa syukur, karena hari-hari ini masih termasuk waktu yang istimewa di sisi-Nya. Untuk menemani ibadah Anda di hari-hari yang istimewa ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
