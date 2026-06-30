@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Memaafkan dan Menahan Amarah"
 description: "Kumpulan ayat Al-Quran tentang memaafkan dan menahan amarah beserta artinya, sebagai panduan melepaskan beban dendam dan meraih kemuliaan akhlak yang sejati."
 date: '2026-07-17T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Memaafkan seseorang yang telah menyakiti kita adalah salah satu hal terberat yang pernah ada dalam kehidupan manusia. Hati ingin mempertahankan rasa sakit itu, seolah dengan menyimpan dendam kita sedang melindungi diri sendiri dari luka yang sama. Namun Al-Quran hadir dengan pernyataan yang mengejutkan: kemampuan untuk memaafkan bukan tanda kelemahan, melainkan tanda kekuatan sejati dan kemuliaan akhlak yang paling tinggi. Bahkan Allah sendiri menyebut orang-orang yang mampu menahan amarah dan memberi maaf sebagai golongan yang Dia cintai.
