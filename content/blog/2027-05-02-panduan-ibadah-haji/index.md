@@ -2,6 +2,7 @@
 title: Panduan Ibadah Haji, Rukun Islam Kelima dan Tahapannya
 description: Mengenal ibadah haji sebagai rukun Islam kelima, mulai dari syarat, rukun haji, hingga tahapan pelaksanaannya secara ringkas dan mudah dipahami.
 date: '2027-05-02T23:59:59.121Z'
+tags: ["ibadah", "amalan"]
 ---
 
 Ibadah haji adalah rukun Islam yang kelima dan menjadi impian yang sangat dalam bagi setiap muslim di seluruh dunia. Setiap tahun, jutaan jamaah dari berbagai negara, berbagai bahasa, dan berbagai latar belakang berkumpul di Tanah Suci dalam satu tujuan yang sama: memenuhi panggilan Allah. Pemandangan ribuan manusia berpakaian putih yang menanggalkan segala perbedaan duniawi adalah salah satu gambaran paling mengharukan tentang persatuan umat Islam yang tidak bisa ditemukan di tempat lain mana pun. Untuk menemani persiapan ruhani Anda menuju ibadah yang agung ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
