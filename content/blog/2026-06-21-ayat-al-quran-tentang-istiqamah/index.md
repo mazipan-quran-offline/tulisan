@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Istiqamah dan Keteguhan dalam Kebaikan
 description: Kumpulan ayat Al-Quran tentang istiqamah beserta artinya, sebagai pengingat bahwa konsistensi dalam ketaatan adalah kunci keberhasilan dunia dan akhirat.
 date: '2026-06-21T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Ada sebuah kisah masyhur tentang seorang sahabat yang meminta nasihat singkat kepada Rasulullah SAW, sesuatu yang bisa ia pegang erat sepanjang hidupnya. Rasulullah menjawab: "Katakanlah 'Aku beriman kepada Allah', kemudian istiqamahlah." Jawaban yang singkat, namun mengandung kedalaman yang tidak habis-habisnya untuk direnungi. Beriman kepada Allah bisa diucapkan dalam satu detik; tetapi istiqamah, konsistensi dan keteguhan di atas jalan itu, adalah pekerjaan seumur hidup.

@@ -2,6 +2,7 @@
 title: Adab dalam membaca Al-Quran
 description: Beberapa adab yang mestinya dilakukan ketika kita akan atau sedang membaca Al-Quran
 date: '2020-06-16T23:59:59.121Z'
+tags: ["adab", "tilawah", "ibadah"]
 ---
 
 Al Qur'an sebagai Kitab Suci, Wahyu Ilahi, mempunyai adab-adab tersendiri bagi org-org yg membacanya. Adab-adab itu sudah diatur dgn sangat baik, untuk penghormatan dan keagungan Al-Quran, tiap-tiap org harus berpedoman kepadanya dan mengerjakannya.

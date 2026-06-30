@@ -2,6 +2,7 @@
 title: Ayat-ayat Sajdah dan Sujud Tilawah
 description: Ayat-ayat sajdah dalam Al-Quran serta penjelasan Sujud tilawah ketika membacakan ayat tersebut
 date: '2020-06-17T23:59:59.121Z'
+tags: ["ayat-quran", "tilawah", "sholat"]
 ---
 
 Ayat Sajdah (<bdi class="arabic">اٰية السجدة</bdi>) adalah ayat-ayat tertentu dalam [Al Qur'an](https://www.baca-quran.id/) yang bila dibaca disunnahkan bagi yang membaca dan mendengarnya untuk melakukan sujud tilawah.

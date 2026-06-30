@@ -2,6 +2,7 @@
 title: Daftar lengkap Al-Quran 30 juz dan terjemahan bahasa Indonesia
 description: Sebuah daftar lengkap bacaan-bacaan surat dalam Al-Quran sebanyak 30 juz beserta terjemahan dan tafsir dalam bahasa Indonesia
 date: '2024-12-03T23:59:59.121Z'
+tags: ["juz-30", "tafsir", "tilawah"]
 ---
 
 Berikut adalah daftar lengkap dari 114 surat dalam Al-Quran yang terdiri dari 30 juz.

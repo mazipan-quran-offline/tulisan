@@ -2,6 +2,7 @@
 title: Tips Menghafal Surat Pendek untuk Anak dan Orang Dewasa
 description: Panduan praktis menghafal surat-surat pendek Al-Quran untuk anak-anak dan orang dewasa, lengkap dengan metode dan urutan yang dianjurkan.
 date: '2026-05-15T23:59:59.121Z'
+tags: ["menghafal", "tips", "juz-30"]
 ---
 
 Menghafal surat-surat pendek dari Al-Quran adalah salah satu amalan terbaik yang bisa Anda lakukan, baik untuk diri sendiri maupun untuk anak-anak di rumah. Bagi banyak orang, perjalanan menghafal dimulai dari surat-surat pendek di Juz 30 yang terasa lebih ringan dan mudah dijangkau. Namun tidak sedikit yang merasa bingung harus mulai dari mana, atau merasa hafalannya mudah luntur setelah beberapa waktu. Panduan ini hadir untuk menemani Anda menapaki perjalanan itu dengan langkah yang lebih terencana dan menyenangkan.

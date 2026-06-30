@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Menjaga Lisan dan Kekuatan Perkataan
 description: Kumpulan ayat Al-Quran tentang menjaga lisan beserta artinya, sebagai pengingat bahwa kata-kata yang keluar dari mulut memiliki konsekuensi yang jauh lebih besar dari yang kita bayangkan.
 date: '2026-06-26T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Rasulullah SAW pernah ditanya tentang apa yang paling banyak memasukkan manusia ke dalam neraka, dan beliau menjawab: "Dua lubang, yaitu mulut dan kemaluan." Jawaban itu mungkin mengejutkan banyak orang yang membayangkan dosa besar selalu berupa tindakan fisik yang nyata. Ternyata, organ sekecil lidah, yang bahkan tidak bertulang, mampu menjadi sumber kehancuran yang luar biasa, baik bagi diri sendiri maupun bagi orang lain.

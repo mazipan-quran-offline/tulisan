@@ -2,6 +2,7 @@
 title: Daftar lengkap surat dalam Juz Amma, Al-Quran Juz 30
 description: Daftar lengkap dan urutan surat dalam Juz Amma (Al-Quran Juz 30) yang terdiri dari 37 surat, lengkap dengan arti, jumlah ayat, dan terjemahan bahasa Indonesia.
 date: '2024-12-04T23:59:59.121Z'
+tags: ["juz-30", "juz-amma", "tilawah"]
 ---
 
 **Juz 30** dalam Al-Quran dikenal dengan **[Juz Amma](https://www.baca-quran.id/juz-amma/)** karena diawali dengan Surat An-Naba' yang diawali dengan ayat yang berbunyi <bdi class="arabic">عَمَّ يَتَسَاۤءَلُوْنَۚ</bdi> ('Amma yatasaaa aluun).

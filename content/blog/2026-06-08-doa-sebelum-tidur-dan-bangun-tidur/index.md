@@ -2,6 +2,7 @@
 title: Doa Sebelum Tidur dan Bangun Tidur
 description: Kumpulan doa sebelum tidur dan bangun tidur beserta artinya, lengkap dengan adab tidur dalam Islam.
 date: '2026-06-08T23:59:59.121Z'
+tags: ["doa", "adab"]
 ---
 
 Setiap malam, saat tubuh kita rebah dan mata mulai terpejam, ada sebuah momen yang sering kita lewatkan begitu saja. Padahal, Islam mengajarkan bahwa tidur bukan sekadar istirahat fisik. Tidur adalah pengingat kecil tentang kematian, dan bangun dari tidur adalah anugerah yang layak disambut dengan syukur. Rasulullah shallallahu 'alaihi wa sallam selalu mengawali dan mengakhiri tidur beliau dengan doa, menjadikan momen paling privat sekalipun sebagai kesempatan untuk mendekat kepada Allah.

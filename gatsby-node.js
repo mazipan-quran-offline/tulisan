@@ -31,6 +31,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             title
             date(formatString: "DD MMMM YYYY")
             description
+            tags
           }
           excerpt(pruneLength: 120)
         }
@@ -74,20 +75,25 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
-    // Pick up to 3 other articles as related posts (next in chronological order, wrapping around)
-    const relatedPosts = [];
-    for (let i = 1; i <= 3; i++) {
-      const relatedIndex = (index + i) % posts.length;
-      if (relatedIndex !== index) {
-        const p = posts[relatedIndex];
-        relatedPosts.push({
-          slug: p.fields.slug,
-          title: p.frontmatter.title,
-          date: p.frontmatter.date,
-          description: p.frontmatter.description || p.excerpt,
-        });
-      }
-    }
+    // Pick up to 3 related posts: prioritize tag overlap, fall back to chronological proximity
+    const currentTags = post.frontmatter.tags || [];
+    const scored = posts
+      .filter((_, i) => i !== index)
+      .map(p => {
+        const pTags = p.frontmatter.tags || [];
+        const overlap = currentTags.filter(t => pTags.includes(t)).length;
+        return { post: p, overlap };
+      })
+      .sort((a, b) => b.overlap - a.overlap);
+
+    // Take top 3 by tag score; for ties keep chronological order (already sorted)
+    const relatedPosts = scored.slice(0, 3).map(({ post: p }) => ({
+      slug: p.fields.slug,
+      title: p.frontmatter.title,
+      date: p.frontmatter.date,
+      tags: p.frontmatter.tags || [],
+      description: p.frontmatter.description || p.excerpt,
+    }));
 
     createPage({
       path: post.fields.slug,
@@ -101,6 +107,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         previousPostId,
         nextPostId,
         relatedPosts,
+        tags: post.frontmatter.tags || [],
       },
     });
   });
@@ -159,6 +166,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      tags: [String]
     }
 
     type Fields {

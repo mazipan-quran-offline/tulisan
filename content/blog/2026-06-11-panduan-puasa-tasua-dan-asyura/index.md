@@ -2,6 +2,7 @@
 title: Panduan Puasa Tasu'a dan Asyura, Niat, Jadwal, dan Keutamaannya
 description: Panduan lengkap puasa Tasu'a dan Asyura di bulan Muharram, mulai dari niat, jadwal, hingga keutamaannya yang dapat menghapus dosa setahun.
 date: '2026-06-11T23:59:59.121Z'
+tags: ["puasa", "muharram", "ibadah"]
 ---
 
 Salah satu amalan yang paling dianjurkan di bulan Muharram adalah puasa sunnah, khususnya puasa Tasu'a dan Asyura. Kedua puasa ini bukan sekadar tradisi, melainkan amalan yang diajarkan langsung oleh Rasulullah dan memiliki keutamaan yang sangat besar. Bagi banyak umat Islam, puasa Asyura menjadi salah satu momen yang paling ditunggu setiap tahunnya sebagai sarana untuk meraih ampunan dan keberkahan di awal tahun Hijriah. Untuk menemani ibadah Anda di hari-hari istimewa ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).

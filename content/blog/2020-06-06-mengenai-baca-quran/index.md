@@ -2,6 +2,7 @@
 title: Mengenai Aplikasi Web Baca-Quran.id
 description: Memperkenalkan aplikasi web untuk membaca Al-Qur'an, Baca-Quran.id
 date: '2020-06-06T23:46:37.121Z'
+tags: ["aplikasi"]
 ---
 
 [Baca-Quran.id](https://www.baca-quran.id/) adalah aplikasi web dengan kode sumber terbuka ini bisa teman-teman temukan di Github, web ini saya buat pada awalnya untuk memenuhi kebutuhan pribadi saya akan aplikasi untuk membaca Al-Quran yang sederhana, gratis namun tanpa iklan.

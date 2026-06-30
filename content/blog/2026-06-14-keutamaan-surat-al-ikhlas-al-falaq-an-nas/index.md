@@ -2,6 +2,7 @@
 title: Keutamaan Surat Al-Ikhlas, Al-Falaq, dan An-Nas
 description: "Mengenal keutamaan tiga surat penutup Al-Quran: Al-Ikhlas, Al-Falaq, dan An-Nas, serta waktu dan cara mengamalkannya."
 date: '2026-06-14T23:59:59.121Z'
+tags: ["keutamaan-surat", "juz-30", "ibadah"]
 ---
 
 Ada tiga surat pendek di penghujung Al-Quran yang mungkin sudah Anda hafal sejak kecil, bahkan tanpa pernah bersungguh-sungguh menghafalnya. Surat Al-Ikhlas, Al-Falaq, dan An-Nas begitu sering terdengar, dibaca dalam sholat, diulang sebelum tidur, dan dilantunkan di berbagai kesempatan. Namun di balik keakraban itu, tersimpan kedudukan yang luar biasa dalam ajaran Islam, kedudukan yang seharusnya membuat kita membacanya dengan lebih sadar dan penuh penghayatan.

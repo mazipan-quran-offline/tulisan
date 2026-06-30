@@ -2,6 +2,7 @@
 title: Urutan Surat Pendek Untuk Taraweh
 description: Daftar berurut untuk surat-surat pendek yang dibaca saat sholat taraweh pada bulan ramadhan
 date: '2021-07-26T23:59:59.121Z'
+tags: ["sholat", "ibadah", "juz-30"]
 ---
 
 Surat taraweh adalah salah satu sholat sunah yang dikerjakan setiap bulan Ramadhan di malam hari, umumnya dikerjakan langsung setelah sholat isya selesai.

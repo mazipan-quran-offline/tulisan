@@ -2,6 +2,7 @@
 title: "Dzikir Pagi dan Petang: Bacaan Lengkap Beserta Keutamaannya"
 description: Kumpulan bacaan dzikir pagi dan petang yang dianjurkan Rasulullah SAW, lengkap dengan tulisan Arab, latin, dan terjemahan bahasa Indonesia.
 date: '2026-06-15T23:59:59.121Z'
+tags: ["dzikir", "ibadah"]
 ---
 
 Ada dua waktu dalam sehari yang memiliki kedudukan istimewa dalam Islam: pagi setelah subuh dan petang menjelang maghrib. Di dua waktu inilah para malaikat bergantian menjaga manusia, dan di dua waktu inilah Allah SWT memerintahkan hamba-hamba-Nya untuk memperbanyak dzikir dan doa. Amalan ini dikenal sebagai dzikir pagi dan petang, atau dalam bahasa Arab disebut *al-adzkaar al-masaa'iyah wal ashbahiyyah*.

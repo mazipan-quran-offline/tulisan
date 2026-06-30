@@ -2,6 +2,7 @@
 title: Kandungan dan Keutamaan Surat Ar-Rahman
 description: Menyelami keindahan dan kandungan Surat Ar-Rahman, serta makna pengulangan ayat "Fabiayyi ala irobbikuma tukadziban".
 date: '2026-06-16T23:59:59.121Z'
+tags: ["keutamaan-surat", "tafsir", "ibadah"]
 ---
 
 Ada surat dalam Al-Quran yang begitu istimewa sehingga ia dijuluki sebagai "pengantin Al-Quran". Surat itu adalah Ar-Rahman, surat ke-55 yang terdiri dari 78 ayat. Ketika Anda membacanya, ada sesuatu yang berbeda, sesuatu yang membuat hati berhenti sejenak dan bertanya: betapa besar nikmat yang telah Allah berikan kepada kita, dan betapa sering kita lupa bersyukur. Surat ini bukan sekadar rangkaian ayat biasa. Ia adalah undangan Allah kepada seluruh makhluk-Nya untuk merenungi betapa luasnya kasih sayang-Nya.

@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Surga dan Akhirat
 description: Kumpulan ayat Al-Quran tentang surga dan akhirat beserta penjelasannya, untuk menumbuhkan rindu dan semangat beribadah.
 date: '2026-05-23T23:59:59.121Z'
+tags: ["ayat-quran", "tafsir"]
 ---
 
 Surga adalah janji Allah yang paling indah. Di tengah kesibukan sehari-hari, kadang hati kita terasa jauh dari kerinduan akan akhirat. Namun Al-Quran hadir dengan gambaran-gambaran yang begitu nyata dan menyentuh, seolah mengundang kita untuk merindukannya, lalu bersemangat meraihnya. Berikut ini sepuluh ayat yang menggambarkan keindahan surga dan hakikat hari akhir, semoga bisa menjadi penyegar iman dan penyemangat amal kita.

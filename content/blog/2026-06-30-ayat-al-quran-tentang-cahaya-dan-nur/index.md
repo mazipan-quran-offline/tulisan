@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Cahaya sebagai Petunjuk Allah
 description: Kumpulan ayat Al-Quran tentang cahaya (nur) beserta artinya, menggali makna petunjuk Allah yang menerangi hati dan kehidupan dari kegelapan menuju terang.
 date: '2026-06-30T10:00:00.000Z'
+tags: ["ayat-quran", "tafsir"]
 ---
 
 Bayangkan seseorang yang berjalan di malam yang sangat gelap tanpa satu pun sumber penerangan. Setiap langkah terasa penuh ketidakpastian, dan bahaya bisa datang dari mana saja tanpa sempat terlihat. Itulah gambaran yang Al-Quran pakai untuk menggambarkan kehidupan tanpa petunjuk Allah: gelap, tersandung, dan berputar-putar tanpa arah yang jelas. Sebaliknya, ketika cahaya hadir, segala sesuatu menjadi tampak, jalan menjadi terang, dan batin pun menjadi tenang.

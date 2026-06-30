@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Taubat dan Pengampunan
 description: Kumpulan ayat Al-Quran tentang taubat dan pengampunan Allah, beserta penjelasan yang menguatkan harapan untuk kembali kepada-Nya.
 date: '2026-05-25T23:59:59.121Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Setiap manusia pernah jatuh. Pernah melakukan sesuatu yang kemudian membekas sebagai penyesalan, mengendap sebagai rasa bersalah yang sulit hilang. Namun Al-Quran, dari halaman pertama hingga terakhir, membawa satu pesan yang terus diulang dengan berbagai cara: Allah tidak pernah menutup pintu bagi hamba yang ingin kembali kepada-Nya. Taubat bukan sekadar ritual, melainkan undangan kasih sayang dari Tuhan yang menyebut diri-Nya Ar-Rahman dan Ar-Rahim sebelum apapun yang lain.

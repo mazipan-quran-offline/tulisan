@@ -2,6 +2,7 @@
 title: Juz Amma Arab Saja, Membaca Juz 30 Tanpa Terjemahan
 description: Panduan membaca Juz Amma atau Juz 30 dalam teks Arab saja tanpa terjemahan, cocok untuk melatih kelancaran membaca dan memperkuat hafalan.
 date: '2026-05-01T23:59:59.121Z'
+tags: ["juz-30", "juz-amma", "tilawah"]
 ---
 
 Sebagian dari kita lebih nyaman membaca Juz Amma dalam teks Arab saja, tanpa tulisan latin maupun terjemahan. Cara ini banyak dipilih untuk melatih kelancaran membaca, memperkuat hafalan, sekaligus melatih kemandirian dalam mengenali huruf dan harakat secara langsung.

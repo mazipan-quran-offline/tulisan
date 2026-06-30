@@ -2,6 +2,7 @@
 title: Tips Membiasakan Membaca Al-Quran
 description: Beberapa tips yang bisa dikerjakan agar terbiasa dalam membaca Al-Quran
 date: '2023-04-30T23:59:59.121Z'
+tags: ["tilawah", "tips", "ibadah"]
 ---
 
 [Al-Quran](https://www.baca-quran.id/) merupakan kitab suci umat Islam yang menjadi pedoman hidup sekaligus sumber ajaran agama. [Membaca Al-Quran](https://www.baca-quran.id/tulisan/2020-06-12-keutamaan-membaca-alquran/) memiliki banyak manfaat, baik untuk kehidupan di dunia maupun di akhirat. Namun bagi sebagian orang, membangun kebiasaan membaca Al-Quran secara rutin terasa tidak mudah, terutama di tengah kesibukan sehari-hari yang menyita waktu dan tenaga.

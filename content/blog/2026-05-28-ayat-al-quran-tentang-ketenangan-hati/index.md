@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Ketenangan Hati dan Ketentraman Jiwa
 description: Kumpulan ayat Al-Quran tentang ketenangan hati beserta artinya, untuk menenangkan jiwa yang gelisah dan menemukan ketentraman bersama Allah.
 date: '2026-05-19T23:59:59.121Z'
+tags: ["ayat-quran", "ketenangan-hati"]
 ---
 
 Hati yang tenang adalah anugerah yang sangat berharga. Di tengah kesibukan dan tekanan hidup, banyak orang mencari ketentraman ke berbagai arah, padahal sumber ketenangan yang sejati hanya ada pada Allah. Al-Quran memberikan banyak penegasan bahwa hati akan damai ketika ia dekat dan selalu mengingat Penciptanya.

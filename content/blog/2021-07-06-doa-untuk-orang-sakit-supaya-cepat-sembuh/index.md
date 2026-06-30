@@ -2,6 +2,7 @@
 title: Doa untuk orang sakit supaya cepat sembuh
 description: Doa yang dianjurkan untuk dibaca saat sedang sakit supaya cepat sembuh
 date: '2021-07-06T23:59:59.121Z'
+tags: ["doa", "ibadah"]
 ---
 
 Sakit adalah sebuah keniscayaan, hampir setiap orang pernah merasakannya baik sakit serius atau sakit ringan.

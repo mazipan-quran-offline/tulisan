@@ -2,6 +2,7 @@
 title: Doa Setelah Wudhu Beserta Artinya
 description: Bacaan doa setelah wudhu lengkap dengan Arab, latin, dan artinya, beserta keutamaan membacanya setiap kali selesai berwudhu.
 date: '2026-06-01T23:59:59.121Z'
+tags: ["doa", "ibadah"]
 ---
 
 Setiap kali Anda selesai berwudhu, ada sebuah doa singkat yang sungguh luar biasa nilainya di sisi Allah. Doa ini bukan sekadar pelengkap ritual, melainkan sebuah pernyataan iman yang mengunci wudhu Anda dengan kesaksian hati. Banyak orang yang rajin berwudhu tetapi belum mengetahui doa penutupnya, padahal dalam hadis yang diriwayatkan oleh Imam Muslim, Rasulullah shallallahu 'alaihi wa sallam telah mengajarkan doa ini beserta kabar gembira yang sangat besar bagi siapa saja yang membacanya. Dengan mengetahui doa ini dan memahami maknanya, setiap kali Anda bersuci akan terasa jauh lebih bermakna dan penuh kesadaran.

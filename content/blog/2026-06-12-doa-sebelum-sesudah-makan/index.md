@@ -2,6 +2,7 @@
 title: Doa Sebelum dan Sesudah Makan
 description: Bacaan doa sebelum dan sesudah makan beserta artinya dalam bahasa Indonesia, dan hikmah membaca doa saat makan.
 date: '2026-06-12T23:59:59.121Z'
+tags: ["doa", "adab"]
 ---
 
 Makan adalah nikmat yang datang setiap hari, namun doa yang mengiringinya sering terlupakan. Padahal, beberapa patah kata sebelum dan sesudah makan menyimpan makna yang jauh lebih dalam dari sekadar ritual, yakni sebuah pengakuan bahwa rezeki yang ada di hadapan kita adalah pemberian Allah semata.
