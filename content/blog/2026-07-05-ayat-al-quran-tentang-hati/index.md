@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Hati (Qalb) dan Kesehatannya"
 description: "Kumpulan ayat Al-Quran tentang hati (qalb) beserta artinya, menggali berbagai kondisi hati yang digambarkan Al-Quran dari hati yang sakit hingga hati yang selamat (qalbun salim)."
 date: '2026-07-05T10:00:00.000Z'
+tags: ["ayat-quran", "ketenangan-hati", "tafsir"]
 ---
 
 Al-Quran menggunakan kata "qalb" (hati) lebih dari seratus kali, dan bukan sekadar sebagai metafora puitis. Dalam pandangan Al-Quran, hati adalah pusat sesungguhnya dari iman, akal, dan kondisi moral manusia. Hati bukan sekadar organ yang memompa darah, melainkan "tempat tinggal" dari niat, pemahaman, dan hubungan seseorang dengan Allah. Yang paling menarik, Al-Quran menggambarkan hati layaknya seorang dokter spiritual yang mendiagnosis: ada hati yang sakit, hati yang keras, hati yang buta, hati yang berkarat, hingga hati yang lapang, tenang, dan selamat. Memahami kondisi-kondisi hati ini adalah langkah pertama menuju kesehatan rohani yang sesungguhnya.
