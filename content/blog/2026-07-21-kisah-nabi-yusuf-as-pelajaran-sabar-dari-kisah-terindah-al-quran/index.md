@@ -2,6 +2,7 @@
 title: "Kisah Nabi Yusuf AS: Pelajaran Sabar dari Kisah Terindah dalam Al-Quran"
 description: "Kisah Nabi Yusuf AS dalam Al-Quran: dibuang saudara, dipenjara tanpa salah, hingga menjadi penguasa Mesir. Teladan sabar, ikhlas, dan memaafkan."
 date: '2026-07-21T10:00:00.000Z'
+tags: ["kisah-nabi", "tafsir", "akhlak"]
 ---
 
 Allah menyebut kisah Nabi Yusuf AS sebagai "ahsanal qashash", sebaik-baik kisah. Itu bukan penilaian sembarangan. Surah Yusuf adalah satu-satunya surah dalam Al-Quran yang memuat satu kisah secara utuh dan berkesinambungan dari awal hingga akhir, sebuah narasi yang memiliki semua elemen yang membuat sebuah cerita begitu membekas: pengkhianatan dari orang-orang terdekat, cinta yang diuji, penjara yang tidak adil, kebangkitan yang luar biasa, dan pengampunan yang mengharukan. Namun di balik semua drama itu, ada satu benang merah yang tidak pernah putus: iman Yusuf kepada Allah dan kesabarannya yang tidak tergoyahkan.
