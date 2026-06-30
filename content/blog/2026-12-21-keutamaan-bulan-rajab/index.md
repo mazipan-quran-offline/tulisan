@@ -2,6 +2,7 @@
 title: Keutamaan Bulan Rajab dan Amalan yang Dianjurkan
 description: Mengenal keutamaan bulan Rajab sebagai salah satu bulan haram, amalan yang dianjurkan, dan persiapan menyambut Ramadan.
 date: '2026-12-21T23:59:59.121Z'
+tags: ["ibadah", "puasa", "amalan"]
 ---
 
 Setiap kali bulan Rajab tiba, banyak Muslim yang merasakannya sebagai momen tersendiri, sebuah jeda sebelum Ramadan yang penuh makna. Ada nuansa ketenangan yang khas, seolah langit mengundang kita untuk lebih dekat, lebih sungguh-sungguh dalam beribadah. Rajab bukan sekadar nama bulan dalam kalender Hijriah. Ia adalah tamu agung yang datang membawa peluang luar biasa bagi siapa saja yang mau menyambutnya dengan hati terbuka.
