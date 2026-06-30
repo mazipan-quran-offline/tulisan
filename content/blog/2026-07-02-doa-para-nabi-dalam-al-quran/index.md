@@ -1,0 +1,85 @@
+---
+title: "10 Doa Para Nabi dalam Al-Quran yang Menyentuh Hati"
+description: "Kumpulan doa-doa indah para nabi dalam Al-Quran beserta artinya, dari Ibrahim hingga Yunus, sebagai inspirasi cara bermunajat yang tulus kepada Allah."
+date: '2026-07-02T10:00:00.000Z'
+---
+
+Para nabi bukan sekadar penyampai wahyu yang berdiri jauh di atas manusia biasa. Mereka adalah manusia yang juga menangis, berdoa, dan bergantung penuh kepada Allah dalam setiap langkah hidup mereka. Al-Quran tidak hanya merekam risalah yang mereka bawa, tetapi juga mengabadikan doa-doa pribadi mereka, munajat yang lahir dari momen-momen paling nyata dalam kehidupan: di kegelapan perut ikan, di atas fondasi Ka'bah yang sedang dibangun, di ruang sepi seorang tua yang merindukan keturunan. Doa-doa itu bukan sekadar teks yang indah, melainkan jejak spiritual yang bisa kita telusuri dan jadikan cermin dalam kehidupan kita sendiri.
+
+Berikut ini sepuluh doa para nabi yang diabadikan Al-Quran, lengkap dengan konteks dan pelajaran yang bisa kita ambil. Anda bisa membaca teks Arab lengkap setiap ayat melalui tautan yang terhubung ke [Baca-Quran.id](https://www.baca-quran.id/).
+
+## 1. [QS. Al-Anbiya: 87](https://www.baca-quran.id/surah/21/87/) — Doa Nabi Yunus dari Kegelapan
+
+*"Laa ilaaha illaa anta subhaanaka innii kuntu minazh-zhaalimiin."*
+(Tidak ada Tuhan selain Engkau, Mahasuci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim.)
+
+Doa ini lahir dari tempat yang paling gelap yang pernah ada: perut ikan paus, di dasar lautan, dalam kegelapan yang berlapis-lapis. Nabi Yunus tidak memulai doanya dengan permintaan agar dikeluarkan, melainkan dengan pengakuan tauhid dan pengakuan kesalahan diri sendiri. Inilah kedalaman spiritual yang luar biasa: di saat paling terjepit sekalipun, yang pertama keluar dari lisannya adalah pujian kepada Allah dan kejujuran tentang dirinya sendiri. Al-Quran menyebut doa ini sebagai "an-Nida'" atau seruan, sebuah teriakan dari lubuk hati yang paling dalam. Allah pun menjawabnya dengan pembebasan, dan menjadikan kisah ini sebagai pelajaran bagi seluruh umat bahwa tidak ada tempat yang terlalu gelap untuk doa, dan tidak ada dosa yang terlalu besar untuk tobat.
+
+## 2. [QS. Al-Anbiya: 83](https://www.baca-quran.id/surah/21/83/) — Doa Nabi Ayyub dalam Sakit
+
+*"Annii massaniyad-dhurru wa anta arhamur-raahimiin."*
+(Sesungguhnya aku telah ditimpa penyakit, dan Engkau Tuhan Yang Maha Penyayang di antara semua yang penyayang.)
+
+Nabi Ayyub mengalami cobaan fisik yang luar biasa berat: penyakit yang merongrong tubuhnya selama bertahun-tahun. Namun perhatikan bagaimana beliau berdoa. Beliau tidak berteriak-teriak menuntut kesembuhan, tidak menawar dengan janji-janji amal. Beliau hanya menyatakan kondisinya, "aku telah ditimpa penyakit," lalu menyerahkan sepenuhnya kepada sifat Allah yang paling relevan dalam situasi itu: ar-Rahimiin, Yang Maha Penyayang. Doa ini mengajarkan sesuatu yang sangat berharga: kadang kita tidak perlu merumuskan permintaan yang panjang dan rumit. Cukup hadirkan diri kita di hadapan Allah, ceritakan kondisi kita apa adanya, dan percayakan kepada kasih sayang-Nya untuk memilihkan jalan terbaik. Kesembuhan Nabi Ayyub kemudian datang, bukan karena beliau menawar keras, tetapi karena beliau menyerah dengan penuh keyakinan kepada Dzat Yang Maha Pengasih.
+
+## 3. [QS. Maryam: 4](https://www.baca-quran.id/surah/19/4/) — Doa Nabi Zakariya Memohon Keturunan
+
+*"Rabbi innii wahanal 'azmu minnii wasyta'alar ra'su syaibaa walum akun bidu'aa'ika rabbi syaqiyyaa."*
+(Ya Tuhanku, sungguh tulangku telah lemah dan kepalaku telah dipenuhi uban, dan aku belum pernah kecewa dalam berdoa kepada-Mu, ya Tuhanku.)
+
+Doa ini diucapkan dengan berbisik, sebagaimana Al-Quran menyebutnya: "nidaa'an khafiyyaa," seruan yang pelan. Ada keintiman yang luar biasa di sini, sebuah percakapan pribadi antara seorang hamba yang sudah tua dan Tuhannya. Nabi Zakariya tidak berteriak dalam keramaian; beliau berbisik kepada Allah di ruang yang hening. Beliau membuka doanya bukan dengan langsung meminta, tetapi dengan menggambarkan kondisi dirinya yang sudah tua dan lemah, seolah berkata: "Engkau tahu keadaanku, ya Allah." Kemudian beliau menghadirkan modal doanya yang paling berharga: "aku belum pernah kecewa dalam berdoa kepada-Mu," sebuah rekam jejak iman yang panjang yang beliau sajikan sebagai penguat harapan. Di usia tua, ketika secara logika manusia sudah menyerah, Zakariya justru berdoa dengan harapan penuh kepada Allah. Dan Allah mengabulkan doa itu dengan menganugerahkan Yahya, seorang anak yang bahkan namanya pun Allah sendiri yang memilihkan.
+
+## 4. [QS. Ibrahim: 35](https://www.baca-quran.id/surah/14/35/) — Doa Nabi Ibrahim untuk Keamanan Makkah
+
+*"Rabbi aj'al haadzal balada aaminaw wajnubnii wa baniyya an na'budal ashnaam."*
+(Ya Tuhanku, jadikanlah negeri ini negeri yang aman, dan jauhkanlah aku beserta anak cucuku dari menyembah berhala.)
+
+Nabi Ibrahim berdoa setelah meninggalkan istrinya, Hajar, dan putranya yang masih bayi, Ismail, di lembah yang tandus dan tak berpenghuni. Dalam situasi seperti itu, doa pertamanya bukan untuk dirinya sendiri, melainkan untuk kota itu, untuk keamanan tempat yang kelak akan menjadi pusat peribadatan umat manusia hingga akhir zaman. Yang menarik, Ibrahim juga memasukkan doa agar dirinya dan keturunannya dijauhkan dari penyembahan berhala. Ini menunjukkan bahwa seorang nabi pun merasa perlu memohon perlindungan dari penyimpangan aqidah, bahwa ketaatan bukan sesuatu yang bisa kita anggap sudah pasti ada dalam diri, melainkan sesuatu yang harus terus kita pinta dan jaga dengan pertolongan Allah. Doa ini adalah pengingat bahwa keamanan lingkungan secara fisik dan kesehatan aqidah secara spiritual harus sama-sama kita jaga dan kita mohonkan kepada Allah.
+
+## 5. [QS. Ibrahim: 40](https://www.baca-quran.id/surah/14/40/) — Doa Ibrahim untuk Keistiqamahan Shalat
+
+*"Rabbi ij'alnii muqiimas-shalaati wa min dzurriyyatii, rabbanaa wa taqabbal du'aa'."*
+(Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap melaksanakan shalat. Ya Tuhan kami, perkenankanlah doaku.)
+
+Salah satu warisan terbesar yang ingin Ibrahim tinggalkan untuk keturunannya bukan harta atau kekuasaan, melainkan keistiqamahan dalam mendirikan shalat. Doa ini diucapkan bergandengan dengan doa di ayat 41, di mana Ibrahim memohon ampunan untuk dirinya, kedua orang tuanya, dan seluruh orang beriman di hari kiamat. Ada urutan yang sangat bermakna di sini: Ibrahim pertama memohon untuk dirinya dan keluarganya, baru kemudian memohon untuk komunitas yang lebih luas. Memperbaiki diri dan keluarga terlebih dahulu sebelum mendoakan yang lain adalah prinsip yang tersirat dengan indah dalam doa ini. Kalimat penutup "rabbanaa wa taqabbal du'aa'" (ya Tuhan kami, terimalah doa kami) yang begitu sederhana namun penuh harap seolah mengingatkan kita bahwa seindah apapun doa yang kita panjatkan, penerimaannya tetap adalah keputusan Allah yang harus kita percayai sepenuhnya.
+
+## 6. [QS. Al-Baqarah: 127](https://www.baca-quran.id/surah/2/127/) — Doa Ibrahim dan Ismail Saat Membangun Ka'bah
+
+*"Rabbanaa taqabbal minnaa, innaka antas-samii'ul 'aliim."*
+(Ya Tuhan kami, terimalah (amal) dari kami. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui.)
+
+Bayangkan momen ini: seorang ayah dan putranya sedang bersama-sama mengangkat batu, membangun rumah Allah yang paling suci di muka bumi. Sebuah pekerjaan yang luar biasa mulia dan bersejarah. Namun di tengah pekerjaan agung itu, doa mereka bukan tentang keberhasilan proyek atau pengakuan dari manusia, melainkan satu permintaan yang sangat sederhana dan mendasar: "terimalah dari kami." Ini adalah inti dari keikhlasan yang sesungguhnya: mengerjakan amal terbaik yang kita mampu, kemudian menyerahkan urusan penerimaan sepenuhnya kepada Allah. Doa ini juga mengajarkan kita bahwa tidak ada amal, sebesar apapun kelihatannya, yang bisa kita klaim pasti diterima oleh Allah. Setiap kali selesai beribadah, setiap kali usai berbuat baik sekecil apapun, doa "Rabbanaa taqabbal minnaa" adalah ungkapan penutup yang paling jujur dan paling tepat.
+
+## 7. [QS. Yusuf: 101](https://www.baca-quran.id/surah/12/101/) — Doa Nabi Yusuf dalam Rasa Syukur
+
+*"Rabbi qad aataitanii minal mulki wa 'allamtanii min ta'wiilil ahaadits... tawaffanii muslimaw wa alhiqnii bish-shaalihiin."*
+(Ya Tuhanku, sungguh Engkau telah menganugerahkan kepadaku sebagian kerajaan dan mengajarkan kepadaku takwil mimpi... wafatkanlah aku dalam keadaan Islam dan gabungkanlah aku dengan orang-orang yang saleh.)
+
+Doa ini lahir di puncak kehidupan Yusuf yang penuh liku: setelah bertahun-tahun dibuang ke sumur oleh saudara-saudaranya sendiri, dijual sebagai budak, difitnah dan dipenjara, akhirnya beliau bangkit menjadi pembesar Mesir dan bertemu kembali dengan keluarganya dalam air mata dan pelukan yang panjang. Di puncak kebahagiaan yang luar biasa itu, Yusuf tidak berdoa memohon lebih banyak kekuasaan atau lebih panjang umur di atas tahta. Beliau justru berdoa untuk akhirnya: "wafatkanlah aku dalam keadaan Islam." Ini adalah kesadaran seorang hamba yang betul-betul memahami bahwa puncak segala pencapaian dunia tidak ada artinya jika ujung kehidupan tidak dalam keadaan yang baik di sisi Allah. Pelajaran terdalam dari doa Yusuf: di saat paling bahagia sekalipun, jangan lupa untuk mendoakan akhir yang baik.
+
+## 8. [QS. Thaha: 114](https://www.baca-quran.id/surah/20/114/) — Doa Nabi Musa Memohon Ilmu
+
+*"Rabbi zidnii 'ilmaa."*
+(Ya Tuhanku, tambahkanlah kepadaku ilmu.)
+
+Doa ini hanya tiga kata dalam bahasa Arab, namun maknanya tidak terbatas. Nabi Musa, yang telah menerima wahyu langsung dari Allah, yang telah berbicara dengan Allah di Bukit Sinai dalam percakapan yang tidak pernah dialami manusia lain, masih berdoa memohon tambahan ilmu. Ini adalah pernyataan yang sangat kuat tentang bagaimana Islam memandang pengetahuan: bahkan nabi yang paling mulia pun tetap harus merendahkan diri dan terus memohon lebih banyak pemahaman. Doa ini juga muncul dalam konteks yang bermakna, yaitu setelah Allah mengingatkan Musa agar tidak tergesa-gesa mengikuti wahyu sebelum selesai diturunkan. Ada ketundukan total di sini, bahwa ilmu yang kita miliki selalu belum cukup dan masih bisa bertambah, bahwa Allah adalah sumber satu-satunya dari segala pengetahuan yang sejati. Jadikanlah "Rabbi zidnii 'ilmaa" sebagai doa harian, terutama sebelum belajar, membaca, atau memulai hari yang baru.
+
+## 9. [QS. An-Naml: 19](https://www.baca-quran.id/surah/27/19/) — Doa Nabi Sulaiman atas Karunia yang Luar Biasa
+
+*"Rabbi awzi'nii an asykura ni'matakal-latii an'amta 'alayya wa 'alaa waalidayya wa an a'mala shaalihan tardhaahu wa adkhilnii birahmatika fii 'ibaadikash-shaalihiin."*
+(Ya Tuhanku, ilhamkanlah aku untuk tetap mensyukuri nikmat-Mu yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku, dan agar aku mengerjakan kebajikan yang Engkau ridai, dan masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang saleh.)
+
+Doa ini muncul ketika Sulaiman mendengar semut berbicara tentang pasukannya yang akan segera datang, dan beliau tersenyum geli. Di balik senyum itu, muncullah doa yang penuh kerendahan hati ini. Sulaiman, yang dianugerahi kerajaan paling megah dalam sejarah manusia, yang bisa berbicara dengan binatang dan menguasai angin serta jin, berdoa memohon kekuatan untuk bersyukur, bukan untuk mendapat lebih banyak lagi. Beliau juga mendoakan kedua orang tuanya dalam doa yang sama, sebuah keindahan akhlak yang luar biasa di tengah segala kemegahan yang beliau miliki. Kemudian, setelah semua itu, beliau menutup dengan permohonan paling mendasar: "masukkanlah aku ke dalam golongan hamba-hamba-Mu yang saleh." Kerajaan dan kemampuan yang luar biasa tidak membuatnya merasa sudah layak masuk golongan orang saleh secara otomatis, melainkan tetap memohon dengan penuh harap.
+
+## 10. [QS. Al-Furqan: 74](https://www.baca-quran.id/surah/25/74/) — Doa Hamba Ar-Rahman untuk Keluarga yang Saleh
+
+*"Rabbanaa hablana min azwaajinaa wa dzurriyyaatinaa qurrata a'yunin waj'alnaa lil-muttaqiina imaama."*
+(Ya Tuhan kami, anugerahkanlah kepada kami istri-istri dan keturunan kami sebagai penyenang hati kami, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa.)
+
+Doa ini bukan dari satu nabi tertentu, melainkan dari karakter yang Al-Quran sebut sebagai "ibaadul-Rahmaan," hamba-hamba Yang Maha Pengasih, yang sifat-sifatnya dipaparkan panjang dalam surah Al-Furqan. Salah satu sifat istimewa mereka adalah doa ini: mereka mendambakan keluarga yang menjadi "qurratu a'yun," penyejuk mata dan hati. Bukan sekadar keluarga yang sehat secara fisik atau sukses secara materi, tetapi keluarga yang keberadaannya membuat hati tenteram dan menjadi sumber kebahagiaan yang sesungguhnya. Bagian kedua doa ini bahkan lebih dalam dan lebih luas: "jadikanlah kami pemimpin bagi orang-orang yang bertakwa," sebuah permohonan agar pengaruh kebaikan kita tidak berhenti di lingkar keluarga saja, tetapi juga menerangi dan membimbing komunitas di sekitar kita. Doa ini mengajarkan bahwa kerinduan terbesar seorang mukmin sejati adalah melihat orang-orang tercintanya tumbuh dalam ketakwaan.
+
+---
+
+Doa-doa para nabi ini adalah warisan yang tak ternilai harganya. Setiap kata yang mereka ucapkan lahir dari momen nyata dalam kehidupan mereka, bukan dari rumusan teologis yang kering atau seremonial belaka. Membacanya berarti memasuki pengalaman spiritual para nabi dan belajar bagaimana manusia-manusia terbaik sekalipun tetap bergantung penuh kepada Allah dalam setiap keadaan, dalam gelap maupun terang, dalam sakit maupun sehat, dalam kesusahan maupun di puncak kebahagiaan. Semoga kita bisa menjadikan doa-doa ini bagian dari munajat harian kita.
+
+Untuk memperdalam bacaan Anda, simak juga artikel tentang [Doa Pembuka Pintu Rezeki](/2023-07-31-doa-pembuka-pintu-rezeki/) dan [Ayat Al-Quran tentang Sabar](/2026-05-28-ayat-al-quran-tentang-sabar/). Anda dapat membaca teks Arab lengkap semua doa ini di [Baca-Quran.id](https://www.baca-quran.id/).
