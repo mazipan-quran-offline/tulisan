@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Waktu dan Pentingnya Memanfaatkan Umur"
 description: "Kumpulan ayat Al-Quran tentang waktu beserta artinya, sebagai pengingat bahwa setiap detik kehidupan adalah amanah yang tidak bisa diputar ulang."
 date: '2026-07-11T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak", "tafsir"]
 ---
 
 Kita hidup di zaman yang terobsesi dengan produktivitas, berbagai aplikasi manajemen waktu, metode pomodoro, dan daftar tugas yang tidak pernah habis. Namun jauh sebelum semua itu ada, Al-Quran sudah berbicara tentang kelangkaan dan nilai waktu lebih dari 1.400 tahun yang lalu. Surah Al-Asr dibuka dengan sumpah demi masa, sebuah sinyal bahwa apa yang mengikutinya adalah sesuatu yang sangat mendesak untuk kita dengar dan renungkan. Sepuluh ayat berikut mengungkap bagaimana Al-Quran menempatkan waktu sebagai salah satu ujian terbesar dalam kehidupan manusia.
