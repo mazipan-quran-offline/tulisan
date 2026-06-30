@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Keluarga dan Menjaga Tali Silaturahmi"
 description: "Kumpulan ayat Al-Quran tentang keluarga dan silaturahmi beserta artinya, sebagai pengingat akan tanggung jawab besar dan keindahan membangun keluarga yang harmonis dalam bingkai Islam."
 date: '2026-07-26T10:00:00.000Z'
+tags: ["ayat-quran", "keluarga", "akhlak"]
 ---
 
 Keluarga dalam Islam bukan sekadar unit sosial. Ia adalah tempat pertama di mana nilai-nilai ditanamkan, di mana karakter dibentuk, dan di mana rahmat dipraktikkan setiap hari. Al-Quran memberikan perhatian yang luar biasa besar pada ikatan keluarga, mulai dari hubungan antara suami dan istri, tanggung jawab orang tua kepada anak, hingga jaringan kekerabatan yang lebih luas yang kita kenal sebagai silaturahmi. Tidak ada ajaran lain dalam Islam yang begitu konsisten ditekankan dari surat pertama hingga terakhir selain menjaga hubungan ini. Sepuluh ayat berikut menghadirkan gambaran lengkap tentang betapa seriusnya Al-Quran memandang keluarga sebagai amanah yang harus dijaga.
