@@ -1,6 +1,24 @@
 import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 
+const SearchIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={18}
+    height={18}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <circle cx="11" cy="11" r="8" />
+    <path d="m21 21-4.35-4.35" />
+  </svg>
+);
+
 import ThemeToggle from './ThemeToggle';
 import './layout.css';
 import '../styles/global.css';
@@ -76,6 +94,16 @@ const Layout = ({ location, title, children }) => {
             )}
           </div>
 
+          <nav className="site-header__nav" aria-label="Navigasi tambahan">
+            <Link
+              to="/search"
+              className="site-header__search"
+              aria-label="Cari artikel"
+            >
+              <SearchIcon />
+              <span className="site-header__search-label">Cari</span>
+            </Link>
+          </nav>
         </div>
       </header>
 
