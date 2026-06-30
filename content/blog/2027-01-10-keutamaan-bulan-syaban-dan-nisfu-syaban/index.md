@@ -2,6 +2,7 @@
 title: Keutamaan Bulan Sya'ban dan Malam Nisfu Sya'ban
 description: Mengenal keutamaan bulan Sya'ban dan malam Nisfu Sya'ban, beserta amalan yang dianjurkan sebagai persiapan menyambut bulan Ramadhan.
 date: '2027-01-10T23:59:59.121Z'
+tags: ["ibadah", "puasa", "amalan"]
 ---
 
 Bulan Sya'ban adalah bulan kedelapan dalam kalender Hijriah yang berada tepat sebelum Ramadhan. Meski posisinya sangat strategis, bulan ini sering kali luput dari perhatian karena berada di antara dua bulan yang lebih dikenal: Rajab di sebelumnya dan Ramadhan yang ditunggu-tunggu setelahnya. Padahal, Rasulullah justru memberi perhatian khusus pada bulan ini dengan memperbanyak puasa sunnah. Sya'ban adalah waktu persiapan ruhani, jembatan yang menghubungkan kita dengan bulan suci yang penuh keberkahan. Untuk menemani ibadah Anda di bulan yang sering terlupakan namun sangat istimewa ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
