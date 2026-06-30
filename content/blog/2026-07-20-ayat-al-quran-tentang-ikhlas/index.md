@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Ikhlas dan Memurnikan Niat dalam Ibadah"
 description: "Kumpulan ayat Al-Quran tentang ikhlas beserta artinya, menggali makna memurnikan niat dan menghadirkan hati yang tulus hanya untuk Allah dalam setiap ibadah."
 date: '2026-07-20T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak", "ibadah"]
 ---
 
 Sebuah amal tanpa ikhlas bagaikan tubuh tanpa roh: wujudnya ada, gerakannya terlihat, namun tidak ada nyawa yang menghidupkannya. Betapa banyak dari kita yang rajin beribadah, rajin bersedekah, rajin hadir di majelis ilmu, namun di dasar hati masih ada niat yang bercabang, ingin dilihat, ingin dipuji, atau ingin dihargai orang lain. Al-Quran menetapkan ikhlas, yaitu memurnikan seluruh ketaatan dan ibadah hanya untuk Allah semata, sebagai syarat mendasar yang menentukan apakah sebuah amal benar-benar diterima. Tanpa ikhlas, sebesar apapun amal kita di mata manusia, ia bisa jadi tidak bernilai di sisi Allah.
