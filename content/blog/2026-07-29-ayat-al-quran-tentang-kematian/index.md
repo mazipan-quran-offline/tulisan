@@ -2,6 +2,7 @@
 title: "10 Ayat Al-Quran tentang Kematian sebagai Pengingat dan Bekal Terbaik"
 description: "Kumpulan ayat Al-Quran tentang kematian beserta artinya, bukan untuk menakut-nakuti melainkan untuk menginspirasi kita menjalani hidup yang lebih bermakna dan penuh persiapan."
 date: '2026-07-29T10:00:00.000Z'
+tags: ["ayat-quran", "akhirat", "tafsir"]
 ---
 
 Seorang sahabat pernah bertanya kepada Rasulullah SAW: siapakah orang yang paling cerdas? Beliau menjawab: "Orang yang paling banyak mengingat kematian dan paling baik dalam mempersiapkan diri menghadapinya." Artikel ini hadir bukan untuk membuat Anda takut, melainkan untuk mengajak melihat kematian sebagaimana Al-Quran memandangnya: sebuah kepastian yang justru bisa menjadi kompas paling tajam dalam menjalani hidup. Ketika kita berani menatap kematian dengan jujur, kita akan lebih mudah memilih mana yang benar-benar penting dan mana yang hanya tampak penting. Inilah sepuluh ayat yang membantu kita melakukan itu.
