@@ -2,6 +2,7 @@
 title: Keutamaan Idul Adha dan Ibadah Kurban
 description: Mengenal makna dan keutamaan Hari Raya Idul Adha, kisah Nabi Ibrahim, serta ibadah kurban beserta amalan yang dianjurkan di dalamnya.
 date: '2027-05-04T23:59:59.121Z'
+tags: ["ibadah", "amalan"]
 ---
 
 Idul Adha, atau yang sering disebut Hari Raya Kurban, adalah salah satu dari dua hari raya besar dalam Islam yang menyimpan makna pengorbanan dan ketaatan yang sangat dalam. Hari raya ini diperingati setiap tanggal 10 Dzulhijjah, bertepatan dengan puncak pelaksanaan ibadah haji di Tanah Suci, sehingga seluruh umat Islam di mana pun berada merasakan kesatuan spiritual dengan jutaan jamaah haji yang sedang menunaikan ibadah mereka. Untuk menemani ibadah Anda di hari-hari istimewa ini, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).
