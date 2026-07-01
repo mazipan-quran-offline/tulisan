@@ -2,6 +2,7 @@
 title: Gunakan font Isep Mishab dari LPMQ untuk Al-Qur'an Indonesia
 description: Membicarakan aplikasi Quran di Indonesia yang seharusnya menggunakan font dengan standard yang sama
 date: '2020-06-06T23:59:59.121Z'
+tags: ["teknologi", "aplikasi"]
 ---
 
 Aplikasi Quran ada sangat banyak bertebaran di pasaran, baik yang versi aplikasi maupun versi web, dari yang versi gratis sampai yang berbayar. Yang gratisan biasanya ya memiliki fitur seadanya sedangkan yang berbayar biasanya memiliki fitur yang lebih komplit, tapi tidak membatasi juga harus menggunakan versi yang berbayar. Cari saja yang nyaman dibaca oleh masing-masing dari kalian.

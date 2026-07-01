@@ -2,6 +2,7 @@
 title: Doa untuk Anak dan Keluarga dalam Al-Quran
 description: Kumpulan doa untuk anak dan keluarga yang bersumber dari Al-Quran dan hadis, beserta maknanya yang menyentuh hati.
 date: '2026-05-29T23:59:59.121Z'
+tags: ["doa", "keluarga"]
 ---
 
 Setiap orang tua menyimpan harapan yang dalam untuk anak dan keluarganya. Namun harapan yang paling bermakna bukan sekadar diucapkan, melainkan dipanjatkan langsung kepada Allah dalam bentuk doa. Al-Quran mengabadikan doa-doa para nabi untuk keturunan mereka, dan di situlah kita bisa belajar: apa yang sebenarnya diminta oleh seorang ayah, seorang ibu, seorang hamba yang beriman, ketika ia berlutut untuk anaknya.

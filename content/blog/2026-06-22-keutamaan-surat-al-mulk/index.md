@@ -2,6 +2,7 @@
 title: Kandungan dan Keutamaan Surat Al-Mulk
 description: Memahami kandungan dan keutamaan Surat Al-Mulk sebagai pelindung dari azab kubur, beserta waktu membacanya.
 date: '2026-06-22T23:59:59.121Z'
+tags: ["keutamaan-surat", "tafsir", "ibadah"]
 ---
 
 Ada satu surah dalam Al-Quran yang para ulama sebut sebagai "pelindung" bagi pembacanya, bahkan setelah mereka wafat. Surah itu adalah Surat Al-Mulk, surah ke-67 yang terdiri dari 30 ayat dan tergolong dalam kelompok surah Makkiyyah. Bagi Anda yang ingin memulai atau memperdalam kebiasaan membacanya, Anda bisa membuka langsung teksnya di [Surat Al-Mulk](https://www.baca-quran.id/surah/67/). Memahami kandungannya terlebih dahulu akan membuat setiap bacaan terasa jauh lebih bermakna.

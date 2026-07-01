@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Kesehatan dan Penyakit
 description: Kumpulan ayat Al-Quran tentang kesehatan dan penyakit beserta penjelasannya, termasuk Al-Quran sebagai obat bagi hati.
 date: '2026-05-21T23:59:59.121Z'
+tags: ["ayat-quran", "ibadah"]
 ---
 
 Kesehatan adalah salah satu nikmat terbesar yang sering kali baru kita sadari nilainya ketika ia mulai goyah. Dalam Islam, menjaga kesehatan bukan sekadar urusan fisik, melainkan juga tanggung jawab spiritual. Al-Quran berbicara tentang kesehatan dengan cara yang sangat menyeluruh, mencakup kesehatan tubuh, pikiran, dan jiwa sekaligus. Bagi Anda yang sedang mencari panduan atau sekadar ingin mendekatkan diri kepada Allah di tengah masa sulit, ayat-ayat berikut bisa menjadi penguat hati yang luar biasa.

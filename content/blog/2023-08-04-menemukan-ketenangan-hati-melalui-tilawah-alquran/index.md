@@ -2,6 +2,7 @@
 title: Menemukan Ketenangan Hati Melalui Tilawah Al Quran
 description: Salah satu cara yang sangat efektif untuk mencapai ketenangan adalah dengan tilawah Al Quran, berikut tips dan manfaatnya
 date: '2023-08-04T23:59:59.121Z'
+tags: ["tilawah", "ketenangan-hati", "ibadah"]
 ---
 
 Ketenangan hati adalah dambaan setiap insan. Di tengah kehidupan yang serba cepat dan penuh tekanan, banyak dari kita mencari cara untuk menenangkan pikiran dan hati yang gelisah. Namun sering kali, ketenangan yang dicari di tempat-tempat lain hanya bersifat sementara. Salah satu cara yang sangat efektif dan mendalam untuk mencapai ketenangan sejati adalah melalui tilawah Al-Quran.

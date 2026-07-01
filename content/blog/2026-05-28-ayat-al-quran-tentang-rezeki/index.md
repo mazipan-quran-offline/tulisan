@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Rezeki dan Jaminan dari Allah
 description: Kumpulan ayat Al-Quran tentang rezeki beserta artinya, pengingat bahwa Allah Maha Pemberi rezeki dari arah yang tidak disangka-sangka.
 date: '2026-05-16T23:59:59.121Z'
+tags: ["ayat-quran", "rezeki"]
 ---
 
 Rezeki adalah salah satu urusan yang paling sering memenuhi pikiran kita. Tidak jarang kekhawatiran tentang rezeki membuat hati menjadi gelisah, padahal Al-Quran berkali-kali menegaskan bahwa Allah telah menjamin rezeki setiap makhluk-Nya. Tugas kita adalah berikhtiar dengan sungguh-sungguh, lalu bertawakal kepada-Nya.

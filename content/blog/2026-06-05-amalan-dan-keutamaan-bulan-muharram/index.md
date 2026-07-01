@@ -2,6 +2,7 @@
 title: Amalan dan Keutamaan Bulan Muharram
 description: Mengenal keutamaan bulan Muharram sebagai salah satu bulan haram, serta amalan yang dianjurkan seperti puasa sunnah, sedekah, dan memperbanyak ibadah.
 date: '2026-06-05T23:59:59.121Z'
+tags: ["muharram", "ibadah", "puasa"]
 ---
 
 Bulan Muharram memiliki kedudukan yang istimewa dalam Islam. Selain menjadi bulan pertama dalam kalender Hijriah yang menandai awal tahun baru, Muharram juga termasuk salah satu bulan yang dimuliakan oleh Allah, sehingga sangat dianjurkan untuk diisi dengan memperbanyak amal kebaikan. Bagi banyak orang, Muharram terasa seperti kesempatan baru: sebuah lembaran yang belum tertulis, menunggu untuk diisi dengan ketaatan dan kebaikan yang lebih baik dari tahun sebelumnya. Untuk menemani ibadah Anda di bulan yang mulia ini, sempatkan pula membaca dan mentadaburi Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).

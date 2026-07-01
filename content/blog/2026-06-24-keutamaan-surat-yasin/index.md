@@ -2,6 +2,7 @@
 title: Kandungan dan Keutamaan Surat Yasin
 description: Mengenal isi kandungan dan keutamaan Surat Yasin sebagai jantung Al-Quran, beserta waktu terbaik membacanya.
 date: '2026-06-24T23:59:59.121Z'
+tags: ["keutamaan-surat", "tafsir", "ibadah"]
 ---
 
 Di antara 114 surah dalam Al-Quran, ada satu surah yang begitu lekat di hati umat Islam di seluruh dunia, yaitu Surat Yasin. Surah ke-36 ini terdiri dari 83 ayat dan tergolong surah Makkiyah, artinya diturunkan di Makkah sebelum Rasulullah hijrah ke Madinah. Hampir setiap Muslim pernah mendengarnya dilantunkan, baik dalam majelis taklim, di sisi orang yang sakit, maupun di malam Jumat yang penuh keberkahan. Namun tahukah Anda mengapa surah ini begitu istimewa? Artikel ini akan mengajak Anda mengenal lebih dalam kandungan dan keutamaan Surat Yasin, agar setiap kali membacanya, hati Anda semakin terhubung dengan maknanya.

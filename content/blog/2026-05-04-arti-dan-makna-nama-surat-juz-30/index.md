@@ -2,6 +2,7 @@
 title: Arti dan Makna Nama Surat dalam Juz 30 (Juz Amma)
 description: Daftar arti nama surat dalam Juz 30 beserta jumlah ayat dan makna pokok kandungannya, mulai dari An-Naba' sampai An-Nas.
 date: '2026-05-04T23:59:59.121Z'
+tags: ["juz-30", "juz-amma", "tafsir"]
 ---
 
 Setiap surat dalam Al-Quran memiliki nama yang sarat makna, dan tidak sedikit di antaranya yang diambil dari kata atau peristiwa penting di dalam surat tersebut. Memahami arti nama serta pokok kandungan sebuah surat akan membuat bacaan kita terasa lebih hidup, sekaligus memudahkan dalam menghafal.

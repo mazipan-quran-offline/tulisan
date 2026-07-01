@@ -2,6 +2,7 @@
 title: "Keutamaan Membaca Tasbih: Subhanallah dan Manfaat Berdzikir dalam Islam"
 description: Keutamaan membaca tasbih (Subhanallah) dalam Islam beserta dalil Al-Quran dan Hadits, serta manfaat berdzikir bagi kehidupan seorang muslim.
 date: '2026-06-10T23:59:59.121Z'
+tags: ["dzikir", "ibadah"]
 ---
 
 Dalam khazanah dzikir Islam, tasbih adalah salah satu yang paling mulia dan paling sering dianjurkan. Kata "tasbih" berasal dari akar kata bahasa Arab *sabbaha*, yang berarti mensucikan dan mengagungkan Allah dari segala kekurangan. Ketika seorang muslim mengucapkan "Subhanallah", ia sedang menyatakan satu keyakinan yang paling mendasar: bahwa Allah jauh dari segala kelemahan, kekurangan, dan ketidaksempurnaan.

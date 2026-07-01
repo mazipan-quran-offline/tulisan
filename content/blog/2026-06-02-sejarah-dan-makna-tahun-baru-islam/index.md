@@ -2,6 +2,7 @@
 title: Sejarah dan Makna Tahun Baru Islam (1 Muharram)
 description: Mengenal sejarah dan makna Tahun Baru Islam atau 1 Muharram, mulai dari peristiwa hijrah hingga semangat muhasabah diri di awal tahun Hijriah.
 date: '2026-06-02T23:59:59.121Z'
+tags: ["sejarah", "muharram", "ibadah"]
 ---
 
 Setiap tanggal 1 Muharram, umat Islam di seluruh dunia memperingati Tahun Baru Islam atau pergantian tahun dalam kalender Hijriah. Berbeda dengan perayaan tahun baru pada umumnya yang identik dengan kemeriahan dan pesta, momen ini lebih kental dengan nuansa perenungan dan muhasabah. Umat Islam diajak untuk duduk sejenak, mengevaluasi perjalanan setahun yang telah berlalu, lalu menyusun niat agar tahun yang baru menjadi lebih baik dari sebelumnya. Ada keindahan tersendiri dalam cara Islam memaknai pergantian tahun: bukan dengan sorak sorai, melainkan dengan ketenangan dan doa. Untuk menemani perenungan Anda, sempatkan pula membaca Al-Qur'an melalui [Baca-Quran.id](https://www.baca-quran.id/).

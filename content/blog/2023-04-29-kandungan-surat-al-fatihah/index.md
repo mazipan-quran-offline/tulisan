@@ -2,6 +2,7 @@
 title: Kandungan dan Keutamaan Surat Al-Fatihah
 description: Beberapa kandungan utama dan keutamaan membaca Surat Al-Fatihah
 date: '2023-04-29T23:59:59.121Z'
+tags: ["keutamaan-surat", "tafsir", "ibadah"]
 ---
 
 Alhamdulillah, kita sebagai umat muslim diberikan rahmat oleh Allah SWT berupa Al-Quran sebagai panduan hidup dalam menjalani kehidupan di dunia ini. Di dalam Al-Quran terdapat 114 surat yang memuat berbagai macam kisah, petunjuk, dan hikmah untuk kehidupan manusia.

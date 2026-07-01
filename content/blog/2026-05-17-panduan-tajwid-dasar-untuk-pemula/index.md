@@ -2,6 +2,7 @@
 title: "Panduan Tajwid Dasar untuk Pemula: Belajar Membaca Al-Quran dengan Benar"
 description: Mengenal aturan tajwid dasar dalam membaca Al-Quran, termasuk makharijul huruf, hukum nun mati, dan mad yang paling sering ditemui.
 date: '2026-05-17T23:59:59.121Z'
+tags: ["tajwid", "tilawah", "tips"]
 ---
 
 Membaca Al-Quran bukan sekadar melafalkan huruf demi huruf. Ada sebuah ilmu yang telah diwariskan turun-temurun dari generasi ke generasi untuk menjaga kemurnian bacaan kalam Allah, yaitu ilmu tajwid. Bagi Anda yang baru mulai belajar, jangan khawatir karena tajwid bukanlah sesuatu yang rumit jika dipelajari dengan cara yang tepat dan penuh kesabaran.

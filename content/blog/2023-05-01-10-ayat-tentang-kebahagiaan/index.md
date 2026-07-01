@@ -2,6 +2,7 @@
 title: 10 Ayat Al Quran Tentang Kebahagiaan yang Harus Anda Ketahui
 description: Ayat-ayat dalam Al-Quran yang membahas tentang Kebahagiaan
 date: '2023-05-01T23:59:59.121Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Al-Quran adalah kitab suci bagi umat Muslim dan merupakan sumber utama ajaran agama Islam. Selain sebagai petunjuk hidup, Al-Quran juga mengandung banyak ayat yang membahas tentang kebahagiaan. Kebahagiaan dalam Islam bukan hanya soal kesenangan sesaat, melainkan tentang kedamaian hati yang lahir dari keimanan, amal saleh, dan kedekatan dengan Allah SWT.

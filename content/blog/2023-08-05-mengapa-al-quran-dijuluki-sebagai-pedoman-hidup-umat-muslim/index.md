@@ -2,6 +2,7 @@
 title: Mengapa Al Quran Dijuluki sebagai Pedoman Hidup Umat Muslim?
 description: Beberapa alasan mengapa Al Quran dijuluki sebagai pedoman hidup bagi umat Muslim
 date: '2023-08-05T23:59:59.121Z'
+tags: ["tilawah", "ibadah", "tafsir"]
 ---
 
 Al-Quran, kitab suci umat Islam, diakui oleh jutaan Muslim di seluruh dunia sebagai pedoman hidup utama mereka. Kehadirannya telah memberikan inspirasi, arahan, dan hikmah bagi umat Muslim sejak lebih dari 1.400 tahun lalu. Al-Quran bukan hanya sekadar kumpulan kata-kata, tetapi ia memiliki kekuatan yang mendalam dalam membimbing dan mempengaruhi kehidupan orang-orang yang percaya padanya.

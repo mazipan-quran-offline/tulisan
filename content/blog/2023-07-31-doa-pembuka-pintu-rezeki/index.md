@@ -2,6 +2,7 @@
 title: Doa pembuka pintu rezeki
 description: Berbagai doa pembuka pintu rezeki
 date: '2023-07-31T23:59:59.121Z'
+tags: ["doa", "rezeki"]
 ---
 
 Rezeki adalah sesuatu yang menjadi kebutuhan setiap individu. Setiap orang berharap memiliki pintu rezeki yang terus mengalir, memberikan kelimpahan, dan memenuhi kebutuhan hidup. Namun, dalam menghadapi dinamika kehidupan, terkadang kita merasa sulit untuk meraih rezeki yang diimpikan. Di sinilah pentingnya doa sebagai sarana untuk membuka pintu rezeki dan keyakinan sebagai penguat hati dalam menjalani perjuangan hidup.

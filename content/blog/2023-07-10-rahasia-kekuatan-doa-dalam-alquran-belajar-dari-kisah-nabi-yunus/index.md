@@ -2,6 +2,7 @@
 title: Rahasia Kekuatan Doa dalam Al Quran - Belajar dari Kisah Nabi Yunus
 description: Mengambil pelajaran dari kisah Nabi Yunus mengenai kekuatan Doa
 date: '2023-07-10T23:59:59.121Z'
+tags: ["doa", "tafsir", "ibadah"]
 ---
 
 Doa adalah salah satu bentuk ibadah yang memiliki kekuatan besar dalam agama Islam. Melalui doa, seorang muslim dapat berkomunikasi langsung dengan Allah SWT, memohon bantuan, keberkahan, dan pengampunan-Nya. Dalam Al Quran, terdapat banyak kisah dan pelajaran berharga mengenai kekuatan doa. Salah satu contohnya adalah kisah Nabi Yunus AS, yang menunjukkan keajaiban doa dan kebesaran Allah SWT.

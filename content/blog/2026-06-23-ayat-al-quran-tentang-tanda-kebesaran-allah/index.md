@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Tanda-tanda Kebesaran Allah di Alam Semesta
 description: Kumpulan ayat Al-Quran tentang tanda kebesaran Allah di alam semesta beserta artinya, mengajak kita merenungi ciptaan-Nya sebagai jalan untuk semakin mengenal dan mencintai-Nya.
 date: '2026-06-23T10:00:00.000Z'
+tags: ["ayat-quran", "tafsir"]
 ---
 
 Kita hidup di tengah-tengah perpustakaan terbesar yang pernah ada, dan sebagian besar dari kita tidak pernah membacanya. Langit yang berubah warna di fajar, gerakan bintang-bintang yang tepat sehingga para pelaut kuno bisa berlayar ribuan kilometer, lebah yang secara kolektif mampu membangun sarang dengan geometri sempurna, hujan yang turun tepat mengisi sungai dan meresap ke tanah untuk diolah menjadi air minum: semua ini adalah ayat-ayat, tanda-tanda, yang Allah letakkan di alam semesta agar kita mengenal-Nya.

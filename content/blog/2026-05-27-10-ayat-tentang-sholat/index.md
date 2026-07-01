@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Sholat dan Keutamaannya
 description: Kumpulan ayat Al-Quran tentang sholat beserta penjelasannya, untuk memperdalam pemahaman dan kekhusyukan ibadah.
 date: '2026-05-27T23:59:59.121Z'
+tags: ["ayat-quran", "sholat", "ibadah"]
 ---
 
 Sholat adalah tiang agama. Kalimat itu bukan sekadar ungkapan, melainkan gambaran betapa sentralnya ibadah ini dalam kehidupan seorang Muslim. Al-Quran menyebut sholat dalam puluhan ayat, dari perintah mendirikannya, ancaman bagi yang melalaikannya, hingga janji ketenangan bagi yang menjaganya dengan khusyuk. Berikut ini sepuluh ayat yang layak Anda renungkan dan jadikan pegangan dalam menjaga kualitas sholat sehari-hari.

@@ -2,6 +2,7 @@
 title: Kandungan dan Keutamaan Surat Al-Waqiah
 description: Mengenal kandungan dan keutamaan Surat Al-Waqiah sebagai surat penolak kefakiran yang dianjurkan dibaca setiap malam.
 date: '2026-06-18T23:59:59.121Z'
+tags: ["keutamaan-surat", "rezeki", "ibadah"]
 ---
 
 Surat Al-Waqiah adalah salah satu surat dalam Al-Quran yang memiliki tempat istimewa di hati banyak umat Islam. Surat ke-56 ini terdiri dari 96 ayat dan tergolong surat Makkiyah, artinya diturunkan di Makkah sebelum Nabi Muhammad shallallahu alaihi wasallam berhijrah ke Madinah. Namanya sendiri berarti "Hari Kiamat" atau "Peristiwa Besar", merujuk pada peristiwa dahsyat yang menjadi tema sentral surat ini. Bagi Anda yang belum terbiasa membacanya, [Surat Al-Waqiah lengkap tersedia di Baca-Quran.id](https://www.baca-quran.id/surah/56/) dan dapat Anda baca kapan saja dengan mudah.

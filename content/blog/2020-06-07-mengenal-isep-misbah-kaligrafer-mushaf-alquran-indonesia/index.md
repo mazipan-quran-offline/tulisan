@@ -2,6 +2,7 @@
 title: Mengenal Isep Misbah, Kaligrafer Mushaf Al-Quran Indonesia
 description: Biografi singkat untuk lebih mengenal Isep Misbah, sosok dibalik Font standard yang diterbitkan oleh Kementerian Agama Republik Indonesia
 date: '2020-06-07T23:59:59.121Z'
+tags: ["sejarah", "aplikasi", "teknologi"]
 ---
 
 Nama **Isep Misbah** mungkin asing terdengar bagi sebagian besar masyarakat Indonesia,

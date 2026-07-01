@@ -2,6 +2,7 @@
 title: Doa Bepergian (Safar) Beserta Artinya
 description: Bacaan doa bepergian atau safar beserta artinya, lengkap dengan doa naik kendaraan dan adab safar dalam Islam.
 date: '2026-06-04T23:59:59.121Z'
+tags: ["doa", "adab"]
 ---
 
 Setiap kali Anda meninggalkan rumah untuk melakukan perjalanan, ada momen singkat yang sering terlewat begitu saja: berdoa sebelum berangkat. Padahal, Islam mengajarkan bahwa perjalanan bukan sekadar perpindahan fisik dari satu tempat ke tempat lain. Perjalanan adalah kesempatan untuk mendekatkan diri kepada Allah, memohon perlindungan-Nya, dan merenungkan betapa kecilnya kita di hadapan kebesaran-Nya. Doa safar atau doa bepergian bukan ritual formalitas, melainkan bekal rohani yang nyata sebelum kaki melangkah lebih jauh.

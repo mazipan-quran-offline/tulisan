@@ -2,6 +2,7 @@
 title: Bacaan Istighfar dan Dzikir Harian yang Dianjurkan dalam Islam
 description: Kumpulan bacaan istighfar dan dzikir harian yang bisa diamalkan setiap hari, lengkap dengan tulisan Arab, latin, terjemahan, dan keutamaannya.
 date: '2026-06-20T23:59:59.121Z'
+tags: ["dzikir", "ibadah"]
 ---
 
 Salah satu kebiasaan Rasulullah SAW yang paling menonjol adalah beliau selalu beristighfar setiap hari — bukan karena kelalaian yang besar, melainkan karena beliau memahami bahwa manusia tidak pernah bisa cukup mendekatkan diri kepada Allah. Jika Rasulullah yang dijamin surga saja selalu memperbanyak istighfar dan dzikir, sudah tentu kita yang penuh keterbatasan jauh lebih membutuhkannya.

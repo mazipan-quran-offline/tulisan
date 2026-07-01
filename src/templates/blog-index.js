@@ -36,6 +36,8 @@ const ArrowRightIcon = () => (
   </svg>
 );
 
+const formatTag = tag => tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
@@ -117,6 +119,13 @@ const BlogIndex = ({ data, location, pageContext }) => {
                     >
                       {node.frontmatter.date}
                     </time>
+                    {node.frontmatter.tags && node.frontmatter.tags.length > 0 && (
+                      <div className="post-card__tags">
+                        {node.frontmatter.tags.slice(0, 2).map(tag => (
+                          <span key={tag} className="post-card__tag">{formatTag(tag)}</span>
+                        ))}
+                      </div>
+                    )}
                   </div>
                   <h3 className="post-card__title">
                     <Link to={node.fields.slug}>{title}</Link>
@@ -182,6 +191,7 @@ export const pageQuery = graphql`
             dateISO: date(formatString: "YYYY-MM-DD")
             title
             description
+            tags
           }
         }
       }

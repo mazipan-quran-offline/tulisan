@@ -117,11 +117,13 @@ const BookOpenIcon = () => (
   </svg>
 );
 
+const formatTag = tag => tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
-  const { previous, next, relatedPosts } = pageContext;
+  const { previous, next, relatedPosts, tags } = pageContext;
   const disqusConfig = {
     url: `${data.site.siteMetadata.siteUrl}/tulisan${location.pathname}`,
     identifier: post.id,
@@ -157,7 +159,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               <CalendarIcon />
               {post.frontmatter.date}
             </time>
-            <span className="blog-post__tag">Artikel</span>
+            {tags && tags.length > 0 ? (
+              <div className="post-tags" role="list" aria-label="Tag artikel">
+                {tags.map(tag => (
+                  <span key={tag} className="blog-post__tag" role="listitem">{formatTag(tag)}</span>
+                ))}
+              </div>
+            ) : (
+              <span className="blog-post__tag">Artikel</span>
+            )}
           </div>
           <h1 className="blog-post__title">{post.frontmatter.title}</h1>
         </header>
@@ -230,6 +240,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <Link to={rp.slug} className="related-posts__link">
                   <span className="related-posts__date">{rp.date}</span>
                   <span className="related-posts__name">{rp.title}</span>
+                  {rp.tags && rp.tags.length > 0 && (
+                    <span className="related-posts__tags">
+                      {rp.tags.slice(0, 2).map(tag => (
+                        <span key={tag} className="related-posts__tag">{formatTag(tag)}</span>
+                      ))}
+                    </span>
+                  )}
                   {rp.description && (
                     <span className="related-posts__desc">{rp.description}</span>
                   )}

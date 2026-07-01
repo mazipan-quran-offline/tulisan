@@ -2,6 +2,7 @@
 title: Doa Masuk dan Keluar Rumah
 description: Bacaan doa masuk dan keluar rumah beserta artinya, lengkap dengan adab dan hikmah mengamalkannya setiap hari.
 date: '2026-06-06T23:59:59.121Z'
+tags: ["doa", "adab"]
 ---
 
 Setiap hari Anda melangkah keluar dan masuk rumah berkali-kali, kadang tanpa banyak pikir. Namun Islam mengajarkan bahwa setiap gerakan, sekecil apapun, bisa bernilai ibadah apabila diawali dengan menyebut nama Allah. Doa masuk dan keluar rumah adalah salah satu amalan ringan yang memiliki bobot besar, karena ia bukan sekadar ritual, melainkan pernyataan nyata bahwa Anda menyerahkan perlindungan dan kecukupan diri kepada Allah di setiap langkah. Membiasakan dua doa ini membuat rutinitas harian menjadi deretan momen ibadah yang mengalir dengan sendirinya.

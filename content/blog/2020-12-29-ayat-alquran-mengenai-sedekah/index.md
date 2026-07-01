@@ -2,6 +2,7 @@
 title: Ayat-ayat Al-Quran mengenai sedekah
 description: Ayat-ayat dalam Al-Quran yang membahas mengenai pentingnya sedekah bagi kita dan bagi orang lain
 date: '2020-12-29T23:59:59.121Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta. Namun sedekah mencakup segala amal, atau perbuatan baik. Dalam sebuah Hadist digambarkan, “ Memberikan senyuman kepada saudaramu adalah sedekah.”

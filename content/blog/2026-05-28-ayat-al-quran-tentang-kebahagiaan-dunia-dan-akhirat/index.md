@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Kebahagiaan Dunia dan Akhirat
 description: Kumpulan ayat Al-Quran tentang kebahagiaan dunia dan akhirat beserta artinya, panduan menyeimbangkan kehidupan dunia dan bekal akhirat.
 date: '2026-05-07T23:59:59.121Z'
+tags: ["ayat-quran", "tafsir"]
 ---
 
 Setiap orang mendambakan kebahagiaan, namun tidak semua memahami bahwa kebahagiaan sejati mencakup dunia sekaligus akhirat. Islam tidak mengajarkan kita untuk meninggalkan dunia, dan juga tidak membiarkan kita terlena olehnya. Al-Quran mengajarkan keseimbangan, yaitu menikmati kebaikan dunia sambil tetap menyiapkan bekal untuk kehidupan yang kekal.

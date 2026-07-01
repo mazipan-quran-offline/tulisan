@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Ilmu dan Keutamaannya
 description: Kumpulan ayat Al-Quran tentang ilmu beserta artinya, sebagai pengingat untuk terus belajar dan memuliakan ilmu pengetahuan dalam kehidupan.
 date: '2026-05-30T23:59:59.121Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Ilmu memiliki kedudukan yang sangat tinggi dalam Islam. Sejak awal turunnya wahyu, Allah memerintahkan kita untuk membaca, berpikir, dan menggali pengetahuan. Dengan ilmu, seseorang dapat mengenal Allah lebih dalam, beribadah dengan lebih benar, sekaligus memberi manfaat yang lebih luas bagi sesama.

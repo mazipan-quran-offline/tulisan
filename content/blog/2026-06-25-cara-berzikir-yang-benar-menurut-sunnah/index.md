@@ -2,6 +2,7 @@
 title: "Cara Berzikir yang Benar Menurut Sunnah: Panduan Lengkap"
 description: Panduan cara berzikir yang benar menurut sunnah Rasulullah SAW, termasuk adab berzikir, waktu yang dianjurkan, dan bacaan dzikir yang utama.
 date: '2026-06-25T23:59:59.121Z'
+tags: ["dzikir", "ibadah", "tips"]
 ---
 
 Dzikir kepada Allah adalah salah satu ibadah yang paling luas cakupannya dalam Islam. Tidak terikat satu tempat, tidak membutuhkan bersuci (kecuali untuk bacaan tertentu), dan bisa dilakukan dalam hampir semua kondisi. Namun justru karena kemudahannya itu, banyak orang yang melakukan dzikir tanpa benar-benar memperhatikan adab dan cara yang dianjurkan, sehingga manfaat yang diperoleh tidak maksimal.

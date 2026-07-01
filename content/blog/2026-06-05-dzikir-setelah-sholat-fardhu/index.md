@@ -2,6 +2,7 @@
 title: "Bacaan Dzikir Setelah Sholat Fardhu: Subhanallah, Alhamdulillah, dan Allahu Akbar"
 description: Bacaan dzikir setelah sholat fardhu lengkap beserta artinya, termasuk keutamaan membaca Subhanallah, Alhamdulillah, dan Allahu Akbar sebanyak 33 kali.
 date: '2026-06-05T23:59:59.121Z'
+tags: ["dzikir", "sholat", "ibadah"]
 ---
 
 Selesai menunaikan sholat fardhu, ada amalan ringan yang pahalanya sangat besar: berdzikir. Rasulullah SAW menganjurkan umatnya untuk tidak langsung beranjak setelah salam, melainkan meluangkan beberapa menit untuk mengingat Allah dengan bacaan-bacaan yang telah diajarkan. Dzikir setelah sholat bukan sekadar rutinitas penutup ibadah, melainkan pelengkap yang menyempurnakan kualitas sholat dan menjaga hati agar tetap terhubung dengan Allah.

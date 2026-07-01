@@ -2,6 +2,7 @@
 title: Surat-surat Pendek untuk Dihafal Anak dan Dibaca saat Sholat
 description: Kumpulan surat pendek dalam Juz 30 yang mudah dihafal anak dan sering dibaca saat sholat, lengkap dengan arti dan jumlah ayatnya.
 date: '2026-04-28T23:59:59.121Z'
+tags: ["menghafal", "sholat", "juz-30"]
 ---
 
 Surat-surat pendek di akhir [Juz 30](/2020-06-15-daftar-lengkap-surat-dalam-juz-amma-alquran-juz-30/) adalah pilihan terbaik untuk memulai perjalanan menghafal Al-Quran. Selain ayatnya yang singkat dan mudah diingat, surat-surat ini juga paling sering dibaca dalam sholat sehari-hari, sehingga sangat bermanfaat untuk dikuasai sejak dini, baik oleh anak-anak maupun pemula.

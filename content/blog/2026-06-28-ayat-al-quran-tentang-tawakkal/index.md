@@ -2,6 +2,7 @@
 title: 10 Ayat Al-Quran tentang Tawakkal dan Berserah Diri kepada Allah
 description: Kumpulan ayat Al-Quran tentang tawakkal beserta artinya, untuk menguatkan keyakinan bahwa Allah adalah sebaik-baik tempat bersandar setelah usaha dilakukan.
 date: '2026-06-28T10:00:00.000Z'
+tags: ["ayat-quran", "akhlak"]
 ---
 
 Ada momen-momen dalam hidup ketika kita telah melakukan segala yang bisa dilakukan: berpikir keras, bekerja sungguh-sungguh, berdoa dengan sepenuh hati, namun hasil akhirnya tetap tidak berada di tangan kita. Di saat seperti itulah kita benar-benar diuji: apakah hati kita mampu menyerahkan sisa perjalanan kepada Allah, ataukah kita tetap menggenggam rasa cemas dan khawatir seolah-olah kita sendiri yang menentukan segalanya?

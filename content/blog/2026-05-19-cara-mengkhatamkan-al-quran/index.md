@@ -2,6 +2,7 @@
 title: "Cara Mengkhatamkan Al-Quran: Tips dan Target Harian"
 description: Panduan praktis cara mengkhatamkan Al-Quran dengan target harian yang realistis, cocok untuk pemula hingga yang sudah rutin membaca.
 date: '2026-05-19T23:59:59.121Z'
+tags: ["tilawah", "tips", "ibadah"]
 ---
 
 Mengkhatamkan Al-Quran adalah impian banyak Muslim. Ada yang sudah lama berniat tetapi belum tahu harus mulai dari mana, ada pula yang pernah khatam sekali namun kesulitan menjaga konsistensi untuk khatam berikutnya. Yang pasti, khatam Al-Quran bukan sesuatu yang hanya bisa dilakukan oleh orang-orang dengan waktu berlimpah. Dengan perencanaan yang tepat dan target yang realistis, siapa pun bisa meraihnya, termasuk Anda yang memiliki kesibukan sehari-hari.
