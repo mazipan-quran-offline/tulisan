@@ -19,11 +19,32 @@ Setiap `index.md` diawali dengan frontmatter berikut:
 title: Judul Artikel
 description: Deskripsi singkat yang ramah SEO, idealnya memuat kata kunci utama.
 date: '2026-05-28T10:00:00.000Z'
+tags: ["quran", "ibadah"]
 ---
 ```
 
-- `title`, `description`, dan `date` adalah tiga field yang dipakai.
+- `title`, `description`, `date`, dan `tags` adalah empat field yang dipakai.
 - Gunakan format tanggal ISO. Bila menerbitkan beberapa artikel pada hari yang sama, bedakan jamnya agar urutannya rapi.
+- **`tags` wajib diisi** dengan satu hingga tiga tag yang relevan dengan isi artikel. Tag digunakan untuk menampilkan kategori pada kartu artikel dan halaman detail, serta dipakai untuk menentukan artikel terkait (related articles). Pilih dari daftar tag yang sudah ada atau buat tag baru yang konsisten:
+  - `quran` — pembahasan seputar Al-Quran secara umum
+  - `surat` — keutamaan atau kandungan surat tertentu
+  - `ayat` — kumpulan ayat tematik
+  - `tafsir` — penafsiran ayat
+  - `hafalan` — menghafal Al-Quran atau surat
+  - `tajwid` — ilmu membaca Al-Quran
+  - `sholat` — sholat fardhu, sunnah, dan tata caranya
+  - `doa` — doa harian dan doa ibadah
+  - `dzikir` — bacaan dzikir dan wirid
+  - `puasa` — puasa Ramadhan, puasa sunnah
+  - `ibadah` — ibadah secara umum
+  - `tips` — panduan dan tips praktis
+  - `sejarah` — sejarah Islam
+  - `tasbih` — tasbih digital dan alat bantu dzikir
+  - `ramadhan` — konten khusus Ramadhan
+  - `haji` — haji dan umrah
+  - `akhlak` — akhlak dan adab Islami
+  - `keluarga` — doa dan amalan untuk keluarga
+  - `aplikasi` — fitur dan penggunaan Baca-Quran.id
 - **Jika nilai `title` atau `description` mengandung tanda titik dua (`:`) atau karakter YAML khusus lainnya, wajib dibungkus dengan tanda kutip ganda.** Nilai tanpa kutip yang mengandung `: ` akan dianggap sebagai pasangan key-value oleh parser YAML dan menyebabkan build gagal. Contoh yang benar: `title: "Panduan Tajwid: Belajar Membaca Al-Quran"`. Contoh yang salah: `title: Panduan Tajwid: Belajar Membaca Al-Quran`.
 
 ## Aturan Tanggal Terbit
