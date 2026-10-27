@@ -125,6 +125,12 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 **Fakta yang jelas dan bisa dipercaya**
 - Sebutkan dalil lengkap dengan nama surat dan nomor ayat, dan tautkan ke halaman ayat di Baca-Quran.id. Untuk hadis, sebutkan perawinya (misalnya Bukhari, Muslim, Tirmidzi).
 - Jangan menulis kutipan ayat, hadis, atau doa dari ingatan tanpa memeriksanya. Cocokkan teks Arab dan arti dengan Baca-Quran.id atau sumber hadis yang jelas. Bila derajat hadis diperselisihkan, katakan dengan jujur.
+- **Semua teks Arab wajib diverifikasi ke sumber yang bisa dipercaya, jangan mengandalkan ingatan atau asumsi.**
+  - Untuk ayat Al-Quran, salin teks persis dari sumber seperti Tanzil (tanzil.net) atau Quran Uthmani Hafs dari King Fahd Quran Complex, lalu cocokkan dengan Baca-Quran.id. Jangan mengetik ulang ayat dengan tangan.
+  - Untuk hadis dan doa, cocokkan dengan teks hadis di Sunnah.com atau dataset terbuka yang bersumber dari kitab hadis (misalnya `fawazahmed0/hadith-api` di GitHub), dan sebut nama kitab serta nomor hadisnya. Perhatikan perbedaan lafal antar riwayat, misalnya riwayat Bukhari bisa berbeda dari An-Nasa'i atau Tirmidzi, dan tulis sesuai riwayat yang dikutip.
+  - Untuk lafal yang bukan hadis, seperti lafal niat, jelaskan bahwa itu rumusan ulama dan sebutkan sumbernya (misalnya NU Online atau kitab fikih tertentu).
+  - Jika sumber tidak bisa dijangkau, jangan menulis teks Arabnya. Cukup tulis arti dalam bahasa Indonesia dan beri catatan untuk direview.
+  - Teks Latin dan terjemahan harus sesuai dengan teks Arab yang sudah diverifikasi.
 - Jangan mengarang angka, tanggal, atau klaim keutamaan yang tidak punya sumber. Untuk tanggal acara (Ramadhan, Isra Miraj, Idul Adha), tulis bahwa tanggal resmi menunggu ketetapan pemerintah bila memang belum pasti.
 
 **Mudah diambil mesin**
@@ -144,7 +150,8 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 - [ ] Jawaban inti ada di awal artikel.
 - [ ] Ada bagian `Pertanyaan yang Sering Ditanyakan` dengan 3 sampai 5 pertanyaan nyata.
 - [ ] Semua ayat bertaut ke Baca-Quran.id, semua hadis menyebut perawi.
-- [ ] Teks Arab dan terjemahan sudah dicocokkan dengan sumber.
+- [ ] Teks Arab disalin dan dicocokkan dengan sumber yang disebut (Tanzil, King Fahd Quran Complex, Sunnah.com, atau dataset kitab hadis), lengkap dengan nama kitab dan nomor hadis.
+- [ ] Teks Latin dan terjemahan sudah dicocokkan dengan teks Arab tersebut.
 - [ ] Tidak ada artikel lain yang membahas kata kunci utama yang sama.
 
 ## Konten Terjadwal (Artikel Musiman)
