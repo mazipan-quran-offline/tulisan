@@ -5,6 +5,7 @@ import { Disqus } from 'gatsby-plugin-disqus';
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
 import AbstractPattern from '../components/AbstractPattern';
+import { formatTag, tagPath } from '../utils/tags';
 
 const CalendarIcon = () => (
   <svg
@@ -117,7 +118,6 @@ const BookOpenIcon = () => (
   </svg>
 );
 
-const formatTag = tag => tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
@@ -162,7 +162,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {tags && tags.length > 0 ? (
               <div className="post-tags" role="list" aria-label="Tag artikel">
                 {tags.map(tag => (
-                  <span key={tag} className="blog-post__tag" role="listitem">{formatTag(tag)}</span>
+                  <Link key={tag} to={tagPath(tag)} className="blog-post__tag" role="listitem">{formatTag(tag)}</Link>
                 ))}
               </div>
             ) : (

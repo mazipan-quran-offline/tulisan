@@ -10,6 +10,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`);
 const blogIndex = path.resolve('./src/templates/blog-index.js');
+const tagTemplate = path.resolve('./src/templates/tag.js');
 const isDev = process.env.NODE_ENV === "development";
 
 /**
@@ -65,6 +66,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         currentPage: i + 1,
         isDev,
       },
+    });
+  });
+
+  // Create a page listing all posts for each tag
+  const allTags = new Set(posts.flatMap(p => p.frontmatter.tags || []));
+  allTags.forEach(tag => {
+    createPage({
+      path: `/tag/${encodeURIComponent(tag)}/`,
+      component: tagTemplate,
+      context: { tag },
     });
   });
 

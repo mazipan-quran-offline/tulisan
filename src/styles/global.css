@@ -1775,3 +1775,63 @@ tbody tr:last-child td {
     color: #000;
   }
 }
+
+/* ============================================
+   TAGS
+   ============================================ */
+
+a.post-card__tag,
+a.blog-post__tag {
+  text-decoration: none !important;
+  transition: filter var(--transition);
+}
+
+a.post-card__tag:hover,
+a.blog-post__tag:hover {
+  filter: brightness(0.92);
+}
+
+.tag-page__back {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  margin: 0 0 1.5rem;
+}
+
+.tag-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+}
+
+.tag-list li {
+  margin: 0;
+}
+
+.tag-list__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--badge-text);
+  background-color: var(--badge-bg);
+  border: 1px solid var(--badge-border);
+  padding: 0.5rem 1rem;
+  border-radius: 100px;
+  text-decoration: none !important;
+  transition: filter var(--transition);
+}
+
+.tag-list__item:hover {
+  filter: brightness(0.92);
+}
+
+.tag-list__count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  opacity: 0.7;
+}

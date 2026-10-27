@@ -95,6 +95,9 @@ const Layout = ({ location, title, children }) => {
           </div>
 
           <nav className="site-header__nav" aria-label="Navigasi tambahan">
+            <Link to="/tags/" className="site-header__search" aria-label="Lihat kategori">
+              <span className="site-header__search-label">Kategori</span>
+            </Link>
             <Link
               to="/search"
               className="site-header__search"
