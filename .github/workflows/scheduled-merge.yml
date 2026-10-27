@@ -30,7 +30,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Promote due scheduled PRs
-        uses: actions/github-script@v9
+        uses: actions/github-script@v9.0.0
         with:
           script: |
             const AUTOMERGE_LABEL = 'automerge';
