@@ -546,12 +546,13 @@ tbody tr:last-child td {
   margin: 0 auto;
   padding: 3rem 1.5rem 2rem;
   display: grid;
-  grid-template-columns: 1fr auto auto auto auto;
-  gap: 3rem;
+  grid-template-columns: 1fr auto auto;
+  gap: 2.5rem 3rem;
   align-items: start;
 }
 
 .site-footer__brand {
+  grid-row: span 2;
   display: flex;
   flex-direction: column;
   gap: 0.625rem;
@@ -787,6 +788,7 @@ tbody tr:last-child td {
 }
 
 .post-card {
+  position: relative;
   background-color: var(--card-bg);
   border: 1px solid var(--card-border);
   border-radius: var(--radius-xl);
@@ -874,6 +876,18 @@ tbody tr:last-child td {
   transition: color var(--transition);
 }
 
+.post-card__title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.post-card__tag {
+  position: relative;
+  z-index: 2;
+}
+
 .post-card__title a:hover {
   color: var(--accent) !important;
   text-decoration: none !important;
@@ -906,6 +920,7 @@ tbody tr:last-child td {
   letter-spacing: 0.01em;
 }
 
+.post-card:hover .post-card__cta,
 .post-card__cta:hover {
   gap: 0.5rem;
   color: var(--accent-hover) !important;
@@ -1159,14 +1174,36 @@ tbody tr:last-child td {
   color: #ffffff !important;
 }
 
-.post-actions__btn--twitter {
+.post-actions__btn--x {
   background-color: #000000;
   color: #ffffff !important;
 }
 
-.post-actions__btn--twitter:hover {
+.post-actions__btn--x:hover {
   background-color: #1a1a1a;
   color: #ffffff !important;
+}
+
+.post-actions__btn--whatsapp {
+  background-color: #25d366;
+  color: #ffffff !important;
+}
+
+.post-actions__btn--whatsapp:hover {
+  background-color: #1ebe5b;
+  color: #ffffff !important;
+}
+
+.post-actions__btn--copy {
+  background-color: var(--bg-tertiary);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  cursor: pointer;
+}
+
+.post-actions__btn--copy:hover {
+  background-color: var(--border);
+  color: var(--text);
 }
 
 .post-actions__btn--github {
@@ -1504,6 +1541,11 @@ tbody tr:last-child td {
   .site-footer__inner {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+  }
+
+  .site-footer__brand {
+    grid-row: auto;
+    grid-column: 1 / -1;
   }
 }
 
