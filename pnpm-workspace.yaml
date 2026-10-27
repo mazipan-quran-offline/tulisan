@@ -7,7 +7,6 @@ trustPolicy: 'no-downgrade'
 trustPolicyExclude:
   - 'semver@5.7.2'
   - 'semver@7.8.0'
-  - 'webpack-dev-middleware@7.4.6'
 allowBuilds:
   '@parcel/watcher': true
   '@swc/core': true
@@ -66,4 +65,4 @@ overrides:
   qs@<6.16.0: 6.16.1
   socket.io-parser@<4.2.7: 4.2.7
   source-map-js@<1.2.2: 1.2.2
-  webpack-dev-middleware@<7.4.5: 7.4.6
+  webpack-dev-middleware@<7.4.5: 7.4.5
