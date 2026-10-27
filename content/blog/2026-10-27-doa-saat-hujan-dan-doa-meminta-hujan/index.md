@@ -7,7 +7,7 @@ tags: ["doa", "ibadah", "tips"]
 
 Awan mulai gelap, angin berubah dingin, lalu tak lama hujan turun. Bagi sebagian orang itu tanda harus cepat menjemur jemuran atau mencari payung. Bagi seorang muslim, hujan juga bisa jadi pengingat bahwa ada rahmat yang sedang turun dari langit. Banyak dari kita tahu doa makan dan doa tidur, tapi belum hafal doa saat hujan. Padahal bacaannya pendek dan mudah diingat.
 
-**Jawaban singkat.** Doa saat hujan turun adalah Allahumma shayyiban nafi'an, artinya ya Allah, turunkanlah hujan yang bermanfaat. Setelah hujan reda, bacalah Muthirna bifadhlillahi wa rahmatihi sebagai tanda syukur.
+**Jawaban singkat.** Doa saat hujan turun adalah Allahummaj'alhu shayyiban nafi'an, artinya ya Allah, jadikanlah hujan ini hujan lebat yang bermanfaat. Dalam riwayat Bukhari, bunyinya lebih singkat, yaitu Shayyiban nafi'an. Setelah hujan reda, Anda bisa mengucapkan Muthirna bifadhlillahi wa rahmatihi sebagai tanda syukur.
 
 ## Hujan Adalah Rahmat dari Allah
 
@@ -17,29 +17,47 @@ Ayat lain yang bisa Anda baca adalah [QS. Ar-Rum ayat 48](https://www.baca-quran
 
 ## Doa Saat Hujan Turun
 
-Ketika melihat hujan turun, Rasulullah membaca doa pendek yang diriwayatkan oleh Imam Bukhari.
+Ketika melihat hujan turun, Rasulullah mengucapkan doa pendek. Dalam hadis riwayat Bukhari dari Aisyah, bunyinya sebagai berikut.
 
 **Bacaan Arab**
 
-اللَّهُمَّ صَيِّبًا نَافِعًا
+صَيِّبًا نَافِعًا
 
 **Bacaan Latin**
 
-Allahumma shayyiban nafi'an.
+Shayyiban nafi'an.
 
 **Artinya**
 
-Ya Allah, turunkanlah hujan yang bermanfaat.
+Hujan lebat yang bermanfaat.
 
-Doa ini terdiri dari tiga kata saja, jadi cocok diajarkan kepada anak-anak. Anda bisa membacanya sambil melihat hujan dari jendela, atau saat berteduh di jalan. Pesan di baliknya sederhana, kita meminta agar hujan membawa manfaat, bukan banjir atau musibah.
+Dalam riwayat An-Nasa'i dari Aisyah, doa ini diawali dengan permohonan kepada Allah, sehingga bunyinya sebagai berikut. Bacaan inilah yang paling banyak dikenal masyarakat.
 
-## Doa Meminta Hujan
+**Bacaan Arab**
 
-Ada juga doa yang dibaca ketika hujan lama tidak turun dan banyak orang membutuhkannya. Doa ini diriwayatkan dalam hadis Abu Dawud.
+اللَّهُمَّ اجْعَلْهُ صَيِّبًا نَافِعًا
 
 **Bacaan Latin**
 
-Allahummasqina ghaitsan mughitsan hani'an mari'an nafi'an ghaira dharrin 'ajilan ghaira ajil.
+Allahummaj'alhu shayyiban nafi'an.
+
+**Artinya**
+
+Ya Allah, jadikanlah hujan ini hujan lebat yang bermanfaat.
+
+Kedua bacaan ini pendek, jadi cocok diajarkan kepada anak-anak. Anda bisa membacanya sambil melihat hujan dari jendela, atau saat berteduh di jalan. Pesan di baliknya sederhana, kita meminta agar hujan membawa manfaat, bukan banjir atau musibah.
+
+## Doa Meminta Hujan
+
+Ada juga doa yang dibaca ketika hujan lama tidak turun dan banyak orang membutuhkannya. Doa ini diriwayatkan oleh Abu Dawud dari Jabir bin Abdillah.
+
+**Bacaan Arab**
+
+اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيئًا مَرِيعاً نَافِعًا غَيْرَ ضَارٍّ عَاجِلاً غَيْرَ آجِلٍ
+
+**Bacaan Latin**
+
+Allahummasqina ghaitsan mughitsan mari'an marii'an nafi'an ghaira dharrin 'ajilan ghaira ajil.
 
 **Artinya**
 
@@ -49,7 +67,11 @@ Doa ini biasanya dibaca pada sholat istisqa, yaitu sholat khusus meminta hujan y
 
 ## Doa Setelah Hujan Reda
 
-Setelah hujan berhenti, ada ucapan syukur yang diajarkan dalam hadis riwayat Bukhari dan Muslim.
+Setelah hujan berhenti, ada ucapan syukur yang disebut dalam hadis riwayat Bukhari dan Muslim dari Zaid bin Khalid Al-Juhani. Rasulullah menyampaikan bahwa orang yang berkata seperti berikut adalah orang yang beriman kepada Allah.
+
+**Bacaan Arab**
+
+مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ
 
 **Bacaan Latin**
 
@@ -77,7 +99,7 @@ Setiap orang punya perasaan berbeda soal hujan. Ada yang senang karena udara jad
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Apa doa yang dibaca saat hujan turun?** Bacaannya Allahumma shayyiban nafi'an, yang artinya ya Allah, turunkanlah hujan yang bermanfaat.
+**Apa doa yang dibaca saat hujan turun?** Bacaannya Allahummaj'alhu shayyiban nafi'an, yang artinya ya Allah, jadikanlah hujan ini hujan lebat yang bermanfaat. Riwayat Bukhari menyebutnya lebih singkat, yaitu Shayyiban nafi'an.
 
 **Apa doa setelah hujan?** Bacaannya Muthirna bifadhlillahi wa rahmatihi, sebagai ungkapan syukur atas hujan yang Allah turunkan.
 
