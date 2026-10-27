@@ -23,7 +23,7 @@ Kalender Ramadhan tahun ini mengikuti penetapan resmi pemerintah dan ulama setem
 
 ## Apa Doa Lailatul Qadar
 
-Aisyah bertanya kepada Rasulullah, bila ia bertepatan dengan Lailatul Qadar, apa yang sebaiknya ia ucapkan. Rasulullah mengajarkan doa berikut. Hadis ini diriwayatkan oleh Tirmidzi, dan beliau menilainya hasan sahih.
+Aisyah bertanya kepada Rasulullah, bila ia bertepatan dengan Lailatul Qadar, apa yang sebaiknya ia ucapkan. Rasulullah mengajarkan doa berikut. Hadis ini diriwayatkan oleh Ibnu Majah dan Tirmidzi. Riwayat Tirmidzi, yang beliau nilai hasan sahih, menambahkan kata karim setelah afuwwun. Bacaan di bawah mengikuti riwayat Ibnu Majah, dan keduanya sama-sama bisa dibaca.
 
 **Bacaan Arab**
 
