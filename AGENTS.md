@@ -46,6 +46,7 @@ tags: ["quran", "ibadah"]
   - `keluarga` — doa dan amalan untuk keluarga
   - `aplikasi` — fitur dan penggunaan Baca-Quran.id
 - **Jika nilai `title` atau `description` mengandung tanda titik dua (`:`) atau karakter YAML khusus lainnya, wajib dibungkus dengan tanda kutip ganda.** Nilai tanpa kutip yang mengandung `: ` akan dianggap sebagai pasangan key-value oleh parser YAML dan menyebabkan build gagal. Contoh yang benar: `title: "Panduan Tajwid: Belajar Membaca Al-Quran"`. Contoh yang salah: `title: Panduan Tajwid: Belajar Membaca Al-Quran`.
+- **Hindari tanda titik dua (`:`) dan tanda hubung (`-`) pada `title` sejak awal.** Judul yang ditulis dengan tanda baca seperti itu terasa seperti buatan AI. Tulis judul seperti orang mengetik di pencarian, misalnya `Doa Saat Hujan dan Doa Meminta Hujan`, bukan `Doa Saat Hujan: Bacaan dan Artinya`. Tanda hubung yang merupakan bagian dari nama (Al-Quran, Ar-Rahman) tetap boleh dipakai.
 
 ## Aturan Tanggal Terbit
 
@@ -53,13 +54,15 @@ Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluru
 
 - **Jangan menumpuk banyak artikel pada satu tanggal yang sama.** Saat menerbitkan beberapa artikel sekaligus (bulk), beri jarak sekitar 2 hingga 3 hari antar artikel agar penerbitan terlihat bertahap dan lebih alami, bukan seperti unggahan massal dalam sehari.
 - **Hindari tanggal di masa depan untuk artikel biasa.** Karena proses build menampilkan semua artikel termasuk yang bertanggal masa depan, gunakan tanggal paling lambat hari ini. Bila perlu memberi jarak, mundurkan tanggalnya (ke masa lalu), jangan majukan, supaya tidak ada artikel yang tampil dengan tanggal yang belum tiba.
-- **Untuk artikel musiman atau yang terikat tanggal acara,** jadwalkan penerbitannya 1 hingga 2 minggu sebelum tanggal acara, bukan tepat di hari H. Lead time ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik. Gunakan alur "Konten Terjadwal" di bawah agar artikel otomatis terbit pada tanggalnya (di sinilah tanggal masa depan justru diperbolehkan, karena PR baru di-merge saat tanggalnya tiba).
+- **Untuk artikel musiman atau yang terikat tanggal acara,** jadwalkan penerbitannya **minimal 7 hari sebelum tanggal acara** (boleh sampai 2 minggu), bukan tepat di hari H. Lead time ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik. Gunakan alur "Konten Terjadwal" di bawah agar artikel otomatis terbit pada tanggalnya (di sinilah tanggal masa depan justru diperbolehkan, karena PR baru di-merge saat tanggalnya tiba).
 
 ## Gaya Penulisan
 
 - Tulis dalam Bahasa Indonesia dengan nada hangat dan terasa manusiawi, seperti seseorang yang benar-benar peduli dan ingin berbagi, bukan seperti ringkasan ensiklopedia.
 - **Jangan pernah menggunakan tanda pemisah "--" atau tanda pisah panjang (em dash).** Gunakan koma untuk menggantikannya agar kalimat terasa lebih alami.
 - Sapa pembaca dengan "Anda".
+- **Pakai bahasa sederhana, seperti orang menulis cerita biasa.** Pilih kata sehari-hari, kalimat tidak terlalu panjang, dan hindari istilah berat tanpa penjelasan. Bayangkan Anda sedang menjelaskan kepada teman, bukan menulis makalah.
+- **Kurangi tanda titik dua (`:`) dan tanda hubung (`-`) di isi artikel.** Pakai koma atau kalimat baru. Pengecualiannya tabel, tautan, dan nama yang memang memakai tanda hubung.
 - Buat tulisan mudah dipindai di layar ponsel, sebab mayoritas pembaca mengakses dari perangkat seluler. Manfaatkan judul bagian (heading) dan tabel bila sesuai.
 
 ### Panjang dan Kedalaman Konten
@@ -71,7 +74,7 @@ Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluru
 ### Cara Menuliskan Sub-topik
 
 - **Gunakan format bold-headed paragraph** untuk sub-topik dalam sebuah section, bukan bullet list mentah. Caranya: tulis nama sub-topik dicetak tebal di awal paragraf, lalu langsung lanjutkan penjelasannya dalam kalimat yang mengalir di paragraf yang sama.
-  - Contoh yang benar: `**Menjaga Sahur** — Sahur bukan sekadar kebiasaan...`
+  - Contoh yang benar: `**Menjaga Sahur** Sahur bukan sekadar kebiasaan...`
   - Contoh yang salah: `- Menjaga Sahur: penting karena mengandung berkah.`
 - Pengecualian: tabel dan daftar langkah prosedural yang memang paling jelas dalam format berurutan tetap boleh menggunakan format list.
 
@@ -102,6 +105,48 @@ Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluru
 - Hindari membuat artikel yang topiknya sudah ada untuk mencegah saling memakan kata kunci (keyword cannibalization).
 - Rencana konten dan daftar peluang artikel didokumentasikan pada issue tracker repositori ini.
 
+## Ramah AI (Mesin Pencari Generatif)
+
+Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang merangkum jawaban. Agar artikel kita mudah dipahami, dikutip, dan diarahkan ke Baca-Quran.id, tulis dengan pola berikut. Pola ini juga bagus untuk pembaca manusia, jadi tidak perlu dipilih salah satu.
+
+**Tulis untuk pertanyaan, bukan hanya kata kunci**
+- Sebelum menulis, daftar 5 sampai 8 pertanyaan nyata yang mungkin diketik atau diucapkan orang tentang topik itu, termasuk pertanyaan lanjutan ("apakah boleh...", "berapa kali...", "kapan waktunya..."). Pastikan semuanya terjawab di artikel.
+- Cek pertanyaan itu di Google (kolom "People also ask" dan saran pencarian) dan Google Trends sebelum menulis, jangan hanya menebak.
+
+**Jawaban langsung di awal**
+- Setelah pembuka, pastikan jawaban inti topik muncul dalam 1 sampai 3 kalimat yang bisa berdiri sendiri. Contoh, untuk artikel doa saat hujan, sebutkan bacaan dan artinya lebih dulu sebelum membahas latar belakang.
+- Setiap heading sebaiknya menjawab satu pertanyaan yang jelas, dan kalimat pertama di bawahnya langsung menjawab. Hindari heading yang kabur seperti "Penjelasan Lengkap".
+
+**Bagian tanya jawab wajib ada**
+- Setiap artikel memiliki bagian `## Pertanyaan yang Sering Ditanyakan` di dekat akhir artikel.
+- Tulis pertanyaan persis seperti cara orang bertanya, lalu jawab dengan 1 sampai 3 kalimat yang lengkap dan tidak bergantung pada kalimat lain. Jawaban harus tetap masuk akal kalau dikutip sendirian.
+- Hindari pertanyaan yang jawabannya hanya "tergantung" tanpa penjelasan.
+
+**Fakta yang jelas dan bisa dipercaya**
+- Sebutkan dalil lengkap dengan nama surat dan nomor ayat, dan tautkan ke halaman ayat di Baca-Quran.id. Untuk hadis, sebutkan perawinya (misalnya Bukhari, Muslim, Tirmidzi).
+- Jangan menulis kutipan ayat, hadis, atau doa dari ingatan tanpa memeriksanya. Cocokkan teks Arab dan arti dengan Baca-Quran.id atau sumber hadis yang jelas. Bila derajat hadis diperselisihkan, katakan dengan jujur.
+- Jangan mengarang angka, tanggal, atau klaim keutamaan yang tidak punya sumber. Untuk tanggal acara (Ramadhan, Isra Miraj, Idul Adha), tulis bahwa tanggal resmi menunggu ketetapan pemerintah bila memang belum pasti.
+
+**Mudah diambil mesin**
+- Pakai nama yang konsisten. Tulis nama yang sama untuk hal yang sama sepanjang artikel (misalnya selalu "Ayat Kursi", bukan berganti-ganti).
+- Definisikan istilah pada penyebutan pertama dengan satu kalimat sederhana ("Tahajud adalah sholat sunnah yang dikerjakan malam hari setelah bangun tidur").
+- Pakai tabel untuk perbandingan atau daftar fakta (nama, arti, jumlah rakaat, waktu), dan daftar bernomor untuk langkah. Tabel dan daftar mudah diekstrak, tapi tetap sertakan penjelasan dalam kalimat.
+- Letakkan teks Arab, bacaan Latin, dan arti dalam urutan yang sama di setiap artikel, dengan label yang jelas (Bacaan Arab, Bacaan Latin, Artinya).
+- Gunakan teks sebagai teks. Jangan menaruh informasi penting hanya di dalam gambar. Beri teks alternatif yang bermakna pada setiap gambar.
+
+**Tunjukkan keahlian dan kesegaran**
+- Perbarui artikel yang berisi tanggal atau jadwal acara setiap tahun, dan ubah `date` sesuai aturan tanggal bila isinya memang diperbarui.
+- Taut ke artikel lain dan ke Baca-Quran.id dengan teks tautan yang menjelaskan tujuannya ("baca QS. Al-Baqarah ayat 255"), bukan "klik di sini".
+- Dalam isi artikel, sebut Baca-Quran.id secara wajar sebagai tempat membaca ayat dan memakai fitur (tasbih digital, Juz Amma), supaya kaitan antara topik dan situs utama jelas.
+
+**Daftar periksa sebelum membuka PR**
+- [ ] Judul tanpa `:` dan `-`, bahasa sederhana.
+- [ ] Jawaban inti ada di awal artikel.
+- [ ] Ada bagian `Pertanyaan yang Sering Ditanyakan` dengan 3 sampai 5 pertanyaan nyata.
+- [ ] Semua ayat bertaut ke Baca-Quran.id, semua hadis menyebut perawi.
+- [ ] Teks Arab dan terjemahan sudah dicocokkan dengan sumber.
+- [ ] Tidak ada artikel lain yang membahas kata kunci utama yang sama.
+
 ## Konten Terjadwal (Artikel Musiman)
 
 Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten terkait Idul Adha, Tahun Baru Islam, atau puasa Asyura), gunakan alur penerbitan terjadwal berikut. Alur ini dijalankan oleh workflow `.github/workflows/scheduled-merge.yml` dan bot merge Kodiak.
@@ -109,7 +154,7 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 **Cara membuat konten terjadwal:**
 
 1. Tulis artikel seperti biasa di `content/blog/`. Sebaiknya samakan nilai `date` pada frontmatter dengan tanggal terbit yang diinginkan, dan gunakan tanggal tersebut pula sebagai awalan nama folder.
-2. Jadwalkan penerbitan 1 hingga 2 minggu sebelum tanggal acara, bukan tepat di hari H. Hal ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik, sekaligus memberi kelonggaran terhadap jeda penjadwalan.
+2. Jadwalkan penerbitan minimal 7 hari (boleh sampai 2 minggu) sebelum tanggal acara, bukan tepat di hari H. Hal ini memberi mesin pencari waktu untuk mengindeks artikel sebelum lonjakan trafik, sekaligus memberi kelonggaran terhadap jeda penjadwalan.
 3. Buat satu Pull Request terpisah untuk setiap artikel terjadwal, agar tiap artikel bisa terbit pada tanggalnya masing-masing.
 4. Cantumkan token tanggal pada **judul PR** dengan format `[publish: YYYY-MM-DD]`, contohnya:
    `[publish: 2026-06-05] CONTENT: Amalan dan Keutamaan Bulan Muharram`
