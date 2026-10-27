@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link, graphql } from 'gatsby';
 import { Disqus } from 'gatsby-plugin-disqus';
 
@@ -79,6 +79,88 @@ const GitHubIcon = () => (
   </svg>
 );
 
+const LinkIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={13}
+    height={13}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+  </svg>
+);
+
+const SparklesIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={13}
+    height={13}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth={2}
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    aria-hidden="true"
+  >
+    <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z" />
+    <path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z" />
+  </svg>
+);
+
+const copyText = async text => {
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch (e) {
+    try {
+      const area = document.createElement('textarea');
+      area.value = text;
+      area.setAttribute('readonly', '');
+      area.style.position = 'fixed';
+      area.style.opacity = '0';
+      document.body.appendChild(area);
+      area.select();
+      const ok = document.execCommand('copy');
+      document.body.removeChild(area);
+      return ok;
+    } catch (err) {
+      return false;
+    }
+  }
+};
+
+const CopyButton = ({ getText, label, doneLabel, ariaLabel, icon }) => {
+  const [status, setStatus] = useState('idle');
+
+  const handleClick = async () => {
+    const ok = await copyText(getText());
+    setStatus(ok ? 'done' : 'error');
+    setTimeout(() => setStatus('idle'), 2000);
+  };
+
+  return (
+    <button
+      type="button"
+      onClick={handleClick}
+      className="post-actions__btn post-actions__btn--copy"
+      aria-label={ariaLabel}
+    >
+      {icon}
+      <span aria-live="polite">
+        {status === 'done' ? doneLabel : status === 'error' ? 'Gagal menyalin' : label}
+      </span>
+    </button>
+  );
+};
+
 const ArrowLeftIcon = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -147,6 +229,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const encodedUrl = encodeURIComponent(pageUrl);
   const encodedTitle = encodeURIComponent(post.frontmatter.title);
   const encodedDesc = encodeURIComponent(post.frontmatter.description || '');
+  const aiText = `# ${post.frontmatter.title}\n\nSumber: ${pageUrl}\n\n${post.rawMarkdownBody}`;
   const editPath = location.pathname.replace(rootPath, '');
 
   return (
@@ -223,6 +306,20 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               <WhatsAppIcon />
               WhatsApp
             </a>
+            <CopyButton
+              getText={() => pageUrl}
+              label="Salin Tautan"
+              doneLabel="Tautan disalin"
+              ariaLabel="Salin tautan artikel"
+              icon={<LinkIcon />}
+            />
+            <CopyButton
+              getText={() => aiText}
+              label="Salin untuk AI"
+              doneLabel="Teks disalin"
+              ariaLabel="Salin seluruh isi artikel dalam format teks untuk AI"
+              icon={<SparklesIcon />}
+            />
             <a
               href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${editPath}index.md`}
               target="_blank"
@@ -340,6 +437,7 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      rawMarkdownBody
       frontmatter {
         title
         date(formatString: "DD MMMM YYYY")

@@ -1194,6 +1194,18 @@ tbody tr:last-child td {
   color: #ffffff !important;
 }
 
+.post-actions__btn--copy {
+  background-color: var(--bg-tertiary);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  cursor: pointer;
+}
+
+.post-actions__btn--copy:hover {
+  background-color: var(--border);
+  color: var(--text);
+}
+
 .post-actions__btn--github {
   background-color: var(--bg-tertiary);
   color: var(--text-muted) !important;
