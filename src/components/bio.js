@@ -51,8 +51,8 @@ const Bio = () => {
       <p>
         <strong>{author.name}</strong>
         <br />
-        <a target="_blank" rel="noopener noreferrer" href={`https://twitter.com/${social.twitter}`}>
-          Twitter
+        <a target="_blank" rel="noopener noreferrer" href={`https://x.com/${social.twitter}`}>
+          X
         </a>
         {` • `}
         <a target="_blank" rel="noopener noreferrer" href={`https://facebook.com/${social.facebook}`}>

@@ -1174,13 +1174,23 @@ tbody tr:last-child td {
   color: #ffffff !important;
 }
 
-.post-actions__btn--twitter {
+.post-actions__btn--x {
   background-color: #000000;
   color: #ffffff !important;
 }
 
-.post-actions__btn--twitter:hover {
+.post-actions__btn--x:hover {
   background-color: #1a1a1a;
+  color: #ffffff !important;
+}
+
+.post-actions__btn--whatsapp {
+  background-color: #25d366;
+  color: #ffffff !important;
+}
+
+.post-actions__btn--whatsapp:hover {
+  background-color: #1ebe5b;
   color: #ffffff !important;
 }
 
