@@ -11,7 +11,7 @@ Menjelang Ramadhan, hampir setiap keluarga mulai sibuk. Ada yang menyiapkan menu
 
 ## Apa Bacaan Niat Puasa Ramadhan
 
-Niat adalah tekad di dalam hati untuk melakukan sebuah ibadah karena Allah. Tempatnya di hati, jadi yang terpenting adalah Anda sadar dan sengaja akan berpuasa besok. Melafalkannya hanya membantu hati supaya lebih mantap.
+Niat adalah tekad di dalam hati untuk melakukan sebuah ibadah karena Allah. Tempatnya di hati, jadi yang terpenting adalah Anda sadar dan sengaja akan berpuasa besok. Melafalkannya hanya membantu hati supaya lebih mantap. Lafal berbahasa Arab di bawah ini adalah rumusan para ulama mazhab Syafi'i yang banyak dimuat dalam penjelasan NU Online, bukan bunyi hadis dari Rasulullah.
 
 **Bacaan Arab**
 
