@@ -788,6 +788,7 @@ tbody tr:last-child td {
 }
 
 .post-card {
+  position: relative;
   background-color: var(--card-bg);
   border: 1px solid var(--card-border);
   border-radius: var(--radius-xl);
@@ -875,6 +876,18 @@ tbody tr:last-child td {
   transition: color var(--transition);
 }
 
+.post-card__title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.post-card__tag {
+  position: relative;
+  z-index: 2;
+}
+
 .post-card__title a:hover {
   color: var(--accent) !important;
   text-decoration: none !important;
@@ -907,6 +920,7 @@ tbody tr:last-child td {
   letter-spacing: 0.01em;
 }
 
+.post-card:hover .post-card__cta,
 .post-card__cta:hover {
   gap: 0.5rem;
   color: var(--accent-hover) !important;
