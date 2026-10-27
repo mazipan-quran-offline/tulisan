@@ -13,7 +13,7 @@ Sering kali kita bingung harus berdoa apa. Hajatnya banyak, tapi kata yang kelua
 
 **Tulisan Arab**
 
-رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
+رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
