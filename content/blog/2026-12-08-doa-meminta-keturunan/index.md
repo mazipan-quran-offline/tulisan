@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -49,7 +49,7 @@ Doa seperti ini mengandung dua permintaan, yaitu meminta anak dan meminta ketena
 
 **Bacaan Arab**
 
-> رَبِّ هَبۡ لِي مِن لَّدُنكَ ذُرِّيَّةࣰ طَيِّبَةًۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+> رَبِّ هَبْ لِيْ مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۚ اِنَّكَ سَمِيْعُ الدُّعَاۤءِ
 
 **Bacaan Latin**
 
@@ -61,7 +61,7 @@ Doa seperti ini mengandung dua permintaan, yaitu meminta anak dan meminta ketena
 
 **Bacaan Arab**
 
-> رَبِّ لَا تَذَرۡنِي فَرۡدࣰا وَأَنتَ خَيۡرُ ٱلۡوَٰرِثِينَ
+> رَبِّ لَا تَذَرْنِيْ فَرْدًا وَّاَنْتَ خَيْرُ الْوٰرِثِيْنَ
 
 **Bacaan Latin**
 
@@ -79,7 +79,7 @@ Doa kedua dapat Anda baca di [QS. Al-Anbiya ayat 89](https://www.baca-quran.id/s
 
 **Bacaan Arab**
 
-> ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي وَهَبَ لِي عَلَى ٱلۡكِبَرِ إِسۡمَٰعِيلَ وَإِسۡحَٰقَۚ إِنَّ رَبِّي لَسَمِيعُ ٱلدُّعَآءِ
+> اَلْحَمْدُ لِلّٰهِ الَّذِيْ وَهَبَ لِيْ عَلَى الْكِبَرِ اِسْمٰعِيْلَ وَاِسْحٰقَۗ اِنَّ رَبِّيْ لَسَمِيْعُ الدُّعَاۤءِ
 
 **Bacaan Latin**
 
