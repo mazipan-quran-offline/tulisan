@@ -1,65 +1,60 @@
 import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 
-const SearchIcon = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={18}
-    height={18}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <circle cx="11" cy="11" r="8" />
-    <path d="m21 21-4.35-4.35" />
-  </svg>
-);
-
 import ThemeToggle from './ThemeToggle';
-import './layout.css';
+import BackToTop from './BackToTop';
+import { SearchIcon, StarMark, ArrowRightIcon } from './icons';
 import '../styles/global.css';
 
-const BookIcon = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={20}
-    height={20}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-  </svg>
-);
+const MAIN_SITE = 'https://www.baca-quran.id';
 
-const BackArrowIcon = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={16}
-    height={16}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2.5}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <path d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
-  </svg>
-);
+// Footer links to the main product. Kept as data so the markup stays uniform.
+const FOOTER_GROUPS = [
+  {
+    label: "Al-Qur'an",
+    links: [
+      { emoji: '📚', text: 'Semua Surah', href: `${MAIN_SITE}/all-surah/` },
+      { emoji: '📖', text: 'Baca Per Ayat', href: `${MAIN_SITE}/surah/1/1/` },
+      { emoji: '📒', text: 'Juz Amma', href: `${MAIN_SITE}/juz-amma/` },
+      { emoji: '🪑', text: 'Ayat Kursi', href: `${MAIN_SITE}/ayat-kursi/` },
+    ],
+  },
+  {
+    label: 'Doa & Dzikir',
+    links: [
+      { emoji: '🙏', text: 'Doa Harian', href: `${MAIN_SITE}/daily-doa/` },
+      { emoji: '🧎', text: 'Wirid', href: `${MAIN_SITE}/wirid/` },
+      { emoji: '🌅', text: 'Dzikir Pagi & Petang', href: `${MAIN_SITE}/adhkar/` },
+      { emoji: '📿', text: 'Tasbih', href: `${MAIN_SITE}/tasbih/` },
+      { emoji: '🤲', text: 'Tahlil', href: `${MAIN_SITE}/tahlil/` },
+    ],
+  },
+  {
+    label: 'Fitur Lainnya',
+    links: [
+      { emoji: '💯', text: 'Asmaul Husna', href: `${MAIN_SITE}/asmaul-husna/` },
+      { emoji: '⏰', text: 'Jadwal Sholat', href: `${MAIN_SITE}/jadwal-sholat/` },
+      { emoji: '⏺️', text: 'Pencatat Ibadah', href: `${MAIN_SITE}/pencatat-ibadah/` },
+      { emoji: '📅', text: 'Kalender Hijriyah', href: `${MAIN_SITE}/kalender-hijriyah/` },
+    ],
+  },
+  {
+    label: 'Tautan',
+    links: [
+      { text: 'Baca-Quran.id', href: `${MAIN_SITE}/`, sameTab: true },
+      { text: 'Web Stories', href: `${MAIN_SITE}/stories/` },
+      { text: 'Web Tool Libraries', href: 'https://tools.mazipan.space/' },
+      { text: 'Games', href: 'https://games.mazipan.space/' },
+      { text: 'Belajar Coding Anak', href: 'https://coding.mazipan.space/' },
+      { text: 'Irfan Maulana', href: 'https://mazipan.space/' },
+    ],
+  },
+];
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   const isRoot = location.pathname === rootPath;
+  const isPath = prefix => location.pathname.startsWith(`${__PATH_PREFIX__}${prefix}`);
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -75,37 +70,41 @@ const Layout = ({ location, title, children }) => {
   return (
     <div className="layout-root">
       <a href="#main-content" className="skip-link">
-        Skip to main content
+        Lompat ke konten utama
       </a>
 
-      <header className="site-header" role="banner">
+      <header className="site-header">
         <div className="site-header__inner">
-          <div className="site-header__brand">
-            {isRoot ? (
-              <Link to="/" className="site-header__logo">
-                <BookIcon />
-                {title}
-              </Link>
-            ) : (
-              <Link to="/" className="site-header__back">
-                <BackArrowIcon />
-                {title}
-              </Link>
-            )}
-          </div>
+          <Link
+            to="/"
+            className="site-header__logo"
+            aria-label={`${title}, beranda`}
+            aria-current={isRoot ? 'page' : undefined}
+          >
+            <span className="site-header__logo-mark">
+              <StarMark size={20} />
+            </span>
+            <span className="site-header__logo-text">{title}</span>
+          </Link>
 
-          <nav className="site-header__nav" aria-label="Navigasi tambahan">
-            <Link to="/tags/" className="site-header__search" aria-label="Lihat kategori">
-              <span className="site-header__search-label">Kategori</span>
+          <nav className="site-header__nav" aria-label="Navigasi utama">
+            <Link
+              to="/tags/"
+              className="site-header__link"
+              aria-current={isPath('/tags') || isPath('/tag/') ? 'page' : undefined}
+            >
+              Kategori
             </Link>
             <Link
               to="/search"
-              className="site-header__search"
+              className="site-header__link"
               aria-label="Cari artikel"
+              aria-current={isPath('/search') ? 'page' : undefined}
             >
-              <SearchIcon />
-              <span className="site-header__search-label">Cari</span>
+              <SearchIcon size={18} />
+              <span className="site-header__link-label--optional">Cari</span>
             </Link>
+            <ThemeToggle />
           </nav>
         </div>
       </header>
@@ -114,179 +113,48 @@ const Layout = ({ location, title, children }) => {
         {children}
       </main>
 
-      <footer className="site-footer" role="contentinfo">
+      <footer className="site-footer">
         <div className="site-footer__inner">
           <div className="site-footer__brand">
             <span className="site-footer__site-name">{title}</span>
             <p className="site-footer__copy">
-              Kumpulan artikel, panduan, dan tips seputar aplikasi Baca-Qur'an.id. Temukan konten berkualitas untuk membantu perjalanan membaca Al-Qur'an Anda.
+              Kumpulan artikel, panduan, dan tips seputar aplikasi Baca-Qur'an.id. Temukan konten
+              berkualitas untuk membantu perjalanan membaca Al-Qur'an Anda.
             </p>
-          </div>
-
-          <div className="site-footer__links">
-            <span className="site-footer__link-label">Al-Qur'an</span>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/all-surah/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📚 Semua Surah
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/surah/1/1/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📖 Baca Per Ayat
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/juz-amma/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📒 Juz Amma
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/ayat-kursi/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🪑 Ayat Kursi
+            <a className="btn btn--primary" href={`${MAIN_SITE}/`}>
+              Buka Baca-Quran.id
+              <ArrowRightIcon />
             </a>
           </div>
 
-          <div className="site-footer__links">
-            <span className="site-footer__link-label">Doa & Dzikir</span>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/daily-doa/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🙏 Doa Harian
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/wirid/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🧎 Wirid
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/adhkar/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🌅 Dzikir Pagi & Petang
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/tasbih/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📿 Tasbih
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/tahlil/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🤲 Tahlil
-            </a>
-          </div>
-
-          <div className="site-footer__links">
-            <span className="site-footer__link-label">Fitur Lainnya</span>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/asmaul-husna/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              💯 Asmaul Husna
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/jadwal-sholat/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              ⏰ Jadwal Sholat
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/pencatat-ibadah/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              ⏺️ Pencatat Ibadah
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/kalender-hijriyah/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📅 Kalender Hijriyah
-            </a>
-          </div>
-
-          <div className="site-footer__links">
-            <span className="site-footer__link-label">Tautan</span>
-            <a className="site-footer__link" href="https://www.baca-quran.id/">
-              Baca-Quran.id
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://www.baca-quran.id/stories/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Web Stories
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://tools.mazipan.space/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Web Tool Libraries
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://games.mazipan.space/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Games
-            </a>
-            <a
-              className="site-footer__link"
-              href="https://mazipan.space/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Irfan Maulana
-            </a>
-          </div>
+          {FOOTER_GROUPS.map(group => (
+            <nav key={group.label} className="site-footer__links" aria-label={group.label}>
+              <span className="site-footer__link-label" aria-hidden="true">
+                {group.label}
+              </span>
+              {group.links.map(link => (
+                <a
+                  key={link.href}
+                  className="site-footer__link"
+                  href={link.href}
+                  {...(link.sameTab ? {} : { target: '_blank', rel: 'noopener noreferrer' })}
+                >
+                  {link.emoji && <span aria-hidden="true">{link.emoji}</span>}
+                  {link.text}
+                </a>
+              ))}
+            </nav>
+          ))}
         </div>
 
         <div className="site-footer__bottom">
           <span>© 2018–{new Date().getFullYear()} Baca-Quran.id</span>
           <span aria-hidden="true">·</span>
-          <span>Built with ❤️ by Irfan Maulana</span>
+          <span>Dibuat dengan ❤️ oleh Irfan Maulana</span>
         </div>
       </footer>
 
-      <ThemeToggle />
+      <BackToTop />
     </div>
   );
 };

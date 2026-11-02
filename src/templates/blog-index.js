@@ -1,34 +1,32 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
 import Pagination from '../components/pagination';
 import PostCard from '../components/post-card';
+import Sidebar from '../components/Sidebar';
+import { SearchIcon, ArrowRightIcon, StarMark } from '../components/icons';
+import { formatTag, tagPath } from '../utils/tags';
 
-const StarIcon = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={11}
-    height={11}
-    viewBox="0 0 24 24"
-    fill="currentColor"
-    aria-hidden="true"
-  >
-    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
-  </svg>
-);
+const MAIN_SITE = 'https://www.baca-quran.id/';
+const TOP_TOPICS = 10;
 
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
   const totalCount = data.allMarkdownRemark.totalCount;
+  const tagGroups = data.tags.group;
 
   const { currentPage, numPages } = pageContext;
   const isFirst = currentPage === 1;
   const isLast = currentPage === numPages;
   const prevPage = currentPage - 1 === 1 ? '/' : `/${currentPage - 1}`;
   const nextPage = `/${currentPage + 1}`;
+
+  const topTopics = [...tagGroups]
+    .sort((a, b) => b.totalCount - a.totalCount || a.fieldValue.localeCompare(b.fieldValue))
+    .slice(0, TOP_TOPICS);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -37,54 +35,94 @@ const BlogIndex = ({ data, location, pageContext }) => {
       {/* Hero is a direct child of <main> so its background spans the full screen */}
       {isFirst && (
         <section className="hero" aria-labelledby="hero-heading">
+          <div className="hero__ornament" aria-hidden="true">
+            <svg viewBox="0 0 200 200" fill="none" stroke="currentColor">
+              {[92, 72, 52, 32].map((r, i) => (
+                <g key={r} className={`hero__ornament-ring hero__ornament-ring--${i}`}>
+                  <rect x={100 - r / 1.2} y={100 - r / 1.2} width={(r / 1.2) * 2} height={(r / 1.2) * 2} rx="3" strokeWidth={i === 0 ? 1.2 : 1} />
+                  <rect x={100 - r / 1.2} y={100 - r / 1.2} width={(r / 1.2) * 2} height={(r / 1.2) * 2} rx="3" strokeWidth={i === 0 ? 1.2 : 1} transform="rotate(45 100 100)" />
+                </g>
+              ))}
+            </svg>
+          </div>
           <div className="hero__inner">
             <div className="hero__badge">
-              <StarIcon />
-              Artikel Terbaru
+              <StarMark size={14} />
+              Blog Baca-Quran.id
             </div>
             <h1 className="hero__title" id="hero-heading">
               Tulisan &amp; Panduan
               <span>Baca-Qur&apos;an.id</span>
             </h1>
             <p className="hero__description">
-              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi
-              Baca-Qur'an.id. Temukan konten berkualitas untuk membantu
-              perjalanan membaca Al-Qur'an Anda.
+              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi Baca-Qur&apos;an.id.
+              Temukan konten berkualitas untuk membantu perjalanan membaca Al-Qur&apos;an Anda.
             </p>
-            <div className="hero__stats" aria-label="Statistik blog">
-              <div>
-                <span className="hero__stat-number">{totalCount}</span>
-                <span className="hero__stat-label">Artikel</span>
-              </div>
-              <div>
-                <span className="hero__stat-number">{numPages}</span>
-                <span className="hero__stat-label">Halaman</span>
-              </div>
-              <div>
-                <span className="hero__stat-number">2018</span>
-                <span className="hero__stat-label">Sejak</span>
-              </div>
+            <div className="hero__actions">
+              <Link to="/search" className="btn btn--primary">
+                <SearchIcon size={18} />
+                Cari artikel
+              </Link>
+              <Link to="/tags/" className="btn btn--ghost">
+                Jelajahi kategori
+              </Link>
+              <a href={MAIN_SITE} className="btn btn--ghost">
+                Buka Baca-Quran.id
+                <ArrowRightIcon size={14} />
+              </a>
             </div>
+            <dl className="hero__stats" aria-label="Statistik blog">
+              <div>
+                <dt className="hero__stat-label">Artikel</dt>
+                <dd className="hero__stat-number">{totalCount}</dd>
+              </div>
+              <div>
+                <dt className="hero__stat-label">Kategori</dt>
+                <dd className="hero__stat-number">{tagGroups.length}</dd>
+              </div>
+              <div>
+                <dt className="hero__stat-label">Sejak</dt>
+                <dd className="hero__stat-number">2018</dd>
+              </div>
+            </dl>
           </div>
         </section>
       )}
 
       {/* Constrained content area */}
       <div className="site-main__inner">
+        <div className="with-sidebar">
+        <div className="with-sidebar__main">
+        {isFirst && topTopics.length > 0 && (
+          <nav className="topics topics--hide-wide" aria-labelledby="topics-label">
+            <span className="topics__label" id="topics-label">
+              Topik populer
+            </span>
+            <ul className="topics__list">
+              {topTopics.map(({ fieldValue, totalCount: count }) => (
+                <li key={fieldValue}>
+                  <Link to={tagPath(fieldValue)} className="chip">
+                    {formatTag(fieldValue)}
+                    <span className="chip__count">{count}</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )}
+
         <div className="section-header">
-          <h2 className="section-title">
-            {isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}
-          </h2>
+          <h2 className="section-title">{isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}</h2>
           <span className="section-count" aria-live="polite">
             {totalCount} artikel
           </span>
         </div>
 
-        <div className="post-grid" role="list" aria-label="Daftar artikel">
-          {posts.map(({ node }) => (
-            <PostCard key={node.fields.slug} node={node} />
+        <ul className="post-grid" role="list" aria-label="Daftar artikel">
+          {posts.map(({ node }, i) => (
+            <PostCard key={node.fields.slug} node={node} featured={isFirst && i === 0} />
           ))}
-        </div>
+        </ul>
 
         <Pagination
           numPages={numPages}
@@ -94,6 +132,9 @@ const BlogIndex = ({ data, location, pageContext }) => {
           isFirst={isFirst}
           isLast={isLast}
         />
+        </div>
+        <Sidebar tags={tagGroups} />
+        </div>
       </div>
     </Layout>
   );
@@ -106,6 +147,12 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    tags: allMarkdownRemark {
+      group(field: { frontmatter: { tags: SELECT } }) {
+        fieldValue
+        totalCount
       }
     }
     allMarkdownRemark(

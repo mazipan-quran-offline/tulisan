@@ -3,42 +3,9 @@ import { Link, useStaticQuery, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
-import AbstractPattern from '../components/AbstractPattern';
-
-const SearchIcon = ({ size = 20 }) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={size}
-    height={size}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <circle cx="11" cy="11" r="8" />
-    <path d="m21 21-4.35-4.35" />
-  </svg>
-);
-
-const ArrowRightIcon = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={13}
-    height={13}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2.5}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <path d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
-  </svg>
-);
+import PostCard from '../components/post-card';
+import { SearchIcon } from '../components/icons';
+import { formatTag, tagPath } from '../utils/tags';
 
 function searchPosts(posts, rawQuery) {
   const q = rawQuery.trim().toLowerCase();
@@ -49,6 +16,7 @@ function searchPosts(posts, rawQuery) {
       post.frontmatter.title,
       post.frontmatter.description,
       post.excerpt,
+      ...(post.frontmatter.tags || []).map(formatTag),
     ]
       .filter(Boolean)
       .join(' ')
@@ -65,6 +33,12 @@ const SearchPage = ({ location }) => {
           title
         }
       }
+      tags: allMarkdownRemark {
+        group(field: { frontmatter: { tags: SELECT } }) {
+          fieldValue
+          totalCount
+        }
+      }
       allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
         nodes {
           excerpt(pruneLength: 160)
@@ -74,6 +48,7 @@ const SearchPage = ({ location }) => {
           frontmatter {
             title
             description
+            tags
             date(formatString: "DD MMM YYYY")
             dateISO: date(formatString: "YYYY-MM-DD")
           }
@@ -84,6 +59,9 @@ const SearchPage = ({ location }) => {
 
   const siteTitle = data.site.siteMetadata.title;
   const allPosts = data.allMarkdownRemark.nodes;
+  const suggestedTags = [...data.tags.group]
+    .sort((a, b) => b.totalCount - a.totalCount || a.fieldValue.localeCompare(b.fieldValue))
+    .slice(0, 8);
 
   const [query, setQuery] = useState('');
   const inputRef = useRef(null);
@@ -121,9 +99,9 @@ const SearchPage = ({ location }) => {
       <MetaHead title="Cari Artikel" />
 
       <div className="site-main__inner">
-        <div className="search-header">
-          <h1 className="search-title">Cari Artikel</h1>
-          <p className="search-subtitle">
+        <div className="page-intro">
+          <h1 className="page-intro__title">Cari Artikel</h1>
+          <p className="page-intro__text">
             Temukan artikel dari {allPosts.length} tulisan yang tersedia
           </p>
         </div>
@@ -133,7 +111,7 @@ const SearchPage = ({ location }) => {
             Cari artikel
           </label>
           <div className="search-input-wrapper">
-            <SearchIcon />
+            <SearchIcon size={20} />
             <input
               ref={inputRef}
               id="search-input"
@@ -162,51 +140,11 @@ const SearchPage = ({ location }) => {
         )}
 
         {results.length > 0 && (
-          <div className="post-grid" role="list" aria-label="Hasil pencarian">
-            {results.map(node => {
-              const title = node.frontmatter.title || node.fields.slug;
-              return (
-                <article
-                  key={node.fields.slug}
-                  className="post-card"
-                  role="listitem"
-                >
-                  <div className="post-card__pattern" aria-hidden="true">
-                    <AbstractPattern slug={node.fields.slug} />
-                  </div>
-                  <div className="post-card__body">
-                    <div className="post-card__meta">
-                      <time
-                        className="post-card__date"
-                        dateTime={node.frontmatter.dateISO}
-                      >
-                        {node.frontmatter.date}
-                      </time>
-                    </div>
-                    <h3 className="post-card__title">
-                      <Link to={node.fields.slug}>{title}</Link>
-                    </h3>
-                    <p
-                      className="post-card__excerpt"
-                      dangerouslySetInnerHTML={{
-                        __html: node.frontmatter.description || node.excerpt,
-                      }}
-                    />
-                    <Link
-                      to={node.fields.slug}
-                      className="post-card__cta"
-                      aria-label={`Baca artikel: ${title}`}
-                      tabIndex={-1}
-                      aria-hidden="true"
-                    >
-                      Baca artikel
-                      <ArrowRightIcon />
-                    </Link>
-                  </div>
-                </article>
-              );
-            })}
-          </div>
+          <ul className="post-grid" role="list" aria-label="Hasil pencarian">
+            {results.map(node => (
+              <PostCard key={node.fields.slug} node={node} />
+            ))}
+          </ul>
         )}
 
         {hasQuery && results.length === 0 && (
@@ -224,9 +162,23 @@ const SearchPage = ({ location }) => {
 
         {!hasQuery && (
           <div className="search-empty">
-            <SearchIcon size={40} />
-            <p>Ketik kata kunci untuk mulai mencari artikel.</p>
+            <p>Ketik kata kunci untuk mulai mencari artikel, atau pilih topik berikut.</p>
           </div>
+        )}
+
+        {!hasQuery && suggestedTags.length > 0 && (
+          <nav className="search-suggest" aria-label="Topik populer">
+            <ul className="topics__list">
+              {suggestedTags.map(({ fieldValue, totalCount }) => (
+                <li key={fieldValue}>
+                  <Link to={tagPath(fieldValue)} className="chip">
+                    {formatTag(fieldValue)}
+                    <span className="chip__count">{totalCount}</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
         )}
       </div>
     </Layout>

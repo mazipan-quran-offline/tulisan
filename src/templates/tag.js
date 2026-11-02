@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
 import PostCard from '../components/post-card';
+import Sidebar from '../components/Sidebar';
 import { formatTag } from '../utils/tags';
 
 const TagTemplate = ({ data, location, pageContext }) => {
@@ -20,6 +21,8 @@ const TagTemplate = ({ data, location, pageContext }) => {
       />
 
       <div className="site-main__inner">
+        <div className="with-sidebar">
+        <div className="with-sidebar__main">
         <div className="section-header">
           <h1 className="section-title">Kategori {label}</h1>
           <span className="section-count" aria-live="polite">
@@ -31,10 +34,13 @@ const TagTemplate = ({ data, location, pageContext }) => {
           <Link to="/tags/">&larr; Semua kategori</Link>
         </p>
 
-        <div className="post-grid" role="list" aria-label={`Artikel ${label}`}>
+        <ul className="post-grid" role="list" aria-label={`Artikel ${label}`}>
           {edges.map(({ node }) => (
             <PostCard key={node.fields.slug} node={node} />
           ))}
+        </ul>
+        </div>
+        <Sidebar tags={data.tags.group} activeTag={tag} />
         </div>
       </div>
     </Layout>
@@ -48,6 +54,12 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    tags: allMarkdownRemark {
+      group(field: { frontmatter: { tags: SELECT } }) {
+        fieldValue
+        totalCount
       }
     }
     allMarkdownRemark(

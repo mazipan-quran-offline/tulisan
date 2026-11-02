@@ -37,10 +37,8 @@ const MetaHead = ({ description, lang, meta, title }) => {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         { name: 'robots', content: 'follow,index' },
-        {
-          name: 'theme-color',
-          content: '#071e3d',
-        },
+        { name: 'theme-color', content: '#fbfaf6', media: '(prefers-color-scheme: light)' },
+        { name: 'theme-color', content: '#0c1311', media: '(prefers-color-scheme: dark)' },
         {
           name: `description`,
           content: metaDescription,
@@ -85,7 +83,7 @@ const MetaHead = ({ description, lang, meta, title }) => {
 };
 
 MetaHead.defaultProps = {
-  lang: `en`,
+  lang: `id`,
   meta: [],
   description: ``,
 };

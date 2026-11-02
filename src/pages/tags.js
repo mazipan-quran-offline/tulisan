@@ -24,9 +24,9 @@ const TagsPage = ({ data, location }) => {
         <ul className="tag-list" aria-label="Daftar kategori">
           {tags.map(({ fieldValue, totalCount }) => (
             <li key={fieldValue}>
-              <Link to={tagPath(fieldValue)} className="tag-list__item">
+              <Link to={tagPath(fieldValue)} className="chip">
                 {formatTag(fieldValue)}
-                <span className="tag-list__count">{totalCount}</span>
+                <span className="chip__count">{totalCount}</span>
               </Link>
             </li>
           ))}
