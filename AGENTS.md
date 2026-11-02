@@ -126,8 +126,8 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 - Sebutkan dalil lengkap dengan nama surat dan nomor ayat, dan tautkan ke halaman ayat di Baca-Quran.id. Untuk hadis, sebutkan perawinya (misalnya Bukhari, Muslim, Tirmidzi).
 - Jangan menulis kutipan ayat, hadis, atau doa dari ingatan tanpa memeriksanya. Cocokkan teks Arab dan arti dengan Baca-Quran.id atau sumber hadis yang jelas. Bila derajat hadis diperselisihkan, katakan dengan jujur.
 - **Semua teks Arab wajib diverifikasi ke sumber yang bisa dipercaya, jangan mengandalkan ingatan atau asumsi.**
-  - Untuk ayat Al-Quran, salin teks persis dari sumber seperti Tanzil (tanzil.net) atau Quran Uthmani Hafs dari King Fahd Quran Complex, lalu cocokkan dengan Baca-Quran.id. Jangan mengetik ulang ayat dengan tangan.
-  - Untuk hadis dan doa, cocokkan dengan teks hadis di Sunnah.com atau dataset terbuka yang bersumber dari kitab hadis (misalnya `fawazahmed0/hadith-api` di GitHub), dan sebut nama kitab serta nomor hadisnya. Perhatikan perbedaan lafal antar riwayat, misalnya riwayat Bukhari bisa berbeda dari An-Nasa'i atau Tirmidzi, dan tulis sesuai riwayat yang dikutip.
+  - Untuk ayat Al-Quran, salin teks persis lewat skrip dari repo Baca-Quran.id (lihat bagian Sumber Data untuk Teks Arab, Terjemahan, dan Hadis di bawah), lalu bandingkan dengan Tanzil (tanzil.net) atau Quran Uthmani Hafs dari King Fahd Quran Complex. Jangan mengetik ulang ayat dengan tangan.
+  - Untuk hadis dan doa, cocokkan dengan teks hadis di Sunnah.com atau dataset terbuka yang bersumber dari kitab hadis (misalnya `fawazahmed0/hadith-api` di GitHub, dengan catatan penomoran pada bagian Sumber Data), dan sebut nama kitab serta nomor hadisnya. Perhatikan perbedaan lafal antar riwayat, misalnya riwayat Bukhari bisa berbeda dari An-Nasa'i atau Tirmidzi, dan tulis sesuai riwayat yang dikutip.
   - Untuk lafal yang bukan hadis, seperti lafal niat, jelaskan bahwa itu rumusan ulama dan sebutkan sumbernya (misalnya NU Online atau kitab fikih tertentu).
   - Jika sumber tidak bisa dijangkau, jangan menulis teks Arabnya. Cukup tulis arti dalam bahasa Indonesia dan beri catatan untuk direview.
   - Teks Latin dan terjemahan harus sesuai dengan teks Arab yang sudah diverifikasi.
@@ -150,9 +150,80 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 - [ ] Jawaban inti ada di awal artikel.
 - [ ] Ada bagian `Pertanyaan yang Sering Ditanyakan` dengan 3 sampai 5 pertanyaan nyata.
 - [ ] Semua ayat bertaut ke Baca-Quran.id, semua hadis menyebut perawi.
-- [ ] Teks Arab disalin dan dicocokkan dengan sumber yang disebut (Tanzil, King Fahd Quran Complex, Sunnah.com, atau dataset kitab hadis), lengkap dengan nama kitab dan nomor hadis.
+- [ ] Teks Arab disalin lewat skrip dari sumber utama (repo Baca-Quran.id untuk ayat, dataset kitab hadis untuk hadis), dibandingkan dengan sumber pembanding (Tanzil, King Fahd Quran Complex, Sunnah.com), lengkap dengan nama kitab dan nomor hadis.
+- [ ] Deskripsi PR menyebut sumber teks Arab dan terjemahan, serta hal yang belum bisa diverifikasi.
 - [ ] Teks Latin dan terjemahan sudah dicocokkan dengan teks Arab tersebut.
 - [ ] Tidak ada artikel lain yang membahas kata kunci utama yang sama.
+
+## Sumber Data untuk Teks Arab, Terjemahan, dan Hadis
+
+Bagian ini menjelaskan dari mana teks keagamaan boleh diambil, dalam urutan prioritas, dan bagaimana memverifikasinya. Tujuannya dua, yaitu teks yang kita tulis benar, dan teks Arab di artikel sama dengan yang dilihat pembaca setelah mengklik tautan ke Baca-Quran.id. Hasil verifikasi di bawah dicek pada 2026-11-02, jadi periksa ulang bila sumbernya sudah berubah.
+
+### Sumber utama
+
+| Kebutuhan | Sumber utama | Pembanding |
+| --- | --- | --- |
+| Ayat Arab | Repo [`mazipan/baca-quran.id`](https://github.com/mazipan/baca-quran.id), file `src/data/surah-data/{nomor-surat}.ts`, kolom `text`. Teks Mushaf Standar Indonesia (Kemenag). | `risan/quran-json` (naskah `kemenag` dan `tanzil/uthmani`), Tanzil, King Fahd Quran Complex |
+| Terjemahan Indonesia | Repo Baca-Quran.id, kolom `translations.id.text` (terjemahan Kemenag). | `risan/quran-json` berkas `data/quranenc/indonesian_affairs.json`, `fawazahmed0/quran-api` edisi `ind-indonesianislam` |
+| Tafsir Indonesia | Repo Baca-Quran.id, kolom `tafsir.id.kemenag.text` (Tafsir Kemenag). | Aplikasi Quran Kemenag |
+| Doa harian dan dzikir | Repo Baca-Quran.id, berkas `src/data/daily-doa.ts`, `adhkar.ts`, `wirid.ts`, `tahlil.ts`, `ayat-kursi.ts`. Setiap butir memuat Arab, Latin, arti, dan kolom `source` (perawi, nomor hadis, atau bab Hisnul Muslim). | Sunnah.com, Hisnul Muslim |
+| Hadis | `fawazahmed0/hadith-api` (kitab `bukhari`, `muslim`, `abudawud`, `tirmidhi`, `nasai`, `ibnmajah`, `malik`, `nawawi`, `qudsi`, `dehlawi`). | `AhmedBaset/hadith-json`, lalu Sunnah.com saat review |
+
+Contoh berkas hadis, `https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/editions/ara-tirmidhi.json`. Contoh berkas ayat Arab dari `risan/quran-json`, `data/kemenag/quran.json` dan `data/tanzil/uthmani.json`.
+
+Butir di `daily-doa.ts` yang kolom `source`-nya berbunyi "dinisbatkan dalam kitab doa" atau tidak menyebut perawi tidak boleh diperlakukan sebagai hadis. Tulis sebagai doa yang beredar, atau cari dalil yang jelas dulu.
+
+Contoh membaca satu ayat dari clone repo Baca-Quran.id dengan Node.js.
+
+```js
+import fs from 'fs';
+const surah = 17, ayat = 24;
+const src = fs.readFileSync(`src/data/surah-data/${surah}.ts`, 'utf8')
+  .replace(/^export default /, 'module.exports = ').replace(/;\s*$/, '');
+const m = { exports: {} };
+new Function('module', src + ';')(m);
+const s = m.exports[String(surah)];
+console.log(s.text[ayat]);                        // Arab
+console.log(s.translations.id.text[ayat]);        // terjemahan Kemenag
+console.log(s.tafsir?.id?.kemenag?.text?.[ayat]); // tafsir Kemenag
+```
+
+### Cara mengakses dari sandbox cloud
+
+Sandbox cloud hanya bisa menjangkau sebagian host. Hasil pengecekan pada 2026-11-02.
+
+- **Bisa dijangkau.** File mentah dari repo GitHub publik apa pun lewat `raw.githubusercontent.com`. Clone repo publik lewat proxy git (di Claude Code panggil `add_repo`, lalu `GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 <url>`). Clone ke repo besar seperti `risan/quran-json` bisa memakan beberapa menit.
+- **Tidak bisa dijangkau (ditolak proxy).** tanzil.net, sunnah.com, qurancomplex.gov.sa, quran.com dan api.quran.com, api.alquran.cloud, quran.kemenag.go.id, equran.id, cdn.jsdelivr.net, serta halaman web github.com dan api.github.com. Jangan mencoba menembus pembatasan ini. Untuk sumber seperti itu, catat di deskripsi PR bahwa reviewer perlu mencocokkannya secara manual.
+
+### Hal yang perlu diwaspadai
+
+- **Setiap sumber menulis harakat dengan konvensi berbeda.** Naskah Kemenag di `risan/quran-json` dibandingkan dengan repo Baca-Quran.id, kerangka konsonannya sama untuk 6.233 dari 6.236 ayat, tetapi byte-nya persis sama hanya untuk 2.428 ayat. Tanzil dibandingkan dengan Quran Uthmani Hafs dari `fawazahmed0`, kerangkanya sama untuk 6.124 dari 6.236 ayat dan persis sama hanya untuk 8 ayat. Karena itu pakai satu sumber untuk satu kutipan, jangan menyambung potongan dari sumber berbeda, dan sebut sumbernya di PR.
+- **Sumber default untuk Arab adalah repo Baca-Quran.id.** Dengan begitu teks di artikel sama dengan teks di halaman ayat yang kita tautkan. Dataset `fawazahmed0` dan Tanzil dipakai sebagai pembanding, atau sebagai cadangan bila sumber utama tidak bisa dibaca.
+- **Salin lewat skrip, jangan diketik.** Dataset `fawazahmed0` memecah tanwin fathah menjadi token terpisah ("ࣰ ا") bila dipotong per kata, sehingga perlu digabung lagi. Potongan ayat harus diambil dengan indeks kata, lalu dicek hasilnya.
+- **Nomor hadis bisa tidak sama dengan penomoran standar.** Untuk Muslim, gunakan kolom `arabicnumber` (misalnya "918.01" berarti nomor 918), bukan `hadithnumber`. Untuk Bukhari, nomor dataset kadang bergeser beberapa angka (doa istikharah bernomor 1166 di dataset, sedangkan penomoran standar 1162). Cocokkan kitab, bab, dan nomor ke Sunnah.com sebelum menulis nomor di artikel.
+- **Derajat hadis hanya tersedia sebagian.** Kolom `grades` terisi untuk Abu Dawud, Tirmidzi, An-Nasa'i, dan Ibnu Majah, tetapi kosong untuk Bukhari dan Muslim. Jika penilai berbeda pendapat, misalnya Tirmidzi nomor 2035 dinilai sahih oleh Al-Albani tetapi lemah oleh Zubair Ali Zai, tulis perbedaan itu dengan jujur.
+- **Lisensi.** Teks Mushaf Al-Quran tidak memiliki hak cipta menurut Peraturan Menteri Agama Nomor 44 Tahun 2016 Pasal 8 ayat 1. Teks Tanzil berlisensi CC BY 3.0 dan tidak boleh diubah. Terjemahan dari QuranEnc boleh diterbitkan ulang selama tidak diubah, dengan menyebut penerbit, QuranEnc, dan nomor versinya.
+
+### Sumber alternatif yang kredibel
+
+Daftar ini tidak bisa dijangkau dari sandbox cloud, tetapi cocok untuk verifikasi manual oleh reviewer. Kredibel tidak berarti tanpa perbedaan pendapat, jadi sebut rujukan yang dipakai dalam artikel.
+
+| Kebutuhan | Sumber |
+| --- | --- |
+| Ayat Arab | Tanzil (tanzil.net), King Fahd Quran Complex (qurancomplex.gov.sa), Quran.com |
+| Terjemahan dan tafsir Indonesia | Quran Kemenag (quran.kemenag.go.id), QuranEnc (quranenc.com) |
+| Hadis dan derajatnya | Sunnah.com, Dorar.net |
+| Doa dan dzikir | Hisnul Muslim karya Sa'id bin Ali Al-Qahthani (hisnulmuslim.com) |
+| Fikih, lafal niat, dan masalah khilafiyah dalam bahasa Indonesia | NU Online (islam.nu.or.id), Tarjih Muhammadiyah (tarjih.or.id), MUI (mui.or.id), Rumaysho (rumaysho.com) |
+
+### Alur verifikasi singkat
+
+1. Ambil teks lewat skrip dari sumber utama, bukan dari ingatan.
+2. Bandingkan dengan sumber pembanding. Selisih harakat itu wajar, selisih kata tidak boleh dibiarkan.
+3. Cocokkan nama kitab dan nomor hadis dengan Sunnah.com, dan cek derajatnya.
+4. Tulis Latin dan terjemahan agar sesuai dengan Arab yang sudah diverifikasi.
+5. Di deskripsi PR, sebut sumber teks Arab dan terjemahan, lalu daftar hal yang belum bisa diverifikasi.
+6. Jika sumbernya tidak bisa dijangkau, jangan menulis teks Arabnya. Tulis arti saja dan beri catatan untuk reviewer.
 
 ## Konten Terjadwal (Artikel Musiman)
 
