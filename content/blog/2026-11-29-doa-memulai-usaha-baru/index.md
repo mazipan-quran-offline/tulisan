@@ -9,6 +9,32 @@ Hari pertama membuka usaha biasanya diwarnai rasa campur aduk. Ada semangat kare
 
 Doa untuk membuka usaha bisa Anda ucapkan dengan bahasa Indonesia sendiri, lalu dilengkapi doa dari Al-Quran seperti "Rabbi anzilnii munzalam mubaarakan wa anta khairul-munziliin" dari [QS. Al-Mu'minun ayat 29](https://www.baca-quran.id/surah/23/29/), yang artinya "Ya Tuhanku, tempatkanlah aku pada tempat yang diberkahi, dan Engkau adalah sebaik-baik pemberi tempat." Doa ini cocok dibaca ketika memasuki toko atau tempat usaha yang baru.
 
+## Doa Siap Pakai untuk Memulai Usaha Baru
+
+Doa ini bisa dibaca sebelum pintu usaha dibuka untuk pertama kali, dan juga di hari-hari sepi ketika semangat mulai menurun. Sesuaikan kata usaha dengan jenis usaha Anda.
+
+> Bismillahirrahmanirrahim. Ya Allah, hari ini aku memulai sesuatu yang kuimpikan sejak lama. Ada semangat, tetapi ada juga cemas. Aku memikirkan modal yang kutanam, tenaga yang kucurahkan, dan keluarga yang menaruh harapan padaku. Aku tahu usaha ini hanyalah ikhtiar, dan hasilnya ada di tangan-Mu.
+>
+> Ya Allah, berkahilah usahaku ini. Tempatkanlah aku pada tempat yang diberkahi, dan Engkau adalah sebaik-baik pemberi tempat. Mudahkanlah jalanku, datangkan pelanggan yang baik, dan jadikan setiap yang bertransaksi denganku merasa puas dan dihormati. Berilah aku kejujuran dalam menimbang, dalam menjelaskan barang, dan dalam menepati janji. Jauhkan aku dari menyembunyikan cacat, dari berbohong demi untung, dan dari riba yang Engkau haramkan.
+>
+> Ya Allah, jika usaha ini ramai, jadikan aku orang yang bersyukur dan dermawan, dan jangan biarkan aku lalai dari sholat serta lupa kepada-Mu. Jika usaha ini sepi, kuatkan hatiku, jangan biarkan aku putus asa dan jangan biarkan aku menempuh jalan yang haram. Jika aku rugi, ajari aku bersabar dan mengambil pelajaran. Jika aku untung, ajari aku berbagi.
+>
+> Ya Allah, jaga hubunganku dengan keluarga, karyawan, dan rekan usahaku. Jadikan kami saling jujur dan saling menolong. Cukupkan rezekiku dari arah yang tidak kusangka, dan jadikan usahaku manfaat bagi banyak orang. Tidaklah petunjukku kecuali dengan pertolongan-Mu, kepada-Mu aku bertawakal dan kepada-Mu aku kembali. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Memulai Usaha dalam Bahasa Indonesia?
 
 **Mohonlah keberkahan, bukan hanya keuntungan.** Usaha yang berkah belum tentu paling ramai, tetapi terasa cukup, tenang, dan bermanfaat bagi banyak orang. Berikut contoh doa yang bisa Anda baca sebelum membuka usaha.
