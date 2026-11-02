@@ -1,7 +1,7 @@
 ---
 title: Doa Memulai Usaha Baru dan Membuka Toko
 description: Doa memulai usaha baru dan membuka toko dalam bahasa Indonesia dan Arab dari Al-Quran, lengkap dengan arti, adab berdagang, dan pesan hadis tentang jujur.
-date: '2026-11-29T03:00:00.000Z'
+date: '2027-02-25T03:00:00.000Z'
 tags: ["doa", "ibadah"]
 ---
 
@@ -99,7 +99,7 @@ Rasulullah SAW juga memberi dua pesan penting bagi pedagang. Dalam hadis riwayat
 
 **Tetap jaga sholat tepat waktu, bahkan ketika usaha sedang ramai.** Allah memerintahkan dalam [QS. Al-Jumu'ah ayat 10](https://www.baca-quran.id/surah/62/10/) agar kita bertebaran mencari karunia-Nya setelah sholat, sambil banyak mengingat-Nya. Jadikan waktu sholat sebagai jeda yang menenangkan, bukan gangguan bagi kerja Anda. Pelanggan pun biasanya menghargai pedagang yang konsisten menjaga ibadahnya.
 
-Sedekah kecil dari hasil usaha juga bisa menjadi pembuka keberkahan. Baca [ayat Al-Quran tentang sedekah](/2020-12-29-ayat-alquran-mengenai-sedekah/) untuk memahami keutamaannya, dan jangan lupa membaca doa-doa dari artikel [doa pembuka pintu rezeki](/2023-07-31-doa-pembuka-pintu-rezeki/). Bila Anda sedang mencari pekerjaan sebelum membuka usaha, lihat juga [doa mencari pekerjaan dan wawancara kerja](/2026-11-26-doa-mencari-pekerjaan-dan-wawancara-kerja/). Seluruh ayat di atas bisa Anda baca dan dengarkan di [Baca-Quran.id](https://www.baca-quran.id/).
+Sedekah kecil dari hasil usaha juga bisa menjadi pembuka keberkahan. Baca [ayat Al-Quran tentang sedekah](/2020-12-29-ayat-alquran-mengenai-sedekah/) untuk memahami keutamaannya, dan jangan lupa membaca doa-doa dari artikel [doa pembuka pintu rezeki](/2023-07-31-doa-pembuka-pintu-rezeki/). Bila Anda sedang mencari pekerjaan sebelum membuka usaha, lihat juga [doa mencari pekerjaan dan wawancara kerja](/2027-02-11-doa-mencari-pekerjaan-dan-wawancara-kerja/). Seluruh ayat di atas bisa Anda baca dan dengarkan di [Baca-Quran.id](https://www.baca-quran.id/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
