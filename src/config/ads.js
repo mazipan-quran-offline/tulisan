@@ -9,13 +9,13 @@
 //
 //   inArticle  In-article ad unit, shown between sections of an article
 //   sidebar    Display unit (square/vertical), shown in the sidebar on wide screens
-//   articleEnd Fixed 728x90 horizontal banner, shown after "Baca Juga" on screens 800px and wider
+//   articleEnd Multiplex (autorelaxed) unit, shown after "Baca Juga"
 export const ADS_CLIENT = 'ca-pub-5442972248172818';
 
 export const AD_SLOTS = {
   inArticle: '7974047383',
   sidebar: '3857159885',
-  articleEnd: '7319719723',
+  articleEnd: '4684202576',
 };
 
 // An in-article ad is inserted before this h2 (so after the 2nd section),
