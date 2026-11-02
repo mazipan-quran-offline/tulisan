@@ -1,7 +1,7 @@
 ---
 title: Doa untuk Orang Tua yang Masih Hidup dan yang Sudah Wafat
 description: Doa untuk orang tua yang masih hidup dan yang sudah wafat, dalam bahasa Indonesia dan bacaan Arab dari Al-Quran, lengkap dengan arti dan penjelasannya.
-date: '2026-11-11T03:00:00.000Z'
+date: '2026-12-03T03:00:00.000Z'
 tags: ["doa", "akhlak"]
 ---
 
