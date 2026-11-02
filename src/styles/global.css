@@ -1119,6 +1119,11 @@ a.pagination__btn:hover {
 }
 
 .breadcrumb [aria-current='page'] {
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   color: var(--text-subtle);
 }
 

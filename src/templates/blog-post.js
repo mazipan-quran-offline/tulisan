@@ -16,6 +16,12 @@ import {
 } from '../components/icons';
 import ShareButtons from '../components/ShareButtons';
 import { formatTag, tagPath } from '../utils/tags';
+import {
+  SITE_URL,
+  blogPostingSchema,
+  breadcrumbSchema,
+  faqSchema,
+} from '../utils/structured-data';
 
 const MAIN_SITE = 'https://www.baca-quran.id';
 const ARTICLE_ID = 'article';
@@ -32,7 +38,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     title: post.frontmatter.title,
   };
 
-  const pageUrl = `https://www.baca-quran.id${location.pathname}`;
+  const pageUrl = `https://www.baca-quran.id${
+    location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`
+  }`;
   const aiText = `# ${post.frontmatter.title}\n\nSumber: ${pageUrl}\n\n${post.rawMarkdownBody}`;
   const editPath = location.pathname.replace(rootPath, '');
 
@@ -46,6 +54,28 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <MetaHead
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        pathname={location.pathname}
+        type="article"
+        publishedTime={post.frontmatter.datePublished}
+        tags={tags}
+        jsonLd={[
+          blogPostingSchema({
+            url: pageUrl,
+            title: post.frontmatter.title,
+            description: post.frontmatter.description || post.excerpt,
+            datePublished: post.frontmatter.datePublished,
+            tags,
+            siteMetadata: data.site.siteMetadata,
+          }),
+          breadcrumbSchema([
+            { name: 'Beranda', url: `${SITE_URL}/tulisan/` },
+            ...(tags && tags.length > 0
+              ? [{ name: formatTag(tags[0]), url: `${SITE_URL}/tulisan${tagPath(tags[0])}` }]
+              : []),
+            { name: post.frontmatter.title, url: pageUrl },
+          ]),
+          faqSchema(post.fields.faq),
+        ]}
       />
       <ReadingProgress targetId={ARTICLE_ID} />
 
@@ -60,6 +90,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <Link to={tagPath(tags[0])}>{formatTag(tags[0])}</Link>
               </li>
             )}
+            <li aria-current="page">{post.frontmatter.title}</li>
           </ol>
         </nav>
 
@@ -254,6 +285,13 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         siteUrl
+        description
+        author {
+          name
+        }
+        social {
+          website
+        }
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -262,6 +300,12 @@ export const pageQuery = graphql`
       html
       rawMarkdownBody
       timeToRead
+      fields {
+        faq {
+          question
+          answer
+        }
+      }
       headings {
         id
         value
@@ -271,6 +315,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD MMMM YYYY")
         dateISO: date(formatString: "YYYY-MM-DD")
+        datePublished: date
         description
       }
     }

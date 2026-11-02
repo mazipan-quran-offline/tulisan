@@ -13,7 +13,7 @@ const TagsPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <MetaHead title="Semua Kategori Artikel" />
+      <MetaHead title="Semua Kategori Artikel" pathname={location.pathname} />
 
       <div className="site-main__inner">
         <div className="section-header">

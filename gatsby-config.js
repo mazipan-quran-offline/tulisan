@@ -132,6 +132,8 @@ module.exports = {
       resolve: `gatsby-plugin-sitemap`,
       options: {
         entryLimit: 1000,
+        // utility pages with no standalone search value
+        excludes: [`/search/`, `/404/`, `/404.html`],
       },
     },
     {

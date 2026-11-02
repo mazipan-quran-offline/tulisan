@@ -8,6 +8,7 @@ import PostCard from '../components/post-card';
 import Sidebar from '../components/Sidebar';
 import { SearchIcon, ArrowRightIcon, StarMark } from '../components/icons';
 import { formatTag, tagPath } from '../utils/tags';
+import { websiteSchema } from '../utils/structured-data';
 
 const MAIN_SITE = 'https://www.baca-quran.id/';
 const TOP_TOPICS = 10;
@@ -30,7 +31,12 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <MetaHead title="Semua artikel terkait Baca-Quran.id" />
+      <MetaHead
+        title="Semua artikel terkait Baca-Quran.id"
+        description={data.site.siteMetadata.description}
+        pathname={location.pathname}
+        jsonLd={isFirst ? [websiteSchema(data.site.siteMetadata)] : []}
+      />
 
       {/* Hero is a direct child of <main> so its background spans the full screen */}
       {isFirst && (
@@ -147,6 +153,13 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
+        author {
+          name
+        }
+        social {
+          website
+        }
       }
     }
     tags: allMarkdownRemark {
