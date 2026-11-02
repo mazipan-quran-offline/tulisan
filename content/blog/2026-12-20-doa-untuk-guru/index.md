@@ -9,6 +9,32 @@ Hampir semua orang punya satu atau dua guru yang namanya tidak pernah hilang dar
 
 Ucapan terima kasih yang diajarkan Rasulullah SAW adalah "Jazaakallaahu khairan", yang artinya "Semoga Allah membalasmu dengan kebaikan." Dalam hadis riwayat Tirmidzi nomor 2035 dari Usamah bin Zaid, beliau bersabda bahwa siapa yang diberi kebaikan lalu berkata kepada pemberinya jazakallahu khairan, maka ia telah sangat baik dalam memuji.
 
+## Doa Siap Pakai untuk Guru
+
+Doa ini bisa dibaca untuk guru yang masih ada maupun yang sudah wafat. Sebut nama guru Anda di bagian yang terasa pas, terutama guru yang sudah lama tidak bertemu dan ingin Anda kenang dengan kebaikan.
+
+> Bismillahirrahmanirrahim. Ya Allah, hari ini aku mengingat guru-guruku. Ada yang mengajariku mengeja huruf pertama, ada yang sabar mengulang penjelasan yang sama untuk kesekian kalinya, ada yang menegurku dengan keras demi kebaikanku, dan ada yang tanpa kusadari mengubah cara pandangku terhadap hidup. Mungkin mereka sudah lupa kepadaku, tetapi aku tidak pernah lupa jasa mereka.
+>
+> Ya Allah, balaslah guru-guruku dengan kebaikan yang paling besar. Berilah mereka kesehatan, ketenangan hati, rezeki yang cukup, dan keluarga yang menyayangi mereka. Lapangkan dada mereka ketika menghadapi murid yang sulit, dan kuatkan mereka ketika lelah. Jadikan setiap huruf yang mereka ajarkan sebagai amal jariyah yang terus mengalir, dan jadikan setiap kebaikan yang kulakukan dengan ilmu mereka sebagai pahala untuk mereka.
+>
+> Ya Allah, ampunilah aku jika pernah menyakiti hati guruku, jika pernah membantah, atau jika pernah menyepelekan nasihatnya. Ampunilah mereka jika ada kekeliruan dalam mengajar dan jika ada ucapan mereka yang pernah melukaiku. Bersihkan hati kami dari rasa kesal, dan satukan kami dalam kebaikan. Jika ada guru yang telah wafat, kasihanilah mereka, lapangkan kubur mereka, dan terimalah semua amal mereka.
+>
+> Ya Allah, ampunilah kami dan saudara-saudara kami yang lebih dahulu beriman, dan janganlah Engkau tanamkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Jadikan aku murid yang selalu rendah hati dan tidak berhenti belajar. Jadikan ilmuku bermanfaat bagi orang lain, dan pertemukan aku dengan guru-guruku di surga-Mu. Jazaakumullahu khairan. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Ucapan dan Doa Terima Kasih untuk Guru?
 
 **Ucapan jazakallahu khairan adalah doa sekaligus ungkapan terima kasih.** Berbeda dengan sekadar kata terima kasih, kalimat ini memohonkan balasan kebaikan dari Allah untuk orang yang menolong kita. Untuk guru, balasan dari Allah tentu lebih besar daripada yang bisa kita berikan. Para ulama hadis berbeda dalam menilai derajat hadis ini. Tirmidzi menyebutnya hasan jayyid gharib dan Al-Albani menilainya sahih, sementara sebagian ulama lain menilainya lemah. Maknanya sendiri sejalan dengan banyak dalil tentang berterima kasih kepada sesama.
