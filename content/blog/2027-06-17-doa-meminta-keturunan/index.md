@@ -1,7 +1,7 @@
 ---
 title: Doa Meminta Keturunan bagi Pasangan yang Belum Dikaruniai Anak
 description: Doa meminta keturunan bagi pasangan yang belum punya anak, dengan bacaan Arab dari kisah Nabi Zakariya dan Nabi Ibrahim, arti, serta pesan penguat hati.
-date: '2026-12-08T03:00:00.000Z'
+date: '2027-06-17T03:00:00.000Z'
 tags: ["doa", "keluarga"]
 ---
 
@@ -95,9 +95,9 @@ Doa sederhana dalam [QS. Ash-Shaffat ayat 100](https://www.baca-quran.id/surah/3
 
 **Ingatlah bahwa Allah yang mengatur pemberian dan penundaan.** Dalam [QS. Asy-Syura ayat 49 dan 50](https://www.baca-quran.id/surah/42/49/), Allah menegaskan bahwa kerajaan langit dan bumi milik-Nya, Dia memberikan anak perempuan atau laki-laki kepada siapa yang Dia kehendaki, atau memberikan keduanya, dan menjadikan mandul siapa yang Dia kehendaki, sesungguhnya Dia Maha Mengetahui lagi Maha Kuasa. Ayat ini bukan untuk melemahkan, tetapi untuk menenangkan bahwa semua berada dalam ilmu dan hikmah-Nya.
 
-Selain berdoa, ikhtiar medis yang wajar tetap dianjurkan. Periksakan kesehatan bersama pasangan kepada tenaga medis yang tepercaya, jaga pola hidup, dan jangan saling menyalahkan. Pasangan yang saling menguatkan akan lebih tahan menghadapi penantian. Untuk penguat hubungan, baca juga [doa untuk pengantin baru dan rumah tangga sakinah](/2026-11-20-doa-untuk-pengantin-baru/).
+Selain berdoa, ikhtiar medis yang wajar tetap dianjurkan. Periksakan kesehatan bersama pasangan kepada tenaga medis yang tepercaya, jaga pola hidup, dan jangan saling menyalahkan. Pasangan yang saling menguatkan akan lebih tahan menghadapi penantian. Untuk penguat hubungan, baca juga [doa untuk pengantin baru dan rumah tangga sakinah](/2027-01-14-doa-untuk-pengantin-baru/).
 
-Jika kabar kehamilan sudah datang, lanjutkan dengan [doa ibu hamil dan doa menyambut kelahiran bayi](/2026-11-23-doa-ibu-hamil-dan-kelahiran-bayi/). Dan sambil menunggu, Anda dapat terus mengisi hari dengan dzikir menggunakan [tasbih digital](https://www.baca-quran.id/tasbih/) di Baca-Quran.id agar hati tetap dekat kepada Allah.
+Jika kabar kehamilan sudah datang, lanjutkan dengan [doa ibu hamil dan doa menyambut kelahiran bayi](/2027-01-28-doa-ibu-hamil-dan-kelahiran-bayi/). Dan sambil menunggu, Anda dapat terus mengisi hari dengan dzikir menggunakan [tasbih digital](https://www.baca-quran.id/tasbih/) di Baca-Quran.id agar hati tetap dekat kepada Allah.
 
 ## Bagaimana Menghadapi Ucapan Orang yang Melukai?
 
