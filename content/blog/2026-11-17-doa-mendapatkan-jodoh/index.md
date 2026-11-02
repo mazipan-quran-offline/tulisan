@@ -9,6 +9,32 @@ Menunggu jodoh adalah perjalanan yang tidak sama bagi setiap orang. Ada yang ber
 
 Doa mendapatkan jodoh bisa Anda panjatkan dengan bahasa Indonesia sendiri, lalu dilengkapi doa dari Al-Quran, yaitu "Rabbi inni lima anzalta ilayya min khairin faqir" dari [QS. Al-Qasas ayat 24](https://www.baca-quran.id/surah/28/24/), yang artinya "Ya Tuhanku, sesungguhnya aku sangat memerlukan kebaikan apa pun yang Engkau turunkan kepadaku." Doa ini diucapkan Nabi Musa ketika beliau sedang sendirian, lapar, dan jauh dari kampung halaman, tidak lama sebelum Allah mempertemukannya dengan keluarga barunya.
 
+## Doa Siap Pakai untuk Meminta Jodoh
+
+Jika Anda lelah menunggu dan tidak tahu lagi bagaimana mengatakannya, bacalah doa ini apa adanya. Anda boleh mengulangnya setiap malam, dan tidak perlu menyebut nama siapa pun kecuali Anda memang menginginkannya.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku datang kepada-Mu bukan sebagai orang yang kuat, tetapi sebagai hamba yang sedang menunggu dan hampir kehabisan kata. Engkau tahu betapa seringnya aku melihat orang lain menemukan pasangannya, lalu hatiku bertanya, kapan giliranku? Engkau tahu air mata yang kusembunyikan, dan ucapan orang yang kupura-pura tidak mendengarnya. Aku tidak ingin mengeluh kepada siapa pun selain kepada-Mu.
+>
+> Ya Allah, aku memohon pasangan yang baik agamanya dan baik akhlaknya. Pasangan yang membuat hatiku tenang, yang mengajakku semakin dekat kepada-Mu, dan yang mau berjalan bersamaku dalam suka maupun duka. Pasangan yang jujur, setia, dan sabar, yang menghormati orang tuaku dan menyayangi keluargaku. Aku tidak meminta kesempurnaan, ya Allah, sebab aku sendiri jauh dari sempurna. Aku hanya meminta seseorang yang Engkau ridai untukku, dan yang Engkau tahu akan menjadi sebab kebaikanku di dunia dan akhirat.
+>
+> Ya Allah, selama aku menunggu, perbaikilah diriku. Bersihkan hatiku dari iri dan putus asa, jagalah pandanganku dan pergaulanku, dan jauhkan aku dari hubungan yang membuatku lalai kepada-Mu. Jika jodohku sudah ada, dekatkanlah dan mudahkanlah jalannya. Jika belum, kuatkan aku untuk bersabar dan jadikan masa menunggu ini penuh kebaikan. Jika ada seseorang yang bukan jodohku tetapi hatiku terlanjur condong kepadanya, palingkanlah hatiku dengan lembut dan gantilah dengan yang lebih baik.
+>
+> Ya Allah, tenangkan hatiku dari rasa tertinggal. Ingatkan aku bahwa waktu-Mu tidak pernah terlambat dan rencana-Mu selalu lebih indah. Karuniakanlah kepadaku pasangan dan keturunan yang menjadi penyejuk mata, dan jadikan kami pemimpin bagi orang-orang yang bertakwa. Aku menyerahkan semuanya kepada-Mu. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Meminta Jodoh dalam Bahasa Indonesia?
 
 **Mintalah jodoh yang baik agamanya dan baik akhlaknya, bukan hanya yang menarik di mata.** Berikut contoh doa yang bisa Anda baca setelah sholat, terutama di waktu-waktu mustajab seperti sepertiga malam terakhir.
