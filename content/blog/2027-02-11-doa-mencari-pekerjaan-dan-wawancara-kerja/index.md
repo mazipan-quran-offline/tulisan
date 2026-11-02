@@ -1,7 +1,7 @@
 ---
 title: Doa Mencari Pekerjaan dan Menghadapi Wawancara Kerja
 description: Doa mencari pekerjaan dan menghadapi wawancara kerja dalam bahasa Indonesia dan Arab, lengkap dengan arti, adab mencari rezeki halal, dan tips menenangkan hati.
-date: '2026-11-26T03:00:00.000Z'
+date: '2027-02-11T03:00:00.000Z'
 tags: ["doa", "tips"]
 ---
 
@@ -59,7 +59,7 @@ Doa ini mengandung dua hal penting, yaitu memohon pekerjaan yang halal dan menye
 
 "Ya Tuhanku, lapangkanlah dadaku, dan mudahkanlah untukku urusanku, dan lepaskanlah kekakuan dari lidahku, agar mereka mengerti perkataanku."
 
-Anda bisa membacanya dalam perjalanan menuju lokasi wawancara, saat menunggu giliran, atau sesaat sebelum masuk ruangan. Penjelasan tambahan tentang doa ini ada di artikel [doa menjelang ujian](/2026-11-14-doa-menjelang-ujian/).
+Anda bisa membacanya dalam perjalanan menuju lokasi wawancara, saat menunggu giliran, atau sesaat sebelum masuk ruangan. Penjelasan tambahan tentang doa ini ada di artikel [doa menjelang ujian](/2026-12-17-doa-menjelang-ujian/).
 
 ## Doa Agar Dicukupkan dengan yang Halal
 
