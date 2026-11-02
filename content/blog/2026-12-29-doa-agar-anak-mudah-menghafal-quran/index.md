@@ -9,6 +9,32 @@ Tidak ada orang tua yang tidak bahagia saat mendengar anaknya melantunkan ayat A
 
 Doa yang bisa dibaca orang tua dan anak adalah doa Nabi Musa agar dilapangkan dada dan dimudahkan urusan dalam [QS. Taha ayat 25 sampai 28](https://www.baca-quran.id/surah/20/25/), serta doa memohon tambahan ilmu "Rabbi zidnii 'ilmaa" dalam [QS. Taha ayat 114](https://www.baca-quran.id/surah/20/114/). Keduanya dapat dipadukan dengan doa dalam bahasa Indonesia yang sederhana.
 
+## Doa Siap Pakai agar Anak Mudah Menghafal Al-Quran
+
+Doa ini ditulis dari sudut pandang orang tua, dan bisa dibacakan di dekat anak saat ia setoran hafalan atau sebelum tidur. Ganti kata anakku dengan nama anak Anda.
+
+> Bismillahirrahmanirrahim. Ya Allah, anakku sedang belajar menghafal kalam-Mu. Aku melihat ia mengulang ayat yang sama berkali-kali, kadang dengan semangat, kadang dengan wajah lelah dan ingin berhenti. Aku mengerti, ya Allah, sebab aku pun sering merasa berat menjaga hafalanku sendiri. Tetapi aku ingin ia mencintai Al-Quran, bukan hanya menghafalnya.
+>
+> Ya Allah, lapangkanlah dada anakku, mudahkanlah urusannya, dan lepaskanlah kekakuan dari lidahnya. Tambahkanlah ilmu kepadanya. Mudahkanlah ia menghafal, melekatkan hafalan di hatinya, dan mengingatnya ketika dibutuhkan. Engkau telah berfirman bahwa Engkau memudahkan Al-Quran untuk dipelajari, maka mudahkanlah bagi anakku, ya Allah. Jangan biarkan ia merasa bosan atau terbebani, dan jangan biarkan hafalan ini menjadi beban baginya.
+>
+> Ya Allah, jadikan Al-Quran sebagai penerang hatinya, penghibur ketika ia sedih, dan pembimbing dalam setiap keputusannya. Jadikan ia hafiz dan hafizah bila itu terbaik bagimu, tetapi lebih dari itu jadikan ia orang yang mengamalkan isinya, berakhlak dengannya, dan mengajarkannya kepada orang lain. Pertemukan ia dengan guru yang sabar, teman yang baik, dan lingkungan yang menjaganya.
+>
+> Ya Allah, ampunilah aku jika pernah terlalu menuntut, terlalu membandingkan, atau kurang memberi contoh. Jadikan aku orang tua yang sabar mendampingi, yang mau belajar bersama, dan yang lebih dulu mencintai kalam-Mu. Terimalah setiap huruf yang ia baca sebagai ibadah, dan jadikan kami sekeluarga bersama Al-Quran di dunia dan di akhirat. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa agar Anak Mudah Menghafal Al-Quran?
 
 **Mulailah dengan doa singkat yang mudah diingat anak.** Anak yang masih kecil lebih cepat menangkap kalimat pendek, sehingga doa Taha ayat 114 sangat cocok sebagai pembuka setiap sesi hafalan. Setelah itu, orang tua bisa menambahkan doa pribadi yang menyebut nama anak dan harapan khusus untuk hafalannya.
