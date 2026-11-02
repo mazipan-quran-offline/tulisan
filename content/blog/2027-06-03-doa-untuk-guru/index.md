@@ -1,7 +1,7 @@
 ---
 title: Doa untuk Guru dan Ucapan Terima Kasih kepada Guru
 description: Doa untuk guru dan ucapan terima kasih menurut Islam, dengan bacaan Arab jazakallahu khairan, doa dari Al-Quran, arti, serta adab seorang murid kepada gurunya.
-date: '2026-12-20T03:00:00.000Z'
+date: '2027-06-03T03:00:00.000Z'
 tags: ["doa", "akhlak"]
 ---
 
@@ -77,7 +77,7 @@ Doa ini sama seperti doa untuk orang tua, yaitu perlu dibaca berulang. Ilmu dan 
 
 "Ya Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman lebih dahulu dari kami, dan janganlah Engkau tanamkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Ya Tuhan kami, sungguh, Engkau Maha Penyantun, Maha Penyayang."
 
-Ayatnya dapat dibaca langsung di [QS. Al-Hasyr ayat 10](https://www.baca-quran.id/surah/59/10/). Anda bisa membacanya bersama doa untuk orang tua pada artikel [doa untuk orang tua](/2026-11-11-doa-untuk-orang-tua/), sebab keduanya sama-sama berbicara tentang orang yang telah menanamkan kebaikan pada kita.
+Ayatnya dapat dibaca langsung di [QS. Al-Hasyr ayat 10](https://www.baca-quran.id/surah/59/10/). Anda bisa membacanya bersama doa untuk orang tua pada artikel [doa untuk orang tua](/2026-12-03-doa-untuk-orang-tua/), sebab keduanya sama-sama berbicara tentang orang yang telah menanamkan kebaikan pada kita.
 
 ## Bagaimana Adab Seorang Murid kepada Gurunya?
 
