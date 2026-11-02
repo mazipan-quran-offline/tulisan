@@ -177,6 +177,16 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 
 **Penting:** jangan menambahkan label `automerge` secara manual pada PR terjadwal kecuali memang ingin segera menerbitkannya, sebab label itulah yang menjadi pemicu merge oleh Kodiak.
 
+## Iklan (Google AdSense)
+
+Blog ini menampilkan iklan AdSense lewat komponen `AdSlot`, dengan ID unit di `src/config/ads.js`. Struktur, posisi iklan, alasan keputusan, dan cara mengubahnya ada di [`docs/ADS.md`](docs/ADS.md). Baca dokumen itu sebelum mengubah iklan.
+
+Ringkasan aturan penting:
+
+- **Jangan menempelkan kode iklan AdSense ke artikel (`content/blog/**`) maupun ke halaman.** Script AdSense sudah dimuat satu kali di `src/html.js`, dan `AdSlot` yang memanggil iklannya.
+- Untuk menambah, mengganti, atau mematikan iklan, ubah `AD_SLOTS` di `src/config/ads.js` (isi `null` untuk mematikan).
+- Jangan menaruh iklan di dekat tombol bagikan atau tombol ajakan, di atas judul, atau di halaman pencarian, 404, dan daftar kategori.
+
 ## Alur Kerja PR (Pull Request)
 
 - Setiap pekerjaan selalu dikerjakan di **branch baru yang dibuat dari `master` terbaru**, bukan melanjutkan branch lama.
