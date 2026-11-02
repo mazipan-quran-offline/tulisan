@@ -13,7 +13,7 @@
 export const ADS_CLIENT = 'ca-pub-5442972248172818';
 
 export const AD_SLOTS = {
-  inArticle: null,
+  inArticle: '7974047383',
   sidebar: null,
   articleEnd: null,
 };
