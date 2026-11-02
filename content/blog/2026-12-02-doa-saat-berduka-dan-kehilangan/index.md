@@ -9,6 +9,32 @@ Kehilangan orang yang kita sayangi adalah salah satu ujian terberat dalam hidup.
 
 Bacaan yang diajarkan Islam ketika tertimpa musibah, termasuk kehilangan, adalah "Innaa lillaahi wa innaa ilaihi raaji'uun", yang artinya "Sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali." Kalimat ini disebut dalam [QS. Al-Baqarah ayat 156](https://www.baca-quran.id/surah/2/156/). Anda juga bisa berdoa dengan bahasa Indonesia sendiri, menceritakan kesedihan Anda apa adanya.
 
+## Doa Siap Pakai Saat Berduka dan Kehilangan
+
+Jika Anda sedang berduka dan tidak punya tenaga untuk berkata apa pun, bacalah doa ini pelan-pelan. Anda boleh menangis ketika membacanya. Sebut nama orang yang Anda cintai pada bagian yang terasa tepat.
+
+> Innaa lillaahi wa innaa ilaihi raaji'uun. Ya Allah, hatiku remuk hari ini. Orang yang kucintai telah Engkau panggil, dan aku belum siap kehilangan. Ada ruang kosong yang tidak bisa diisi, ada kata yang belum sempat kuucapkan, dan ada kenangan yang membuat dadaku sesak. Aku tahu semua ini milik-Mu, apa yang Engkau ambil dan apa yang Engkau beri, dan segala sesuatu di sisi-Mu memiliki waktu yang telah ditentukan. Tetapi hatiku manusia, ya Allah, dan ia sedang kesakitan.
+>
+> Ya Allah, aku menangis di hadapan-Mu. Aku mengadukan kesusahan dan kesedihanku hanya kepada-Mu. Jangan biarkan aku sendirian dengan perasaan ini. Kuatkan aku untuk bangun esok hari, untuk makan, untuk sholat, dan untuk menjalani hal-hal kecil yang terasa begitu berat. Jangan biarkan kesedihan ini membuatku menyalahkan takdir-Mu atau menjauh dari-Mu. Ajari aku sabar yang indah, sabar yang tidak berhenti mengharap pertolongan-Mu.
+>
+> Ya Allah, ampunilah orang yang telah pergi. Kasihanilah ia, maafkan kesalahannya, terimalah amal baiknya, dan lapangkan kuburnya. Terangi tempatnya, dan jadikan ia bersama orang-orang yang Engkau ridai. Jika ada hal yang belum sempat kuselesaikan dengannya, ampuni aku dan tenangkan hatiku. Jangan biarkan aku tenggelam dalam penyesalan.
+>
+> Ya Allah, berilah aku pahala dalam musibahku dan gantilah dengan yang lebih baik darinya. Gantilah rasa sepi ini dengan ketenangan, dan gantilah rasa hampa ini dengan kedekatan kepada-Mu. Kuatkan keluarga yang ditinggalkan, satukan hati kami dalam saling menguatkan, dan pertemukan kami kembali dengannya di surga-Mu kelak. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Bacaan Saat Tertimpa Musibah atau Kehilangan?
 
 **Bacaan istirja' adalah kalimat pertama yang dianjurkan.** Dalam ayat tersebut, Allah memuji orang-orang sabar yang apabila ditimpa musibah mengucapkan kalimat ini. Maknanya mengingatkan bahwa semua yang kita miliki, termasuk orang-orang tercinta, adalah titipan, dan kepada Allah-lah kita semua kembali. Kalimat ini bukan untuk menahan air mata, melainkan untuk menempatkan duka dalam bingkai iman.
