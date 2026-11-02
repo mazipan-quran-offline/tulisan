@@ -1,7 +1,7 @@
 ---
 title: Doa Mendapatkan Jodoh yang Sholeh dan Sholehah
 description: Doa mendapatkan jodoh dalam bahasa Indonesia dan Arab dari Al-Quran, lengkap dengan arti, adab berdoa, dan ikhtiar yang bisa dilakukan sambil menunggu.
-date: '2026-11-17T03:00:00.000Z'
+date: '2026-12-31T03:00:00.000Z'
 tags: ["doa", "ibadah"]
 ---
 
@@ -89,7 +89,7 @@ Sebagai bacaan pendamping, Anda bisa menengok [ayat Al-Quran tentang jodoh dan c
 
 **Percayalah bahwa waktu Allah bukan keterlambatan.** Setiap orang punya jadwalnya sendiri, dan jodoh yang datang di waktu yang tepat sering terasa lebih matang. Gunakan masa menunggu untuk memperbaiki diri, menambah ilmu, dan memperkuat hubungan dengan keluarga serta teman yang baik. Orang yang tenang dalam penantian biasanya lebih siap ketika jodoh akhirnya datang.
 
-Jika hati terasa berat, perbanyak istighfar dan dzikir. Anda bisa menggunakan [tasbih digital](https://www.baca-quran.id/tasbih/) di Baca-Quran.id untuk menghitung dzikir harian tanpa perlu membawa tasbih fisik. Baca juga panduan [bacaan istighfar dan dzikir harian](/2026-06-20-bacaan-istighfar-dan-dzikir-harian/), dan bila Anda sudah dekat dengan pernikahan, lanjutkan ke artikel [doa untuk pengantin baru](/2026-11-20-doa-untuk-pengantin-baru/).
+Jika hati terasa berat, perbanyak istighfar dan dzikir. Anda bisa menggunakan [tasbih digital](https://www.baca-quran.id/tasbih/) di Baca-Quran.id untuk menghitung dzikir harian tanpa perlu membawa tasbih fisik. Baca juga panduan [bacaan istighfar dan dzikir harian](/2026-06-20-bacaan-istighfar-dan-dzikir-harian/), dan bila Anda sudah dekat dengan pernikahan, lanjutkan ke artikel doa untuk pengantin baru.
 
 ## Pertanyaan yang Sering Ditanyakan
 
