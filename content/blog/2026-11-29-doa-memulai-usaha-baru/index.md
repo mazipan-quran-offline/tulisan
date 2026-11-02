@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -49,7 +49,7 @@ Doa ini mengakui bahwa usaha adalah ikhtiar, sementara hasilnya ada di tangan Al
 
 **Bacaan Arab**
 
-> رَّبِّ أَنزِلۡنِي مُنزَلࣰا مُّبَارَكࣰا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ
+> رَّبِّ اَنْزِلْنِيْ مُنْزَلًا مُّبٰرَكًا وَّاَنْتَ خَيْرُ الْمُنْزِلِيْنَ
 
 **Bacaan Latin**
 
@@ -65,7 +65,7 @@ Doa ini mengakui bahwa usaha adalah ikhtiar, sementara hasilnya ada di tangan Al
 
 **Bacaan Arab**
 
-> وَمَا تَوۡفِيقِيٓ إِلَّا بِٱللَّهِۚ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ
+> وَمَا تَوْفِيْقِيْٓ اِلَّا بِاللّٰهِ ۗعَلَيْهِ تَوَكَّلْتُ وَاِلَيْهِ اُنِيْبُ
 
 **Bacaan Latin**
 
@@ -83,7 +83,7 @@ Jika Anda ingin mendalami sikap tawakal, baca [ayat Al-Quran tentang tawakkal](/
 
 **Bacaan Arab**
 
-> وَأَحَلَّ ٱللَّهُ ٱلۡبَيۡعَ وَحَرَّمَ ٱلرِّبَوٰاْۚ
+> وَاَحَلَّ اللّٰهُ الْبَيْعَ وَحَرَّمَ الرِّبٰواۗ
 
 **Bacaan Latin**
 
