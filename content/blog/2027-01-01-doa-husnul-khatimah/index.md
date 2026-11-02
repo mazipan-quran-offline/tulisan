@@ -9,6 +9,32 @@ Setiap orang berharap akhir hidupnya baik. Kita bisa merencanakan banyak hal, mu
 
 Husnul khatimah berarti akhir hidup yang baik, yaitu wafat dalam keadaan beriman dan taat. Doa yang paling dikenal ada dalam [QS. Yusuf ayat 101](https://www.baca-quran.id/surah/12/101/), yaitu "Tawaffanii muslimaw wa alhiqnii bish-shaalihiin", yang artinya "Wafatkanlah aku dalam keadaan muslim dan gabungkanlah aku dengan orang yang saleh."
 
+## Doa Siap Pakai Memohon Husnul Khatimah
+
+Bacalah doa ini setelah sholat, terutama di waktu hati sedang jernih. Tidak perlu menunggu sakit atau tua untuk berdoa tentang akhir hidup, sebab setiap hari adalah kesempatan untuk memintanya.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku tidak tahu kapan hari terakhirku. Aku tidak tahu di mana, dalam keadaan apa, dan dengan amal apa aku akan menghadap-Mu. Yang kutahu hanya satu, bahwa aku sangat membutuhkan pertolongan-Mu agar akhir hidupku menjadi akhir yang baik. Karena itu aku mengangkat tanganku hari ini dan memohon kepada-Mu dengan hati yang gemetar.
+>
+> Ya Allah, wafatkanlah aku dalam keadaan muslim dan gabungkanlah aku dengan orang-orang saleh. Ampunilah dosa-dosaku yang terlihat dan yang tersembunyi, yang kusengaja dan yang tidak kusadari, yang sudah lama dan yang baru saja. Hapuskanlah kesalahan-kesalahanku, dan matikanlah aku bersama orang-orang yang berbakti. Jangan biarkan aku mati dalam keadaan lalai, dalam keadaan bermaksiat, atau dalam keadaan membenci seseorang.
+>
+> Wahai Zat yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu. Jangan Engkau condongkan hatiku kepada kesesatan setelah Engkau berikan petunjuk kepadaku, dan karuniakanlah kepadaku rahmat dari sisi-Mu, sesungguhnya Engkau Maha Pemberi. Jagalah imanku ketika aku sehat dan ketika aku sakit, ketika aku kaya dan ketika aku susah, ketika aku sendirian dan ketika aku ramai.
+>
+> Ya Allah, mudahkanlah sakaratul mautku. Ilhamkan kepadaku kalimat tauhid pada saat terakhir, dan jadikan ia kalimat terakhir yang keluar dari lisanku. Lapangkan kuburku, terangi ia dengan cahaya, dan jadikan ia taman dari taman-taman surga. Ampunilah orang tuaku, keluargaku, guru-guruku, dan seluruh kaum muslimin yang telah mendahuluiku. Pertemukan kami semua di surga-Mu bersama Nabi Muhammad SAW. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa Memohon Husnul Khatimah?
 
 **Nabi Yusuf berdoa demikian setelah Allah menganugerahkan kekuasaan dan mengajarkan takwil mimpi.** Di puncak nikmat, beliau tidak meminta dunia lebih banyak, melainkan meminta wafat dalam keadaan muslim dan dikumpulkan bersama orang-orang saleh. Itu pelajaran besar. Semakin banyak nikmat yang Allah berikan, semakin besar kebutuhan kita untuk meminta akhir yang baik.
