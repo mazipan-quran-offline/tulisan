@@ -1,7 +1,7 @@
 ---
 title: Doa untuk Pengantin Baru dan Rumah Tangga yang Sakinah
 description: Doa untuk pengantin baru dalam bahasa Indonesia dan Arab, termasuk ucapan selamat menikah dari hadis dan doa malam pertama beserta artinya.
-date: '2026-11-20T03:00:00.000Z'
+date: '2027-01-14T03:00:00.000Z'
 tags: ["doa", "keluarga"]
 ---
 
@@ -81,7 +81,7 @@ Doa ini mengajarkan sikap rendah hati dalam rumah tangga. Seorang suami tidak me
 
 **Al-Quran menyebut pernikahan sebagai tanda kebesaran Allah.** Dalam [QS. Ar-Rum ayat 21](https://www.baca-quran.id/surah/30/21/), Allah menciptakan pasangan agar kita merasa tenteram, dan menjadikan di antara suami istri rasa kasih dan sayang. Ayat ini menjadi dasar dari istilah sakinah, mawaddah, wa rahmah yang sering diucapkan dalam doa pernikahan. Rumah tangga yang tenang bukan berarti tanpa masalah, tetapi punya cara untuk kembali tenang setelah masalah datang.
 
-Untuk doa yang meminta pasangan dan keturunan sebagai penyejuk mata, baca [QS. Al-Furqan ayat 74](https://www.baca-quran.id/surah/25/74/). Penjelasannya sudah dibahas dalam artikel [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/) dan [doa mendapatkan jodoh](/2026-11-17-doa-mendapatkan-jodoh/). Anda juga bisa membaca [ayat Al-Quran tentang keluarga](/2026-07-26-ayat-al-quran-tentang-keluarga/) untuk bekal merawat rumah tangga setelah akad.
+Untuk doa yang meminta pasangan dan keturunan sebagai penyejuk mata, baca [QS. Al-Furqan ayat 74](https://www.baca-quran.id/surah/25/74/). Penjelasannya sudah dibahas dalam artikel [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/) dan [doa mendapatkan jodoh](/2026-12-31-doa-mendapatkan-jodoh/). Anda juga bisa membaca [ayat Al-Quran tentang keluarga](/2026-07-26-ayat-al-quran-tentang-keluarga/) untuk bekal merawat rumah tangga setelah akad.
 
 ## Kebiasaan Kecil yang Membantu Rumah Tangga Awet
 
