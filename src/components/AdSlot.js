@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-import { ADS_CLIENT } from '../config/ads';
+import { ADS_CLIENT, IN_FEED_LAYOUT_KEY } from '../config/ads';
 
 // A single manual AdSense unit.
 // - Renders nothing until a slot ID is configured.
@@ -46,6 +46,7 @@ const AdSlot = ({ slot, variant = 'display', className = '' }) => {
 
   const inArticle = variant === 'in-article';
   const multiplex = variant === 'multiplex';
+  const inFeed = variant === 'in-feed';
 
   return (
     <aside className={`ad-slot ad-slot--${variant} ${className}`.trim()} aria-label="Iklan">
@@ -56,9 +57,10 @@ const AdSlot = ({ slot, variant = 'display', className = '' }) => {
           style={{ display: 'block', textAlign: inArticle ? 'center' : undefined }}
           data-ad-client={ADS_CLIENT}
           data-ad-slot={slot}
-          data-ad-format={multiplex ? 'autorelaxed' : inArticle ? 'fluid' : 'auto'}
+          data-ad-format={multiplex ? 'autorelaxed' : inArticle || inFeed ? 'fluid' : 'auto'}
+          data-ad-layout-key={inFeed ? IN_FEED_LAYOUT_KEY : undefined}
           data-ad-layout={inArticle ? 'in-article' : undefined}
-          data-full-width-responsive={inArticle || multiplex ? undefined : 'true'}
+          data-full-width-responsive={inArticle || multiplex || inFeed ? undefined : 'true'}
         />
       </div>
     </aside>

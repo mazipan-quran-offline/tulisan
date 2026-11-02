@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
-import PostCard from '../components/post-card';
+import PostList from '../components/post-list';
 import Sidebar from '../components/Sidebar';
 import { formatTag } from '../utils/tags';
 
@@ -35,11 +35,7 @@ const TagTemplate = ({ data, location, pageContext }) => {
           <Link to="/tags/">&larr; Semua kategori</Link>
         </p>
 
-        <ul className="post-grid" role="list" aria-label={`Artikel ${label}`}>
-          {edges.map(({ node }) => (
-            <PostCard key={node.fields.slug} node={node} />
-          ))}
-        </ul>
+        <PostList nodes={edges.map(({ node }) => node)} label={`Artikel ${label}`} />
         </div>
         <Sidebar tags={data.tags.group} activeTag={tag} />
         </div>

@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
 import Pagination from '../components/pagination';
-import PostCard from '../components/post-card';
+import PostList from '../components/post-list';
 import Sidebar from '../components/Sidebar';
 import { SearchIcon, ArrowRightIcon, StarMark } from '../components/icons';
 import { formatTag, tagPath } from '../utils/tags';
@@ -124,11 +124,11 @@ const BlogIndex = ({ data, location, pageContext }) => {
           </span>
         </div>
 
-        <ul className="post-grid" role="list" aria-label="Daftar artikel">
-          {posts.map(({ node }, i) => (
-            <PostCard key={node.fields.slug} node={node} featured={isFirst && i === 0} />
-          ))}
-        </ul>
+        <PostList
+          nodes={posts.map(({ node }) => node)}
+          label="Daftar artikel"
+          featuredFirst={isFirst}
+        />
 
         <Pagination
           numPages={numPages}

@@ -2466,6 +2466,32 @@ tbody tr:hover {
   min-height: 280px;
 }
 
+.post-grid__item--ad {
+  display: flex;
+  align-items: stretch;
+}
+
+.post-grid__item--ad .ad-slot {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+  padding: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+
+.post-grid__item--ad .ad-slot__box {
+  flex: 1;
+  min-height: 280px;
+}
+
+/* an unfilled in-feed ad must not leave an empty grid cell */
+.post-grid__item--ad:has(ins[data-ad-status='unfilled']) {
+  display: none;
+}
+
 .ad-slot--multiplex {
   max-width: 60rem;
   margin-inline: auto;
