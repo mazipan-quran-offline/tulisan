@@ -9,6 +9,34 @@ Hari wisuda sering terasa seperti napas panjang yang akhirnya bisa dilepas. Bert
 
 Jawabannya sederhana. Tidak ada lafaz doa khusus untuk wisuda yang diriwayatkan dari hadis, sehingga Anda bebas berdoa dengan bahasa Indonesia sendiri. Supaya doa itu punya pijakan, Anda bisa melengkapinya dengan doa dari Al-Quran tentang ilmu, yaitu [QS. Taha ayat 114](https://www.baca-quran.id/surah/20/114/), dan doa syukur dari [QS. An-Naml ayat 19](https://www.baca-quran.id/surah/27/19/).
 
+## Doa Siap Pakai untuk Wisuda Anak
+
+Kalau hari ini Anda terlalu haru atau terlalu sibuk untuk merangkai kata, bacalah doa di bawah ini apa adanya. Ganti kata anakku dengan nama anak Anda bila ingin lebih personal, dan ubah bagian yang tidak sesuai dengan keadaan keluarga Anda.
+
+> Bismillahirrahmanirrahim. Segala puji bagi-Mu ya Allah, Tuhan yang mengatur segala urusan. Shalawat dan salam semoga tercurah kepada Nabi Muhammad SAW, keluarganya, dan para sahabatnya.
+>
+> Ya Allah, hari ini aku berdiri dengan mata yang basah dan dada yang penuh. Aku masih ingat hari ketika anakku pertama kali melangkah ke sekolah dengan tas yang terlalu besar untuk tubuh kecilnya. Aku ingat malam-malam ketika ia belajar sampai larut, dan aku hanya bisa menyiapkan segelas air hangat sambil berbisik dalam hati, kuatkan dia, ya Allah. Hari ini Engkau mengantarnya sampai di titik ini. Aku tahu semua ini bukan karena kehebatan kami, tetapi karena pertolongan-Mu. Terima kasih, ya Allah, atas ilmu yang Engkau titipkan, atas kesehatan yang Engkau jaga, dan atas rezeki yang Engkau cukupkan sampai hari ini.
+>
+> Ya Allah, aku tidak meminta agar hidup anakku selalu mudah, sebab aku tahu kemudahan dan kesulitan akan datang bergantian. Aku hanya meminta agar Engkau menemaninya di setiap langkah. Berkahilah ilmu yang telah ia pelajari, dan jadikan ia manfaat bagi dirinya, keluarganya, dan orang di sekitarnya. Bukakan baginya pintu pekerjaan atau jalan belajar berikutnya yang paling baik menurut-Mu, bukan hanya yang tampak baik menurut kami. Jika ada pintu yang tertutup, kuatkan hatinya agar tidak patah, dan tunjukkan pintu lain yang lebih luas.
+>
+> Ya Allah, jagalah hatinya agar tetap rendah meski gelarnya bertambah. Jagalah sholatnya, jagalah akhlaknya, dan jagalah ia dari pergaulan yang menjauhkannya dari-Mu. Pertemukan ia dengan guru, teman, dan lingkungan yang baik. Jadikan ia anak yang berbakti kepada kami, dan jadikan kami orang tua yang tidak pernah berhenti mendoakannya.
+>
+> Ampunilah kami jika selama mendidiknya ada sikap kami yang keliru, kata yang menyakitkan, atau waktu yang kurang. Perbaikilah apa yang belum sempat kami perbaiki, dan terimalah semua lelah kami sebagai ibadah. Ya Allah, jadikan hari ini awal dari perjalanan yang penuh berkah, tetapkan anakku di atas jalan yang Engkau ridai, dan kumpulkan kami sekeluarga kelak di surga-Mu. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Orang Tua untuk Wisuda Anak?
 
 **Doa yang paling baik adalah doa yang keluar dari hati Anda sendiri,** lalu disampaikan dengan kalimat yang jujur dan tidak dibuat-buat. Anda boleh membacanya pelan setelah sholat, sebelum berangkat ke acara wisuda, atau sambil memeluk anak. Berikut contoh doa dalam bahasa Indonesia yang bisa Anda sesuaikan dengan keadaan keluarga.
