@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -49,7 +49,7 @@ Doa semacam ini boleh diucapkan kapan saja, termasuk saat kontrol ke dokter, seb
 
 **Bacaan Arab**
 
-> لَئِنۡ ءَاتَيۡتَنَا صَٰلِحࣰا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+> لَىِٕنْ اٰتَيْتَنَا صَالِحًا لَّنَكُوْنَنَّ مِنَ الشّٰكِرِيْنَ
 
 **Bacaan Latin**
 
@@ -67,7 +67,7 @@ Anda bisa membaca ayat ini bersama pasangan setelah sholat, lalu menyambungnya d
 
 **Bacaan Arab**
 
-> رَبِّ هَبۡ لِي مِن لَّدُنكَ ذُرِّيَّةࣰ طَيِّبَةًۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+> رَبِّ هَبْ لِيْ مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۚ اِنَّكَ سَمِيْعُ الدُّعَاۤءِ
 
 **Bacaan Latin**
 
@@ -79,7 +79,7 @@ Anda bisa membaca ayat ini bersama pasangan setelah sholat, lalu menyambungnya d
 
 **Bacaan Arab**
 
-> وَإِنِّيٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ
+> وَاِنِّيْٓ اُعِيْذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطٰنِ الرَّجِيْمِ
 
 **Bacaan Latin**
 
