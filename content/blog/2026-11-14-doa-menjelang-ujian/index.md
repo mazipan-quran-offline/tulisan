@@ -9,6 +9,32 @@ Malam sebelum ujian sering terasa lebih panjang dari biasanya. Buku sudah dibuka
 
 Doa yang paling dikenal untuk memudahkan urusan, termasuk ujian, adalah doa Nabi Musa dalam [QS. Taha ayat 25 sampai 28](https://www.baca-quran.id/surah/20/25/), yaitu "Rabbisyrah lii shadrii wa yassir lii amrii", yang artinya "Ya Tuhanku, lapangkanlah dadaku dan mudahkanlah urusanku." Anda juga boleh berdoa dengan bahasa Indonesia sendiri.
 
+## Doa Siap Pakai Menjelang Ujian
+
+Kalau malam ini Anda terlalu lelah dan cemas untuk menyusun doa, bacalah doa berikut apa adanya. Bacalah dengan pelan setelah sholat, atau dalam hati beberapa menit sebelum ujian dimulai.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku datang kepada-Mu dengan hati yang berdebar. Besok aku akan menghadapi ujian, dan aku mengaku bahwa aku takut. Aku takut lupa, takut salah, takut mengecewakan orang tuaku, dan takut hasilnya tidak sesuai dengan usahaku. Tetapi aku tahu Engkau Maha Mengetahui apa yang ada di dalam dadaku, dan aku ingin menyerahkan semuanya kepada-Mu.
+>
+> Ya Allah, aku sudah berusaha sebaik yang aku mampu. Aku sudah belajar, meski ada waktu yang terbuang dan ada bagian yang belum kupahami sepenuhnya. Maafkan aku atas kelalaian dan kemalasanku, dan cukupkanlah kekuranganku dengan karunia-Mu. Lapangkanlah dadaku, tenangkanlah pikiranku, dan lepaskanlah kekakuan dari lidah dan otakku. Mudahkanlah aku mengingat apa yang telah kupelajari, dan mudahkanlah aku memahami setiap soal yang kuhadapi.
+>
+> Ya Allah, jangan biarkan aku panik di tengah ujian. Ketika pikiranku kosong, ingatkan aku. Ketika tanganku gemetar, tenangkan aku. Ketika waktu terasa sempit, lapangkanlah. Berilah aku ketelitian agar tidak keliru membaca, dan berilah aku kejujuran agar aku tidak mengambil jalan yang Engkau murkai, walaupun terasa lebih mudah.
+>
+> Ya Allah, apa pun hasilnya nanti, jadikanlah itu yang terbaik menurut-Mu. Jika aku berhasil, jauhkan aku dari sombong dan jadikan aku bersyukur. Jika aku belum berhasil, kuatkan hatiku, jangan biarkan aku putus asa, dan tunjukkan jalan yang lebih baik. Berkahilah ilmuku, berkahilah waktuku, dan berkahilah orang-orang yang mendoakanku. Aku serahkan semuanya kepada-Mu. Hasbunallahu wa ni'mal wakil. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa Sebelum Ujian dalam Bahasa Indonesia?
 
 **Doa terbaik adalah doa yang jujur, termasuk jujur tentang rasa takut Anda.** Tidak perlu menyembunyikan cemas di hadapan Allah. Ceritakan saja apa adanya, lalu mohon pertolongan. Berikut contoh doa yang bisa Anda baca setelah sholat atau sebelum masuk ruang ujian.
