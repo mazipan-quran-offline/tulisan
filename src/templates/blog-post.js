@@ -274,7 +274,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </section>
         )}
 
-        <AdSlot slot={AD_SLOTS.articleEnd} variant="end" />
+        <AdSlot slot={AD_SLOTS.articleEnd} variant="banner" />
 
         {(previous || next) && (
           <nav className="post-nav" aria-label="Navigasi antar artikel">

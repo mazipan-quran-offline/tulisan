@@ -2466,9 +2466,19 @@ tbody tr:hover {
   min-height: 280px;
 }
 
-.ad-slot--end {
-  max-width: var(--read-w);
-  margin-inline: auto;
+/* Fixed 728x90 banner: centred, only where it fits */
+.ad-slot--banner {
+  text-align: center;
+}
+
+.ad-slot--banner .ad-slot__box {
+  min-height: 90px;
+}
+
+@media (max-width: 799px) {
+  .ad-slot--banner {
+    display: none;
+  }
 }
 
 .ad-slot--sidebar {
