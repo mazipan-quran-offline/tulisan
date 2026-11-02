@@ -1,7 +1,7 @@
 ---
 title: Doa Memohon Husnul Khatimah dan Hati yang Teguh
 description: Doa memohon husnul khatimah dan hati yang teguh dalam bahasa Indonesia dan Arab dari Al-Quran serta hadis Tirmidzi, lengkap dengan arti dan penjelasannya.
-date: '2027-01-01T03:00:00.000Z'
+date: '2027-07-29T03:00:00.000Z'
 tags: ["doa", "ibadah"]
 ---
 
@@ -71,7 +71,7 @@ Berikut contoh doa dalam bahasa Indonesia yang bisa Anda baca setelah sholat.
 
 "Ya Tuhan kami, ampunilah dosa-dosa kami dan hapuskanlah kesalahan-kesalahan kami, dan matikanlah kami bersama orang-orang yang berbakti."
 
-Anda juga bisa membaca [QS. Al-A'raf ayat 126](https://www.baca-quran.id/surah/7/126/), yaitu doa "Rabbanaa afrigh 'alainaa shabraw wa tawaffanaa muslimiin", yang artinya limpahkanlah kesabaran kepada kami dan matikanlah kami dalam keadaan muslim. Doa ini dibahas pula dalam [doa memohon kesabaran dan kekuatan saat ujian hidup](/2026-12-26-doa-memohon-kesabaran/).
+Anda juga bisa membaca [QS. Al-A'raf ayat 126](https://www.baca-quran.id/surah/7/126/), yaitu doa "Rabbanaa afrigh 'alainaa shabraw wa tawaffanaa muslimiin", yang artinya limpahkanlah kesabaran kepada kami dan matikanlah kami dalam keadaan muslim. Doa ini dibahas pula dalam [doa memohon kesabaran dan kekuatan saat ujian hidup](/2027-07-01-doa-memohon-kesabaran/).
 
 ## Doa Agar Hati Tetap Teguh di Atas Agama
 
@@ -109,7 +109,7 @@ Selain itu, doa dalam [QS. Ali Imran ayat 8](https://www.baca-quran.id/surah/3/8
 
 Untuk menumbuhkan kesadaran itu, baca [ayat Al-Quran tentang kematian](/2026-07-29-ayat-al-quran-tentang-kematian/), [ayat Al-Quran tentang taubat](/2026-05-25-10-ayat-tentang-taubat/), dan [ayat Al-Quran tentang istiqamah](/2026-06-21-ayat-al-quran-tentang-istiqamah/). Biasakan pula doa-doa harian seperti [bacaan istighfar dan dzikir harian](/2026-06-20-bacaan-istighfar-dan-dzikir-harian/). Semua ayat dapat dibaca dan didengarkan di [Baca-Quran.id](https://www.baca-quran.id/).
 
-**Perbanyak amal yang pahalanya mengalir.** Sedekah jariyah, ilmu yang bermanfaat, dan mendidik anak yang saleh adalah bekal yang terus mengalir setelah kita tiada. Hubungan baik dengan keluarga juga penting, termasuk mendoakan orang tua seperti dalam [doa untuk orang tua](/2026-11-11-doa-untuk-orang-tua/).
+**Perbanyak amal yang pahalanya mengalir.** Sedekah jariyah, ilmu yang bermanfaat, dan mendidik anak yang saleh adalah bekal yang terus mengalir setelah kita tiada. Hubungan baik dengan keluarga juga penting, termasuk mendoakan orang tua seperti dalam [doa untuk orang tua](/2026-12-03-doa-untuk-orang-tua/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
