@@ -138,7 +138,50 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       node,
       value,
     });
+    createNodeField({
+      name: `faq`,
+      node,
+      value: extractFaq(node.internal.content || ``),
+    });
   }
+};
+
+// Plain text for structured data: drop links, emphasis and code markers.
+const toPlainText = md =>
+  md
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, `$1`)
+    .replace(/[*_`]/g, ``)
+    .replace(/\s+/g, ` `)
+    .trim();
+
+/**
+ * Reads the visible "## Pertanyaan yang Sering ..." section and returns its
+ * questions, so FAQPage markup always matches what readers see.
+ * Supported shapes (blank-line separated paragraphs):
+ *   **Question?** answer on the same paragraph
+ *   **Question?**\nanswer on the next line
+ *   **Question?**\n\nanswer in the next paragraph
+ */
+const extractFaq = content => {
+  const body = content.replace(/^---[\s\S]*?\n---\n?/, ``);
+  const match = body.match(/^##\s+Pertanyaan yang Sering[^\n]*\n([\s\S]*?)(?=^##\s|(?![\s\S]))/m);
+  if (!match) return [];
+
+  const paragraphs = match[1].split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+  const items = [];
+
+  for (let i = 0; i < paragraphs.length; i++) {
+    const q = paragraphs[i].match(/^\*\*([^*]+\?)\*\*\s*([\s\S]*)$/);
+    if (!q) continue;
+    let answer = q[2];
+    if (!answer && paragraphs[i + 1] && !paragraphs[i + 1].startsWith(`**`)) {
+      answer = paragraphs[i + 1];
+      i++;
+    }
+    const text = toPlainText(answer);
+    if (text) items.push({ question: toPlainText(q[1]), answer: text });
+  }
+  return items;
 };
 
 /**
@@ -181,8 +224,14 @@ exports.createSchemaCustomization = ({ actions }) => {
       tags: [String]
     }
 
+    type FaqItem {
+      question: String
+      answer: String
+    }
+
     type Fields {
       slug: String
+      faq: [FaqItem]
     }
   `)
 }

@@ -18,6 +18,7 @@ const TagTemplate = ({ data, location, pageContext }) => {
       <MetaHead
         title={`Artikel ${label}`}
         description={`Kumpulan ${totalCount} artikel dengan kategori ${label} di Baca-Quran.id.`}
+        pathname={location.pathname}
       />
 
       <div className="site-main__inner">

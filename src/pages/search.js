@@ -96,7 +96,7 @@ const SearchPage = ({ location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <MetaHead title="Cari Artikel" />
+      <MetaHead title="Cari Artikel" pathname={location.pathname} noindex />
 
       <div className="site-main__inner">
         <div className="page-intro">

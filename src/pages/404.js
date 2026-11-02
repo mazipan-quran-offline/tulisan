@@ -10,7 +10,7 @@ const NotFoundPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <MetaHead title="Halaman tidak ditemukan" />
+      <MetaHead title="Halaman tidak ditemukan" noindex />
       <div className="site-main__inner">
         <div className="not-found">
           <span className="not-found__code" aria-hidden="true">
