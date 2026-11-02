@@ -9,6 +9,32 @@ Mencari pekerjaan sering terasa seperti menunggu jawaban yang tidak kunjung data
 
 Doa adalah bagian dari ikhtiar yang sering terlupa. Anda bisa memohon dengan bahasa Indonesia sendiri, lalu melengkapinya dengan doa dari Al-Quran dan hadis, seperti doa Nabi Musa dalam [QS. Taha ayat 27 sampai 28](https://www.baca-quran.id/surah/20/27/) agar lidah dilancarkan saat berbicara. Doa ini sangat cocok dibaca sebelum wawancara kerja.
 
+## Doa Siap Pakai untuk Mencari Pekerjaan
+
+Bila Anda sedang lelah mengirim lamaran dan menunggu kabar, bacalah doa berikut apa adanya. Doa ini juga bisa dibaca di perjalanan menuju wawancara, atau setelah sholat saat hati terasa berat.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku datang kepada-Mu sebagai hamba yang sedang mencari rezeki. Sudah banyak lamaran yang kukirim, sudah banyak pintu yang kuketuk, dan tidak sedikit yang belum menjawab atau menolak. Aku mulai lelah dan kadang merasa tidak berguna. Tetapi aku tahu rezekiku berada di tangan-Mu, dan tidak ada yang bisa menahan apa yang Engkau berikan.
+>
+> Ya Allah, bukakanlah untukku pintu pekerjaan yang halal, berkah, dan sesuai dengan kemampuanku. Pekerjaan yang membuatku mampu menjaga sholat, menafkahi keluarga, dan berbuat baik kepada orang lain. Pertemukan aku dengan atasan dan rekan kerja yang baik, dan tempatkan aku di lingkungan yang menjagaku dari hal yang haram. Cukupkanlah aku dengan yang halal dari-Mu sehingga aku terhindar dari yang haram, dan cukupkanlah aku dengan karunia-Mu sehingga aku tidak bergantung kepada selain-Mu.
+>
+> Ya Allah, ketika aku duduk menghadapi wawancara, lapangkanlah dadaku, mudahkanlah urusanku, dan lepaskanlah kekakuan dari lidahku agar mereka memahami perkataanku. Tenangkan hatiku, jangan biarkan aku gugup berlebihan, dan berikan aku kejujuran serta kepercayaan diri yang wajar. Lunakkan hati orang yang menilaiku, dan jadikan mereka melihat kebaikan yang Engkau titipkan padaku.
+>
+> Ya Allah, jika pekerjaan ini baik bagiku, mudahkanlah dan berkahilah. Jika tidak, palingkanlah ia dariku dengan lembut dan gantilah dengan yang lebih baik, tanpa membuatku putus asa. Jauhkan aku dari iri melihat teman yang lebih dulu mendapat pekerjaan, dan jadikan masa menunggu ini penuh syukur dan sabar. Aku bertawakal kepada-Mu. Hasbunallahu wa ni'mal wakil. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Mencari Pekerjaan dalam Bahasa Indonesia?
 
 **Mohonlah pekerjaan yang halal, berkah, dan sesuai kemampuan Anda.** Berikut contoh doa yang bisa dibaca setelah sholat, terutama saat sedang menunggu kabar dari perusahaan.
