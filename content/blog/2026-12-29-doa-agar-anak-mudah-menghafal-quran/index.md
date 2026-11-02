@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -41,7 +41,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَّبِّ زِدۡنِي عِلۡمࣰا
+> رَّبِّ زِدْنِيْ عِلْمًا
 
 **Bacaan Latin**
 
@@ -61,7 +61,7 @@ Berikut contoh doa dalam bahasa Indonesia yang bisa diucapkan orang tua untuk an
 
 **Bacaan Arab**
 
-> رَبِّ ٱشۡرَحۡ لِي صَدۡرِي وَيَسِّرۡ لِيٓ أَمۡرِي وَٱحۡلُلۡ عُقۡدَةࣰ مِّن لِّسَانِي يَفۡقَهُواْ قَوۡلِي
+> رَبِّ اشْرَحْ لِيْ صَدْرِيْ ۙ وَيَسِّرْ لِيْٓ اَمْرِيْ ۙ وَاحْلُلْ عُقْدَةً مِّنْ لِّسَانِيْ ۙ يَفْقَهُوْا قَوْلِيْ
 
 **Bacaan Latin**
 
@@ -77,7 +77,7 @@ Berikut contoh doa dalam bahasa Indonesia yang bisa diucapkan orang tua untuk an
 
 **Bacaan Arab**
 
-> وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ
+> وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ
 
 **Bacaan Latin**
 
@@ -91,7 +91,7 @@ Ada pula janji penjagaan dalam [QS. Al-Hijr ayat 9](https://www.baca-quran.id/su
 
 **Bacaan Arab**
 
-> إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
+> اِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَاِنَّا لَهٗ لَحٰفِظُوْنَ
 
 **Bacaan Latin**
 
