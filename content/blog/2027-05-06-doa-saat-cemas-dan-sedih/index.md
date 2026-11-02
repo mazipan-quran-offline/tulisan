@@ -1,7 +1,7 @@
 ---
 title: Doa Saat Cemas dan Sedih agar Hati Tenang
 description: Doa saat cemas dan sedih dalam bahasa Indonesia dan Arab dari hadis Bukhari serta Al-Quran, lengkap dengan arti dan kebiasaan sederhana untuk menenangkan hati.
-date: '2026-12-14T03:00:00.000Z'
+date: '2027-05-06T03:00:00.000Z'
 tags: ["doa", "tips"]
 ---
 
@@ -95,7 +95,7 @@ Selain itu, ucapan Nabi Muhammad SAW kepada sahabatnya di dalam gua, yang dicata
 
 **Ceritakan kepada orang yang tepercaya.** Memendam semuanya sendirian sering membuat beban terasa lebih berat. Keluarga, sahabat, atau guru yang bijak bisa menjadi tempat berbagi, dan kadang sekadar didengarkan sudah cukup melegakan. Jika rasa cemas atau sedih berlangsung lama, mengganggu tidur, makan, atau pekerjaan sehari-hari, jangan ragu mencari bantuan profesional seperti psikolog atau dokter. Mencari bantuan adalah bagian dari ikhtiar, bukan tanda lemah iman.
 
-Dalam keadaan berduka karena kehilangan, baca juga [doa saat berduka dan kehilangan orang tercinta](/2026-12-02-doa-saat-berduka-dan-kehilangan/). Bila beban berasal dari hutang, lihat [doa agar dilunasi hutang](/2026-12-11-doa-agar-dilunasi-hutang/).
+Dalam keadaan berduka karena kehilangan, baca juga [doa saat berduka dan kehilangan orang tercinta](/2027-03-11-doa-saat-berduka-dan-kehilangan/). Bila beban berasal dari hutang, lihat [doa agar dilunasi hutang](/2027-04-22-doa-agar-dilunasi-hutang/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
