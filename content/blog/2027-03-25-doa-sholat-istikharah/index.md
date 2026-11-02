@@ -1,7 +1,7 @@
 ---
 title: Doa Sholat Istikharah Lengkap dengan Arti dan Tata Caranya
 description: Doa sholat istikharah lengkap dengan bacaan Arab, Latin, arti, dan tata cara dua rakaat untuk memilih jodoh, pekerjaan, atau keputusan penting lainnya.
-date: '2026-12-05T03:00:00.000Z'
+date: '2027-03-25T03:00:00.000Z'
 tags: ["doa", "sholat"]
 ---
 
@@ -75,7 +75,7 @@ Namun perlu diingat bahwa perasaan bisa dipengaruhi keinginan dan rasa takut. Ka
 
 **Istikharah dikerjakan untuk urusan yang boleh dipilih dan belum jelas mana yang terbaik.** Contohnya memilih calon pasangan, jurusan kuliah, pekerjaan, tempat tinggal, atau waktu memulai usaha. Untuk perkara wajib seperti sholat atau perkara haram seperti riba, tidak perlu istikharah karena hukumnya sudah jelas. Anda juga tidak perlu menunggu sampai bingung. Rasulullah SAW mengajarkannya untuk berbagai urusan, bukan hanya yang besar.
 
-Jika Anda sedang menunggu jodoh, baca [doa mendapatkan jodoh](/2026-11-17-doa-mendapatkan-jodoh/) dan lengkapi dengan istikharah ketika sudah ada calon. Bila Anda sedang mencari kerja atau akan membuka usaha, lihat [doa mencari pekerjaan dan wawancara kerja](/2026-11-26-doa-mencari-pekerjaan-dan-wawancara-kerja/) serta [doa memulai usaha baru](/2026-11-29-doa-memulai-usaha-baru/). Semua ayat pendukungnya dapat dibaca di [Baca-Quran.id](https://www.baca-quran.id/).
+Jika Anda sedang menunggu jodoh, baca [doa mendapatkan jodoh](/2026-12-31-doa-mendapatkan-jodoh/) dan lengkapi dengan istikharah ketika sudah ada calon. Bila Anda sedang mencari kerja atau akan membuka usaha, lihat [doa mencari pekerjaan dan wawancara kerja](/2027-02-11-doa-mencari-pekerjaan-dan-wawancara-kerja/) serta [doa memulai usaha baru](/2027-02-25-doa-memulai-usaha-baru/). Semua ayat pendukungnya dapat dibaca di [Baca-Quran.id](https://www.baca-quran.id/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
