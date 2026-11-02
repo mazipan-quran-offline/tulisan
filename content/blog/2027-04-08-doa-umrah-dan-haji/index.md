@@ -1,7 +1,7 @@
 ---
 title: Doa dan Bacaan Talbiyah Saat Umrah dan Haji
 description: Bacaan talbiyah lengkap dengan Arab, Latin, dan arti, serta doa dari Al-Quran yang dibaca saat umrah dan haji untuk membantu jamaah mempersiapkan hati.
-date: '2026-12-23T03:00:00.000Z'
+date: '2027-04-08T03:00:00.000Z'
 tags: ["haji", "doa"]
 ---
 
