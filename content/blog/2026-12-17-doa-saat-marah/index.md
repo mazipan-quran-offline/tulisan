@@ -9,6 +9,34 @@ Marah adalah perasaan yang sangat manusiawi. Ada kalanya ucapan orang lain, mace
 
 Doa yang diajarkan Rasulullah SAW saat marah adalah "A'uudzu billaahi minasy-syaithaanir-rajiim", yang artinya "Aku berlindung kepada Allah dari setan yang terkutuk." Kalimat ini tercatat dalam hadis riwayat Bukhari nomor 6115 dari Sulaiman bin Shurad, ketika dua orang saling mencaci di hadapan beliau.
 
+## Doa Siap Pakai Saat Marah
+
+Bila emosi sedang memuncak, bacalah doa singkat berikut sambil menarik napas. Setelah tenang, lanjutkan dengan bagian yang lebih panjang agar hati benar benar reda.
+
+> A'uudzu billaahi minasy-syaithaanir-rajiim. Aku berlindung kepada Allah dari setan yang terkutuk.
+>
+> Bismillahirrahmanirrahim. Ya Allah, dadaku panas dan tanganku gemetar. Ada kata kasar yang ingin keluar dari mulutku, dan aku tahu kalau kuucapkan, aku akan menyesal. Tolong aku, ya Allah. Jangan biarkan amarah ini menguasaiku. Aku tidak ingin menjadi orang yang melukai orang yang kusayangi hanya karena sesaat tidak mampu menahan diri.
+>
+> Ya Allah, padamkanlah api amarah di dalam hatiku. Turunkan ketenangan, lunakkan lisanku, dan tahanlah tanganku. Jika aku memang benar dalam hal ini, ajari aku menyampaikannya dengan baik, bukan dengan teriakan. Jika aku salah, bukakan mataku agar aku mau mengakui dan meminta maaf. Berilah aku kekuatan untuk diam sebentar, bernapas, dan memilih kata yang tepat.
+>
+> Ya Allah, jadikan aku termasuk orang yang menahan amarah dan memaafkan kesalahan orang lain, sebagaimana Engkau mencintai orang yang berbuat kebaikan. Aku tahu orang yang kuat bukan yang menang berdebat, tetapi yang mampu menguasai dirinya ketika marah. Lapangkan hatiku untuk memaafkan, dan jangan biarkan dendam tinggal di dalamnya.
+>
+> Ya Allah, ampunilah aku atas kata-kata yang pernah kuucapkan ketika marah dan melukai orang lain. Pertemukan kami dalam kebaikan, dan bersihkan hubungan kami dari rasa sakit yang tersisa. Jaga hatiku, jaga lisanku, dan jaga rumahku dari pertengkaran yang tidak perlu. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa yang Dibaca Ketika Sedang Marah?
 
 **Rasulullah SAW menyebutnya sebagai kalimat yang jika diucapkan akan menghilangkan kemarahan seseorang.** Dalam riwayat tersebut, dua orang saling mencela, wajah salah satunya memerah karena marah, lalu Rasulullah SAW bersabda bahwa beliau mengetahui sebuah kalimat yang jika diucapkannya, akan hilang apa yang ia rasakan. Kalimat itu adalah isti'adzah. Ketika para sahabat menyampaikannya, orang tersebut justru menjawab bahwa dirinya tidak gila, menunjukkan betapa kuatnya emosi yang menguasainya.
