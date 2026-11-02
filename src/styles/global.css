@@ -2433,6 +2433,96 @@ tbody tr:hover {
   }
 }
 
+
+/* ==========================================================================
+   ADS
+   ========================================================================== */
+
+.ad-slot {
+  margin: 2rem 0;
+  clear: both;
+}
+
+.ad-slot__label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--text-subtle);
+}
+
+/* Reserve space before the ad loads so the page does not jump */
+.ad-slot__box {
+  min-height: 250px;
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
+.ad-slot--in-article .ad-slot__box {
+  min-height: 280px;
+}
+
+.post-grid__item--ad {
+  display: flex;
+  align-items: stretch;
+}
+
+.post-grid__item--ad .ad-slot {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+  padding: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+
+.post-grid__item--ad .ad-slot__box {
+  flex: 1;
+  min-height: 280px;
+}
+
+/* an unfilled in-feed ad must not leave an empty grid cell */
+.post-grid__item--ad:has(ins[data-ad-status='unfilled']) {
+  display: none;
+}
+
+.ad-slot--multiplex {
+  max-width: 60rem;
+  margin-inline: auto;
+}
+
+.ad-slot--multiplex .ad-slot__box {
+  min-height: 300px;
+}
+
+/* Collapse completely when AdSense has nothing to show */
+.ad-slot:has(ins[data-ad-status='unfilled']) {
+  display: none;
+}
+
+/* The sidebar only exists on wide screens, so does its ad */
+@media (max-width: 1199px) {
+  .ad-slot--sidebar {
+    display: none;
+  }
+}
+
+.blog-post__content--cont > :first-child {
+  margin-top: 0;
+}
+
+@media print {
+  .ad-slot {
+    display: none !important;
+  }
+}
+
 /* ==========================================================================
    12. PRINT
    ========================================================================== */

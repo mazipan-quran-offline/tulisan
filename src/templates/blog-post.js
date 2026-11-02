@@ -7,6 +7,12 @@ import AbstractPattern from '../components/AbstractPattern';
 import ReadingProgress from '../components/ReadingProgress';
 import TableOfContents from '../components/TableOfContents';
 import LazyDisqus from '../components/LazyDisqus';
+import AdSlot from '../components/AdSlot';
+import {
+  AD_SLOTS,
+  IN_ARTICLE_BEFORE_H2,
+  MIN_H2_FOR_IN_ARTICLE,
+} from '../config/ads';
 import {
   CalendarIcon,
   ClockIcon,
@@ -26,6 +32,19 @@ import {
 const MAIN_SITE = 'https://www.baca-quran.id';
 const ARTICLE_ID = 'article';
 const MIN_TOC_HEADINGS = 3;
+
+// Splits the rendered article HTML before the Nth <h2> so an ad can sit
+// between two sections. Returns [html] when the article is too short.
+const splitForAd = html => {
+  if (!AD_SLOTS.inArticle) return [html];
+  const starts = [];
+  const re = /<h2[\s>]/g;
+  let m;
+  while ((m = re.exec(html))) starts.push(m.index);
+  if (starts.length < MIN_H2_FOR_IN_ARTICLE) return [html];
+  const at = starts[IN_ARTICLE_BEFORE_H2 - 1];
+  return [html.slice(0, at), html.slice(at)];
+};
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
@@ -132,10 +151,26 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <AbstractPattern slug={slug} />
               </div>
 
-              <section
-                className="blog-post__content"
-                dangerouslySetInnerHTML={{ __html: post.html }}
-              />
+              {(() => {
+                const [first, second] = splitForAd(post.html);
+                return (
+                  <>
+                    <section
+                      className="blog-post__content"
+                      dangerouslySetInnerHTML={{ __html: first }}
+                    />
+                    {second && (
+                      <>
+                        <AdSlot slot={AD_SLOTS.inArticle} variant="in-article" />
+                        <section
+                          className="blog-post__content blog-post__content--cont"
+                          dangerouslySetInnerHTML={{ __html: second }}
+                        />
+                      </>
+                    )}
+                  </>
+                );
+              })()}
 
               <div className="post-actions">
                 <span className="post-actions__label" id="share-label">
@@ -238,6 +273,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </ul>
           </section>
         )}
+
+        <AdSlot slot={AD_SLOTS.articleEnd} variant="multiplex" />
 
         {(previous || next) && (
           <nav className="post-nav" aria-label="Navigasi antar artikel">

@@ -2,6 +2,8 @@ import React from 'react';
 import { Link, withPrefix } from 'gatsby';
 
 import { SearchIcon, ArrowRightIcon } from './icons';
+import AdSlot from './AdSlot';
+import { AD_SLOTS } from '../config/ads';
 import { formatTag, tagPath } from '../utils/tags';
 
 const MAIN_SITE = 'https://www.baca-quran.id';
@@ -65,6 +67,8 @@ const Sidebar = ({ tags = [], activeTag, limit = 14 }) => {
           </Link>
         </nav>
       )}
+
+      <AdSlot slot={AD_SLOTS.sidebar} variant="sidebar" />
 
       <nav className="sidebar__card sidebar__card--accent" aria-labelledby="sidebar-main">
         <h2 className="sidebar__title" id="sidebar-main">

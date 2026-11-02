@@ -35,6 +35,10 @@ export default (props) => {
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5442972248172818"
           crossOrigin="anonymous"
+          // Limit auto-ad overlays to the bottom anchor. Full-screen "vignette"
+          // ads rewrite the URL to #google_vignette and leave a blank page in
+          // this client-side routed site.
+          data-overlays="bottom"
         ></script>
         <script
           async
