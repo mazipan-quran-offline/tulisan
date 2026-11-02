@@ -1,7 +1,7 @@
 ---
 title: Doa agar Anak Mudah Menghafal Al-Quran
 description: Doa agar anak mudah menghafal Al-Quran dalam bahasa Indonesia dan Arab, lengkap dengan arti, ayat penguat, dan tips orang tua mendampingi hafalan anak di rumah.
-date: '2026-12-29T03:00:00.000Z'
+date: '2027-07-15T03:00:00.000Z'
 tags: ["hafalan", "doa"]
 ---
 
@@ -57,7 +57,7 @@ Berikut contoh doa dalam bahasa Indonesia yang bisa diucapkan orang tua untuk an
 
 ## Doa Melapangkan Dada dan Memudahkan Urusan
 
-**Doa Nabi Musa meminta tiga hal, yaitu dada yang lapang, urusan yang mudah, dan lidah yang lancar.** Ketiganya sangat berkaitan dengan hafalan. Dada yang lapang membuat anak tidak tegang, urusan yang mudah membuat proses belajar terasa ringan, dan lidah yang lancar membantu pelafalan ayat. Doa ini juga dibahas dalam [doa menjelang ujian](/2026-11-14-doa-menjelang-ujian/), dan bisa dibaca anak sebelum setoran hafalan.
+**Doa Nabi Musa meminta tiga hal, yaitu dada yang lapang, urusan yang mudah, dan lidah yang lancar.** Ketiganya sangat berkaitan dengan hafalan. Dada yang lapang membuat anak tidak tegang, urusan yang mudah membuat proses belajar terasa ringan, dan lidah yang lancar membantu pelafalan ayat. Doa ini juga dibahas dalam [doa menjelang ujian](/2026-12-17-doa-menjelang-ujian/), dan bisa dibaca anak sebelum setoran hafalan.
 
 **Bacaan Arab**
 
@@ -123,7 +123,7 @@ Ada pula janji penjagaan dalam [QS. Al-Hijr ayat 9](https://www.baca-quran.id/su
 
 **Dengarkan bersama dan ulangi dengan gembira.** Putar audio bacaan, lalu ikuti bersama. Di [Baca-Quran.id](https://www.baca-quran.id/) Anda dapat membaca ayat dengan terjemahannya dan mengaitkan arti dengan hafalan agar anak lebih mudah mengingat. Pujilah usaha anak, bukan hanya hasilnya, supaya ia merasa dihargai dan terus bersemangat.
 
-**Perhatikan tajwid dan makhraj dengan bimbingan guru.** Anda dapat belajar dasar-dasarnya melalui [panduan tajwid dasar untuk pemula](/2026-05-17-panduan-tajwid-dasar-untuk-pemula/). Dan jangan lupa menghargai guru yang mendampingi, baca [doa untuk guru dan ucapan terima kasih kepada guru](/2026-12-20-doa-untuk-guru/). Untuk keseluruhan doa dalam keluarga, buka [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/).
+**Perhatikan tajwid dan makhraj dengan bimbingan guru.** Anda dapat belajar dasar-dasarnya melalui [panduan tajwid dasar untuk pemula](/2026-05-17-panduan-tajwid-dasar-untuk-pemula/). Dan jangan lupa menghargai guru yang mendampingi, baca [doa untuk guru dan ucapan terima kasih kepada guru](/2027-06-03-doa-untuk-guru/). Untuk keseluruhan doa dalam keluarga, buka [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
