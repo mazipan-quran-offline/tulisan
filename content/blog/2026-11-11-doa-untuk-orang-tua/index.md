@@ -9,6 +9,40 @@ Ada saat dalam hidup ketika kita baru benar-benar paham betapa besar jasa orang 
 
 Doa adalah balasan yang selalu bisa Anda berikan, baik kepada orang tua yang masih hidup maupun yang sudah wafat. Doa yang paling dikenal adalah "Rabbir hamhuma kama rabbayani shaghira" dari [QS. Al-Isra ayat 24](https://www.baca-quran.id/surah/17/24/), yang artinya "Ya Tuhanku, sayangilah keduanya sebagaimana mereka berdua telah mendidik aku pada waktu kecil." Anda juga bisa berdoa dengan bahasa Indonesia sendiri.
 
+## Doa Siap Pakai untuk Orang Tua
+
+Berikut dua doa siap baca, satu untuk orang tua yang masih ada dan satu untuk yang sudah wafat. Anda boleh menyebut nama ayah dan ibu di dalamnya, dan membacanya kapan saja, termasuk saat hati sedang rindu.
+
+**Doa untuk orang tua yang masih hidup**
+
+> Bismillahirrahmanirrahim. Ya Allah, aku datang kepada-Mu dengan hati yang penuh rasa terima kasih sekaligus rasa bersalah. Terima kasih telah menitipkanku kepada ayah dan ibu. Mereka yang bangun ketika aku menangis, yang menahan lapar agar aku kenyang, dan yang diam-diam menangis karena memikirkanku, padahal aku sering tidak menyadarinya.
+>
+> Ya Allah, sayangilah mereka sebagaimana mereka menyayangiku ketika aku kecil. Sehatkan badan mereka, lapangkan dada mereka, dan tenangkan hati mereka di usia senja. Jika mereka sakit, ringankan sakitnya dan jadikan setiap rasa sakit itu penghapus dosa. Jika mereka kesepian, hiburlah mereka dengan kehadiran-Mu dan dengan kunjungan anak-anaknya. Berilah mereka rezeki yang cukup dan berkah, dan jauhkan mereka dari rasa takut dan sedih.
+>
+> Ya Allah, ampunilah aku jika pernah menyakiti hati mereka, jika pernah menjawab dengan nada tinggi, atau jika pernah menunda memberi kabar karena sibuk. Lunakkan hatiku agar aku sabar merawat mereka, dan jadikan aku anak yang berbakti sampai akhir hayat mereka. Ampunilah dosa-dosa mereka, terimalah amal ibadah mereka, dan kumpulkan kami sekeluarga di surga-Mu. Aamiin.
+
+**Doa untuk orang tua yang sudah wafat**
+
+> Bismillahirrahmanirrahim. Ya Allah, hari ini aku merindukan ayah dan ibuku. Rumah terasa berbeda tanpa suara mereka, dan ada banyak hal yang ingin kuceritakan tetapi tidak bisa lagi. Aku menitipkan mereka kepada-Mu, ya Allah, sebab Engkaulah sebaik-baik penjaga.
+>
+> Ya Allah, ampunilah dosa-dosa mereka, kasihanilah mereka, dan lapangkan kubur mereka seluas-luasnya. Terangi kubur itu dengan cahaya, dan jadikan ia taman dari taman-taman surga. Terimalah amal baik mereka, lipatgandakan pahalanya, dan maafkan segala kekurangan mereka. Jika mereka pernah berhutang kepada seseorang atau pernah berbuat salah, bantulah kami menyelesaikannya.
+>
+> Ya Allah, jadikan ilmu yang mereka ajarkan, sedekah yang mereka berikan, dan doa yang aku panjatkan sebagai pahala yang terus mengalir kepada mereka. Ampunilah aku jika belum sempat berbakti dengan sempurna. Pertemukan kami kembali di surga-Mu dalam keadaan Engkau ridai. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa untuk Orang Tua dalam Bahasa Indonesia?
 
 **Mulailah dengan bahasa yang paling dekat dengan hati Anda.** Berikut contoh doa untuk orang tua yang masih hidup, yang bisa Anda baca setelah sholat.
