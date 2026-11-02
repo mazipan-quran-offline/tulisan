@@ -9,6 +9,32 @@ Kesabaran sering kita anggap sebagai sesuatu yang datang dengan sendirinya, pada
 
 Doa memohon kesabaran yang paling dikenal adalah "Rabbanaa afrigh 'alainaa shabran wa tsabbit aqdaamanaa", dari [QS. Al-Baqarah ayat 250](https://www.baca-quran.id/surah/2/250/), yang artinya "Ya Tuhan kami, limpahkanlah kesabaran kepada kami, kokohkanlah langkah kami." Anda juga bisa berdoa dengan bahasa Indonesia sendiri, memohon kekuatan sesuai ujian yang sedang Anda jalani.
 
+## Doa Siap Pakai Memohon Kesabaran
+
+Jika Anda sedang berada di tengah ujian yang terasa tidak habis-habis, bacalah doa ini perlahan. Boleh dibaca setiap selesai sholat, atau saat tubuh dan hati sudah di batas lelah.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku sedang diuji, dan ujian ini lebih berat dari yang kubayangkan. Ada hari ketika aku merasa kuat, tetapi lebih sering aku merasa sudah di ujung. Aku ingin menyerah, ya Allah. Aku ingin berhenti dan lari dari semua ini. Tetapi aku tahu aku tidak bisa lari dari-Mu, dan kepada-Mu pula aku ingin kembali.
+>
+> Ya Allah, limpahkanlah kesabaran kepadaku. Tuangkan kesabaran itu ke dalam hatiku seperti air yang memadamkan api. Kokohkanlah langkahku agar aku tidak goyah, dan tolonglah aku melewati ini. Jangan biarkan aku mengeluh kepada selain-Mu, dan jangan biarkan lisanku mengucapkan kata yang menentang takdir-Mu. Jika aku menangis, jadikan tangisku sebagai ibadah, bukan keputusasaan.
+>
+> Ya Allah, aku mengadukan kesusahan dan kesedihanku hanya kepada-Mu. Engkau Maha Penyayang dari semua yang penyayang, dan aku tahu Engkau tidak akan membebani seseorang melebihi kesanggupannya. Maka berilah aku tenaga untuk memikul apa yang harus kupikul, dan berilah aku kebijaksanaan untuk melihat hikmah di balik ujian ini. Bersama kesulitan ada kemudahan, bersama kesulitan ada kemudahan. Ingatkan aku akan janji-Mu itu ketika aku hampir lupa.
+>
+> Ya Allah, kumpulkan aku dengan orang-orang yang menguatkan, dan jauhkan aku dari orang yang menambah beban. Jadikan ujian ini penghapus dosaku, pengangkat derajatku, dan sebab bertambahnya kedekatanku kepada-Mu. Jika waktunya telah tiba, angkat ujian ini dengan kemudahan yang tidak kusangka. Sampai saat itu, tetapkanlah aku dalam sabar yang indah. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa Memohon Kesabaran dalam Bahasa Indonesia?
 
 **Mohonlah kesabaran dengan menyebut ujian yang sedang Anda hadapi.** Allah tahu apa yang Anda alami, tetapi menceritakannya dalam doa membuat hati lebih lega. Berikut contoh doa yang bisa Anda baca.
