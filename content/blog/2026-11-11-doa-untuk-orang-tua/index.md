@@ -33,7 +33,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -59,7 +59,7 @@ Untuk orang tua yang sudah wafat, Anda bisa mengubah sebagian kalimatnya.
 
 **Bacaan Arab**
 
-> وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرࣰا
+> وَقُلْ رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيٰنِيْ صَغِيْرًاۗ
 
 **Bacaan Latin**
 
@@ -77,7 +77,7 @@ Anda bisa membaca doa ini setiap hari, bahkan setelah sholat fardhu. Sambil memb
 
 **Bacaan Arab**
 
-> رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ
+> رَبَّنَا اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُوْمُ الْحِسَابُ
 
 **Bacaan Latin**
 
@@ -91,7 +91,7 @@ Ada pula doa Nabi Nuh dalam [QS. Nuh ayat 28](https://www.baca-quran.id/surah/71
 
 **Bacaan Arab**
 
-> رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنࣰا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۖ
+> رَبِّ اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَّلِلْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِۗ
 
 **Bacaan Latin**
 
