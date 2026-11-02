@@ -9,6 +9,32 @@ Ada hari ketika dada terasa berat tanpa alasan yang jelas. Pikiran berputar pada
 
 Doa yang paling dikenal adalah "Allaahumma innii a'uudzu bika minal hammi wal hazan", yang artinya "Ya Allah, aku berlindung kepada-Mu dari kesusahan dan kesedihan." Doa ini diriwayatkan oleh Bukhari nomor 2893 dari Anas bin Malik, dan merupakan bagian dari doa yang lebih panjang.
 
+## Doa Siap Pakai Saat Cemas dan Sedih
+
+Bila malam ini hati Anda terasa berat dan pikiran berputar tanpa henti, bacalah doa berikut perlahan. Tarik napas dalam, duduklah dengan tenang, dan biarkan air mata jatuh bila perlu.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku lelah. Pikiranku tidak mau berhenti, dadaku terasa berat, dan aku sendiri tidak tahu apa yang sebenarnya paling kutakutkan. Ada hal yang belum terjadi tetapi sudah membuatku gelisah, dan ada hal yang sudah lewat tetapi masih melukai. Aku datang kepada-Mu karena aku tidak tahu harus bercerita kepada siapa lagi.
+>
+> Ya Allah, aku berlindung kepada-Mu dari kesusahan dan kesedihan, dari lemah dan malas, dari kikir dan penakut, dari lilitan hutang dan tekanan orang lain. Tenangkanlah hatiku, lapangkanlah dadaku, dan turunkanlah ketenangan kepadaku sebagaimana Engkau menurunkannya kepada hamba-hamba-Mu yang beriman. Ingatkan aku bahwa hati menjadi tenteram dengan mengingat-Mu, maka jadikan dzikirku sebagai tempat bersandar.
+>
+> Ya Allah, aku menyerahkan semua yang tidak bisa kukendalikan kepada-Mu. Aku tidak bisa mengatur masa depan, tidak bisa mengubah masa lalu, dan tidak bisa mengendalikan pikiran orang lain. Tetapi Engkau Maha Kuasa atas semuanya. Cukuplah Engkau bagiku, dan Engkau sebaik-baik pelindung. Janganlah aku bersedih, sesungguhnya Engkau bersamaku.
+>
+> Ya Allah, kuatkan aku untuk menjalani hari ini saja, satu langkah kecil dalam satu waktu. Berilah aku tidur yang nyenyak, makan yang cukup, dan orang-orang baik yang mau mendengarkan. Jika aku perlu bantuan, bukakan hatiku untuk meminta dan pertemukan aku dengan orang yang tepat. Gantilah gelisahku dengan tenang, gantilah sedihku dengan harapan, dan jadikan hari-hari esokku lebih ringan daripada hari ini. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa yang Diajarkan Rasulullah SAW Saat Cemas dan Sedih?
 
 **Anas bin Malik meriwayatkan bahwa beliau sering mendengar Rasulullah SAW membaca doa ini.** Isinya mencakup banyak hal yang membuat hati sempit, yaitu kesusahan, kesedihan, kelemahan, kemalasan, kekikiran, ketakutan, lilitan hutang, dan tekanan orang lain. Dengan membacanya, kita belajar bahwa perasaan berat bukan hal yang memalukan, melainkan sesuatu yang boleh kita adukan kepada Allah.
