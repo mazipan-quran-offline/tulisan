@@ -9,6 +9,32 @@ Hutang yang menumpuk sering membuat tidur tidak nyenyak. Setiap kali ponsel berb
 
 Doa yang paling dikenal untuk melunasi hutang adalah "Allaahummakfinii bihalaalika 'an haraamik wa aghninii bifadhlika 'amman siwaak", yang artinya "Ya Allah, cukupkanlah aku dengan yang halal dari-Mu sehingga aku terhindar dari yang haram, dan cukupkanlah aku dengan karunia-Mu sehingga aku tidak bergantung pada selain Engkau." Doa ini diriwayatkan oleh Tirmidzi nomor 3563 dan dinilai hasan.
 
+## Doa Siap Pakai Agar Dilunasi Hutang
+
+Jika beban hutang membuat Anda sulit tidur, bacalah doa ini apa adanya. Doa ini boleh dibaca setiap selesai sholat, dan disertai usaha melunasi hutang sedikit demi sedikit.
+
+> Bismillahirrahmanirrahim. Ya Allah, aku datang kepada-Mu dengan dada yang sesak. Hutang ini membuatku susah tidur, membuatku takut membuka pesan, dan membuatku malu menatap orang yang kuhutangi. Aku tidak ingin lari dari tanggung jawabku, ya Allah. Aku ingin melunasinya, tetapi aku merasa kehabisan jalan. Karena itu aku memohon pertolongan-Mu.
+>
+> Ya Allah, cukupkanlah aku dengan yang halal dari-Mu sehingga aku terhindar dari yang haram, dan cukupkanlah aku dengan karunia-Mu sehingga aku tidak bergantung kepada selain-Mu. Bukakanlah pintu rezeki dari arah yang tidak kusangka, berilah aku kesempatan bekerja dengan baik, dan berkahilah setiap rupiah yang kuterima agar cukup untuk kebutuhanku dan untuk membayar kewajibanku. Mudahkanlah aku melunasi hutangku satu per satu, tepat pada waktunya.
+>
+> Ya Allah, lunakkanlah hati orang-orang yang kuhutangi. Berilah mereka kelapangan dan kesabaran, dan jadikan mereka bersedia memberiku waktu serta keringanan. Jangan biarkan aku berbohong atau menunda tanpa alasan. Berilah aku keberanian untuk menjelaskan keadaanku dengan jujur dan sopan. Jauhkan aku dari berhutang lagi untuk hal yang tidak perlu, dari gaya hidup yang melebihi kemampuanku, dan dari riba yang Engkau haramkan.
+>
+> Ya Allah, aku berlindung kepada-Mu dari dosa dan dari lilitan hutang. Aku berlindung kepada-Mu dari kesusahan dan kesedihan, dari lemah dan malas, dari kikir dan penakut, dan dari tekanan orang lain. Jika aku wafat sebelum hutangku lunas, jangan biarkan keluargaku menanggung bebannya, dan mudahkanlah ada yang membantu melunasinya. Cukupkan aku dengan karunia-Mu, ya Allah. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Doa Agar Dimudahkan Melunasi Hutang?
 
 **Doa dalam hadis Tirmidzi nomor 3563 diajarkan oleh Ali bin Abi Thalib berdasarkan sabda Rasulullah SAW.** Seorang hamba sahaya yang sedang menebus kemerdekaannya datang meminta bantuan karena tidak sanggup melunasi cicilannya. Ali kemudian mengajarkan kalimat ini, dan menyebut bahwa dengan doa itu Allah akan melunasi hutang seseorang, bahkan sebesar gunung. Para ulama hadis menghasankan riwayat ini, dan Tirmidzi sendiri menyebutnya hasan gharib.
