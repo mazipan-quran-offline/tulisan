@@ -1,7 +1,7 @@
 ---
 title: Contoh Doa untuk Ulang Tahun Anak
 description: Contoh doa untuk ulang tahun anak dalam bahasa Indonesia, lengkap dengan doa Al-Quran tentang usia, syukur, dan keturunan yang saleh untuk orang tua.
-date: '2026-11-08T03:00:00.000Z'
+date: '2026-11-19T03:00:00.000Z'
 tags: ["doa", "keluarga"]
 ---
 
