@@ -2571,6 +2571,49 @@ tbody tr:hover {
 }
 
 /* ==========================================================================
+   12b. VIEW TRANSITIONS, TEXT WRAPPING, OFFSCREEN RENDERING
+   Progressive enhancement. gatsby-browser.js starts the transition, and sets
+   view-transition-name on the clicked card's pattern so it morphs into the
+   article cover (and back).
+   ========================================================================== */
+
+@media (prefers-reduced-motion: no-preference) {
+  .site-header {
+    view-transition-name: site-header;
+  }
+
+  .post-cover {
+    view-transition-name: post-cover;
+  }
+
+  ::view-transition-group(root) {
+    animation-duration: 250ms;
+  }
+
+  ::view-transition-group(post-cover) {
+    animation-duration: 450ms;
+    animation-timing-function: var(--ease, ease);
+  }
+
+  /* Cards and covers have different aspect ratios; crop instead of stretch. */
+  ::view-transition-old(post-cover),
+  ::view-transition-new(post-cover) {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.blog-post__content p {
+  text-wrap: pretty;
+}
+
+/* Skip layout and paint of the footer until it nears the viewport. */
+.site-footer {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 480px;
+}
+
+/* ==========================================================================
    13. REDUCED MOTION
    ========================================================================== */
 

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { flushSync } from 'react-dom';
 
 import { SunIcon, MoonIcon } from './icons';
 
@@ -19,8 +20,17 @@ const ThemeToggle = () => {
 
   const toggle = () => {
     const next = theme === 'dark' ? 'light' : 'dark';
-    setTheme(next);
-    document.documentElement.setAttribute('data-theme', next);
+    const apply = () => {
+      setTheme(next);
+      document.documentElement.setAttribute('data-theme', next);
+    };
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (typeof document.startViewTransition === 'function' && !reduce) {
+      // flushSync so the icon and theme change land inside the transition callback
+      document.startViewTransition(() => flushSync(apply));
+    } else {
+      apply();
+    }
     try {
       localStorage.setItem('theme', next);
     } catch (e) {

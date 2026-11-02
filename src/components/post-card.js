@@ -11,7 +11,7 @@ const PostCard = ({ node, featured = false }) => {
   return (
     <li className={`post-grid__item reveal${featured ? ' post-grid__item--featured' : ''}`}>
       <article className={`post-card${featured ? ' post-card--featured' : ''}`}>
-        <div className="post-card__pattern" aria-hidden="true">
+        <div className="post-card__pattern" aria-hidden="true" data-vt-path={node.fields.slug}>
           <AbstractPattern slug={node.fields.slug} />
         </div>
         <div className="post-card__body">

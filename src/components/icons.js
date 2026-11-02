@@ -98,6 +98,16 @@ export const LinkIcon = stroke(
   { size: 16 },
 );
 
+export const ShareIcon = stroke(
+  <>
+    <circle cx="18" cy="5" r="3" />
+    <circle cx="6" cy="12" r="3" />
+    <circle cx="18" cy="19" r="3" />
+    <path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4" />
+  </>,
+  { size: 16 },
+);
+
 export const SparklesIcon = stroke(
   <>
     <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z" />

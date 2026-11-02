@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
-import { FacebookIcon, XIcon, WhatsAppIcon, GitHubIcon, LinkIcon, SparklesIcon } from './icons';
+import { FacebookIcon, XIcon, WhatsAppIcon, GitHubIcon, LinkIcon, SparklesIcon, ShareIcon } from './icons';
 
 const copyText = async text => {
   try {
@@ -51,12 +51,37 @@ const CopyButton = ({ getText, label, doneLabel, ariaLabel, icon }) => {
 // Share links and copy actions. `compact` renders only the four quick
 // actions (used in the wide-screen side rail); the full set sits under the article.
 const ShareButtons = ({ pageUrl, title, description, aiText, editUrl, compact = false, labelledBy }) => {
+  // Native share sheet (WhatsApp, Telegram, etc.) where supported; checked after
+  // mount so server and client markup match.
+  const [canShare, setCanShare] = useState(false);
+  useEffect(() => {
+    setCanShare(typeof navigator !== 'undefined' && typeof navigator.share === 'function');
+  }, []);
+  const nativeShare = async () => {
+    try {
+      await navigator.share({ title, text: description || title, url: pageUrl });
+    } catch (e) {
+      // user dismissed the sheet; nothing to do
+    }
+  };
+
   const encodedUrl = encodeURIComponent(pageUrl);
   const encodedTitle = encodeURIComponent(title);
   const encodedDesc = encodeURIComponent(description || '');
 
   return (
     <div className="post-actions__share" role="group" aria-labelledby={labelledBy}>
+      {!compact && canShare && (
+        <button
+          type="button"
+          onClick={nativeShare}
+          className="post-actions__btn post-actions__btn--native"
+          aria-label="Bagikan lewat aplikasi di perangkat Anda"
+        >
+          <ShareIcon />
+          Bagikan
+        </button>
+      )}
       <a
         href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}&title=${encodedTitle}&description=${encodedDesc}`}
         target="_blank"
