@@ -1,7 +1,7 @@
 ---
 title: Doa Ibu Hamil dan Doa Menyambut Kelahiran Bayi
 description: Doa ibu hamil dan doa menyambut kelahiran bayi dalam bahasa Indonesia dan Arab dari Al-Quran serta hadis, lengkap dengan arti dan penjelasannya.
-date: '2026-11-23T03:00:00.000Z'
+date: '2027-01-28T03:00:00.000Z'
 tags: ["doa", "keluarga"]
 ---
 
@@ -111,7 +111,7 @@ Ayat-ayat ini dapat Anda baca langsung di [QS. Ali Imran ayat 38](https://www.ba
 
 **Doa berjalan bersama ikhtiar, termasuk menjaga kesehatan ibu.** Periksa kandungan secara rutin, makan makanan bergizi, dan istirahat yang cukup. Bacaan Al-Quran juga bisa menjadi kebiasaan yang menenangkan, misalnya dengan membaca beberapa ayat setiap hari di [Baca-Quran.id](https://www.baca-quran.id/). Banyak ibu hamil merasa lebih tenang setelah rutin mendengar lantunan ayat Al-Quran.
 
-Setelah bayi lahir, lanjutkan dengan doa-doa keluarga seperti yang dibahas dalam artikel [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/). Bila Anda ingin mendalami makna keturunan dan keluarga dalam Al-Quran, baca [ayat Al-Quran tentang keluarga](/2026-07-26-ayat-al-quran-tentang-keluarga/). Dan untuk menyempurnakan syukur, ajak pasangan membaca [doa untuk pengantin baru dan rumah tangga sakinah](/2026-11-20-doa-untuk-pengantin-baru/) sebagai pengingat tujuan keluarga yang Anda bangun.
+Setelah bayi lahir, lanjutkan dengan doa-doa keluarga seperti yang dibahas dalam artikel [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/). Bila Anda ingin mendalami makna keturunan dan keluarga dalam Al-Quran, baca [ayat Al-Quran tentang keluarga](/2026-07-26-ayat-al-quran-tentang-keluarga/). Dan untuk menyempurnakan syukur, ajak pasangan membaca [doa untuk pengantin baru dan rumah tangga sakinah](/2027-01-14-doa-untuk-pengantin-baru/) sebagai pengingat tujuan keluarga yang Anda bangun.
 
 ## Pertanyaan yang Sering Ditanyakan
 
