@@ -42,12 +42,6 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -64,6 +58,7 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
+          require.resolve(`./plugins/gatsby-remark-heading-ids`),
           require.resolve(`./plugins/gatsby-remark-table-wrapper`),
           require.resolve(`./plugins/gatsby-remark-arabic-text`),
         ],

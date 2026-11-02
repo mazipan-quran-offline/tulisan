@@ -1,50 +1,22 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const ChevronLeft = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={16}
-    height={16}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2.5}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <polyline points="15 18 9 12 15 6" />
-  </svg>
-);
-
-const ChevronRight = () => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={16}
-    height={16}
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    strokeWidth={2.5}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-    aria-hidden="true"
-  >
-    <polyline points="9 18 15 12 9 6" />
-  </svg>
-);
+import { ChevronLeftIcon, ChevronRightIcon } from './icons';
 
 const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast }) => {
   if (numPages <= 1) return null;
 
-  // Build the visible page list with a wing of ±2 around the current page.
-  // e.g. current=6 of 15 → 1, …, 4, 5, 6, 7, 8, …, 15
+  // Visible pages: first, last and a ±2 wing around the current page.
+  // e.g. current=6 of 15 → 1 … 4 5 6 7 8 … 15
   // A single hidden page is shown directly instead of as an ellipsis.
   const getVisiblePages = () => {
     const WING = 2;
     const shown = new Set([1, numPages]);
-    for (let p = Math.max(2, currentPage - WING); p <= Math.min(numPages - 1, currentPage + WING); p++) {
+    for (
+      let p = Math.max(2, currentPage - WING);
+      p <= Math.min(numPages - 1, currentPage + WING);
+      p++
+    ) {
       shown.add(p);
     }
 
@@ -66,30 +38,19 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
     return result;
   };
 
-  const visiblePages = getVisiblePages();
-
   return (
     <nav className="pagination" aria-label="Navigasi halaman">
       {isFirst ? (
-        <span
-          className="pagination__btn pagination__btn--nav"
-          aria-disabled="true"
-          style={{ opacity: 0.35, cursor: 'default', pointerEvents: 'none' }}
-        >
-          <ChevronLeft />
+        <span className="pagination__btn pagination__btn--disabled" aria-hidden="true">
+          <ChevronLeftIcon />
         </span>
       ) : (
-        <Link
-          to={prevPage}
-          rel="prev"
-          className="pagination__btn pagination__btn--nav"
-          aria-label="Halaman sebelumnya"
-        >
-          <ChevronLeft />
+        <Link to={prevPage} rel="prev" className="pagination__btn" aria-label="Halaman sebelumnya">
+          <ChevronLeftIcon />
         </Link>
       )}
 
-      {visiblePages.map((item) => {
+      {getVisiblePages().map(item => {
         if (item.type === 'ellipsis') {
           return (
             <span key={item.key} className="pagination__ellipsis" aria-hidden="true">
@@ -99,10 +60,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
         }
 
         const pageNum = item.num;
-        const isActive = pageNum === currentPage;
-        const to = pageNum === 1 ? '/' : `/${pageNum}`;
-
-        if (isActive) {
+        if (pageNum === currentPage) {
           return (
             <span
               key={pageNum}
@@ -118,7 +76,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
         return (
           <Link
             key={pageNum}
-            to={to}
+            to={pageNum === 1 ? '/' : `/${pageNum}`}
             className="pagination__btn"
             aria-label={`Halaman ${pageNum}`}
           >
@@ -128,21 +86,12 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
       })}
 
       {isLast ? (
-        <span
-          className="pagination__btn pagination__btn--nav"
-          aria-disabled="true"
-          style={{ opacity: 0.35, cursor: 'default', pointerEvents: 'none' }}
-        >
-          <ChevronRight />
+        <span className="pagination__btn pagination__btn--disabled" aria-hidden="true">
+          <ChevronRightIcon />
         </span>
       ) : (
-        <Link
-          to={nextPage}
-          rel="next"
-          className="pagination__btn pagination__btn--nav"
-          aria-label="Halaman selanjutnya"
-        >
-          <ChevronRight />
+        <Link to={nextPage} rel="next" className="pagination__btn" aria-label="Halaman selanjutnya">
+          <ChevronRightIcon />
         </Link>
       )}
     </nav>

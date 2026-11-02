@@ -83,8 +83,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const previousPostId = index === 0 ? null : posts[index - 1].id
     const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node;
-    const next = index === 0 ? null : posts[index - 1].node;
+    // posts are sorted by date ASC, so the previous entry is the older article
+    const previous = index === 0 ? null : posts[index - 1];
+    const next = index === posts.length - 1 ? null : posts[index + 1];
 
     // Pick up to 3 related posts: prioritize tag overlap, fall back to chronological proximity
     const currentTags = post.frontmatter.tags || [];

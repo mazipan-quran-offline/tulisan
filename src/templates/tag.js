@@ -31,11 +31,11 @@ const TagTemplate = ({ data, location, pageContext }) => {
           <Link to="/tags/">&larr; Semua kategori</Link>
         </p>
 
-        <div className="post-grid" role="list" aria-label={`Artikel ${label}`}>
+        <ul className="post-grid" role="list" aria-label={`Artikel ${label}`}>
           {edges.map(({ node }) => (
             <PostCard key={node.fields.slug} node={node} />
           ))}
-        </div>
+        </ul>
       </div>
     </Layout>
   );

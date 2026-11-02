@@ -34,14 +34,14 @@ function strToSeed(str) {
 
 // 8 professional colorful palettes (gradient bg + shape colors)
 const PALETTES = [
-  { bg1: '#312e81', bg2: '#4f46e5', shapes: ['#818cf8', '#c7d2fe', '#e0e7ff'] },
-  { bg1: '#064e3b', bg2: '#065f46', shapes: ['#34d399', '#6ee7b7', '#a7f3d0'] },
-  { bg1: '#7f1d1d', bg2: '#991b1b', shapes: ['#f87171', '#fca5a5', '#fecaca'] },
-  { bg1: '#0c4a6e', bg2: '#075985', shapes: ['#38bdf8', '#7dd3fc', '#bae6fd'] },
-  { bg1: '#4c1d95', bg2: '#5b21b6', shapes: ['#a78bfa', '#c4b5fd', '#ddd6fe'] },
-  { bg1: '#78350f', bg2: '#92400e', shapes: ['#fbbf24', '#fcd34d', '#fde68a'] },
-  { bg1: '#831843', bg2: '#9d174d', shapes: ['#f472b6', '#f9a8d4', '#fbcfe8'] },
-  { bg1: '#134e4a', bg2: '#115e59', shapes: ['#2dd4bf', '#5eead4', '#99f6e4'] },
+  { bg1: '#0b3d38', bg2: '#0f766e', shapes: ['#5eead4', '#99f6e4', '#ccfbf1'] }, // teal
+  { bg1: '#1e3a5f', bg2: '#1d6fa5', shapes: ['#7dd3fc', '#bae6fd', '#e0f2fe'] }, // ocean
+  { bg1: '#2e2a6b', bg2: '#4f46a5', shapes: ['#a5b4fc', '#c7d2fe', '#e0e7ff'] }, // indigo
+  { bg1: '#4a1d5e', bg2: '#7a3a94', shapes: ['#e0aaff', '#f0d0ff', '#f8e8ff'] }, // plum
+  { bg1: '#7c2d12', bg2: '#b45309', shapes: ['#fcd34d', '#fde68a', '#fef3c7'] }, // amber
+  { bg1: '#5f1f3a', bg2: '#9d2f5f', shapes: ['#f9a8d4', '#fbcfe8', '#fce7f3'] }, // rose
+  { bg1: '#14532d', bg2: '#2f7d46', shapes: ['#86efac', '#bbf7d0', '#dcfce7'] }, // forest
+  { bg1: '#1f2937', bg2: '#475569', shapes: ['#cbd5e1', '#e2e8f0', '#f1f5f9'] }, // slate
 ];
 
 const PATTERN_COUNT = 6;
