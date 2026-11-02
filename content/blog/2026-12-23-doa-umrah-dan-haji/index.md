@@ -45,7 +45,7 @@ Mulailah menghafal talbiyah jauh sebelum berangkat, lalu ulangi sambil berjalan 
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -63,7 +63,7 @@ Doa ini bisa Anda hafalkan sejak dini, dan membacanya dalam ibadah sehari-hari p
 
 **Bacaan Arab**
 
-> رَبَّنَا تَقَبَّلۡ مِنَّآۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ
+> رَبَّنَا تَقَبَّلْ مِنَّا ۗ اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْمُ
 
 **Bacaan Latin**
 
