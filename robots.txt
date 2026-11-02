@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://www.baca-quran.id/tulisan/sitemap-index.xml
