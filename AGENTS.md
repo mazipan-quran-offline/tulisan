@@ -261,9 +261,12 @@ Ringkasan aturan penting:
 ## Alur Kerja PR (Pull Request)
 
 - Setiap pekerjaan selalu dikerjakan di **branch baru yang dibuat dari `master` terbaru**, bukan melanjutkan branch lama.
-- Gunakan satu branch per PR. Jangan menambahkan commit baru ke branch yang PRnya sudah dibuka.
+- Gunakan satu branch per PR. Boleh menambahkan commit baru ke branch yang PRnya masih terbuka, misalnya untuk perbaikan atau revisi dari permintaan terbaru, selama isinya masih satu topik dengan PR tersebut. Pekerjaan lain yang tidak berkaitan tetap dibuat di branch dan PR baru.
+- Untuk PR yang sudah di-merge atau ditutup, jangan menambahkan commit lagi. Mulai branch baru dari `master` terbaru.
+- Utamakan commit biasa (fast-forward). Jangan memakai force push atau mengubah riwayat branch kecuali pengguna memintanya secara eksplisit.
 - **Setiap kali pengguna mengatakan "I merged it" (atau sejenisnya), langsung buat branch baru dan PR baru** untuk pekerjaan berikutnya. Jangan menunggu instruksi tambahan.
 - Alur baku: `git checkout origin/master -b nama-branch` → kerjakan perubahan → commit → push → buka PR.
+- Untuk revisi PR yang terbuka: `git checkout nama-branch` → kerjakan perubahan → commit baru → push (tanpa force) → PR otomatis terbarui.
 
 ## Contoh Referensi
 
