@@ -9,6 +9,18 @@ Bagi banyak orang, berangkat ke Tanah Suci adalah impian yang dipelihara bertahu
 
 Bacaan yang paling khas adalah talbiyah, yaitu jawaban seorang hamba atas panggilan Allah. Lafaz talbiyah Rasulullah SAW diriwayatkan oleh Bukhari nomor 1549 dari Abdullah bin Umar. Selain itu, ada doa-doa dari Al-Quran yang lazim dibaca jamaah, seperti doa kebaikan dunia dan akhirat dalam [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/).
 
+## Doa Siap Pakai untuk Calon Jamaah Umrah dan Haji
+
+Doa ini bisa dibaca saat Anda masih menunggu keberangkatan, atau dibawa saat berada di Tanah Suci. Jika Anda belum mampu berangkat, doa ini tetap boleh dibaca untuk memelihara niat.
+
+> Bismillahirrahmanirrahim. Ya Allah, sejak kecil aku mendengar nama rumah-Mu, dan sejak itu hatiku merindukannya. Sudah lama aku menabung, menunggu, dan membayangkan bagaimana rasanya berdiri di depan Ka'bah. Aku tahu tidak semua orang yang mampu mendapat panggilan, dan tidak semua yang mendapat panggilan dapat tiba. Karena itu aku memohon kepada-Mu dengan sepenuh hati, panggillah aku.
+>
+> Ya Allah, jika Engkau memanggilku, mudahkanlah keberangkatanku. Cukupkan rezekiku, sehatkan badanku, jaga keluargaku yang kutinggalkan, dan lancarkan urusanku dari awal hingga pulang. Teguhkan niatku agar semata-mata untuk-Mu, bukan untuk gelar atau pujian. Jauhkan aku dari sombong, dari perselisihan, dan dari ucapan yang tidak berguna. Jadikan aku sabar menghadapi antrean, lelah, dan perbedaan karakter sesama jamaah.
+>
+> Ya Allah, ketika aku sampai di tanah suci-Mu, jangan biarkan aku sibuk dengan urusan dunia. Bukakan hatiku untuk menangis, bertaubat, dan menyerahkan semua beban kepada-Mu. Terimalah tawafku, saiku, wukufku, dan setiap doa yang kupanjatkan. Terimalah amal kami, sesungguhnya Engkau Maha Mendengar lagi Maha Mengetahui.
+>
+> Ya Allah, di tempat yang mustajab itu aku akan mendoakan orang tuaku, keluargaku, guru-guruku, dan saudara-saudaraku, maka jangan biarkan aku lupa satu pun. Berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka. Jadikan hajiku atau umrahku mabrur, dan jadikan aku pulang sebagai orang yang lebih baik, lebih sabar, lebih dermawan, dan lebih dekat kepada-Mu. Labbaikallahumma labbaik. Aamiin ya Rabbal 'alamin.
+
 ## Apa Bacaan Talbiyah dan Artinya?
 
 **Talbiyah adalah ucapan "labbaik" yang berarti aku penuhi panggilan-Mu.** Kalimat ini diucapkan jamaah sejak berihram hingga dimulainya tawaf untuk umrah, atau hingga melempar jumrah aqabah untuk haji. Ia mengingatkan bahwa kita datang bukan karena kemampuan sendiri, tetapi karena Allah yang memanggil. Ketika kalimat ini terlantun bersama jutaan orang dari berbagai negara, banyak jamaah mengaku merinding dan terharu.
