@@ -9,6 +9,34 @@ Setiap kali tanggal lahir anak tiba, banyak orang tua tiba-tiba terdiam. Rasanya
 
 Doa untuk ulang tahun anak tidak punya lafaz khusus dalam hadis, jadi Anda bisa memakai bahasa Indonesia sendiri. Isinya sebaiknya memuat syukur atas usia yang Allah berikan, permohonan agar usia itu penuh kebaikan, dan permintaan agar anak menjadi pribadi yang saleh. Doa dari [QS. Al-Ahqaf ayat 15](https://www.baca-quran.id/surah/46/15/) bisa menjadi pelengkapnya.
 
+## Doa Siap Pakai untuk Ulang Tahun Anak
+
+Bila Anda ingin berdoa untuk anak di hari lahirnya tetapi bingung harus mulai dari mana, bacalah doa berikut. Sebutlah nama anak Anda di bagian yang terasa pas, dan boleh dibaca di depan anak agar ia ikut mengaminkan.
+
+> Bismillahirrahmanirrahim. Alhamdulillahi rabbil 'alamin. Ya Allah, aku bersyukur kepada-Mu hari ini. Allahumma shalli 'ala Muhammad wa 'ala ali Muhammad.
+>
+> Ya Allah, satu tahun lagi telah Engkau tambahkan untuk anakku. Rasanya baru kemarin aku menimangnya dan menghitung jari-jari kecilnya, dan hari ini ia sudah jauh lebih besar dari yang kubayangkan. Terima kasih, ya Allah, telah menitipkannya kepadaku. Terima kasih atas tawanya yang membuat lelahku hilang, atas tangisnya yang mengajarkanku sabar, dan atas setiap hari yang telah kami lalui bersama. Aku sadar ia hanyalah titipan, dan aku ingin menjaganya sebaik-baiknya dengan petunjuk-Mu.
+>
+> Ya Allah, panjangkanlah umurnya dalam ketaatan dan jadikan setiap tahunnya lebih baik dari tahun sebelumnya. Sehatkan badannya, terangi hatinya dengan iman, dan cerdaskan akalnya dengan ilmu yang bermanfaat. Jadikan ia anak yang jujur, penyayang, berani menghadapi kesulitan, dan tidak mudah putus asa. Lembutkan hatinya kepada orang tua, dekatkan ia dengan sholat dan Al-Quran, dan jauhkan ia dari teman dan kebiasaan yang bisa merusak.
+>
+> Ya Allah, lindungilah ia dari sakit, dari bahaya, dari pandangan mata yang buruk, dan dari gangguan setan yang terkutuk. Di saat aku tidak bisa mendampinginya, jadilah Engkau penjaganya. Di saat ia sedih dan tidak berani bercerita, jadilah Engkau tempatnya mengadu.
+>
+> Ya Allah, ampunilah aku jika ada saat aku terlalu keras, terlalu sibuk, atau kurang mendengarkannya. Jadikan aku orang tua yang sabar, adil, dan penuh kasih. Tambahkan umurku jika itu baik, agar aku bisa mendampinginya tumbuh, dan bila waktuku lebih singkat, tinggalkanlah ia dalam penjagaan-Mu. Ya Allah, jadikan ia penyejuk mata bagi kami, penerus kebaikan, dan penolong kami kelak di akhirat. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Bagaimana Pandangan Islam tentang Ulang Tahun?
 
 **Perayaan ulang tahun tidak dicontohkan oleh Rasulullah SAW, dan para ulama berbeda pendapat tentangnya.** Sebagian ulama menganggapnya sekadar kebiasaan yang boleh selama tidak ada unsur yang dilarang, sebagian lain menyarankan agar tidak dijadikan tradisi karena tidak ada tuntunan khusus. Karena itu, di artikel ini kita tidak membahas pesta atau perayaannya. Yang kita ambil adalah sisi yang pasti baik, yaitu mensyukuri usia dan mendoakan anak.
