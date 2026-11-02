@@ -9,6 +9,32 @@ Kabar kehamilan mengubah banyak hal dalam sekejap. Rumah terasa lebih hangat, te
 
 Doa ibu hamil dapat Anda panjatkan dengan bahasa Indonesia sendiri, lalu dilengkapi doa dari Al-Quran. Salah satunya doa suami istri dalam [QS. Al-A'raf ayat 189](https://www.baca-quran.id/surah/7/189/), yaitu memohon anak yang saleh sambil berjanji akan selalu bersyukur. Setelah bayi lahir, Anda bisa membaca doa perlindungan yang diajarkan Rasulullah SAW dalam hadis riwayat Bukhari nomor 3371.
 
+## Doa Siap Pakai untuk Ibu Hamil dan Kelahiran Bayi
+
+Doa ini ditulis dari sudut pandang seorang ibu yang sedang mengandung. Suami, keluarga, atau sahabat bisa membacanya dengan mengganti kata aku menjadi istriku atau nama sang ibu.
+
+> Bismillahirrahmanirrahim. Ya Allah, sejak kabar itu datang, hidupku berubah. Ada kebahagiaan yang tidak bisa kujelaskan, tetapi ada juga rasa takut yang kadang datang tengah malam. Aku takut tidak cukup kuat, takut ada yang terjadi pada anakku, dan takut menghadapi hari persalinan. Karena itu aku datang kepada-Mu, sebab hanya Engkau yang menciptakan dan menjaganya di dalam diriku.
+>
+> Ya Allah, jagalah anak yang Engkau titipkan dalam kandunganku. Sempurnakan penciptaannya, sehatkan seluruh anggota tubuhnya, dan jadikan ia tumbuh dengan baik hari demi hari. Jagalah aku agar tetap kuat, tenang, dan cukup istirahat. Ringankanlah mual, lelah, dan rasa tidak nyaman yang kurasakan, dan jadikan setiap sakit yang kulalui sebagai penghapus dosa dan pelipat pahala.
+>
+> Ya Allah, mudahkanlah persalinanku. Hadirkan tenaga yang cukup, ketenangan yang dalam, dan orang-orang baik yang menolongku. Selamatkan aku dan anakku, lahirkan ia dalam keadaan sehat dan sempurna, dan lindungi kami berdua dari segala bahaya. Jika ada hal yang tidak berjalan sesuai rencana, kuatkan hati kami dan tetapkan yang terbaik menurut-Mu.
+>
+> Ya Allah, anugerahkanlah kepadaku anak yang saleh atau salehah, yang taat kepada-Mu dan berbakti kepada orang tuanya. Lindungilah ia dan keturunannya dari gangguan setan yang terkutuk. Jadikan ia penyejuk mata bagi kami, penerus kebaikan, dan sebab bertambahnya kedekatan kami kepada-Mu. Jadikan aku ibu yang sabar, lembut, dan adil, dan jadikan suamiku ayah yang bijak dan penyayang. Jika Engkau memberi kami anak yang saleh, kami akan menjadi hamba yang bersyukur. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Ibu Hamil dalam Bahasa Indonesia?
 
 **Berdoalah dengan menyebut kondisi Anda, mulai dari kesehatan, kelancaran, sampai harapan untuk anak.** Berikut contoh doa yang bisa dibaca ibu hamil, atau dibacakan suami dan keluarga untuk sang ibu.
