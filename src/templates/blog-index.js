@@ -5,6 +5,7 @@ import Layout from '../components/layout';
 import MetaHead from '../components/MetaHead';
 import Pagination from '../components/pagination';
 import PostCard from '../components/post-card';
+import Sidebar from '../components/Sidebar';
 import { SearchIcon, ArrowRightIcon, StarMark } from '../components/icons';
 import { formatTag, tagPath } from '../utils/tags';
 
@@ -90,8 +91,10 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
       {/* Constrained content area */}
       <div className="site-main__inner">
+        <div className="with-sidebar">
+        <div className="with-sidebar__main">
         {isFirst && topTopics.length > 0 && (
-          <nav className="topics" aria-labelledby="topics-label">
+          <nav className="topics topics--hide-wide" aria-labelledby="topics-label">
             <span className="topics__label" id="topics-label">
               Topik populer
             </span>
@@ -129,6 +132,9 @@ const BlogIndex = ({ data, location, pageContext }) => {
           isFirst={isFirst}
           isLast={isLast}
         />
+        </div>
+        <Sidebar tags={tagGroups} />
+        </div>
       </div>
     </Layout>
   );

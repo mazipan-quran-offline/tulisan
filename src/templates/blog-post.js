@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
@@ -10,67 +10,16 @@ import LazyDisqus from '../components/LazyDisqus';
 import {
   CalendarIcon,
   ClockIcon,
-  FacebookIcon,
-  XIcon,
-  WhatsAppIcon,
-  GitHubIcon,
-  LinkIcon,
-  SparklesIcon,
   ArrowLeftIcon,
   ArrowRightIcon,
   BookOpenIcon,
 } from '../components/icons';
+import ShareButtons from '../components/ShareButtons';
 import { formatTag, tagPath } from '../utils/tags';
 
 const MAIN_SITE = 'https://www.baca-quran.id';
 const ARTICLE_ID = 'article';
 const MIN_TOC_HEADINGS = 3;
-
-const copyText = async text => {
-  try {
-    await navigator.clipboard.writeText(text);
-    return true;
-  } catch (e) {
-    try {
-      const area = document.createElement('textarea');
-      area.value = text;
-      area.setAttribute('readonly', '');
-      area.style.position = 'fixed';
-      area.style.opacity = '0';
-      document.body.appendChild(area);
-      area.select();
-      const ok = document.execCommand('copy');
-      document.body.removeChild(area);
-      return ok;
-    } catch (err) {
-      return false;
-    }
-  }
-};
-
-const CopyButton = ({ getText, label, doneLabel, ariaLabel, icon }) => {
-  const [status, setStatus] = useState('idle');
-
-  const handleClick = async () => {
-    const ok = await copyText(getText());
-    setStatus(ok ? 'done' : 'error');
-    setTimeout(() => setStatus('idle'), 2000);
-  };
-
-  return (
-    <button
-      type="button"
-      onClick={handleClick}
-      className="post-actions__btn post-actions__btn--copy"
-      aria-label={ariaLabel}
-    >
-      {icon}
-      <span aria-live="polite">
-        {status === 'done' ? doneLabel : status === 'error' ? 'Gagal menyalin' : label}
-      </span>
-    </button>
-  );
-};
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
@@ -84,9 +33,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   };
 
   const pageUrl = `https://www.baca-quran.id${location.pathname}`;
-  const encodedUrl = encodeURIComponent(pageUrl);
-  const encodedTitle = encodeURIComponent(post.frontmatter.title);
-  const encodedDesc = encodeURIComponent(post.frontmatter.description || '');
   const aiText = `# ${post.frontmatter.title}\n\nSumber: ${pageUrl}\n\n${post.rawMarkdownBody}`;
   const editPath = location.pathname.replace(rootPath, '');
 
@@ -164,61 +110,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <span className="post-actions__label" id="share-label">
                   Bagikan artikel ini
                 </span>
-                <div className="post-actions__share" role="group" aria-labelledby="share-label">
-                  <a
-                    href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}&title=${encodedTitle}&description=${encodedDesc}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="post-actions__btn post-actions__btn--facebook"
-                    aria-label="Bagikan ke Facebook"
-                  >
-                    <FacebookIcon />
-                    Facebook
-                  </a>
-                  <a
-                    href={`https://x.com/intent/post?text=${encodedTitle}&url=${encodedUrl}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="post-actions__btn post-actions__btn--x"
-                    aria-label="Bagikan ke X"
-                  >
-                    <XIcon />X
-                  </a>
-                  <a
-                    href={`https://wa.me/?text=${encodedTitle}%20${encodedUrl}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="post-actions__btn post-actions__btn--whatsapp"
-                    aria-label="Bagikan ke WhatsApp"
-                  >
-                    <WhatsAppIcon />
-                    WhatsApp
-                  </a>
-                  <CopyButton
-                    getText={() => pageUrl}
-                    label="Salin Tautan"
-                    doneLabel="Tautan disalin"
-                    ariaLabel="Salin tautan artikel"
-                    icon={<LinkIcon />}
-                  />
-                  <CopyButton
-                    getText={() => aiText}
-                    label="Salin untuk AI"
-                    doneLabel="Teks disalin"
-                    ariaLabel="Salin seluruh isi artikel dalam format teks untuk AI"
-                    icon={<SparklesIcon />}
-                  />
-                  <a
-                    href={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${editPath}index.md`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="post-actions__btn post-actions__btn--github"
-                    aria-label="Perbaiki artikel ini di GitHub"
-                  >
-                    <GitHubIcon />
-                    Perbaiki di GitHub
-                  </a>
-                </div>
+                <ShareButtons
+                  labelledBy="share-label"
+                  pageUrl={pageUrl}
+                  title={post.frontmatter.title}
+                  description={post.frontmatter.description}
+                  aiText={aiText}
+                  editUrl={`https://github.com/mazipan-quran-offline/tulisan/blob/master/content/blog/${editPath}index.md`}
+                />
               </div>
 
               <aside className="cta-card" aria-labelledby="cta-title">
@@ -256,6 +155,27 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 </div>
               </section>
             </div>
+
+            <aside className="post-rail" aria-label="Bagikan dan jelajahi">
+              <p className="post-rail__heading" id="rail-share">
+                Bagikan
+              </p>
+              <ShareButtons
+                compact
+                labelledBy="rail-share"
+                pageUrl={pageUrl}
+                title={post.frontmatter.title}
+                description={post.frontmatter.description}
+              />
+              <p className="post-rail__heading">Di Baca-Quran.id</p>
+              <ul className="post-rail__links" role="list">
+                <li><a href={`${MAIN_SITE}/all-surah/`}>Semua Surah</a></li>
+                <li><a href={`${MAIN_SITE}/juz-amma/`}>Juz Amma</a></li>
+                <li><a href={`${MAIN_SITE}/ayat-kursi/`}>Ayat Kursi</a></li>
+                <li><a href={`${MAIN_SITE}/tasbih/`}>Tasbih Digital</a></li>
+                <li><a href={`${MAIN_SITE}/daily-doa/`}>Doa Harian</a></li>
+              </ul>
+            </aside>
           </div>
         </article>
 
