@@ -1,7 +1,7 @@
 ---
 title: Doa Agar Dilunasi Hutang dan Terhindar dari Beban Hutang
 description: Doa agar dilunasi hutang dalam bahasa Indonesia dan Arab dari hadis Bukhari serta Tirmidzi, lengkap dengan arti, ayat penguat, dan langkah menjaga diri.
-date: '2026-12-11T03:00:00.000Z'
+date: '2027-04-22T03:00:00.000Z'
 tags: ["doa", "ibadah"]
 ---
 
@@ -95,7 +95,7 @@ Baca juga [ayat Al-Quran tentang rezeki](/2026-05-28-ayat-al-quran-tentang-rezek
 
 Allah juga memerintahkan agar pemberi pinjaman bersikap lapang. Dalam [QS. Al-Baqarah ayat 280](https://www.baca-quran.id/surah/2/280/), Allah berfirman bahwa jika orang yang berhutang berada dalam kesulitan, maka berilah tenggang waktu sampai ia memperoleh kelapangan, dan bila kalian menyedekahkannya itu lebih baik. Ayat ini memberi harapan bagi yang berhutang dan menjadi pengingat bagi yang menghutangi.
 
-**Cari tambahan penghasilan yang halal dan kurangi pengeluaran yang tidak perlu.** Jika Anda sedang mencari pekerjaan atau akan memulai usaha, baca [doa mencari pekerjaan dan wawancara kerja](/2026-11-26-doa-mencari-pekerjaan-dan-wawancara-kerja/) serta [doa memulai usaha baru](/2026-11-29-doa-memulai-usaha-baru/). Hindari menutup hutang dengan hutang baru yang mengandung riba, sebab itu hanya memperberat beban. Untuk menjaga hati tetap tenang, perbanyak istighfar dan dzikir, dan kunjungi [Baca-Quran.id](https://www.baca-quran.id/) untuk membaca ayat-ayat penenang setiap hari.
+**Cari tambahan penghasilan yang halal dan kurangi pengeluaran yang tidak perlu.** Jika Anda sedang mencari pekerjaan atau akan memulai usaha, baca [doa mencari pekerjaan dan wawancara kerja](/2027-02-11-doa-mencari-pekerjaan-dan-wawancara-kerja/) serta [doa memulai usaha baru](/2027-02-25-doa-memulai-usaha-baru/). Hindari menutup hutang dengan hutang baru yang mengandung riba, sebab itu hanya memperberat beban. Untuk menjaga hati tetap tenang, perbanyak istighfar dan dzikir, dan kunjungi [Baca-Quran.id](https://www.baca-quran.id/) untuk membaca ayat-ayat penenang setiap hari.
 
 ## Pertanyaan yang Sering Ditanyakan
 
