@@ -9,6 +9,32 @@ Menanti kehadiran anak bisa terasa seperti ujian yang sunyi. Dari luar, orang mu
 
 Al-Quran tidak menutup mata terhadap perasaan itu. Kisah Nabi Zakariya dan Nabi Ibrahim menunjukkan bahwa keduanya pun pernah menunggu lama, lalu berdoa dengan lembut dan penuh harap. Doa yang paling sering dibaca adalah "Rabbi hab lii min ladunka dzurriyyatan thayyibah", dari [QS. Ali Imran ayat 38](https://www.baca-quran.id/surah/3/38/), yang artinya "Ya Tuhanku, berilah aku keturunan yang baik dari sisi-Mu."
 
+## Doa Siap Pakai Meminta Keturunan
+
+Doa ini ditulis dengan kata kami agar bisa dibaca suami istri bersama. Jika Anda berdoa sendirian, ubah kata kami menjadi aku. Bacalah dengan hati yang tenang, terutama di sepertiga malam terakhir.
+
+> Bismillahirrahmanirrahim. Ya Allah, kami datang kepada-Mu sebagai dua hamba yang sedang berharap. Engkau tahu betapa kami merindukan suara tangis seorang bayi di rumah ini. Engkau tahu malam-malam ketika kami saling diam karena tidak tahu harus berkata apa, dan hari-hari ketika kami harus tersenyum menjawab pertanyaan orang yang tidak mengerti betapa dalam luka di hati kami. Kami tidak ingin menyalahkan siapa pun, ya Allah. Kami hanya ingin mengadu kepada-Mu.
+>
+> Ya Allah, Engkau Pemilik langit dan bumi. Engkau menciptakan apa yang Engkau kehendaki, dan Engkau menganugerahkan anak kepada siapa yang Engkau kehendaki. Kami ingat doa Nabi Zakariya yang memohon keturunan yang baik dari sisi-Mu, dan doa beliau agar tidak dibiarkan hidup seorang diri. Kami ingat Nabi Ibrahim yang dikaruniai Ismail dan Ishaq di usia senja, dan mengakui bahwa Engkau benar-benar Maha Mendengar doa. Maka dengarkanlah doa kami, ya Allah, sebagaimana Engkau mendengar doa mereka.
+>
+> Ya Allah, karuniakanlah kepada kami keturunan yang baik, yang saleh dan salehah, yang menjadi penyejuk mata bagi kami dan menjadi sebab kami lebih dekat kepada-Mu. Sehatkan tubuh kami berdua, mudahkan ikhtiar kami, dan pertemukan kami dengan orang yang tepat untuk membantu. Jika waktunya belum tiba, kuatkan hati kami untuk menunggu dengan sabar. Jangan biarkan kerinduan ini membuat kami saling menyalahkan, tetapi jadikan kami semakin kompak, semakin lembut, dan semakin saling menguatkan.
+>
+> Ya Allah, jauhkan hati kami dari iri terhadap orang lain, dan penuhilah hati kami dengan syukur atas nikmat yang sudah ada. Lapangkan dada kami dari ucapan yang melukai, dan gantilah luka itu dengan ketenangan. Apa pun keputusan-Mu, jadikan kami hamba yang ridha dan berbaik sangka. Sesungguhnya Engkau Maha Mendengar doa. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Contoh Doa Meminta Anak dalam Bahasa Indonesia?
 
 **Berdoalah dengan jujur tentang kerinduan Anda, lalu serahkan waktunya kepada Allah.** Doa berikut bisa dibaca oleh suami dan istri, sendiri-sendiri atau bersama setelah sholat.
