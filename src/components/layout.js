@@ -45,6 +45,7 @@ const FOOTER_GROUPS = [
       { text: 'Web Stories', href: `${MAIN_SITE}/stories/` },
       { text: 'Web Tool Libraries', href: 'https://tools.mazipan.space/' },
       { text: 'Games', href: 'https://games.mazipan.space/' },
+      { text: 'Coding', href: 'https://coding.mazipan.space/' },
       { text: 'Irfan Maulana', href: 'https://mazipan.space/' },
     ],
   },
