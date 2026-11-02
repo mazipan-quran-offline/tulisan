@@ -1,7 +1,7 @@
 ---
 title: Doa Saat Berduka dan Kehilangan Orang Tercinta
 description: Doa saat berduka dan kehilangan orang tercinta dalam bahasa Indonesia dan Arab, lengkap dengan arti, bacaan innalillahi, dan cara menenangkan hati yang bersedih.
-date: '2026-12-02T03:00:00.000Z'
+date: '2027-03-11T03:00:00.000Z'
 tags: ["doa", "akhlak"]
 ---
 
@@ -107,7 +107,7 @@ Kalimat ini sangat cocok Anda ucapkan, atau sampaikan kepada keluarga yang sedan
 
 "Hanya kepada Allah aku mengadukan kesusahan dan kesedihanku."
 
-Anda dapat membaca juga [ayat Al-Quran tentang kematian](/2026-07-29-ayat-al-quran-tentang-kematian/), [ayat Al-Quran tentang sabar](/2026-05-28-ayat-al-quran-tentang-sabar/), dan [ayat Al-Quran tentang ketenangan hati](/2026-05-28-ayat-al-quran-tentang-ketenangan-hati/) untuk menguatkan jiwa. Selain itu, doa untuk orang tua yang telah wafat bisa dibaca di artikel [doa untuk orang tua](/2026-11-11-doa-untuk-orang-tua/). Bila Anda ingin menemukan ketenangan lewat bacaan, kunjungi [Baca-Quran.id](https://www.baca-quran.id/) dan bacalah beberapa ayat setiap hari.
+Anda dapat membaca juga [ayat Al-Quran tentang kematian](/2026-07-29-ayat-al-quran-tentang-kematian/), [ayat Al-Quran tentang sabar](/2026-05-28-ayat-al-quran-tentang-sabar/), dan [ayat Al-Quran tentang ketenangan hati](/2026-05-28-ayat-al-quran-tentang-ketenangan-hati/) untuk menguatkan jiwa. Selain itu, doa untuk orang tua yang telah wafat bisa dibaca di artikel [doa untuk orang tua](/2026-12-03-doa-untuk-orang-tua/). Bila Anda ingin menemukan ketenangan lewat bacaan, kunjungi [Baca-Quran.id](https://www.baca-quran.id/) dan bacalah beberapa ayat setiap hari.
 
 ## Bagaimana Menguatkan Diri di Hari-hari Berduka?
 
