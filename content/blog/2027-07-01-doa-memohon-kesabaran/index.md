@@ -1,7 +1,7 @@
 ---
 title: Doa Memohon Kesabaran dan Kekuatan Saat Ujian Hidup
 description: Doa memohon kesabaran dan kekuatan saat ujian hidup dalam bahasa Indonesia dan Arab dari Al-Quran, lengkap dengan arti dan kisah para nabi yang bisa menguatkan hati.
-date: '2026-12-26T03:00:00.000Z'
+date: '2027-07-01T03:00:00.000Z'
 tags: ["doa", "akhlak"]
 ---
 
@@ -99,7 +99,7 @@ Menurut terjemahan Kemenag, kata "adh-dhurr" di ayat ini diartikan penyakit. Mak
 
 **Al-Quran menyebut sabar dan sholat sebagai penolong utama.** Dalam [QS. Al-Baqarah ayat 153](https://www.baca-quran.id/surah/2/153/), Allah berfirman agar orang beriman memohon pertolongan dengan sabar dan sholat, karena Allah beserta orang yang sabar. Kebersamaan Allah ini adalah jaminan terbesar bagi hati yang lelah. Dalam [QS. Az-Zumar ayat 10](https://www.baca-quran.id/surah/39/10/), disebutkan pula bahwa orang yang bersabar akan disempurnakan pahalanya tanpa batas.
 
-Kita bisa memulainya dari hal kecil, misalnya menjaga sholat tepat waktu ketika sedang sibuk atau sedih, serta berbicara dengan orang yang menguatkan. Bila Anda sedang berduka, baca [doa saat berduka dan kehilangan orang tercinta](/2026-12-02-doa-saat-berduka-dan-kehilangan/). Bila hati dilanda gelisah, lihat [doa saat cemas dan sedih](/2026-12-14-doa-saat-cemas-dan-sedih/). Dan untuk bahan renungan, buka [ayat Al-Quran tentang sabar](/2026-05-28-ayat-al-quran-tentang-sabar/).
+Kita bisa memulainya dari hal kecil, misalnya menjaga sholat tepat waktu ketika sedang sibuk atau sedih, serta berbicara dengan orang yang menguatkan. Bila Anda sedang berduka, baca [doa saat berduka dan kehilangan orang tercinta](/2027-03-11-doa-saat-berduka-dan-kehilangan/). Bila hati dilanda gelisah, lihat [doa saat cemas dan sedih](/2027-05-06-doa-saat-cemas-dan-sedih/). Dan untuk bahan renungan, buka [ayat Al-Quran tentang sabar](/2026-05-28-ayat-al-quran-tentang-sabar/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
