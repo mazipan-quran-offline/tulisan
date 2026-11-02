@@ -1,7 +1,7 @@
 ---
 title: Doa Menjelang Ujian agar Dimudahkan dan Tenang
 description: Doa menjelang ujian dalam bahasa Indonesia dan Arab dari Al-Quran, lengkap dengan cara menenangkan hati agar lebih fokus dan mudah mengingat pelajaran.
-date: '2026-11-14T03:00:00.000Z'
+date: '2026-12-17T03:00:00.000Z'
 tags: ["doa", "tips"]
 ---
 
