@@ -1,7 +1,7 @@
 ---
 title: Doa Saat Marah dan Cara Meredam Emosi
 description: Doa saat marah dalam bahasa Indonesia dan Arab dari hadis Bukhari, lengkap dengan arti, ayat tentang menahan amarah, dan cara praktis meredam emosi.
-date: '2026-12-17T03:00:00.000Z'
+date: '2027-05-20T03:00:00.000Z'
 tags: ["doa", "akhlak"]
 ---
 
@@ -103,7 +103,7 @@ Al-Quran memuji sifat ini dalam [QS. Ali Imran ayat 134](https://www.baca-quran.
 
 **Beri contoh sebelum memberi nasihat.** Anak belajar paling banyak dari cara orang tuanya bereaksi. Ketika Anda marah dan memilih berhenti sejenak lalu mengucapkan isti'adzah, anak melihat contoh nyata bahwa marah bisa dikelola. Setelah emosi reda, ajak anak berbicara dengan tenang tentang apa yang terjadi dan apa yang bisa dilakukan lain kali.
 
-Ajarkan pula doa-doa pendek agar ia punya pegangan sendiri. Untuk bahan lain tentang membimbing anak, baca [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/) dan [doa saat cemas dan sedih agar hati tenang](/2026-12-14-doa-saat-cemas-dan-sedih/).
+Ajarkan pula doa-doa pendek agar ia punya pegangan sendiri. Untuk bahan lain tentang membimbing anak, baca [doa untuk anak dan keluarga](/2026-05-29-doa-untuk-anak-dan-keluarga/) dan [doa saat cemas dan sedih agar hati tenang](/2027-05-06-doa-saat-cemas-dan-sedih/).
 
 ## Pertanyaan yang Sering Ditanyakan
 
