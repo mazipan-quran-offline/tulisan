@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -49,7 +49,7 @@ Doa ini bisa Anda baca setelah sholat, saat sujud, atau ketika sedang sendirian 
 
 **Bacaan Arab**
 
-> رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرࣰا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا
+> رَبَّنَآ اَفْرِغْ عَلَيْنَا صَبْرًا وَّثَبِّتْ اَقْدَامَنَا وَانْصُرْنَا
 
 **Bacaan Latin**
 
@@ -67,7 +67,7 @@ Kata "afrigh" bermakna menuangkan, seolah kesabaran dituangkan dari atas ke dala
 
 **Bacaan Arab**
 
-> فَصَبۡرࣱ جَمِيلࣱۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
+> فَصَبْرٌ جَمِيْلٌ ۗوَاللّٰهُ الْمُسْتَعَانُ عَلٰى مَا تَصِفُوْنَ
 
 **Bacaan Latin**
 
@@ -83,7 +83,7 @@ Kata "afrigh" bermakna menuangkan, seolah kesabaran dituangkan dari atas ke dala
 
 **Bacaan Arab**
 
-> أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ
+> اَنِّيْ مَسَّنِيَ الضُّرُّ وَاَنْتَ اَرْحَمُ الرَّاحِمِيْنَ
 
 **Bacaan Latin**
 
