@@ -25,7 +25,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+> رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّفِى الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ
 
 **Bacaan Latin**
 
@@ -41,7 +41,7 @@ Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 2
 
 **Bacaan Arab**
 
-> إِنَّا لِلَّهِ وَإِنَّآ إِلَيۡهِ رَٰجِعُونَ
+> اِنَّا لِلّٰهِ وَاِنَّآ اِلَيْهِ رٰجِعُوْنَۗ
 
 **Bacaan Latin**
 
@@ -97,7 +97,7 @@ Kalimat ini sangat cocok Anda ucapkan, atau sampaikan kepada keluarga yang sedan
 
 **Bacaan Arab**
 
-> إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ
+> اِنَّمَآ اَشْكُوْا بَثِّيْ وَحُزْنِيْٓ اِلَى اللّٰهِ
 
 **Bacaan Latin**
 
