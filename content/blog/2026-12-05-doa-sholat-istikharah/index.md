@@ -9,6 +9,32 @@ Ada keputusan hidup yang tidak bisa diselesaikan hanya dengan daftar untung rugi
 
 Sholat istikharah adalah sholat sunnah dua rakaat yang dikerjakan ketika seseorang akan mengambil keputusan penting, lalu ditutup dengan doa istikharah. Rasulullah SAW mengajarkannya kepada para sahabat sebagaimana beliau mengajarkan satu surat dari Al-Quran, menurut hadis riwayat Bukhari nomor 1162 dari Jabir bin Abdullah.
 
+## Doa Siap Pakai Setelah Sholat Istikharah
+
+Bacalah doa istikharah dari hadis di atas terlebih dahulu. Setelah itu, jika Anda ingin menumpahkan isi hati dengan bahasa sendiri tetapi tidak tahu harus berkata apa, bacalah doa berikut. Sebutkan urusan yang sedang Anda hadapi pada bagian yang diberi tanda kurung.
+
+> Ya Allah, aku baru saja menunaikan sholat dua rakaat dan membaca doa istikharah. Sekarang aku duduk di hadapan-Mu dengan hati yang jujur. Aku sedang bingung memilih (sebutkan urusannya, misalnya menerima lamaran, pindah pekerjaan, atau membeli rumah). Aku sudah menimbang, bertanya, dan berdiskusi, tetapi hatiku masih bergetar di antara dua pilihan. Aku sadar ilmuku terbatas, pandanganku pendek, dan keinginanku sering bercampur dengan rasa takut. Karena itu aku menyerahkan pilihan ini kepada-Mu.
+>
+> Ya Allah, Engkau Maha Mengetahui apa yang tidak kuketahui, dan Engkau Maha Kuasa atas apa yang tidak kukuasai. Jika urusan ini baik bagi agamaku, kehidupanku, dan akhir dari segala urusanku, maka tetapkanlah ia untukku, mudahkanlah jalannya, dan berkahilah aku di dalamnya. Tetapi jika ia buruk bagiku, palingkanlah ia dariku dan palingkanlah aku darinya, lalu tetapkanlah kebaikan untukku di mana pun kebaikan itu berada, dan jadikan aku ridha dengannya.
+>
+> Ya Allah, bersihkan hatiku dari kecondongan yang berlebihan terhadap salah satu pilihan. Jika hatiku sangat menginginkan sesuatu, jangan biarkan keinginan itu membutakan penilaianku. Jika aku takut pada sesuatu, jangan biarkan rasa takut itu menghalangiku dari kebaikan. Tunjukkan kepadaku tanda-tanda yang jelas melalui kemudahan atau kesulitan dalam urusan ini, dan berikan aku ketenangan untuk membacanya.
+>
+> Ya Allah, berilah aku kebesaran hati untuk menerima apa pun keputusan-Mu. Jika pintu ini terbuka, jadikan aku bersyukur. Jika pintu ini tertutup, jangan biarkan aku kecewa berlarut-larut, dan gantilah dengan yang lebih baik. Aku bertawakal kepada-Mu, sebab Engkau sebaik-baik tempat berserah. Aamiin ya Rabbal 'alamin.
+
+Tutup doa Anda dengan doa kebaikan dunia dan akhirat dari [QS. Al-Baqarah ayat 201](https://www.baca-quran.id/surah/2/201/), lalu ucapkan aamiin.
+
+**Bacaan Arab**
+
+> رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةࣰ وَفِي ٱلۡأٓخِرَةِ حَسَنَةࣰ وَقِنَا عَذَابَ ٱلنَّارِ
+
+**Bacaan Latin**
+
+*Rabbanaa aatinaa fid-dunyaa hasanah, wa fil-aakhirati hasanah, wa qinaa 'adzaaban-naar.*
+
+**Artinya**
+
+"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+
 ## Apa Bacaan Doa Sholat Istikharah?
 
 **Doa istikharah memuat pengakuan bahwa kita tidak tahu dan tidak mampu, sedangkan Allah Maha Mengetahui dan Maha Kuasa.** Setelah itu kita menyebutkan urusan yang sedang dihadapi dan memohon agar Allah menetapkannya bila baik, atau memalingkannya bila buruk. Dalam hadis disebutkan bahwa pembaca doa menyebut hajatnya pada kata "hadzal amra", yaitu urusan ini. Anda bisa menyebut urusannya dalam hati atau dengan lisan, misalnya menikah dengan seseorang, menerima pekerjaan tertentu, atau membeli rumah.
