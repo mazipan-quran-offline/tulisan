@@ -41,7 +41,7 @@ Ayat ini berada di rangkaian sifat orang beriman yang beruntung. Amanah dan janj
 
 **Artinya** Sesungguhnya Kami telah menawarkan amanat kepada langit, bumi dan gunung-gunung; tetapi semuanya enggan untuk memikul amanat itu dan mereka khawatir tidak akan melaksanakannya (berat), lalu dipikullah amanat itu oleh manusia. Sungguh, manusia itu sangat zalim dan sangat bodoh,
 
-Ayat ini menggambarkan betapa beratnya amanah, sampai langit, bumi, dan gunung enggan memikulnya. Para ulama tafsir berbeda dalam merinci apa yang dimaksud amanah di sini, antara lain beban menjalankan perintah agama dan tanggung jawab sebagai hamba. Apa pun rincian tafsirnya, pesannya sama, memikul amanah bukan perkara ringan. Karena itu jangan mudah menerima tanggung jawab yang tidak sanggup kita jalankan, dan jangan menyepelekannya setelah menerimanya.
+Ayat ini menggambarkan betapa beratnya amanah, sampai langit, bumi, dan gunung enggan memikulnya. Tafsir Kemenag pada data Baca-Quran.id menjelaskan bahwa amanah di sini adalah tugas-tugas keagamaan yang ditawarkan kepada langit, bumi, dan gunung, lalu diterima oleh manusia. Pesannya, memikul amanah bukan perkara ringan. Karena itu jangan mudah menerima tanggung jawab yang tidak sanggup kita jalankan, dan jangan menyepelekannya setelah menerimanya.
 
 ## 5. [QS. Al-Baqarah ayat 283](https://www.baca-quran.id/surah/2/283/)
 
@@ -93,13 +93,13 @@ Surat ini membuka dengan ancaman keras bagi orang yang curang menakar dan menimb
 
 ## Hadis tentang Amanah dan Kejujuran
 
-Dua hadis sahih ini melengkapi ayat-ayat di atas. Teks Arab disalin dari dataset kitab hadis fawazahmed0/hadith-api.
+Dua hadis dari Sahih Bukhari ini melengkapi ayat-ayat di atas. Teks Arab disalin dari dataset kitab hadis fawazahmed0/hadith-api, lalu nomor, bab, dan isinya kami cocokkan dengan dataset kedua, AhmedBaset/hadith-json. Kami belum bisa mencocokkannya dengan Sunnah.com.
 
-**Tanda orang munafik** Abu Hurairah meriwayatkan, Nabi bersabda bahwa tanda orang munafik ada tiga, apabila berbicara ia berdusta, apabila berjanji ia mengingkari, dan apabila dipercaya ia berkhianat. Diriwayatkan Bukhari nomor 33.
+**Tanda orang munafik** Abu Hurairah meriwayatkan, Nabi bersabda bahwa tanda orang munafik ada tiga, apabila berbicara ia berdusta, apabila berjanji ia mengingkari, dan apabila dipercaya ia berkhianat. Diriwayatkan Bukhari nomor 33 (Kitab Iman).
 
 **Bacaan Arab** آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ
 
-**Jujur menuntun ke surga** Abdullah bin Mas'ud meriwayatkan, Nabi bersabda bahwa kejujuran menuntun kepada kebaikan, dan kebaikan menuntun ke surga. Seseorang yang terus berusaha jujur akan dicatat di sisi Allah sebagai orang yang sangat jujur. Sebaliknya, dusta menuntun kepada kejahatan dan kejahatan menuntun ke neraka. Diriwayatkan Bukhari nomor 6094.
+**Jujur menuntun ke surga** Abdullah bin Mas'ud meriwayatkan, Nabi bersabda bahwa kejujuran menuntun kepada kebaikan, dan kebaikan menuntun ke surga. Seseorang yang terus berusaha jujur akan dicatat di sisi Allah sebagai orang yang sangat jujur. Sebaliknya, dusta menuntun kepada kejahatan dan kejahatan menuntun ke neraka. Diriwayatkan Bukhari nomor 6094 (Kitab Adab). Teks Bukhari hanya menulis "Abdullah", tetapi riwayat bermakna serupa dalam Tirmidzi nomor 1971 menyebut nama Abdullah bin Mas'ud.
 
 **Bacaan Arab** إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يَكُونَ صِدِّيقًا، وَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ، حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابًا
 
