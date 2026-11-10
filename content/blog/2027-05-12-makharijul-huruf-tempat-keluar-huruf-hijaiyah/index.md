@@ -5,13 +5,13 @@ date: '2027-05-12T08:00:00.000Z'
 tags: ["tajwid", "quran", "tips"]
 ---
 
-Banyak orang yang sudah lancar membaca huruf Arab tetap merasa ada yang kurang pas, terutama pada huruf yang bunyinya mirip seperti ha dan ha, atau sin dan shad. Penyebabnya sering sederhana, yaitu huruf-huruf itu belum keluar dari tempat yang tepat. Ilmu yang membahasnya disebut makharijul huruf.
+Banyak orang yang sudah lancar membaca huruf Arab tetap merasa ada yang kurang pas, terutama pada huruf yang bunyinya mirip seperti dua huruf ha (ه dan ح), atau sin dan shad. Penyebabnya sering sederhana, yaitu huruf-huruf itu belum keluar dari tempat yang tepat. Ilmu yang membahasnya disebut makharijul huruf.
 
-**Jawaban singkatnya**, makharijul huruf adalah ilmu tentang tempat keluarnya setiap huruf hijaiyah. Makharij adalah bentuk jamak dari makhraj, yang berarti tempat keluar. Secara umum, tempat itu dibagi menjadi lima kawasan, yaitu jauf (rongga mulut), halq (tenggorokan), lisan (lidah), syafatain (dua bibir), dan khaisyum (rongga hidung). Jika dirinci, jumlah tempat keluarnya 17 menurut hitungan yang paling banyak dipakai. Pembahasan ini melengkapi [panduan tajwid dasar untuk pemula](/2026-05-17-panduan-tajwid-dasar-untuk-pemula/) dengan penjelasan yang lebih dalam.
+**Jawaban singkatnya**, makharijul huruf adalah ilmu tentang tempat keluarnya setiap huruf hijaiyah. Makharij adalah bentuk jamak dari makhraj, yang berarti tempat keluar. Secara umum, tempat itu dibagi menjadi lima kawasan, yaitu jauf (rongga mulut), halq (tenggorokan), lisan (lidah), syafatain (dua bibir), dan khaisyum (rongga hidung). Jika dirinci, jumlah tempat keluarnya 17 menurut hitungan yang paling umum diajarkan di Indonesia. Pembahasan ini melengkapi [panduan tajwid dasar untuk pemula](/2026-05-17-panduan-tajwid-dasar-untuk-pemula/) dengan penjelasan yang lebih dalam.
 
 ## Mengapa Makharijul Huruf Penting?
 
-Satu huruf yang keluar dari tempat yang salah dapat mengubah bunyi, dan terkadang mengubah arti. Allah memerintahkan kita membaca Al-Quran dengan tartil dalam [QS. Al-Muzzammil ayat 4](https://www.baca-quran.id/surah/73/4/), dan salah satu unsur utama tartil adalah mengucapkan huruf dengan jelas dari tempatnya. Makharijul huruf adalah fondasi, sedangkan sifat huruf dan hukum bacaan seperti nun mati dan mad dibangun di atasnya.
+Satu huruf yang keluar dari tempat yang salah dapat mengubah bunyi, dan terkadang mengubah arti. Allah memerintahkan kita membaca Al-Quran dengan tartil dalam [QS. Al-Muzzammil ayat 4](https://www.baca-quran.id/surah/73/4/), dan tartil sering dipahami sebagai membaca dengan perlahan dan jelas, termasuk mengucapkan setiap huruf dari tempatnya. Makharijul huruf adalah fondasi, sedangkan sifat huruf dan hukum bacaan seperti nun mati dan mad dibangun di atasnya.
 
 Menariknya, kemampuan ini tidak harus dimulai dari hafalan istilah. Anak-anak belajar mengucapkan huruf dengan meniru gurunya. Orang dewasa pun bisa begitu, dengan tambahan kesadaran tentang bagian mulut mana yang sedang bekerja. Karena itu bagian ini dibuat praktis dan mudah diikuti.
 
@@ -51,11 +51,11 @@ Tabel berikut mengikuti hitungan 17 makhraj, dan nama huruf dalam bahasa Indones
 | Syafatain | Dua bibir | و ب م (waw, ba, mim) |
 | Khaisyum | Rongga hidung | Ghunnah |
 
-Baris pada tabel di atas berjumlah 17, yaitu 1 untuk jauf, 3 untuk halq, 10 untuk lisan, 2 untuk syafatain, dan 1 untuk khaisyum.
+Baris pada tabel di atas berjumlah 17, yaitu 1 untuk jauf, 3 untuk halq, 10 untuk lisan, 2 untuk syafatain, dan 1 untuk khaisyum. Adapun 28 huruf hijaiyah terbagi menjadi 6 huruf halq, 18 huruf lisan, dan 4 huruf syafatain. Alif, waw, dan ya pada jauf adalah bentuk panjang (mad) dari huruf yang sudah dihitung di kawasan lain, jadi tidak menambah jumlah 28.
 
 ## Mengapa Jumlahnya Ada yang 17 dan Ada yang Berbeda?
 
-Hitungan 17 makhraj adalah hitungan yang paling banyak dipakai dalam buku ajar tajwid di Indonesia dan dalam tradisi qiraat. Namun para ulama memang berbeda dalam menghitungnya. Sebagian ulama terdahulu menghitung lebih sedikit, misalnya 14 atau 16 makhraj, karena menggabungkan beberapa titik di lidah atau tidak menghitung jauf dan khaisyum sebagai tempat tersendiri. Perbedaan ini terletak pada cara menghitung, bukan pada bunyi hurufnya, karena huruf yang sama tetap harus dibaca dengan benar. Artikel ini memakai hitungan 17 karena paling umum diajarkan.
+Hitungan 17 makhraj adalah yang paling umum diajarkan dalam buku ajar tajwid di Indonesia, dan artikel ini memakainya. Anda mungkin menemukan buku atau guru yang menyebut jumlah lain, karena cara mengelompokkan titik di lidah, serta apakah jauf dan khaisyum dihitung sebagai tempat tersendiri, bisa berbeda. Kami tidak merinci angka lain itu karena belum bisa diverifikasi ke sumber tertentu. Yang terpenting, perbedaan hitungan terletak pada cara mengelompokkan, bukan pada bunyi hurufnya, sehingga huruf yang sama tetap harus dibaca dengan benar. Bila ingin tahu lebih jauh, tanyakan kepada guru tajwid Anda.
 
 ## Berlatih Mengenali Makhraj dari Ayat
 
@@ -69,7 +69,7 @@ Cara praktis adalah mengambil satu ayat pendek, lalu menunjuk tempat keluar seti
 
 **Artinya** Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa.
 
-Pada kata "قُلْ" huruf qaf keluar dari pangkal lidah yang paling dalam. Pada "هُوَ" ha keluar dari pangkal tenggorokan, sedangkan "اَحَدٌۚ" memuat ha yang keluar dari tengah tenggorokan. Cobalah mengucapkan keduanya bergantian, dan rasakan bahwa ha pertama lebih dalam dan lebih ringan, sedangkan ha kedua lebih menggesek. Latihan berikutnya ada di [QS. Al-Fatihah ayat 2](https://www.baca-quran.id/surah/1/2/), pada kata "اَلْحَمْدُ" yang memuat ha dari tengah tenggorokan.
+Pada kata "قُلْ" huruf qaf keluar dari pangkal lidah yang paling dalam. Pada "هُوَ" ha keluar dari pangkal tenggorokan, sedangkan "اَحَدٌۚ" memuat ha yang keluar dari tengah tenggorokan. Cobalah mengucapkan keduanya bergantian, dan rasakan bahwa ha pertama keluar lebih dalam di tenggorokan daripada ha kedua. Latihan berikutnya ada di [QS. Al-Fatihah ayat 2](https://www.baca-quran.id/surah/1/2/), pada kata "اَلْحَمْدُ" yang memuat ha dari tengah tenggorokan.
 
 ## Tips Praktis Belajar Makhraj
 
@@ -87,7 +87,7 @@ Pada kata "قُلْ" huruf qaf keluar dari pangkal lidah yang paling dalam. Pada
 
 **Apa itu makharijul huruf?** Makharijul huruf adalah ilmu tentang tempat keluarnya huruf-huruf hijaiyah ketika diucapkan. Satu tempat keluar disebut makhraj.
 
-**Ada berapa makhraj huruf hijaiyah?** Hitungan yang paling umum adalah 17 makhraj yang terbagi dalam lima kawasan. Sebagian ulama menghitungnya berbeda, tetapi huruf-huruf yang dibahas sama.
+**Ada berapa makhraj huruf hijaiyah?** Hitungan yang paling umum adalah 17 makhraj yang terbagi dalam lima kawasan. Cara pengelompokan lain bisa menghasilkan jumlah yang berbeda, tetapi huruf-huruf yang dibahas sama.
 
 **Apa lima kawasan makhraj?** Kelima kawasan itu adalah jauf (rongga mulut), halq (tenggorokan), lisan (lidah), syafatain (dua bibir), dan khaisyum (rongga hidung).
 
