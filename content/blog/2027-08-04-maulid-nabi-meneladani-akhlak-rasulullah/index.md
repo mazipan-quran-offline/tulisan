@@ -7,13 +7,13 @@ tags: ["akhlak", "sejarah", "ibadah"]
 
 Setiap bulan Rabiul Awal, spanduk Maulid Nabi mulai terpasang, pengajian digelar, dan anak-anak membaca shalawat di masjid kampung. Di tengah keramaian itu, ada pertanyaan yang pantas kita ajukan pada diri sendiri. Setelah acara selesai dan lampu dimatikan, apa yang berubah dari akhlak kita? Maulid yang bermakna bukan yang paling meriah, melainkan yang membuat kita sedikit lebih mirip dengan Nabi.
 
-**Jawaban singkat.** Maulid Nabi adalah peringatan kelahiran Nabi Muhammad shallallahu 'alaihi wasallam, yang umumnya disebut jatuh pada 12 Rabiul Awal. Para ulama berbeda pendapat tentang hukum merayakannya, tetapi mereka sepakat bahwa mencintai Nabi berarti meneladani akhlaknya. Perkiraan 12 Rabiul Awal 1449 H jatuh sekitar 2027-08-14, namun tanggal resmi menunggu ketetapan pemerintah. Anda bisa mengeceknya di [Kalender Hijriyah Baca-Quran.id](https://www.baca-quran.id/kalender-hijriyah/).
+**Jawaban singkat.** Maulid Nabi adalah peringatan kelahiran Nabi Muhammad shallallahu 'alaihi wasallam, yang umumnya disebut jatuh pada 12 Rabiul Awal. Para ulama berbeda pendapat tentang hukum merayakannya, tetapi kedua belah pihak sama-sama menekankan bahwa mencintai Nabi berarti meneladani akhlaknya. Perkiraan 12 Rabiul Awal 1449 H jatuh sekitar 2027-08-14 menurut kalender Umm al-Qura (2027-08-15 menurut kalender sipil), namun tanggal resmi menunggu ketetapan pemerintah. Anda bisa mengeceknya di [Kalender Hijriyah Baca-Quran.id](https://www.baca-quran.id/kalender-hijriyah/).
 
 ## Kapan Maulid Nabi dan Bagaimana Pendapat Ulama
 
 Tanggal yang paling sering disebut untuk kelahiran Nabi adalah 12 Rabiul Awal, dan itulah yang menjadi patokan peringatan Maulid di Indonesia. Namun sejarawan dan ulama sejak dulu juga mencatat riwayat lain mengenai tanggalnya, jadi kita sebaiknya tidak memaksakan satu kepastian di luar apa yang memang terbukti kuat.
 
-Soal hukum merayakan Maulid, para ulama memang berbeda. Sebagian ulama memandangnya sebagai tradisi baik yang boleh, bahkan dianjurkan, karena isinya berupa membaca Al-Quran, shalawat, mengenang sirah, dan bersedekah. Sebagian ulama yang lain berpendapat bahwa peringatan ini tidak pernah dicontohkan Nabi dan para sahabat, sehingga mereka tidak mengamalkannya sebagai ibadah khusus. Kedua pihak sama-sama bersandar pada dalil dan niat baik. Karena itu, saling menghormati lebih penting daripada saling menyalahkan. Dalam hadis riwayat Muslim nomor 1162, Nabi ketika ditanya tentang puasa hari Senin menjawab bahwa itu hari beliau dilahirkan. Sebagian ulama menjadikannya isyarat bahwa kelahiran beliau layak disyukuri, sementara yang lain menekankan bahwa bentuk syukur yang beliau contohkan adalah puasa, bukan perayaan. Biarlah masing-masing memilih pendapat yang dipegang gurunya, dan yang paling penting adalah akhlak kita setelah acara usai.
+Soal hukum merayakan Maulid, para ulama memang berbeda. Sebagian ulama memandangnya sebagai tradisi baik yang boleh, bahkan dianjurkan, karena isinya berupa membaca Al-Quran, shalawat, mengenang sirah, dan bersedekah. Sebagian ulama yang lain berpendapat bahwa peringatan ini tidak pernah dicontohkan Nabi dan para sahabat, sehingga mereka tidak mengamalkannya sebagai ibadah khusus. Kedua pihak sama-sama bersandar pada dalil dan niat baik. Karena itu, saling menghormati lebih penting daripada saling menyalahkan. Dalam hadis Abu Qatadah riwayat Muslim nomor 1162, Nabi ketika ditanya tentang puasa hari Senin menjawab bahwa itu hari beliau dilahirkan dan hari wahyu diturunkan kepada beliau. Sebagian ulama menjadikannya isyarat bahwa kelahiran beliau layak disyukuri, sementara yang lain menekankan bahwa bentuk syukur yang beliau contohkan adalah puasa, bukan perayaan. Biarlah masing-masing memilih pendapat yang dipegang gurunya, dan yang paling penting adalah akhlak kita setelah acara usai.
 
 ## Mengapa Kita Perlu Meneladani Rasulullah
 
@@ -65,7 +65,7 @@ Misi Nabi dirangkum singkat dalam [QS. Al-Anbiya ayat 107](https://www.baca-qura
 
 Dan Kami tidak mengutus engkau (Muhammad) melainkan untuk (menjadi) rahmat bagi seluruh alam. (Terjemahan Kemenag, repo data Baca-Quran.id)
 
-Rahmat itu tampak dalam perilaku sehari-hari. Anas bin Malik menceritakan bahwa ia melayani Nabi selama sepuluh tahun, dan beliau tidak pernah sekalipun membentaknya dengan kata "ah" atau menyalahkannya dengan pertanyaan mengapa ia melakukan atau tidak melakukan sesuatu (hadis riwayat Bukhari nomor 6038 pada penomoran dataset). Betapa lembutnya beliau kepada seorang pelayan, dan betapa jarangnya kita menjaga kelembutan seperti itu kepada orang yang bekerja untuk kita.
+Rahmat itu tampak dalam perilaku sehari-hari. Anas bin Malik menceritakan bahwa ia melayani Nabi selama sepuluh tahun, dan beliau tidak pernah sekalipun membentaknya dengan kata "ah" atau menyalahkannya dengan pertanyaan mengapa ia melakukan atau tidak melakukan sesuatu (hadis riwayat Bukhari nomor 6038, Kitab al-Adab). Betapa lembutnya beliau kepada seorang pelayan, dan betapa jarangnya kita menjaga kelembutan seperti itu kepada orang yang bekerja untuk kita.
 
 ## Cinta Rasul Berarti Mengikuti
 
@@ -87,14 +87,14 @@ Bila Anda ingin menjadikan bulan Rabiul Awal sebagai momen perbaikan diri, ada b
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Kapan Maulid Nabi 2027?** Maulid biasanya diperingati pada 12 Rabiul Awal. Untuk tahun 1449 H diperkirakan jatuh sekitar 2027-08-14, tetapi tanggal resmi menunggu ketetapan pemerintah.
+**Kapan Maulid Nabi 2027?** Maulid biasanya diperingati pada 12 Rabiul Awal. Untuk tahun 1449 H diperkirakan jatuh sekitar 2027-08-14 menurut kalender Umm al-Qura (2027-08-15 menurut kalender sipil), tetapi tanggal resmi menunggu ketetapan pemerintah.
 
-**Apa hukum merayakan Maulid Nabi?** Ulama berbeda pendapat. Sebagian membolehkannya sebagai tradisi baik yang berisi shalawat dan sirah, sebagian lain tidak mengamalkannya karena tidak dicontohkan Nabi dan para sahabat. Kedua pihak sepakat bahwa meneladani Nabi adalah kewajiban.
+**Apa hukum merayakan Maulid Nabi?** Ulama berbeda pendapat. Sebagian membolehkannya sebagai tradisi baik yang berisi shalawat dan sirah, sebagian lain tidak mengamalkannya karena tidak dicontohkan Nabi dan para sahabat. Kedua pihak sama-sama menekankan pentingnya meneladani Nabi.
 
 **Apa makna Maulid Nabi?** Maulid berarti kelahiran, dan peringatannya dimaknai sebagai momen mengenang dan mencintai Rasulullah. Maknanya paling terasa bila diiringi usaha meneladani akhlak beliau.
 
 **Apa akhlak Nabi yang paling utama untuk ditiru?** Aisyah mengatakan akhlak Nabi adalah Al-Quran (Muslim nomor 746), sehingga semua nilai Al-Quran seperti sabar, jujur, kasih sayang, dan pemaaf adalah akhlak beliau. Mulailah dari yang paling dekat dengan keseharian Anda.
 
-**Apakah puasa Senin berkaitan dengan hari lahir Nabi?** Dalam hadis riwayat Muslim nomor 1162, Nabi menyebut hari Senin sebagai hari beliau dilahirkan ketika ditanya tentang puasa hari Senin. Hadis ini sering dijadikan salah satu dalil keutamaan puasa Senin.
+**Apakah puasa Senin berkaitan dengan hari lahir Nabi?** Dalam hadis Abu Qatadah riwayat Muslim nomor 1162, Nabi menyebut hari Senin sebagai hari beliau dilahirkan ketika ditanya tentang puasa hari Senin. Hadis ini sering dijadikan salah satu dalil keutamaan puasa Senin.
 
 Semoga cinta kita kepada Rasulullah tumbuh bersama akhlak yang makin baik, dan semoga kita dikumpulkan bersama beliau di surga kelak.
