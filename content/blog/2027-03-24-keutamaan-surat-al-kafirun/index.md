@@ -7,11 +7,11 @@ tags: ["surat", "tafsir", "sholat"]
 
 Hampir semua orang Indonesia pernah menghafal Surat Al-Kafirun di masa kecil, sering kali karena surat ini pendek dan nadanya enak diulang. Tetapi ketika dewasa, pertanyaan baru muncul. Apa sebenarnya yang dikatakan surat ini kepada orang yang berbeda agama? Apakah ayat terakhirnya, lakum dinukum waliyadin, berarti semua agama sama? Dan benarkah ada hadis khusus tentang membacanya sebelum tidur?
 
-**Jawaban singkat.** Surat Al-Kafirun adalah surat ke 109 dalam Al-Quran, terdiri dari 6 ayat, dan umumnya digolongkan sebagai surat Makkiyah. Keutamaannya yang paling jelas dalilnya adalah kebiasaan Rasulullah membacanya bersama Surat Al-Ikhlas dalam dua rakaat sunnah fajar (Shahih Muslim nomor 726), serta anjuran membacanya sebelum tidur karena ia pernyataan berlepas diri dari syirik (Sunan Abu Dawud nomor 5055).
+**Jawaban singkat.** Surat Al-Kafirun adalah surat ke 109 dalam Al-Quran, terdiri dari 6 ayat, dan termasuk golongan surat Makkiyah menurut pengantar Tafsir Kemenag. Keutamaannya yang paling jelas dalilnya adalah kebiasaan Rasulullah membacanya bersama Surat Al-Ikhlas dalam dua rakaat sunnah fajar (Shahih Muslim nomor 726), serta anjuran membacanya sebelum tidur karena ia pernyataan berlepas diri dari syirik (Sunan Abu Dawud nomor 5055).
 
 ## Apa Itu Surat Al-Kafirun
 
-Al-Kafirun berarti orang-orang kafir, diambil dari kalimat pembuka surat ini. Surat ini umumnya digolongkan sebagai surat Makkiyah, yaitu surat yang turun sebelum hijrah. Di antara sekian banyak surat pendek, Al-Kafirun punya karakter yang tegas dan ringkas, hanya enam ayat namun berisi garis batas yang jelas tentang ibadah. Anda bisa membaca seluruh surat ini di halaman [Surat Al-Kafirun di Baca-Quran.id](https://www.baca-quran.id/surah/109/).
+Al-Kafirun berarti orang-orang kafir, diambil dari kalimat pembuka surat ini. Pengantar Tafsir Kemenag di Baca-Quran.id menggolongkannya sebagai surat Makkiyah, yaitu surat yang turun sebelum hijrah. Di antara sekian banyak surat pendek, Al-Kafirun punya karakter yang tegas dan ringkas, hanya enam ayat namun berisi garis batas yang jelas tentang ibadah. Anda bisa membaca seluruh surat ini di halaman [Surat Al-Kafirun di Baca-Quran.id](https://www.baca-quran.id/surah/109/).
 
 **Bacaan Arab**
 
@@ -83,6 +83,6 @@ Mulailah dari yang paling mudah, yaitu membacanya bersama Al-Ikhlas dalam sholat
 
 **Apakah ada hadis yang menganjurkan membaca Al-Kafirun sebelum tidur?** Ada, yaitu riwayat Farwah bin Naufal dari ayahnya dalam Sunan Abu Dawud nomor 5055 dan Sunan At-Tirmidzi nomor 3403, dengan alasan bahwa surat ini adalah pernyataan berlepas diri dari syirik.
 
-**Apakah Surat Al-Kafirun turun di Makkah atau Madinah?** Surat ini umumnya digolongkan sebagai surat Makkiyah, yaitu surat yang turun sebelum hijrah.
+**Apakah Surat Al-Kafirun turun di Makkah atau Madinah?** Menurut pengantar Tafsir Kemenag di Baca-Quran.id, surat ini termasuk golongan surat Makkiyah, yaitu surat yang turun sebelum hijrah.
 
 Semoga surat yang pendek ini menjadi pegangan yang kokoh bagi Anda, bahwa iman boleh lembut dalam pergaulan, tetapi tetap jernih dalam ibadah.
