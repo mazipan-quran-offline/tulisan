@@ -13,7 +13,7 @@ Pernahkah Anda membaca sebuah ayat lalu bertanya, "Kenapa ayat ini turun?" Banya
 
 Secara bahasa, asbabun nuzul berarti sebab-sebab turun. Dalam ilmu tafsir, istilah ini dipakai untuk riwayat yang menceritakan kejadian di zaman Nabi yang menjadi pemicu turunnya ayat. Misalnya sahabat bertanya tentang suatu hukum, lalu Allah menurunkan ayat yang menjawabnya.
 
-Para ulama klasik menulis kitab khusus tentang hal ini. Dua yang sering disebut adalah karya Al-Wahidi dan karya As-Suyuthi. Namun karena yang dikumpulkan adalah riwayat, kualitasnya tidak sama. Ada yang sahih, ada pula yang lemah. Karena itu pembaca perlu hati-hati dan lebih mengutamakan riwayat yang bersumber dari kitab hadis yang kuat seperti Bukhari dan Muslim.
+Para ulama sejak lama menulis kitab khusus tentang hal ini. Namun karena yang dikumpulkan adalah riwayat, kualitasnya tidak sama. Ada yang sahih, ada pula yang lemah. Karena itu pembaca perlu hati-hati dan lebih mengutamakan riwayat yang bersumber dari kitab hadis yang kuat seperti Bukhari dan Muslim.
 
 ## Mengapa Asbabun Nuzul Penting?
 
@@ -29,7 +29,7 @@ Tidak. Banyak ayat, misalnya yang berisi kisah para nabi, penjelasan hari akhir,
 
 ## Empat Contoh Asbabun Nuzul dari Hadis Sahih
 
-Berikut empat contoh yang riwayatnya tercatat dalam Sahih Bukhari dan Sahih Muslim. Teks ayat disalin dari data Baca-Quran.id dengan terjemahan Kemenag. Nomor hadis mengikuti penomoran kitab, dan sebaiknya dicocokkan lagi ke Sunnah.com bila Anda ingin menelusurinya.
+Berikut empat contoh yang riwayatnya tercatat dalam Sahih Bukhari dan Sahih Muslim. Teks ayat disalin dari data Baca-Quran.id dengan terjemahan Kemenag. Nomor hadis kami cocokkan dengan dua dataset terbuka yang berbeda, yaitu fawazahmed0/hadith-api dan AhmedBaset/hadith-json, termasuk bab atau kitabnya. Kami belum bisa mencocokkannya dengan Sunnah.com, jadi sebaiknya Anda memeriksanya lagi bila ingin menelusurinya.
 
 ### 1. Surat Ad-Duha, Ketika Wahyu Terasa Terlambat
 
@@ -43,13 +43,13 @@ Hikmahnya terasa dekat sekali, yaitu Allah menghibur hamba yang dicintai-Nya saa
 
 ### 2. QS. Al-Isra Ayat 85, Pertanyaan tentang Ruh
 
-Abdullah bin Mas'ud menceritakan bahwa beliau berjalan bersama Nabi di Madinah, lalu beberapa orang Yahudi lewat dan menyuruh salah seorang bertanya tentang ruh. Nabi diam sejenak karena menerima wahyu, kemudian membacakan ayat ini. Riwayat ini terdapat dalam Sahih Bukhari nomor 125, 4721, dan 7456.
+Abdullah bin Mas'ud menceritakan bahwa beliau berjalan bersama Nabi di Madinah, lalu beberapa orang Yahudi lewat dan menyuruh salah seorang bertanya tentang ruh. Nabi diam sejenak karena menerima wahyu, kemudian membacakan ayat ini. Riwayat ini terdapat dalam Sahih Bukhari nomor 125 (Kitab Ilmu), 4721 (Kitab Tafsir), dan 7456 (Kitab Tauhid). Nama Ibnu Mas'ud disebut tegas dalam riwayat serupa di Sahih Muslim nomor 2794, sedangkan teks Bukhari hanya menulis "Abdullah".
 
 **Bacaan Arab** وَيَسْـَٔلُوْنَكَ عَنِ الرُّوْحِۗ قُلِ الرُّوْحُ مِنْ اَمْرِ رَبِّيْ وَمَآ اُوْتِيْتُمْ مِّنَ الْعِلْمِ اِلَّا قَلِيْلًا
 
 **Artinya** Dan mereka bertanya kepadamu (Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Tuhanku, sedangkan kamu diberi pengetahuan hanya sedikit.” ([baca QS. Al-Isra ayat 85](https://www.baca-quran.id/surah/17/85/))
 
-Ada hal menarik di sini. Surat Al-Isra termasuk Makkiyah dalam daftar Baca-Quran.id, sedangkan riwayat Bukhari menempatkan kejadiannya di Madinah. Para ulama membahas hal ini, antara lain dengan menyebut bahwa sebuah surat Makkiyah dapat memuat ayat yang turun di Madinah. Ini contoh bagus bahwa klasifikasi Makkiyah dan Madaniyah adalah kecenderungan, bukan pagar yang kaku.
+Ada hal menarik di sini. Surat Al-Isra termasuk Makkiyah dalam daftar Baca-Quran.id, sedangkan riwayat Bukhari menempatkan kejadiannya di Madinah. Salah satu penjelasan yang mungkin adalah bahwa sebuah surat Makkiyah dapat memuat ayat yang turun di Madinah, tetapi kami tidak menelusuri pembahasan ulama tentang ayat ini secara rinci. Ini contoh bagus bahwa klasifikasi Makkiyah dan Madaniyah adalah kecenderungan, bukan pagar yang kaku.
 
 ### 3. QS. Al-Baqarah Ayat 222, Pertanyaan tentang Haid
 
@@ -69,15 +69,15 @@ Abdullah bin Umar menceritakan bahwa Rasulullah pernah salat sunnah di atas tung
 
 **Artinya** Dan milik Allah timur dan barat. Kemanapun kamu menghadap di sanalah wajah Allah. Sungguh, Allah Mahaluas, Maha Mengetahui. ([baca QS. Al-Baqarah ayat 115](https://www.baca-quran.id/surah/2/115/))
 
-Catatan jujur, untuk ayat ini ada lebih dari satu riwayat sebab turun. Tafsir Kemenag, misalnya, menyebut riwayat lain dari Jabir tentang pasukan yang kehilangan arah kiblat saat gelap. Di tulisan ini kami memakai riwayat Muslim karena berasal dari kitab hadis sahih. Kualitas riwayat lain sebaiknya diperiksa terpisah.
+Catatan jujur, untuk ayat ini ada lebih dari satu riwayat sebab turun. Tafsir Kemenag pada data Baca-Quran.id menyebut riwayat lain dari Jabir tentang pasukan yang kehilangan arah kiblat saat gelap. Riwayat Jabir itu tidak kami temukan dalam dataset hadis yang kami pakai, sehingga kami belum bisa memverifikasi sumber dan derajatnya. Karena itu tulisan ini bersandar pada riwayat Muslim, dan kualitas riwayat lain sebaiknya diperiksa terpisah.
 
 ## Kaidah yang Sering Dipakai, Lafal Umum atau Sebab Khusus?
 
-Bagaimana jika sebuah ayat turun karena satu kejadian, tetapi bunyinya berlaku umum? Kaidah yang banyak dipegang ulama berbunyi, al-'ibrah bi 'umumil lafzh la bi khushushis sabab, yang artinya pelajaran diambil dari keumuman lafal, bukan dari kekhususan sebab.
+Bagaimana jika sebuah ayat turun karena satu kejadian, tetapi bunyinya berlaku umum? Salah satu kaidah yang sering disebut dalam ilmu tafsir berbunyi, al-'ibrah bi 'umumil lafzh la bi khushushis sabab, yang artinya pelajaran diambil dari keumuman lafal, bukan dari kekhususan sebab.
 
 **Contohnya** Ayat li'an dalam surat An-Nur turun ketika Hilal bin Umayyah menuduh istrinya, sebagaimana riwayat Ibnu Abbas dalam Sahih Bukhari nomor 4747. Meski sebabnya satu orang, hukumnya berlaku bagi semua suami istri yang mengalami keadaan serupa. Begitu pula ayat tentang haid di atas, hukumnya berlaku bagi semua orang, bukan hanya para sahabat yang bertanya.
 
-Sebagian kecil ulama berpendapat lain, tetapi pendapat yang kuat dan paling banyak dipakai adalah kaidah di atas. Dengan kaidah ini Al-Quran tetap hidup dan relevan sampai hari ini, bukan hanya cerita masa lalu.
+Ulama berbeda pendapat dalam hal ini, sebab ada yang menilai sebab khusus ikut membatasi hukum. Untuk memahami perbedaan itu, tanyakan kepada ustadz di sekitar Anda atau baca rujukan seperti NU Online, Tarjih Muhammadiyah, dan MUI. Dengan kaidah di atas, Al-Quran tetap hidup dan relevan sampai hari ini, bukan hanya cerita masa lalu.
 
 ## Cara Membaca Asbabun Nuzul dengan Bijak
 
