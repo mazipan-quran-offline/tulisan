@@ -21,11 +21,11 @@ Mad thabi'i disebut juga mad ashli, yaitu mad yang menjadi dasar semua jenis mad
 
 **Artinya** Pemilik hari pembalasan.
 
-Pada kata "مٰلِكِ" (māliki), huruf mim dibaca panjang dua harakat. Dua harakat itu pendek saja, kira-kira sepanjang Anda mengucapkan "maa" dengan tenang tanpa menarik berlebihan. Kesalahan paling umum pemula adalah memanjangkan terlalu lama karena ingin terdengar merdu, padahal ukuran yang tepat justru membuat bacaan rapi.
+Pada kata "مٰلِكِ" (māliki), huruf mim dibaca panjang dua harakat. Dua harakat itu pendek saja, kira-kira sepanjang Anda mengucapkan "maa" dengan tenang tanpa menarik berlebihan. Kesalahan yang sering dialami pemula adalah memanjangkan terlalu lama karena ingin terdengar merdu, padahal ukuran yang tepat justru membuat bacaan rapi.
 
 ## Mad Wajib Muttasil, Wajib Dipanjangkan
 
-Mad wajib muttasil terjadi bila huruf mad bertemu hamzah dalam satu kata. Karena hamzah adalah huruf yang berat, mad-nya wajib dipanjangkan lebih dari mad thabi'i, yaitu empat atau lima harakat. Semua pembaca sepakat bahwa ia tidak boleh dipendekkan menjadi dua harakat. Contohnya ada di [QS. An-Nasr ayat 1](https://www.baca-quran.id/surah/110/1/).
+Mad wajib muttasil terjadi bila huruf mad bertemu hamzah dalam satu kata. Karena hamzah adalah huruf yang berat, mad-nya wajib dipanjangkan lebih dari mad thabi'i, yaitu empat atau lima harakat. Dalam pengajaran yang umum di Indonesia, mad ini tidak dipendekkan menjadi dua harakat. Contohnya ada di [QS. An-Nasr ayat 1](https://www.baca-quran.id/surah/110/1/).
 
 **Bacaan Arab**
 
@@ -39,7 +39,7 @@ Kata "جَاۤءَ" (jā'a) memuat alif lalu hamzah dalam satu kata, jadi dibaca
 
 ## Mad Jaiz Munfasil, Boleh Dipanjangkan
 
-Mad jaiz munfasil terjadi bila huruf mad berada di akhir satu kata dan hamzah ada di awal kata berikutnya. Kata "jaiz" berarti boleh, karena panjangnya boleh dua, empat, atau lima harakat. Sebagian guru di Indonesia mengajarkan empat atau lima harakat, dan yang terpenting adalah Anda konsisten memakai ukuran yang sama sepanjang bacaan. Contohnya ada di [QS. Al-Qadr ayat 1](https://www.baca-quran.id/surah/97/1/).
+Mad jaiz munfasil terjadi bila huruf mad berada di akhir satu kata dan hamzah ada di awal kata berikutnya. Kata "jaiz" berarti boleh, sebab ukuran panjangnya lebih longgar daripada muttasil. Yang lazim diajarkan di Indonesia untuk riwayat Hafs 'an 'Ashim adalah empat atau lima harakat. Ukuran ini bisa berbeda pada qiraat atau jalur riwayat lain, jadi ikuti bimbingan guru Anda, dan yang terpenting konsisten memakai ukuran yang sama sepanjang bacaan. Contohnya ada di [QS. Al-Qadr ayat 1](https://www.baca-quran.id/surah/97/1/).
 
 **Bacaan Arab**
 
@@ -73,6 +73,8 @@ Saat berhenti pada "الْعٰلَمِيْنَۙ" (al-'ālamīn), ya sebelum nun
 
 **Bacaan Latin** quraisy.
 
+**Artinya** Karena kebiasaan orang-orang Quraisy,
+
 Saat berhenti di "قُرَيْشٍۙ", ya sukun yang didahului ra berfathah dibaca lembut dan agak ditarik. Waw sukun seperti pada "خَوْفٍ" (khaufin) di [QS. Quraisy ayat 4](https://www.baca-quran.id/surah/106/4/) juga termasuk mad lin ketika dibaca waqaf.
 
 ## Mad Badal dan Mad Shilah
@@ -93,9 +95,13 @@ Pada "وَّاٰمَنَهُمْ", hamzah berada di depan alif, sehingga disebut
 
 **Bacaan Arab**
 
-يَكُنْ لَّهٗ
+وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ
 
-**Bacaan Latin** yakul lahū.
+**Bacaan Latin** wa lam yakun lahū kufuwan ahad.
+
+**Artinya** Dan tidak ada sesuatu yang setara dengan Dia.
+
+Ha pada "لَّهٗ" didahului lam berfathah dan diikuti kaf berharakat, sehingga dibaca dua harakat.
 
 Jika huruf sesudahnya adalah hamzah, namanya shilah thawilah dan dibaca empat atau lima harakat seperti mad jaiz munfasil. Contohnya ada di [QS. Al-Humazah ayat 3](https://www.baca-quran.id/surah/104/3/).
 
@@ -105,11 +111,13 @@ Jika huruf sesudahnya adalah hamzah, namanya shilah thawilah dan dibaca empat at
 
 **Bacaan Latin** mālahū akhladah.
 
-**Artinya** hartanya itu dapat mengekalkannya.
+**Artinya** dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya.
+
+Mad shilah thawilah ada pada "مَالَهٗٓ", karena ha dhamir didahului lam berfathah dan diikuti hamzah di awal kata berikutnya. Ha pada "اَخْلَدَهٗ" di akhir ayat tidak dipanjangkan karena berhenti di sana.
 
 ## Mad Lazim, Mad Terpanjang
 
-Selain yang di atas, ada mad lazim, yaitu mad dengan sukun asli atau tasydid sesudah huruf mad. Panjangnya enam harakat, yaitu yang terpanjang, dan semua pembaca sepakat tentang itu. Contoh yang selalu Anda baca dalam sholat adalah akhir [QS. Al-Fatihah ayat 7](https://www.baca-quran.id/surah/1/7/), yaitu kata "الضَّاۤلِّيْنَ" (adh-dhāllīn), karena alif diikuti huruf lam yang bertasydid.
+Selain yang di atas, ada mad lazim, yaitu mad dengan sukun asli atau tasydid sesudah huruf mad. Panjangnya enam harakat, yaitu yang terpanjang menurut pengajaran yang umum di Indonesia. Contoh yang selalu Anda baca dalam sholat adalah akhir [QS. Al-Fatihah ayat 7](https://www.baca-quran.id/surah/1/7/), yaitu kata "الضَّاۤلِّيْنَ" (adh-dhāllīn), karena alif diikuti huruf lam yang bertasydid.
 
 ## Tabel Ringkas Hukum Mad
 
@@ -119,13 +127,13 @@ Selain yang di atas, ada mad lazim, yaitu mad dengan sukun asli atau tasydid ses
 | Badal | Hamzah sebelum huruf mad | 2 |
 | Shilah qashirah | Ha dhamir antara dua huruf berharakat | 2 |
 | Wajib muttasil | Huruf mad bertemu hamzah dalam satu kata | 4 atau 5 |
-| Jaiz munfasil | Huruf mad di akhir kata, hamzah di awal kata berikutnya | 2, 4, atau 5 |
+| Jaiz munfasil | Huruf mad di akhir kata, hamzah di awal kata berikutnya | 4 atau 5 |
 | Shilah thawilah | Ha dhamir bertemu hamzah | 4 atau 5 |
 | Aridh lissukun | Huruf mad lalu waqaf | 2, 4, atau 6 |
 | Lin | Waw atau ya sukun sesudah fathah lalu waqaf | 2, 4, atau 6 |
 | Lazim | Huruf mad bertemu sukun atau tasydid asli | 6 |
 
-Angka di atas adalah ukuran yang umum diajarkan di Indonesia untuk riwayat Hafs 'an 'Ashim. Beberapa guru memakai pilihan yang sedikit berbeda, jadi ikuti bimbingan guru Anda dan tetaplah konsisten.
+Angka di atas adalah ukuran yang umum diajarkan di Indonesia untuk riwayat Hafs 'an 'Ashim. Qiraat dan jalur riwayat lain bisa memakai ukuran yang berbeda, jadi ikuti bimbingan guru Anda dan tetaplah konsisten.
 
 ## Tips Melatih Mad
 
@@ -135,12 +143,12 @@ Satu harakat bisa dilatih dengan mengetukkan jari, dua ketukan untuk mad thabi'i
 
 **Berapa harakat mad thabi'i?** Mad thabi'i dibaca dua harakat, kira-kira sepanjang dua ketukan jari.
 
-**Apa bedanya mad wajib muttasil dan jaiz munfasil?** Pada muttasil, huruf mad dan hamzah ada dalam satu kata dan wajib dipanjangkan empat atau lima harakat. Pada munfasil, keduanya berada di dua kata berbeda dan panjangnya boleh dua, empat, atau lima harakat.
+**Apa bedanya mad wajib muttasil dan jaiz munfasil?** Pada muttasil, huruf mad dan hamzah ada dalam satu kata dan wajib dipanjangkan empat atau lima harakat. Pada munfasil, keduanya berada di dua kata berbeda dan menurut pengajaran yang umum di Indonesia dibaca empat atau lima harakat.
 
 **Apa itu mad aridh lissukun?** Itu mad yang panjangnya muncul karena Anda berhenti di akhir kata, sehingga huruf terakhir menjadi sukun sementara. Panjangnya dua, empat, atau enam harakat.
 
-**Mad apa yang terpanjang?** Mad lazim, yaitu enam harakat.
+**Mad apa yang terpanjang?** Mad lazim, yaitu enam harakat menurut pengajaran yang umum di Indonesia.
 
-**Apakah mad boleh dipanjangkan sesuka hati?** Tidak. Panjangnya harus mengikuti ukuran yang berlaku, dan hanya beberapa jenis yang memberi pilihan, misalnya jaiz munfasil dan aridh lissukun.
+**Apakah mad boleh dipanjangkan sesuka hati?** Tidak. Panjangnya harus mengikuti ukuran yang diajarkan guru Anda, dan hanya beberapa jenis yang memberi pilihan, misalnya jaiz munfasil dan aridh lissukun.
 
 Semoga Allah menjadikan bacaan kita semakin indah dan benar, sedikit demi sedikit. Latihlah satu jenis mad per pekan, dan Anda akan segera merasakan perubahannya.
