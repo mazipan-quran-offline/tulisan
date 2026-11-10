@@ -7,7 +7,7 @@ tags: ["quran", "ibadah", "tips"]
 
 Pertanyaan ini hampir pasti pernah terlintas di benak setiap muslimah. Saat sedang haid, hati rasanya ingin tetap dekat dengan Al-Quran, tetapi ada rasa ragu apakah boleh. Pertanyaan yang sama muncul ketika kita belum sempat berwudhu dan ingin membaca beberapa ayat sebelum berangkat kerja. Jawabannya ternyata tidak tunggal, karena para ulama memang berbeda pendapat dan perbedaan itu layak dipahami dengan tenang.
 
-**Jawaban singkat.** Membaca Al-Quran tanpa wudhu dengan hafalan atau lisan boleh menurut para ulama, sedangkan menyentuh mushaf tanpa wudhu dilarang menurut pendapat mayoritas. Untuk perempuan yang sedang haid, mazhab Hanafi, Syafi'i, dan Hanbali yang masyhur melarang membaca Al-Quran, sementara mazhab Maliki dan sebagian ulama lain membolehkannya. Dzikir dan doa boleh dibaca kapan saja oleh siapa saja.
+**Jawaban singkat.** Membaca Al-Quran tanpa wudhu dengan hafalan atau lisan boleh menurut banyak ulama, sedangkan menyentuh mushaf tanpa wudhu dilarang menurut banyak ulama lainnya. Untuk perempuan yang sedang haid, sebagian ulama melarang membaca Al-Quran dan sebagian lain membolehkannya. Dzikir dan doa boleh dibaca kapan saja oleh siapa saja. Karena ini masalah khilafiyah, tanyakan kepada ustadz atau rujuk NU Online, Tarjih Muhammadiyah, dan MUI.
 
 ## Apa Dalil Larangan Menyentuh Mushaf Tanpa Wudhu
 
@@ -19,13 +19,13 @@ _dan (ini) sesungguhnya Al-Qur'an yang sangat mulia, dalam Kitab yang terpelihar
 
 Para ulama berbeda dalam memahami ayat ini. Sebagian menafsirkan kata "menyentuh" sebagai menyentuh mushaf secara fisik, dan "yang disucikan" sebagai orang yang suci dari hadas. Sebagian lain memahami bahwa yang dimaksud adalah Lauh Mahfuzh yang hanya disentuh para malaikat yang disucikan, karena ayat sebelumnya berbicara tentang kitab yang terpelihara. Karena ayat ini bisa dibaca dengan dua cara, para ulama biasanya menguatkannya dengan hadis.
 
-**Hadis surat kepada Amr bin Hazm** Rasulullah menulis surat kepada penduduk Yaman melalui Amr bin Hazm, dan di dalamnya disebut bahwa tidak boleh menyentuh Al-Quran kecuali orang yang suci. Hadis ini disebut dalam Muwatta Imam Malik dan beberapa kitab lain. Banyak ulama menguatkannya karena jalurnya banyak dan diterima luas, meski sebagian ulama mempersoalkan sanadnya. Teks Arab hadis ini belum bisa kami verifikasi dari sumber yang tersedia, jadi kami hanya menuliskan artinya.
+**Hadis surat kepada Amr bin Hazm** Rasulullah menulis surat kepada penduduk Yaman melalui Amr bin Hazm, dan di dalamnya disebut bahwa tidak boleh menyentuh Al-Quran kecuali orang yang suci. Hadis ini dikenal dalam pembahasan fikih, tetapi kami tidak menemukannya pada dataset hadis yang kami periksa (Bukhari, Muslim, Abu Dawud, Tirmidzi, An-Nasa'i, Ibnu Majah, dan Muwatta Malik). Karena itu kitab, nomor, dan derajatnya belum bisa kami verifikasi, dan kami hanya menuliskan maknanya tanpa teks Arab. Reviewer atau pembaca sebaiknya memeriksanya langsung ke Sunnah.com atau kitab hadisnya.
 
-Berdasarkan dua dalil ini, mayoritas ulama dari empat mazhab berpendapat bahwa orang yang berhadas, baik kecil maupun besar, tidak boleh menyentuh mushaf. Sebagian ulama yang lain berpendapat boleh, dengan alasan ayat itu bukan tentang mushaf dan hadis tersebut dipersoalkan. Anda bisa memilih mengikuti pendapat mayoritas sebagai langkah yang lebih berhati-hati.
+Berdasarkan dua dalil ini, banyak ulama berpendapat bahwa orang yang berhadas tidak boleh menyentuh mushaf. Sebagian ulama yang lain berpendapat boleh, dengan alasan ayat itu bukan tentang mushaf dan hadis tersebut dipersoalkan. Kami tidak merinci pendapat tiap mazhab karena belum bisa memverifikasinya. Cara yang lebih berhati-hati adalah berwudhu dahulu sebelum menyentuh mushaf.
 
 ## Bolehkah Membaca Al-Quran Tanpa Wudhu
 
-Boleh, selama tidak menyentuh mushaf. Membaca dengan hafalan, mendengarkan murattal, atau membaca dari layar tanpa menyentuh mushaf fisik tidak mensyaratkan wudhu menurut para ulama. Wudhu tetap dianjurkan karena menunjukkan penghormatan kepada Al-Quran, tetapi tidak menjadi syarat sah membaca.
+Boleh, selama tidak menyentuh mushaf. Membaca dengan hafalan, mendengarkan murattal, atau membaca dari layar tanpa menyentuh mushaf fisik tidak mensyaratkan wudhu menurut banyak ulama. Wudhu tetap dianjurkan karena menunjukkan penghormatan kepada Al-Quran, tetapi tidak menjadi syarat sah membaca.
 
 Jadi kalau Anda belum sempat berwudhu dan ingin membaca beberapa ayat sebelum berangkat, silakan saja. Banyak orang juga membaca Al-Quran dengan hafalan di perjalanan, di antrean, atau sebelum tidur tanpa berwudhu. Adab lengkapnya bisa dibaca di [Adab dalam Membaca Al-Quran](/2020-06-16-adab-dalam-membaca-alquran/).
 
@@ -33,17 +33,17 @@ Jadi kalau Anda belum sempat berwudhu dan ingin membaca beberapa ayat sebelum be
 
 Di sinilah perbedaan pendapat paling tampak. Ada dua pandangan utama.
 
-**Pandangan yang melarang** Mazhab Hanafi, Syafi'i, dan Hanbali yang masyhur melarang perempuan haid membaca Al-Quran, dengan perincian berbeda. Dalam mazhab Syafi'i, misalnya, ia boleh mengucapkan ayat sebagai dzikir atau doa, seperti membaca basmalah sebelum makan atau hamdalah, selama tidak bermaksud membaca Al-Quran. Dasar yang biasa dipakai adalah hadis Ibnu Umar.
+**Pandangan yang melarang** Sebagian ulama melarang perempuan haid membaca Al-Quran. Imam Tirmidzi mencatat dalam kitabnya bahwa ini pendapat kebanyakan ulama dari kalangan sahabat, tabiin, dan generasi sesudahnya, misalnya Sufyan Ats-Tsauri, Ibnul Mubarak, Asy-Syafi'i, Ahmad, dan Ishaq. Menurut catatan Tirmidzi itu pula, mereka tetap membolehkan perempuan haid dan orang junub bertasbih dan bertahlil. Dasar yang biasa dipakai adalah hadis Ibnu Umar.
 
 لاَ تَقْرَإِ الْحَائِضُ وَلاَ الْجُنُبُ شَيْئًا مِنَ الْقُرْآنِ
 
-_Artinya, perempuan haid dan orang junub tidak boleh membaca sesuatu dari Al-Quran._ (HR. Tirmidzi nomor 131, juga Ibnu Majah nomor 595 dan 596)
+_Artinya, perempuan haid dan orang junub tidak boleh membaca sesuatu dari Al-Quran._ (HR. Tirmidzi nomor 131 dan Ibnu Majah nomor 595 dan 596, dengan lafal yang sedikit berbeda)
 
-**Pandangan yang membolehkan** Mazhab Maliki dan sebagian ulama lain, termasuk ulama kontemporer, membolehkan perempuan haid membaca Al-Quran, terutama bila ada kebutuhan. Alasannya, hadis Ibnu Umar di atas dinilai lemah dan tidak ada dalil sahih yang tegas melarang. Selain itu masa haid bisa berlangsung berhari-hari, sehingga melarang membaca Al-Quran selama itu bisa membuat seorang perempuan jauh dari kitab sucinya, apalagi bila ia seorang penghafal, guru, atau pelajar.
+**Pandangan yang membolehkan** Sebagian ulama lain membolehkan perempuan haid membaca Al-Quran, terutama bila ada kebutuhan. Kami tidak menyebut nama mazhab atau tokohnya karena belum bisa memverifikasinya. Alasan yang biasa dikemukakan, hadis Ibnu Umar di atas dinilai lemah dan tidak ada dalil sahih yang tegas melarang. Selain itu masa haid bisa berlangsung berhari-hari, sehingga melarang membaca Al-Quran selama itu bisa membuat seorang perempuan jauh dari kitab sucinya, apalagi bila ia seorang penghafal, guru, atau pelajar.
 
-Perlu disampaikan dengan jujur bahwa hadis Ibnu Umar ini dinilai lemah. Dalam dataset hadis yang kami rujuk, Al-Albani, Bashar Awad Ma'ruf, dan Zubair Ali Zai menilainya lemah, sedangkan Ahmad Syakir menyebutnya munkar. Imam Tirmidzi sendiri mencatat bahwa ia hanya mengenal hadis itu dari satu jalur. Karena itu, pandangan yang membolehkan punya dasar yang kuat dan tidak bisa dianggap remeh.
+Perlu disampaikan dengan jujur bahwa hadis Ibnu Umar ini dinilai lemah. Dalam dataset hadis yang kami rujuk, Al-Albani, Bashar Awad Ma'ruf, dan Zubair Ali Zai menilainya lemah, sedangkan Ahmad Syakir menyebutnya munkar. Imam Tirmidzi sendiri mencatat bahwa ia hanya mengenal hadis itu dari satu jalur, dan Imam Bukhari menurut catatan Tirmidzi menilai riwayat Ismail bin Ayyash dari orang Hijaz dan Irak banyak yang munkar. Riwayat Ibnu Majah nomor 595 dan 596 dinilai munkar oleh Al-Albani dan Muhammad Fuad Abdul Baqi, serta lemah oleh Zubair Ali Zai. Karena itu, pandangan yang membolehkan punya dasar yang kuat dan tidak bisa dianggap remeh.
 
-**Dalil pendukung lain** Dalam hadis Bukhari nomor 297 dan Muslim nomor 301, Aisyah menceritakan bahwa Nabi bersandar di pangkuannya dan membaca Al-Quran padahal ia sedang haid. Riwayat ini sering dikutip untuk menunjukkan bahwa perempuan haid tidak harus dijauhkan dari Al-Quran, meski hadis ini sebenarnya tentang Nabi yang membaca, bukan tentang larangan atau izin bagi perempuan haid. Dalam Bukhari nomor 305 dan 1650, Nabi menyuruh Aisyah yang sedang haid mengerjakan semua amalan haji kecuali thawaf. Muslim nomor 890 juga menyebut perempuan haid dianjurkan hadir di tempat sholat Id untuk menyaksikan kebaikan dan doa kaum muslimin.
+**Dalil pendukung lain** Dalam hadis Bukhari nomor 297 dan Muslim nomor 301, Aisyah menceritakan bahwa Nabi bersandar di pangkuannya dan membaca Al-Quran padahal ia sedang haid. Riwayat ini sering dikutip untuk menunjukkan bahwa perempuan haid tidak harus dijauhkan dari Al-Quran, meski hadis ini sebenarnya tentang Nabi yang membaca, bukan tentang larangan atau izin bagi perempuan haid. Dalam Bukhari nomor 305 dan 1650, Nabi menyuruh Aisyah yang sedang haid mengerjakan semua amalan haji kecuali thawaf. Muslim nomor 890 juga menyebut perempuan haid ikut keluar pada hari raya, tetap menjauh dari tempat sholat, dan menyaksikan kebaikan serta doa kaum muslimin.
 
 ## Bagaimana dengan Membaca Lewat Ponsel atau Aplikasi
 
@@ -61,11 +61,11 @@ Dzikir, doa, istighfar, sholawat, dan tasbih boleh dibaca kapan saja, termasuk s
 
 ## Saran Praktis untuk Muslimah Saat Haid
 
-**Gunakan waktu untuk mendengarkan dan memahami** Dengarkan murattal, baca terjemahan, atau pelajari tafsir. Banyak ulama menilai membaca terjemahan dan tafsir tidak termasuk membaca Al-Quran.
+**Gunakan waktu untuk mendengarkan dan memahami** Dengarkan murattal, baca terjemahan, atau pelajari tafsir. Sebagian ulama menilai membaca terjemahan dan tafsir tidak termasuk membaca Al-Quran.
 
 **Isi hari dengan dzikir dan doa** Perbanyak istighfar, sholawat, dan doa untuk keluarga. Amalan ini tidak terhalang haid.
 
-**Penghafal dan pengajar boleh mengambil pendapat yang membolehkan** Jika Anda penghafal, guru ngaji, atau pelajar yang butuh menjaga hafalan, pendapat Maliki dan ulama lain yang membolehkan bisa menjadi pegangan yang bijak. Bila ragu, tanyakan kepada ustadzah atau lembaga yang Anda percaya.
+**Penghafal dan pengajar boleh mengambil pendapat yang membolehkan** Jika Anda penghafal, guru ngaji, atau pelajar yang butuh menjaga hafalan, pendapat ulama yang membolehkan bisa menjadi pegangan, setelah Anda berkonsultasi dengan ustadzah yang Anda percaya. Bila ragu, tanyakan kepada ustadzah atau lembaga yang Anda percaya.
 
 **Jangan merasa kehilangan pahala** Haid adalah ketetapan Allah, bukan kekurangan. Niat baik untuk dekat dengan Al-Quran tetap dihargai.
 
@@ -74,13 +74,13 @@ Untuk memastikan pendapat yang Anda ikuti, rujuklah penjelasan resmi dari NU Onl
 ## Pertanyaan yang Sering Ditanyakan
 
 **Bolehkah membaca Al-Quran saat haid?**
-Ulama berbeda pendapat. Mazhab Hanafi, Syafi'i, dan Hanbali yang masyhur melarang, sedangkan mazhab Maliki dan sebagian ulama lain membolehkan, terutama bila ada kebutuhan seperti menjaga hafalan.
+Ulama berbeda pendapat. Sebagian ulama melarang, dan Tirmidzi mencatat itu pendapat kebanyakan ulama terdahulu yang ia sebut. Sebagian ulama lain membolehkan, terutama bila ada kebutuhan seperti menjaga hafalan.
 
 **Bolehkah baca Quran tanpa wudhu?**
 Boleh, selama tidak menyentuh mushaf. Wudhu dianjurkan sebagai penghormatan, tetapi bukan syarat sah membaca.
 
 **Bolehkah menyentuh mushaf tanpa wudhu?**
-Menurut mayoritas ulama tidak boleh, berdasarkan Al-Waqi'ah ayat 79 dan hadis surat kepada Amr bin Hazm. Sebagian ulama lain membolehkan karena memahami dalilnya berbeda.
+Menurut banyak ulama tidak boleh, berdasarkan Al-Waqi'ah ayat 79 dan hadis yang dikenal sebagai surat kepada Amr bin Hazm, yang belum bisa kami verifikasi. Sebagian ulama lain membolehkan karena memahami dalilnya berbeda.
 
 **Bolehkah baca Quran lewat HP saat haid?**
 Para ulama berbeda pendapat. Sebagian menyamakan layar ponsel dengan mushaf, sebagian lain tidak, sehingga perempuan haid bisa memilih pendapat yang diyakini atau menanyakan kepada ustadzah.
