@@ -31,7 +31,7 @@ Perhatikan kata "اَنْعَمْتَ" (an'amta). Nun mati bertemu 'ain, sehingg
 
 ## Idgham Bighunnah, Dilebur dengan Dengung
 
-Idgham berarti memasukkan atau melebur. Idgham bighunnah terjadi bila nun mati atau tanwin bertemu salah satu dari empat huruf, yaitu ya, nun, mim, dan waw. Hurufnya mudah diingat lewat kata "yanmu". Peleburan ini disertai dengung (ghunnah) selama kira-kira dua harakat. Contohnya ada di [QS. Az-Zalzalah ayat 7](https://www.baca-quran.id/surah/99/7/).
+Idgham berarti memasukkan atau melebur. Idgham bighunnah terjadi bila nun mati atau tanwin bertemu salah satu dari empat huruf, yaitu ya, nun, mim, dan waw. Hurufnya mudah diingat lewat kata "yanmu". Peleburan ini disertai dengung (ghunnah) selama kira-kira dua harakat, sebagaimana pengajaran yang umum di Indonesia. Contohnya ada di [QS. Az-Zalzalah ayat 7](https://www.baca-quran.id/surah/99/7/).
 
 **Bacaan Arab**
 
