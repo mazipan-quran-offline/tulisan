@@ -7,11 +7,11 @@ tags: ["surat", "tafsir", "tips"]
 
 Kebanyakan dari kita tidak pernah merasa punya cukup waktu, tetapi diam-diam menghabiskannya tanpa sadar. Sepuluh menit untuk membuka ponsel berubah menjadi satu jam, dan malam tiba sebelum rencana hari itu sempat dikerjakan. Di tengah kebiasaan seperti itu, ada surat yang hanya tiga ayat tetapi seolah mengguncang bahu kita pelan-pelan dan bertanya, untuk apa waktu Anda dipakai?
 
-**Jawaban singkat.** Surat Al-Asr adalah surat ke 103 dalam Al-Quran, terdiri dari 3 ayat, dan turun di Makkah. Surat ini menyatakan bahwa semua manusia berada dalam kerugian kecuali yang memenuhi empat hal, yaitu beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran.
+**Jawaban singkat.** Surat Al-Asr adalah surat ke 103 dalam Al-Quran, terdiri dari 3 ayat, dan umumnya digolongkan sebagai surat Makkiyah. Surat ini menyatakan bahwa semua manusia berada dalam kerugian kecuali yang memenuhi empat hal, yaitu beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran.
 
 ## Apa Itu Surat Al-Asr
 
-Al-Asr berarti masa atau waktu. Surat ini tergolong surat Makkiyah dan sangat ringkas, tetapi para ulama memandangnya sebagai rangkuman arah hidup seorang Muslim. Anda bisa membuka teks lengkapnya di [Surat Al-Asr di Baca-Quran.id](https://www.baca-quran.id/surah/103/) dan membacanya perlahan bersama terjemahan.
+Al-Asr berarti masa atau waktu. Surat ini umumnya digolongkan sebagai surat Makkiyah. Ia sangat ringkas, tetapi isinya memuat arah hidup seorang Muslim dalam empat hal yang jelas. Anda bisa membuka teks lengkapnya di [Surat Al-Asr di Baca-Quran.id](https://www.baca-quran.id/surah/103/) dan membacanya perlahan bersama terjemahan.
 
 **Bacaan Arab**
 
@@ -49,7 +49,7 @@ Al-Asr berarti masa atau waktu. Surat ini tergolong surat Makkiyah dan sangat ri
 
 ## Kaitannya dengan Mengelola Waktu
 
-Surat ini tidak memberi jadwal harian, tetapi memberi kerangka berpikir. Waktu adalah modal yang pasti habis, dan hasil akhirnya hanya dua, untung atau rugi. Rasulullah bersabda dalam riwayat Ibnu Abbas di Shahih Bukhari nomor 6412 bahwa ada dua nikmat yang sering dilupakan kebanyakan manusia, yaitu kesehatan dan waktu luang. Artinya, waktu luang yang kita anggap biasa sebenarnya adalah nikmat yang akan ditanya.
+Surat ini tidak memberi jadwal harian, tetapi memberi kerangka berpikir. Waktu adalah modal yang pasti habis, dan hasil akhirnya hanya dua, untung atau rugi. Rasulullah bersabda dalam riwayat Ibnu Abbas di Shahih Bukhari nomor 6412 bahwa ada dua nikmat yang banyak manusia tertipu (merugi) pada keduanya, yaitu kesehatan dan waktu luang. Artinya, waktu luang yang kita anggap biasa sebenarnya adalah nikmat yang mudah terbuang kalau tidak kita jaga.
 
 Beberapa langkah sederhana bisa membantu Anda menerapkannya.
 
