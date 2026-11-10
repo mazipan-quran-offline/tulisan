@@ -7,17 +7,17 @@ tags: ["quran", "surat"]
 
 Pernah membuka daftar surat di mushaf atau aplikasi Al-Quran lalu menemukan keterangan kecil di samping nama surat, "Makkiyah" atau "Madaniyah"? Keterangan itu bukan hiasan. Ia menunjukkan kapan dan dalam suasana apa sebuah surat diturunkan, dan dari situ kita bisa memahami mengapa nada ayatnya terasa berbeda antara satu surat dengan surat lainnya.
 
-**Jawaban singkatnya** begini. Surat Makkiyah adalah surat yang diturunkan sebelum Rasulullah hijrah ke Madinah, sedangkan surat Madaniyah adalah surat yang diturunkan sesudah hijrah. Dalam daftar yang dipakai di Baca-Quran.id, yang mengikuti pengelompokan Kemenag, ada 86 surat Makkiyah dan 28 surat Madaniyah, sehingga totalnya tetap 114 surat.
+**Jawaban singkatnya** begini. Surat Makkiyah adalah surat yang diturunkan sebelum Rasulullah hijrah ke Madinah, sedangkan surat Madaniyah adalah surat yang diturunkan sesudah hijrah. Dalam daftar yang dipakai di Baca-Quran.id ada 86 surat Makkiyah dan 28 surat Madaniyah, sehingga totalnya tetap 114 surat.
 
 ## Apa Pengertian Surat Makkiyah dan Madaniyah?
 
-**Menurut waktu turun** Ini pengertian yang paling banyak dipakai dalam kajian ulumul Quran. Makkiyah berarti turun sebelum hijrah, Madaniyah berarti turun setelah hijrah. Tempat turunnya tidak menjadi penentu. Contohnya QS. [Al-Ma'idah ayat 3](https://www.baca-quran.id/surah/5/3/) yang diriwayatkan turun di Arafah pada saat haji Rasulullah. Umar bin Khattab menjelaskan hal itu dalam hadis riwayat Bukhari nomor 45 dan 4606. Karena turunnya sesudah hijrah, ayat itu tetap tergolong Madaniyah meski berada di luar Madinah.
+**Menurut waktu turun** Ini salah satu pengertian yang sering disebut dalam pembahasan ilmu Al-Quran. Makkiyah berarti turun sebelum hijrah, Madaniyah berarti turun setelah hijrah. Tempat turunnya tidak menjadi penentu. Contohnya QS. [Al-Ma'idah ayat 3](https://www.baca-quran.id/surah/5/3/) yang diriwayatkan turun di Arafah pada saat haji Rasulullah. Umar bin Khattab menjelaskan bahwa ayat itu turun pada hari Arafah, seperti tercatat dalam riwayat Bukhari nomor 45 (Kitab Iman) dan nomor 4606 (Kitab Tafsir). Karena turunnya sesudah hijrah, ayat itu tetap tergolong Madaniyah meski berada di luar Madinah.
 
 **Menurut tempat turun** Sebagian ulama membedakan berdasarkan lokasi. Yang turun di Makkah dan sekitarnya disebut Makkiyah, yang turun di Madinah dan sekitarnya disebut Madaniyah. Cara ini punya kelemahan, sebab ada ayat yang turun di tengah perjalanan atau di tempat lain yang tidak masuk ke dua kelompok itu.
 
 **Menurut sasaran bicara** Pendapat lain melihat siapa yang disapa. Ayat yang menyapa penduduk Makkah dianggap Makkiyah, dan ayat yang menyapa penduduk Madinah dianggap Madaniyah. Pendekatan ini juga tidak selalu pas karena banyak ayat yang sapaannya umum.
 
-Karena ketiga cara itu berbeda, wajar bila ada beberapa surat yang statusnya tidak sama di berbagai daftar. Daftar yang kita pakai di sini mengikuti pembagian berdasarkan waktu turun yang lazim dipakai di Indonesia.
+Karena ketiga cara itu berbeda, wajar bila ada beberapa surat yang statusnya tidak sama di berbagai daftar. Daftar di tulisan ini mengikuti data Baca-Quran.id. Data itu tidak menjelaskan cara pembagiannya satu per satu, jadi anggaplah ia sebagai salah satu rujukan, bukan satu-satunya.
 
 ## Berapa Jumlah Surat Makkiyah dan Madaniyah?
 
@@ -115,9 +115,9 @@ Menariknya, dari 37 surat di [Juz 30](/2020-06-15-daftar-lengkap-surat-dalam-juz
 
 ## Apakah Semua Ulama Sepakat tentang Daftar Ini?
 
-Tidak sepenuhnya. Para ulama berbeda pendapat tentang status sejumlah surat, karena riwayat yang sampai kepada kita tidak selalu tegas. Di antara surat yang sering disebut diperselisihkan adalah Al-Fatihah, Ar-Ra'd, Ar-Rahman, Al-Insan, Az-Zalzalah, Al-Falaq, dan An-Nas. Daftar Kemenag yang kita pakai memilih satu pendapat, dan pendapat itu tidak otomatis berarti pendapat lain keliru.
+Tidak selalu. Menurut sebagian ulama, status sejumlah surat diperselisihkan karena riwayat yang sampai kepada kita tidak selalu tegas. Kami tidak mencantumkan nama surat yang diperselisihkan, sebab data Baca-Quran.id hanya menyimpan satu status untuk setiap surat dan tidak menandai perbedaan itu. Daftar yang kita pakai memilih satu pendapat, dan pendapat itu tidak otomatis berarti pendapat lain keliru.
 
-Ada pula surat yang sebagian ayatnya berbeda status dari ayat-ayat lainnya. Itu sebabnya sebagian mushaf mencantumkan keterangan tambahan pada ayat tertentu. Jadi bila Anda menemukan daftar lain yang sedikit berbeda dari tulisan ini, itu bukan tanda ada yang salah hitung, melainkan cerminan perbedaan pendapat yang memang ada.
+Ada pula surat yang sebagian ayatnya berbeda status dari ayat-ayat lainnya. Itu sebabnya sebagian mushaf mencantumkan keterangan tambahan pada ayat tertentu. Jadi bila Anda menemukan daftar lain yang sedikit berbeda dari tulisan ini, itu bisa jadi cerminan perbedaan pendapat yang memang ada. Untuk pembahasan yang lebih dalam, tanyakan kepada ustadz di sekitar Anda atau baca rujukan seperti NU Online, Tarjih Muhammadiyah, dan MUI.
 
 ## Mengapa Perlu Tahu Perbedaan Makkiyah dan Madaniyah?
 
@@ -129,10 +129,10 @@ Satu hal lagi yang perlu diingat, urutan surat di mushaf tidak mengikuti urutan 
 
 **Apa perbedaan surat Makkiyah dan Madaniyah?** Surat Makkiyah diturunkan sebelum hijrah Rasulullah ke Madinah, sedangkan surat Madaniyah diturunkan sesudah hijrah. Makkiyah banyak berisi dasar akidah dengan ayat pendek, sementara Madaniyah banyak berisi hukum dan aturan bermasyarakat dengan ayat yang lebih panjang.
 
-**Ada berapa surat Makkiyah dan Madaniyah?** Menurut daftar yang dipakai di Baca-Quran.id, ada 86 surat Makkiyah dan 28 surat Madaniyah. Sebagian ulama memiliki daftar yang sedikit berbeda untuk beberapa surat.
+**Ada berapa surat Makkiyah dan Madaniyah?** Menurut daftar yang dipakai di Baca-Quran.id, ada 86 surat Makkiyah dan 28 surat Madaniyah. Daftar di sumber lain bisa sedikit berbeda untuk beberapa surat, jadi bandingkan dengan rujukan yang Anda percaya.
 
 **Apakah surat Madaniyah selalu diturunkan di Madinah?** Tidak selalu. Penentunya adalah waktu, yaitu setelah hijrah. Ayat yang turun di Arafah saat haji, seperti Al-Ma'idah ayat 3, tetap dihitung Madaniyah.
 
-**Surat apa saja yang termasuk Madaniyah di Juz 30?** Ada lima, yaitu Al-Bayyinah, Az-Zalzalah, An-Nasr, Al-Falaq, dan An-Nas, berdasarkan daftar Baca-Quran.id. Sebagian ulama menggolongkan beberapa di antaranya sebagai Makkiyah.
+**Surat apa saja yang termasuk Madaniyah di Juz 30?** Ada lima, yaitu Al-Bayyinah, Az-Zalzalah, An-Nasr, Al-Falaq, dan An-Nas, berdasarkan daftar Baca-Quran.id. Daftar lain bisa saja menggolongkan sebagian di antaranya secara berbeda.
 
 **Di mana saya bisa melihat daftar surat Makkiyah dan Madaniyah?** Anda bisa membukanya di halaman [surat Makkiyah](https://www.baca-quran.id/surah-makkiyah/) dan [surat Madaniyah](https://www.baca-quran.id/surah-madaniyah/) di Baca-Quran.id.
