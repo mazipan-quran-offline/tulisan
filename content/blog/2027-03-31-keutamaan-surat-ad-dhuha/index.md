@@ -7,11 +7,11 @@ tags: ["surat", "tafsir"]
 
 Ada masa ketika doa terasa tidak terjawab, hati terasa sepi, dan muncul pertanyaan pelan yang jarang kita ucapkan keras. Apakah Allah masih dekat dengan saya? Pertanyaan seperti itu bukan hanya milik kita. Surat Ad-Dhuha turun untuk menjawabnya, kepada orang yang paling dekat dengan Allah sekalipun, yaitu Rasulullah.
 
-**Jawaban singkat.** Surat Ad-Dhuha adalah surat ke 93 dalam Al-Quran, terdiri dari 11 ayat, dan umumnya digolongkan sebagai surat Makkiyah. Keutamaan terbesarnya ada pada pesannya, yaitu bahwa Allah tidak meninggalkan dan tidak membenci hamba-Nya, dan bahwa yang akan datang lebih baik daripada yang sudah berlalu.
+**Jawaban singkat.** Surat Ad-Dhuha adalah surat ke 93 dalam Al-Quran, terdiri dari 11 ayat, dan termasuk golongan surat Makkiyah menurut pengantar Tafsir Kemenag. Keutamaan terbesarnya ada pada pesannya, yaitu bahwa Allah tidak meninggalkan dan tidak membenci hamba-Nya, dan bahwa yang akan datang lebih baik daripada yang sudah berlalu.
 
 ## Apa Itu Surat Ad-Dhuha
 
-Ad-Dhuha berarti waktu dhuha, yaitu ketika matahari naik sepenggalah. Nama ini diambil dari ayat pertama, ketika Allah bersumpah dengan waktu dhuha dan malam yang sunyi. Surat ini umumnya digolongkan sebagai surat Makkiyah, yaitu surat yang turun sebelum hijrah. Anda bisa membaca seluruhnya di [Surat Ad-Dhuha di Baca-Quran.id](https://www.baca-quran.id/surah/93/).
+Ad-Dhuha berarti waktu dhuha, yaitu ketika matahari naik sepenggalah. Nama ini diambil dari ayat pertama, ketika Allah bersumpah dengan waktu dhuha dan malam yang sunyi. Pengantar Tafsir Kemenag di Baca-Quran.id menggolongkannya sebagai surat Makkiyah, yaitu surat yang turun sebelum hijrah. Anda bisa membaca seluruhnya di [Surat Ad-Dhuha di Baca-Quran.id](https://www.baca-quran.id/surah/93/).
 
 ## Latar Turunnya Surat Ini
 
@@ -81,7 +81,7 @@ Bayangkan perasaan beliau pada hari-hari itu. Wahyu yang biasa datang terasa ter
 
 Kalau Anda sedang berada di masa sunyi, ada tiga hal yang bisa dibawa dari surat ini. Pertama, merasa jauh dari Allah belum tentu berarti Dia jauh, karena yang sedang diuji sering kali adalah perasaan kita, bukan hubungan kita dengan-Nya. Kedua, ingat pertolongan yang pernah datang. Tulislah tiga hal yang dulu Anda kira mustahil lalu ternyata dimudahkan. Ketiga, lakukan satu kebaikan kecil untuk orang lain hari ini, sebab ayat 9 sampai 11 mengajarkan bahwa syukur dan kepedulian berjalan beriringan.
 
-Surat ini juga berdekatan temanya dengan Surat Al-Insyirah, yaitu sama-sama menghibur hati yang sedang berat. Pembahasan tentang kelapangan dada dan janji kemudahan bisa Anda baca di [Keutamaan Surat Al-Insyirah](/2026-11-10-keutamaan-surat-al-insyirah/). Bila rasa berat itu datang dalam bentuk sakit atau kehilangan, kisah [Nabi Ayyub dan Pelajaran Sabar](/2026-11-05-kisah-nabi-ayyub-dan-pelajaran-sabar/) bisa menemani Anda.
+Pengantar Tafsir Kemenag menyebut Surat Ad-Dhuha erat hubungannya dengan Surat Al-Insyirah, karena keduanya ditujukan kepada Nabi Muhammad dan sama-sama menerangkan nikmat Allah serta perintah untuk mensyukurinya. Pembahasan tentang kelapangan dada dan janji kemudahan bisa Anda baca di [Keutamaan Surat Al-Insyirah](/2026-11-10-keutamaan-surat-al-insyirah/). Bila rasa berat itu datang dalam bentuk sakit atau kehilangan, kisah [Nabi Ayyub dan Pelajaran Sabar](/2026-11-05-kisah-nabi-ayyub-dan-pelajaran-sabar/) bisa menemani Anda.
 
 ## Apakah Ada Keutamaan Pahala Khusus
 
