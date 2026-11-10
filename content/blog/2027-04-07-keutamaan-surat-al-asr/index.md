@@ -7,11 +7,11 @@ tags: ["surat", "tafsir", "tips"]
 
 Kebanyakan dari kita tidak pernah merasa punya cukup waktu, tetapi diam-diam menghabiskannya tanpa sadar. Sepuluh menit untuk membuka ponsel berubah menjadi satu jam, dan malam tiba sebelum rencana hari itu sempat dikerjakan. Di tengah kebiasaan seperti itu, ada surat yang hanya tiga ayat tetapi seolah mengguncang bahu kita pelan-pelan dan bertanya, untuk apa waktu Anda dipakai?
 
-**Jawaban singkat.** Surat Al-Asr adalah surat ke 103 dalam Al-Quran, terdiri dari 3 ayat, dan umumnya digolongkan sebagai surat Makkiyah. Surat ini menyatakan bahwa semua manusia berada dalam kerugian kecuali yang memenuhi empat hal, yaitu beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran.
+**Jawaban singkat.** Surat Al-Asr adalah surat ke 103 dalam Al-Quran, terdiri dari 3 ayat, dan termasuk golongan surat Makkiyah menurut pengantar Tafsir Kemenag. Surat ini menyatakan bahwa semua manusia berada dalam kerugian kecuali yang memenuhi empat hal, yaitu beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran.
 
 ## Apa Itu Surat Al-Asr
 
-Al-Asr berarti masa atau waktu. Surat ini umumnya digolongkan sebagai surat Makkiyah. Ia sangat ringkas, tetapi isinya memuat arah hidup seorang Muslim dalam empat hal yang jelas. Anda bisa membuka teks lengkapnya di [Surat Al-Asr di Baca-Quran.id](https://www.baca-quran.id/surah/103/) dan membacanya perlahan bersama terjemahan.
+Al-Asr berarti masa atau waktu. Pengantar Tafsir Kemenag di Baca-Quran.id menggolongkannya sebagai surat Makkiyah. Ia sangat ringkas, tetapi isinya memuat arah hidup seorang Muslim dalam empat hal yang jelas. Anda bisa membuka teks lengkapnya di [Surat Al-Asr di Baca-Quran.id](https://www.baca-quran.id/surah/103/) dan membacanya perlahan bersama terjemahan.
 
 **Bacaan Arab**
 
