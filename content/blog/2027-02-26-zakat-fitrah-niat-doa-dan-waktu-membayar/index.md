@@ -7,7 +7,7 @@ tags: ["ramadhan", "ibadah", "doa"]
 
 Beberapa hari sebelum Idul Fitri, banyak keluarga mulai sibuk menghitung beras, menimbang uang, dan bertanya satu sama lain. "Zakat fitrah anak yang masih bayi ikut dihitung tidak?" "Boleh dibayar pakai uang?" "Kalau sudah lewat sholat Id bagaimana?" Pertanyaan-pertanyaan ini wajar, karena zakat fitrah adalah ibadah yang sederhana tetapi punya aturan waktu yang jelas.
 
-**Jawaban singkat.** Zakat fitrah adalah zakat yang wajib dikeluarkan setiap Muslim di bulan Ramadhan, besarnya satu sha' makanan pokok per orang. Waktu terbaik membayarnya adalah sebelum sholat Idul Fitri. Bila dibayar setelah sholat Id, nilainya hanya sedekah biasa menurut hadis Ibnu Abbas. Perkiraan Idul Fitri 1448 H jatuh sekitar 2027-03-10, tetapi tanggal resmi menunggu ketetapan pemerintah.
+**Jawaban singkat.** Zakat fitrah adalah zakat yang wajib dikeluarkan setiap Muslim di bulan Ramadhan, besarnya satu sha' makanan pokok per orang. Waktu terbaik membayarnya adalah sebelum sholat Idul Fitri. Bila dibayar setelah sholat Id, nilainya hanya sedekah biasa menurut hadis Ibnu Abbas. Perkiraan 1 Syawal 1448 H jatuh sekitar 2027-03-09 menurut kalender Umm al-Qura (2027-03-10 menurut kalender sipil), tetapi tanggal resmi menunggu ketetapan pemerintah.
 
 ## Apa Dasar Kewajiban Zakat Fitrah
 
@@ -39,7 +39,7 @@ Derajat hadis ini dinilai hasan oleh Al-Albani dan beberapa ulama hadis lain, se
 
 ## Siapa yang Wajib Membayar Zakat Fitrah
 
-Zakat fitrah wajib bagi setiap Muslim yang hidup pada akhir Ramadhan dan awal Syawal, serta memiliki kelebihan makanan untuk dirinya dan tanggungannya pada hari raya. Hadis Ibnu Umar di atas menyebut laki-laki, perempuan, kecil, besar, merdeka, dan hamba sahaya. Kepala keluarga membayarkan zakat untuk dirinya dan orang yang ia nafkahi, termasuk bayi yang lahir sebelum maghrib malam Id. Bayi yang lahir setelah masuk Syawal pada umumnya tidak diwajibkan, meski boleh diberikan sebagai sedekah.
+Zakat fitrah umumnya dipahami wajib bagi setiap Muslim yang hidup pada akhir Ramadhan dan awal Syawal, serta memiliki kelebihan makanan untuk dirinya dan tanggungannya pada hari raya. Hadis Ibnu Umar di atas menyebut laki-laki, perempuan, kecil, besar, merdeka, dan hamba sahaya. Kepala keluarga membayarkan zakat untuk dirinya dan orang yang ia nafkahi, termasuk bayi yang lahir sebelum maghrib malam Id menurut pemahaman yang umum. Untuk bayi yang lahir setelah masuk Syawal, para ulama punya rincian berbeda, dan bila Anda ragu, silakan tanyakan kepada ustadz atau lembaga zakat setempat.
 
 ## Niat Zakat Fitrah
 
@@ -49,7 +49,7 @@ Niat zakat fitrah ada di dalam hati, yaitu bermaksud menunaikan zakat fitrah kar
 
 Satu sha' adalah ukuran takaran pada zaman Nabi. Para ulama menghitung konversinya dalam kilogram dengan hasil yang sedikit berbeda, sehingga di Indonesia besarannya biasanya mengikuti ketetapan resmi. Setiap tahun Baznas dan Kementerian Agama mengumumkan ukuran beras yang dikeluarkan serta nilai rupiahnya, dan angkanya berbeda dari tahun ke tahun mengikuti harga beras. Karena itu, artikel ini tidak menyebut nominal rupiah. Silakan cek pengumuman resmi menjelang Ramadhan 1448 H.
 
-Soal membayar dengan uang, ada perbedaan pendapat. Mazhab Syafi'i, Maliki, dan Hanbali pada umumnya mensyaratkan makanan pokok, sedangkan mazhab Hanafi membolehkan membayar dengan nilai uang. Di Indonesia, lembaga zakat banyak menerima dalam bentuk uang untuk memudahkan penyaluran, dan Anda bisa mengikuti pendapat yang dipegang lembaga atau ustadz di tempat Anda.
+Soal membayar dengan uang, ada perbedaan pendapat. Sebagian ulama mensyaratkan makanan pokok, sebagian lain membolehkan membayar dengan nilai uang. Di Indonesia, banyak lembaga zakat menerima dalam bentuk uang untuk memudahkan penyaluran, dan Anda bisa mengikuti pendapat yang dipegang lembaga zakat atau ustadz di tempat Anda, misalnya merujuk ke Baznas, Kemenag, NU Online, atau Tarjih Muhammadiyah.
 
 ## Kapan Waktu Membayar Zakat Fitrah
 
@@ -59,8 +59,8 @@ Ada beberapa tingkatan waktu yang dibahas ulama.
 | --- | --- |
 | Pagi hari Id sebelum sholat Id | Waktu paling utama berdasarkan hadis Ibnu Umar |
 | Satu atau dua hari sebelum Id | Dilakukan para sahabat, disebut dalam Bukhari nomor 1511 |
-| Sejak awal atau pertengahan Ramadhan | Dibolehkan sebagian mazhab, dengan syarat dan batasan berbeda |
-| Setelah sholat Id | Tetap harus ditunaikan, tetapi dianggap sedekah biasa menurut hadis Ibnu Abbas, dan sebagian ulama membolehkan bila ada uzur |
+| Sejak awal atau pertengahan Ramadhan | Dibolehkan sebagian ulama, dengan syarat dan batasan yang berbeda, jadi tanyakan ke lembaga zakat setempat |
+| Setelah sholat Id | Tetap harus ditunaikan, tetapi dianggap sedekah biasa menurut hadis Ibnu Abbas, dan sebagian ulama memberi kelonggaran bila ada uzur |
 
 Jadi bila Anda sempat, tunaikan lebih awal agar penerima punya waktu mempersiapkan hari raya. Bila ternyata terlambat karena lupa atau uzur, jangan ditinggalkan. Tetap tunaikan secepatnya dan mohonlah ampun kepada Allah.
 
@@ -86,9 +86,9 @@ Adapun doa penerima zakat, ulama menganjurkan mendoakan pemberinya agar diberi p
 
 **Kapan batas akhir bayar zakat fitrah?** Batas utamanya sebelum sholat Idul Fitri. Menurut hadis Ibnu Abbas riwayat Abu Dawud, yang dibayar setelah sholat dihitung sedekah biasa, jadi usahakan selesai sebelum berangkat sholat Id.
 
-**Bolehkah zakat fitrah dibayar dengan uang?** Ada perbedaan pendapat. Mazhab Hanafi membolehkan uang, sedangkan mayoritas ulama lain mensyaratkan makanan pokok. Lembaga zakat di Indonesia lazimnya menerima uang demi kemudahan.
+**Bolehkah zakat fitrah dibayar dengan uang?** Ada perbedaan pendapat, sebagian ulama membolehkan uang dan sebagian lain mensyaratkan makanan pokok. Banyak lembaga zakat di Indonesia menerima uang demi kemudahan, jadi ikuti pendapat lembaga zakat atau ustadz di tempat Anda.
 
-**Apakah bayi yang baru lahir wajib dizakati?** Bayi yang lahir sebelum maghrib malam Id termasuk yang dizakati. Bayi yang lahir setelah masuk Syawal tidak wajib, tetapi boleh disedekahi.
+**Apakah bayi yang baru lahir wajib dizakati?** Menurut pemahaman yang umum, bayi yang lahir sebelum maghrib malam Id termasuk yang dizakati. Untuk bayi yang lahir setelah itu, rinciannya berbeda antar ulama, sehingga sebaiknya Anda tanyakan kepada ustadz atau lembaga zakat setempat.
 
 **Apakah zakat fitrah sama dengan zakat mal?** Tidak. Zakat fitrah wajib per jiwa pada akhir Ramadhan, sedangkan zakat mal dikaitkan dengan harta yang mencapai nisab dan haul.
 
