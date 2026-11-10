@@ -11,13 +11,13 @@ Surat Ali Imran sering terasa seperti sahabat lama bagi mereka yang pernah mengk
 
 ## Apa Itu Surat Ali Imran
 
-Ali Imran berarti keluarga Imran, diambil dari [QS. Ali Imran ayat 33](https://www.baca-quran.id/surah/3/33/), ketika Allah menyebut pilihan-Nya atas Adam, Nuh, keluarga Ibrahim, dan keluarga Imran. Tafsir Kemenag menjelaskan bahwa keluarga Imran termasuk Isa dan ibunya, Maryam binti Imran. Surat ini turun di Madinah, jadi nuansanya banyak berbicara tentang masyarakat Muslim yang sedang tumbuh, menghadapi ujian perang, serta berdialog dengan Ahli Kitab. Anda bisa membaca seluruhnya di [Surat Ali Imran di Baca-Quran.id](https://www.baca-quran.id/surah/3/).
+Ali Imran berarti keluarga Imran, diambil dari [QS. Ali Imran ayat 33](https://www.baca-quran.id/surah/3/33/), ketika Allah menyebut pilihan-Nya atas Adam, Nuh, keluarga Ibrahim, dan keluarga Imran. Tafsir Kemenag menjelaskan bahwa keluarga Imran termasuk Isa dan ibunya, Maryam binti Imran. Pengantar Tafsir Kemenag di Baca-Quran.id menggolongkannya sebagai surat Madaniyyah, jadi nuansanya banyak berbicara tentang masyarakat Muslim yang sedang tumbuh, menghadapi ujian perang, serta berdialog dengan Ahli Kitab. Anda bisa membaca seluruhnya di [Surat Ali Imran di Baca-Quran.id](https://www.baca-quran.id/surah/3/).
 
 ## Hadis tentang Dua Awan Pembela
 
 Abu Umamah Al-Bahili berkata bahwa ia mendengar Rasulullah bersabda, bacalah Al-Quran karena ia datang pada hari kiamat sebagai pemberi syafaat bagi pembacanya. Bacalah dua surat yang bercahaya, Al-Baqarah dan Ali Imran, karena keduanya datang pada hari kiamat seperti dua awan, atau dua naungan, atau dua kelompok burung yang berbaris, membela pembacanya (Shahih Muslim nomor 804). Hadis serupa dari An-Nawwas bin Sam'an ada di Shahih Muslim nomor 805, yaitu Al-Quran dan orang yang mengamalkannya didatangkan dengan Al-Baqarah dan Ali Imran berada di depan mereka.
 
-Perhatikan bahwa hadis An-Nawwas menyebut orang yang beramal dengan Al-Quran. Jadi pembelaan itu bukan sekadar untuk yang rajin mengulang bacaan, tetapi untuk mereka yang berusaha hidup bersamanya. Kedua hadis ini tercantum dalam Shahih Muslim, sehingga kedudukannya kuat. Surat pasangannya, Al-Baqarah, memuat Ayat Kursi yang dibahas di [Keutamaan dan Bacaan Ayat Kursi](/2026-10-24-keutamaan-dan-bacaan-ayat-kursi/).
+Perhatikan bahwa hadis An-Nawwas menyebut orang yang beramal dengan Al-Quran. Jadi pembelaan itu bukan sekadar untuk yang rajin mengulang bacaan, tetapi untuk mereka yang berusaha hidup bersamanya. Kedua hadis ini tercantum dalam Shahih Muslim, kitab yang riwayat-riwayatnya diterima luas sebagai sahih. Dataset hadis yang kami rujuk tidak memuat kolom derajat untuk Shahih Muslim, jadi kami tidak menyebut penilai tertentu. Surat pasangannya, Al-Baqarah, memuat Ayat Kursi yang dibahas di [Keutamaan dan Bacaan Ayat Kursi](/2026-10-24-keutamaan-dan-bacaan-ayat-kursi/).
 
 ## Tema Utama Surat Ali Imran
 
@@ -25,7 +25,7 @@ Perhatikan bahwa hadis An-Nawwas menyebut orang yang beramal dengan Al-Quran. Ja
 
 **Dialog dengan Ahli Kitab.** [QS. Ali Imran ayat 64](https://www.baca-quran.id/surah/3/64/) mengajak Ahli Kitab menuju kalimat yang sama, yaitu tidak menyembah selain Allah dan tidak mempersekutukan-Nya. Menurut tafsir Kemenag, ajakan ini adalah dialog yang adil untuk mencari titik temu ajaran para rasul. Dalam riwayat Ibnu Abbas di Shahih Muslim nomor 727, Rasulullah membaca ayat 136 Surat Al-Baqarah pada rakaat pertama sholat sunnah fajar, dan ayat dari Ali Imran pada rakaat kedua. Satu riwayat menyebut ayat 52, dan riwayat lain menyebut ayat ajakan menuju kalimat yang sama, yaitu ayat 64 ini.
 
-**Pelajaran dari Perang Uhud.** Sebagian besar ayat pertengahan surat berbicara tentang Uhud. Tafsir Kemenag pada ayat 121 menyebut betapa ketaatan pada arahan Rasulullah menjaga kaum Muslimin dari kehancuran. Lalu [QS. Ali Imran ayat 139](https://www.baca-quran.id/surah/3/139/) menghibur dengan kalimat jangan lemah dan jangan bersedih, karena kalian paling tinggi jika beriman. Kemenag menjelaskan bahwa kalah atau menang adalah hal biasa dan menjadi pelajaran.
+**Pelajaran dari Perang Uhud.** Pengantar Tafsir Kemenag menyebut surat ini memuat peperangan Badar dan Uhud agar menjadi pelajaran bagi kaum Muslimin. Tafsir Kemenag pada ayat 121 menyebut betapa ketaatan pada arahan Rasulullah menjaga kaum Muslimin dari kehancuran. Lalu [QS. Ali Imran ayat 139](https://www.baca-quran.id/surah/3/139/) menghibur dengan kalimat jangan lemah dan jangan bersedih, karena kalian paling tinggi jika beriman. Kemenag menjelaskan bahwa kalah atau menang adalah hal biasa dan menjadi pelajaran.
 
 **Persatuan dan akhlak.** [QS. Ali Imran ayat 103](https://www.baca-quran.id/surah/3/103/) mengajak berpegang pada tali Allah dan tidak bercerai berai. [QS. Ali Imran ayat 134](https://www.baca-quran.id/surah/3/134/) memuji orang yang berinfak di waktu lapang maupun sempit, menahan amarah, dan memaafkan. Tema yang berdekatan bisa Anda lihat di [Ayat Al-Quran tentang Ukhuwah](/2026-07-23-ayat-al-quran-tentang-ukhuwah/) dan [Ayat Al-Quran tentang Memaafkan](/2026-07-17-ayat-al-quran-tentang-memaafkan/).
 
@@ -69,7 +69,7 @@ Dengan 200 ayat, surat ini bisa dibaca bertahap. Cobalah membagi menjadi sekitar
 
 **Apa keutamaan Surat Ali Imran?** Menurut hadis Abu Umamah dalam Shahih Muslim nomor 804, Surat Ali Imran bersama Al-Baqarah akan datang pada hari kiamat seperti dua awan yang membela pembacanya.
 
-**Surat Ali Imran turun di Makkah atau Madinah?** Surat ini termasuk Madaniyyah, yaitu turun di Madinah setelah hijrah.
+**Surat Ali Imran turun di Makkah atau Madinah?** Menurut pengantar Tafsir Kemenag di Baca-Quran.id, surat ini termasuk golongan surat Madaniyyah.
 
 **Mengapa dinamakan Ali Imran?** Karena surat ini menyebut keluarga Imran, yang menurut tafsir Kemenag meliputi Isa dan ibunya, Maryam binti Imran, pada ayat 33.
 
