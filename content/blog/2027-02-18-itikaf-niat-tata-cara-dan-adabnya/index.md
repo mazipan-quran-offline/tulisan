@@ -7,7 +7,7 @@ tags: ["ramadhan", "ibadah", "sholat"]
 
 Ada suasana yang berbeda di masjid pada sepuluh malam terakhir Ramadhan. Lampu masih menyala hingga larut, orang-orang duduk membaca Al-Quran, dan sebagian membawa bantal serta selimut tipis karena memang berniat menginap. Mereka sedang beri'tikaf, ibadah yang sudah dilakukan Rasulullah setiap tahun, dan masih bisa kita teladani sampai hari ini.
 
-**Jawaban singkat.** I'tikaf adalah berdiam di masjid dengan niat beribadah kepada Allah. Waktu yang paling utama adalah sepuluh malam terakhir Ramadhan. Syarat pokoknya adalah niat, berada di masjid, dan menjauhi hubungan suami istri selama beri'tikaf. Perkiraan awal Ramadhan 1448 H jatuh sekitar 2027-02-08, sehingga sepuluh malam terakhirnya kira-kira dimulai pada akhir Februari 2027, tetapi tanggal resmi menunggu ketetapan pemerintah. Anda bisa memantaunya di [Kalender Hijriyah Baca-Quran.id](https://www.baca-quran.id/kalender-hijriyah/).
+**Jawaban singkat.** I'tikaf adalah berdiam di masjid dengan niat beribadah kepada Allah. Waktu yang paling utama adalah sepuluh malam terakhir Ramadhan. Syarat pokoknya adalah niat, berada di masjid, dan menjauhi hubungan suami istri selama beri'tikaf, sedangkan rinciannya dibahas ulama dengan beberapa pendapat. Perkiraan awal Ramadhan 1448 H jatuh sekitar 2027-02-08, sehingga malam ke-21 kira-kira dimulai saat maghrib 2027-02-27 (menurut hitungan kalender Umm al-Qura), tetapi tanggal resmi menunggu ketetapan pemerintah. Anda bisa memantaunya di [Kalender Hijriyah Baca-Quran.id](https://www.baca-quran.id/kalender-hijriyah/).
 
 ## Apa Itu I'tikaf dan Apa Dalilnya
 
@@ -46,24 +46,24 @@ Niat i'tikaf cukup di dalam hati, yaitu bermaksud berdiam di masjid untuk beriba
 Berikut urutan yang praktis bagi pemula.
 
 1. Berniat di dalam hati ketika masuk masjid.
-2. Berada di masjid, dan mayoritas ulama menyaratkan masjid yang dipakai sholat berjamaah.
+2. Berada di masjid. Para ulama berbeda dalam merinci masjid seperti apa yang dimaksud, misalnya apakah harus masjid yang dipakai sholat berjamaah, jadi tanyakan kepada pengurus masjid atau ustadz setempat.
 3. Menghindari hubungan suami istri sebagaimana larangan dalam Al-Baqarah ayat 187.
 4. Mengisi waktu dengan sholat sunnah, membaca Al-Quran, dzikir, dan doa.
 5. Keluar masjid hanya untuk keperluan yang mendesak.
 
-Bagi laki-laki, ibadah ini lazimnya dilakukan di masjid. Bagi wanita, pastikan masjid aman dan ada tempat yang layak, serta mintalah izin kepada suami atau wali. Beberapa ulama, termasuk dalam mazhab Hanafi, punya pendapat khusus tentang tempat i'tikaf wanita, sehingga bila Anda ragu tanyakan kepada ustadz yang Anda percaya.
+Bagi laki-laki, ibadah ini lazimnya dilakukan di masjid. Bagi wanita, pastikan masjid aman dan ada tempat yang layak, serta mintalah izin kepada suami atau wali. Sebagian ulama punya pendapat khusus tentang tempat i'tikaf wanita, sehingga bila Anda ragu, tanyakan kepada ustadz atau lembaga fatwa yang Anda percaya.
 
 ## Apa yang Boleh dan Tidak Boleh Saat I'tikaf
 
-**Hal yang boleh** Aisyah menceritakan bahwa Nabi mengulurkan kepalanya dari masjid kepada beliau untuk disisir, dan beliau tidak masuk rumah kecuali untuk keperluan (Bukhari nomor 2029). Dari sini ulama membolehkan keluar untuk buang hajat, mandi, atau mengambil makan bila tidak ada yang mengantarkan. Berbicara dengan keluarga juga boleh, seperti ketika Shafiyyah mengunjungi Nabi di masjid pada malam hari dan berbincang sebentar (Bukhari nomor 2035).
+**Hal yang boleh** Aisyah menceritakan bahwa Nabi mengulurkan kepalanya dari masjid kepada beliau untuk disisir, dan beliau tidak masuk rumah kecuali untuk keperluan (Bukhari nomor 2029). Dari sini ulama umumnya membolehkan keluar untuk keperluan yang tidak bisa dihindari, seperti buang hajat, dan rinciannya bisa Anda tanyakan kepada ustadz. Berbicara dengan keluarga juga boleh, seperti ketika Shafiyyah mengunjungi Nabi di masjid saat beliau beri'tikaf dan berbincang sebentar (Bukhari nomor 2035).
 
-**Hal yang tidak boleh** Yang jelas terlarang adalah hubungan suami istri berdasarkan Al-Baqarah ayat 187. Keluar masjid tanpa keperluan juga dapat membatalkan i'tikaf menurut banyak ulama, dan ibadah ini juga seharusnya tidak dipakai untuk urusan duniawi yang menyibukkan, seperti bekerja atau bermain ponsel berjam-jam.
+**Hal yang tidak boleh** Yang jelas terlarang adalah hubungan suami istri berdasarkan Al-Baqarah ayat 187. Keluar masjid tanpa keperluan juga dapat membatalkan i'tikaf menurut sebagian ulama, dan ibadah ini juga seharusnya tidak dipakai untuk urusan duniawi yang menyibukkan, seperti bekerja atau bermain ponsel berjam-jam.
 
-**Soal puasa** Para ulama berbeda apakah i'tikaf harus disertai puasa. Sebagian mensyaratkannya, sebagian lain, termasuk banyak ulama Syafi'i dan Hanbali, tidak mensyaratkannya. Di sepuluh malam terakhir Ramadhan hal ini tidak bermasalah karena kita memang berpuasa.
+**Soal puasa** Para ulama berbeda apakah i'tikaf harus disertai puasa. Sebagian mensyaratkannya dan sebagian lain tidak, jadi silakan merujuk ke fatwa yang Anda ikuti. Di sepuluh malam terakhir Ramadhan hal ini tidak bermasalah karena kita memang berpuasa.
 
 ## Berapa Lama Minimal I'tikaf
 
-Hadis Nabi menunjukkan beliau beri'tikaf sepuluh hari, tetapi tidak ada batas waktu minimal yang disebut tegas dalam Al-Quran. Ulama berbeda pendapat. Sebagian, misalnya dalam mazhab Syafi'i dan Hanbali, berpendapat cukup berdiam di masjid beberapa saat dengan niat. Sebagian lain, seperti mazhab Maliki, mensyaratkan paling sedikit satu hari satu malam. Ada juga riwayat Umar yang bernazar i'tikaf satu malam pada masa jahiliyah, lalu Nabi menyuruhnya menunaikan nazar itu (Bukhari nomor 3144 pada penomoran dataset). Untuk aman, sebaiknya kerjakan setidaknya semalam penuh bila mampu, namun jangan merasa tidak sah bila hanya sempat beberapa jam.
+Hadis Nabi menunjukkan beliau beri'tikaf sepuluh hari, tetapi tidak ada batas waktu minimal yang disebut tegas dalam Al-Quran. Ulama berbeda pendapat. Sebagian berpendapat cukup berdiam di masjid beberapa saat dengan niat, sebagian lain mensyaratkan waktu yang lebih lama, misalnya satu hari satu malam. Ada juga riwayat Ibnu Umar bahwa Umar pernah bertanya kepada Nabi tentang nazarnya pada masa jahiliyah untuk beri'tikaf satu malam di Masjidil Haram, lalu Nabi menyuruhnya menunaikan nazar itu (Bukhari nomor 2032). Untuk aman, sebaiknya kerjakan setidaknya semalam penuh bila mampu, namun jangan merasa tidak sah bila hanya sempat beberapa jam.
 
 ## Menyusun Ibadah Selama I'tikaf
 
@@ -71,14 +71,14 @@ Susunlah jadwal sederhana agar waktu tidak habis percuma. Misalnya, sholat berja
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Kapan mulai i'tikaf sepuluh malam terakhir Ramadhan?** Umumnya masuk masjid sebelum maghrib pada hari ke-20 Ramadhan, sehingga malam ke-21 sudah berada di masjid. Ini sejalan dengan hadis Abu Sa'id al-Khudri riwayat Bukhari nomor 2027 yang menyebut malam kedua puluh satu.
+**Kapan mulai i'tikaf sepuluh malam terakhir Ramadhan?** Banyak orang masuk masjid sebelum maghrib pada hari ke-20 Ramadhan, sehingga malam ke-21 sudah berada di masjid. Perkiraannya sekitar 2027-02-27, menunggu ketetapan awal Ramadhan dari pemerintah. Hadis Abu Sa'id al-Khudri riwayat Bukhari nomor 2027 juga menyebut malam kedua puluh satu.
 
-**Apakah boleh i'tikaf di rumah?** Mayoritas ulama menyaratkan i'tikaf dilakukan di masjid, berdasarkan Al-Baqarah ayat 187. Berdiam di rumah untuk beribadah tetap bernilai baik, tetapi tidak disebut i'tikaf menurut pendapat tersebut.
+**Apakah boleh i'tikaf di rumah?** Ayat 187 menyebut i'tikaf di dalam masjid, dan banyak ulama memahaminya sebagai syarat. Berdiam di rumah untuk beribadah tetap bernilai baik, tetapi umumnya tidak disebut i'tikaf menurut pendapat tersebut.
 
 **Apakah wanita boleh i'tikaf?** Boleh. Istri-istri Nabi beri'tikaf setelah beliau wafat sebagaimana hadis Bukhari nomor 2026, dengan syarat tempatnya aman dan ada izin suami atau wali.
 
-**Apakah boleh keluar masjid saat i'tikaf?** Boleh untuk keperluan mendesak seperti buang hajat, mandi, atau mengambil makanan bila tidak ada yang membawakan. Keluar tanpa keperluan dapat membatalkan i'tikaf menurut banyak ulama.
+**Apakah boleh keluar masjid saat i'tikaf?** Boleh untuk keperluan mendesak seperti buang hajat, mandi, atau mengambil makanan bila tidak ada yang membawakan. Keluar tanpa keperluan dapat membatalkan i'tikaf menurut sebagian ulama.
 
-**Berapa minimal waktu i'tikaf?** Ulama berbeda pendapat, mulai dari beberapa saat saja hingga satu hari satu malam. Bila mampu, kerjakan semalam penuh agar keluar dari perbedaan pendapat.
+**Berapa minimal waktu i'tikaf?** Ulama berbeda pendapat, dan tidak ada batas minimal yang disebut tegas dalam Al-Quran. Bila mampu, kerjakan semalam penuh agar keluar dari perbedaan pendapat.
 
 Semoga Allah memudahkan kita menghidupkan sepuluh malam terakhir Ramadhan dengan ibadah yang tulus dan diterima.
