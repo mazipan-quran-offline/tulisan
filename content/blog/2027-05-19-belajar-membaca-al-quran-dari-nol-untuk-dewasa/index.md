@@ -39,7 +39,7 @@ Konsistensi mengalahkan durasi. Sepuluh sampai lima belas menit setiap hari, pad
 
 ## Jangan Berkecil Hati, Ada Kabar Gembira untuk Anda
 
-Banyak dewasa takut terbata-bata. Padahal ada hadis sahih yang menenangkan hati. Dari Aisyah radhiyallahu 'anha, Rasulullah shallallahu 'alaihi wasallam bersabda, sebagaimana diriwayatkan Muslim nomor 798.
+Banyak dewasa takut terbata-bata. Padahal ada hadis yang menenangkan hati, tercatat dalam Shahih Muslim dan Shahih Bukhari. Dari Aisyah radhiyallahu 'anha, Rasulullah shallallahu 'alaihi wasallam bersabda, sebagaimana diriwayatkan Muslim nomor 798.
 
 **Bacaan Arab**
 
@@ -47,7 +47,7 @@ Banyak dewasa takut terbata-bata. Padahal ada hadis sahih yang menenangkan hati.
 
 **Artinya** Orang mukmin yang mahir membaca Al Qur`an, maka kedudukannya di akhirat ditemani oleh para malaikat yang mulia. Dan orang yang membaca Al Qur`an dengan gagap, ia sulit dalam membacanya, maka ia mendapat dua pahala.
 
-Hadis dengan makna serupa juga diriwayatkan Bukhari (nomor 4937 pada penomoran dataset yang kami pakai) dengan lafal yang sedikit berbeda, yaitu orang yang membaca Al-Quran dengan sungguh-sungguh meski berat baginya mendapat dua ganjaran. Para ulama menjelaskan bahwa dua pahala itu adalah pahala membaca dan pahala bersusah payah. Ini bukan alasan untuk berhenti pada tahap terbata-bata. Hadis ini kabar gembira bahwa usaha Anda yang tersendat tidak sia-sia, sambil tetap terus berlatih agar semakin lancar.
+Hadis dengan makna serupa juga diriwayatkan Bukhari nomor 4937, dari Aisyah juga, dengan lafal yang sedikit berbeda. Di sana disebutkan orang yang membaca Al-Quran dengan susah payah mendapat dua ganjaran. Ini bukan alasan untuk berhenti pada tahap terbata-bata. Hadis ini kabar gembira bahwa usaha Anda yang tersendat tidak sia-sia, sambil tetap terus berlatih agar semakin lancar.
 
 Al-Quran sendiri menegaskan kemudahannya dalam [QS. Al-Qamar ayat 17](https://www.baca-quran.id/surah/54/17/).
 
@@ -69,8 +69,8 @@ Setelah rutin, Anda bisa mencoba membaca surat pendek di [Juz Amma Baca-Quran.id
 
 **Mulai dari mana kalau belum bisa membaca huruf hijaiyah sama sekali?** Mulailah dari mengenal 28 huruf hijaiyah, lalu harakat, lalu huruf sambung, kemudian lanjut ke buku Iqra.
 
-**Berapa menit sehari idealnya?** Sepuluh sampai lima belas menit setiap hari sudah cukup untuk pemula, selama dilakukan konsisten.
+**Berapa menit sehari idealnya?** Sepuluh sampai lima belas menit setiap hari adalah target yang masuk akal untuk memulai, selama dilakukan konsisten.
 
-**Apakah benar membaca Al-Quran dengan terbata-bata mendapat dua pahala?** Ya, ada hadis dalam Shahih Muslim nomor 798 yang menyebutkan dua pahala bagi orang yang membaca Al-Quran dengan susah payah. Hadis ini bukan alasan berhenti belajar, tetapi dorongan agar tetap berusaha.
+**Apakah benar membaca Al-Quran dengan terbata-bata mendapat dua pahala?** Ya, hadis dalam Shahih Muslim nomor 798 menyebutkan dua pahala bagi orang yang membaca Al-Quran dengan terbata-bata dan merasa sulit, dan hadis serupa ada di Shahih Bukhari nomor 4937. Hadis ini bukan alasan berhenti belajar, tetapi dorongan agar tetap berusaha.
 
 Anda tidak terlambat, dan setiap huruf yang Anda eja sudah bernilai di sisi Allah. Mulailah hari ini dengan satu halaman Iqra, dan teruskan sedikit demi sedikit.
