@@ -11,7 +11,7 @@ Tiga ayat penutup Surat Al-Hasyr sering muncul di buku dzikir pagi dan petang, d
 
 ## Bacaan dan Arti QS. Al-Hasyr Ayat 22 sampai 24
 
-Surat Al-Hasyr adalah surat ke 59 dengan 24 ayat dan termasuk surat Madaniyyah. Tafsir Kemenag menjelaskan bahwa surat ini dibuka dengan peristiwa terusirnya Bani Nadhir dari Madinah, lalu ditutup dengan pengenalan kepada Allah. Ketiga ayat ini bisa Anda buka satu per satu di [QS. Al-Hasyr ayat 22](https://www.baca-quran.id/surah/59/22/), [ayat 23](https://www.baca-quran.id/surah/59/23/), dan [ayat 24](https://www.baca-quran.id/surah/59/24/), atau lihat seluruh suratnya di [Baca-Quran.id](https://www.baca-quran.id/surah/59/).
+Surat Al-Hasyr adalah surat ke 59 dengan 24 ayat dan termasuk golongan surat Madaniyyah menurut pengantar Tafsir Kemenag di Baca-Quran.id. Pengantar yang sama menyebut bahwa surat ini memuat kisah pengusiran suku Yahudi Bani Nadhir yang tinggal di sekitar Madinah, lalu ditutup dengan menyebut sebagian Asmaul Husna. Ketiga ayat ini bisa Anda buka satu per satu di [QS. Al-Hasyr ayat 22](https://www.baca-quran.id/surah/59/22/), [ayat 23](https://www.baca-quran.id/surah/59/23/), dan [ayat 24](https://www.baca-quran.id/surah/59/24/), atau lihat seluruh suratnya di [Baca-Quran.id](https://www.baca-quran.id/surah/59/).
 
 **Bacaan Arab**
 
@@ -61,7 +61,7 @@ Selain tabel ini, ayat 22 juga menyebut Allah sebagai Yang Mengetahui yang gaib 
 
 ## Hadis Ma'qil bin Yasar tentang Tujuh Puluh Ribu Malaikat
 
-Dari Ma'qil bin Yasar, Nabi bersabda bahwa siapa yang membaca di pagi hari tiga kali, A'udzu billahis sami'il 'alim minasy syaithanir rajim, lalu membaca tiga ayat dari akhir Surat Al-Hasyr, maka Allah menugaskan tujuh puluh ribu malaikat yang mendoakannya sampai sore. Jika ia meninggal pada hari itu ia mati syahid, dan siapa yang membacanya di sore hari mendapat kedudukan yang sama (Sunan At-Tirmidzi nomor 2922).
+Dari Ma'qil bin Yasar, Nabi bersabda bahwa siapa yang membaca di pagi hari tiga kali, أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ (A'udzu billahis sami'il 'alimi minasy syaithanir rajim, artinya aku berlindung kepada Allah Yang Maha Mendengar lagi Maha Mengetahui dari setan yang terkutuk), lalu membaca tiga ayat dari akhir Surat Al-Hasyr, maka Allah menugaskan tujuh puluh ribu malaikat yang mendoakannya sampai sore. Jika ia meninggal pada hari itu ia mati syahid, dan siapa yang membacanya di sore hari mendapat kedudukan yang sama (Sunan At-Tirmidzi nomor 2922).
 
 **Penilaian derajatnya.** Imam At-Tirmidzi sendiri menyebut hadis ini gharib, yaitu hanya diketahui dari jalur itu. Dalam dataset hadis yang kami rujuk, Ahmad Syakir, Al-Albani, dan Zubair Ali Zai sama-sama menilainya dhaif. Karena itu kami tidak menyebutnya sebagai keutamaan yang pasti. Kami juga belum bisa memeriksa jalur riwayat lain di luar kitab yang tersedia, jadi bila ada ulama yang menilainya berbeda, pembaca dipersilakan merujuk langsung ke kitab dan penjelasan mereka.
 
