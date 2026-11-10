@@ -13,13 +13,13 @@ Ada saat-saat ketika kita merasa sudah berusaha sekuat tenaga, tapi urusan tidak
 
 Sholat hajat adalah sholat sunnah dua rakaat yang dilakukan seseorang ketika punya keperluan, baik kepada Allah maupun yang melibatkan sesama manusia. Dasar yang biasa disebut adalah hadis dari Abdullah bin Abi Aufa. Rasulullah bersabda bahwa siapa yang punya keperluan kepada Allah atau kepada seseorang dari anak Adam, hendaklah ia berwudhu dengan baik, sholat dua rakaat, memuji Allah, bersholawat kepada Nabi, lalu membaca doa tertentu.
 
-Hadis ini diriwayatkan Tirmidzi nomor 479 dan Ibnu Majah nomor 1384. Imam Tirmidzi sendiri berkomentar bahwa hadis ini hasan gharib dan pada sanadnya ada pembicaraan, karena perawi bernama Fa'id bin Abdurrahman dinilai lemah. Dalam dataset hadis yang kami rujuk, Ahmad Syakir dan Al-Albani menilainya sangat lemah, Bashar Awad Ma'ruf dan Zubair Ali Zai menilainya lemah. Untuk riwayat Ibnu Majah, Al-Albani dan Syu'aib Al-Arnauth juga menilainya lemah.
+Hadis ini diriwayatkan Tirmidzi nomor 479 dan Ibnu Majah nomor 1384. Imam Tirmidzi sendiri berkomentar bahwa hadis ini hasan gharib dan pada sanadnya ada pembicaraan, karena perawi bernama Fa'id bin Abdurrahman dinilai lemah. Komentar itu tercatat dalam teks Tirmidzi di dataset AhmedBaset/hadith-json. Menurut kolom derajat di dataset fawazahmed0/hadith-api, Ahmad Syakir dan Al-Albani menilainya sangat lemah, sedangkan Bashar Awad Ma'ruf dan Zubair Ali Zai menilainya lemah. Untuk riwayat Ibnu Majah, Al-Albani, Muhammad Fuad Abdul Baqi, dan Syu'aib Al-Arnauth menilainya sangat lemah, sedangkan Zubair Ali Zai menilainya lemah.
 
 ## Bagaimana Ulama Menyikapi Hadis Lemah Ini
 
-**Pandangan yang membolehkan** Sebagian ulama membolehkan mengamalkan hadis yang lemah, selama kelemahannya tidak berat dan dipakai untuk fadhail amal, yaitu amalan yang sifatnya keutamaan. Sholat dua rakaat lalu berdoa bukan perkara yang bertentangan dengan dalil lain, karena sholat dan doa memang dianjurkan. Karena itu sholat hajat banyak diamalkan di berbagai kalangan, dan sering dijelaskan di situs seperti NU Online.
+**Pandangan yang membolehkan** Sebagian ulama membolehkan mengamalkan hadis yang lemah, selama kelemahannya tidak berat dan dipakai untuk fadhail amal, yaitu amalan yang sifatnya keutamaan. Sholat dua rakaat lalu berdoa bukan perkara yang bertentangan dengan dalil lain, karena sholat dan doa memang dianjurkan. Karena itu sebagian kalangan mengamalkan sholat hajat.
 
-**Pandangan yang berhati-hati** Ulama lain menilai bahwa hadis yang sangat lemah tidak boleh dijadikan dasar untuk menetapkan sebuah ibadah khusus lengkap dengan bentuk dan doanya. Menurut pandangan ini, orang yang punya hajat sebaiknya berdoa dalam sholat sunnah biasa atau di waktu-waktu mustajab, tanpa menyebutnya sebagai sunnah yang ditetapkan khusus. Perbedaan ini wajar dan tidak perlu menjadi sebab perdebatan. Silakan tanyakan kepada ustadz atau lembaga yang Anda percayai, misalnya NU Online, Tarjih Muhammadiyah, atau MUI.
+**Pandangan yang berhati-hati** Ulama lain menilai bahwa hadis yang sangat lemah tidak boleh dijadikan dasar untuk menetapkan sebuah ibadah khusus lengkap dengan bentuk dan doanya. Menurut pandangan ini, orang yang punya hajat sebaiknya berdoa dalam sholat sunnah biasa atau di waktu-waktu mustajab, tanpa menyebutnya sebagai sunnah yang ditetapkan khusus. Perbedaan ini wajar dan tidak perlu menjadi sebab perdebatan. Kami tidak menyebut pendapat kelompok atau tokoh tertentu karena belum bisa memverifikasinya. Silakan tanyakan kepada ustadz atau lembaga yang Anda percayai, misalnya NU Online, Tarjih Muhammadiyah, atau MUI.
 
 ## Dalil Kuat untuk Memohon Pertolongan Lewat Sholat
 
@@ -51,7 +51,7 @@ Aku niat sholat sunnah hajat dua rakaat karena Allah Ta'ala.
 
 ## Tata Cara Sholat Hajat Dua Rakaat
 
-Berikut langkah yang umum diajarkan, sesuai bunyi hadis Tirmidzi.
+Hadis Tirmidzi hanya menyebut wudhu dengan baik, sholat dua rakaat, memuji Allah, bersholawat, lalu membaca doa. Rincian lain, seperti niat dan surat yang dibaca, mengikuti kebiasaan sholat sunnah biasa dan bukan bunyi hadis. Berikut langkahnya.
 
 1. Berwudhu dengan baik dan sempurna.
 2. Niat dalam hati untuk sholat hajat, lalu takbiratul ihram.
@@ -61,7 +61,7 @@ Berikut langkah yang umum diajarkan, sesuai bunyi hadis Tirmidzi.
 6. Bacalah doa di bawah ini, atau sampaikan hajat Anda dengan bahasa sendiri.
 7. Tutup dengan sholawat dan istighfar, lalu bertawakal.
 
-Sholat ini tidak punya waktu tertentu. Banyak orang memilih waktu yang tenang, misalnya sepertiga malam terakhir seperti pada [Tata Cara Sholat Tahajud Niat dan Doanya](/2026-10-21-tata-cara-sholat-tahajud-niat-dan-doanya/). Untuk surat yang dibaca, lihat [Surat Pendek untuk Dihafal dan Sholat](/2026-04-28-surat-pendek-untuk-dihafal-dan-sholat/).
+Hadis yang menjadi dasarnya tidak menyebut waktu tertentu. Banyak orang memilih waktu yang tenang, misalnya sepertiga malam terakhir seperti pada [Tata Cara Sholat Tahajud Niat dan Doanya](/2026-10-21-tata-cara-sholat-tahajud-niat-dan-doanya/). Untuk surat yang dibaca, lihat [Surat Pendek untuk Dihafal dan Sholat](/2026-04-28-surat-pendek-untuk-dihafal-dan-sholat/).
 
 ## Doa Sholat Hajat
 
@@ -85,7 +85,7 @@ Doa ini sebenarnya sangat indah isinya. Ia mengajak kita memuji Allah lebih dulu
 
 **Berdoa setelah sholat sunnah atau fardhu** Anda tidak harus menamainya sholat hajat. Setelah sholat sunnah rawatib, dhuha, atau tahajud, sampaikan hajat Anda dengan doa sendiri. Dalil umum tentang berdoa dan memohon pertolongan lewat sholat sudah cukup kuat.
 
-**Sholat istikharah** Kalau hajat Anda berupa pilihan yang membingungkan, seperti memilih pekerjaan atau pasangan, ada sholat istikharah yang dasarnya riwayat Bukhari dari Jabir bin Abdullah. Nabi mengajarkannya kepada para sahabat dalam setiap urusan, seperti beliau mengajarkan surat Al-Quran.
+**Sholat istikharah** Kalau hajat Anda berupa pilihan yang membingungkan, seperti memilih pekerjaan atau pasangan, ada sholat istikharah yang dasarnya riwayat Bukhari dari Jabir bin Abdullah, yaitu nomor 6382 (Kitab Doa) dan nomor 7390 (Kitab Tauhid). Nabi mengajarkannya kepada para sahabat dalam setiap urusan, seperti beliau mengajarkan surat Al-Quran.
 
 **Sabar dan terus berikhtiar** Ayat Al-Baqarah 45 dan 153 menggandeng sholat dengan sabar. Berdoa tidak menggantikan usaha, jadi tetap lanjutkan ikhtiar sambil berdoa dan berbaik sangka kepada Allah. Dzikir ringan seperti pada [Bacaan Istighfar dan Dzikir Harian](/2026-06-20-bacaan-istighfar-dan-dzikir-harian/) juga bisa menemani hari-hari menunggu.
 
@@ -101,7 +101,7 @@ Ada, yaitu hadis Abdullah bin Abi Aufa riwayat Tirmidzi dan Ibnu Majah, tetapi b
 Dua rakaat, sesuai bunyi hadis yang menjadi dasarnya. Hadis tersebut tidak menyebut jumlah lain.
 
 **Kapan waktu terbaik mengerjakan sholat hajat?**
-Tidak ada waktu khusus. Anda boleh mengerjakannya kapan saja selain waktu terlarang, dan banyak orang memilih sepertiga malam terakhir karena suasananya tenang.
+Hadis dasarnya tidak menyebut waktu khusus, dan banyak orang memilih sepertiga malam terakhir karena suasananya tenang. Untuk ketentuan waktu yang tidak diperbolehkan sholat sunnah, tanyakan kepada ustadz setempat.
 
 **Apakah doanya harus dibaca dalam bahasa Arab?**
 Tidak harus. Anda boleh berdoa dengan bahasa sendiri, karena yang terpenting adalah kesungguhan dan kejujuran hati.
