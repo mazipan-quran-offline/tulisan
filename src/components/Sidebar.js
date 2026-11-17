@@ -70,6 +70,7 @@ const Sidebar = ({ tags = [], activeTag, limit = 14 }) => {
       )}
 
       <AdSlot slot={AD_SLOTS.sidebar} variant="sidebar" />
+      <PartnerAd variant="banner" className="partner-ad--sidebar" />
       <PartnerAd variant="tower" className="partner-ad--sidebar" />
 
       <nav className="sidebar__card sidebar__card--accent" aria-labelledby="sidebar-main">

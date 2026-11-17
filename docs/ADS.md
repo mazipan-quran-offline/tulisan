@@ -39,11 +39,11 @@ ads configured in `PARTNER_ADS` in `src/config/ads.js` (`enabled: false` turns
 both off). The link ads load no ad script; the two iframe units (`rect`, `tower`)
 load Adsterra's script inside their own iframe.
 
-| Variant  | Where                                                                            | Notes                                       |
-| -------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
-| `banner` | Articles, after "Baca Juga", before the Multiplex unit                           | Adsterra referral GIF, 250x250, lazy-loaded |
-| `rect`   | Articles, next to the `banner` (side by side on wide screens, stacked on phones) | Adsterra 300x250 iframe unit                |
-| `tower`  | Sidebar, below the AdSense unit, 1200px and wider                                | Adsterra 160x600 iframe unit                |
+| Variant  | Where                                                                                                     | Notes                                                                                |
+| -------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| `banner` | Home/tag sidebar (below the AdSense unit, 1200px and wider) and the article right rail (1440px and wider) | Adsterra referral GIF, 250x250, lazy-loaded; scaled to fit the narrower article rail |
+| `rect`   | Articles, after "Baca Juga", before the Multiplex unit (all screen sizes)                                 | Adsterra 300x250 iframe unit                                                         |
+| `tower`  | Home/tag sidebar, below the `banner`, 1200px and wider                                                    | Adsterra 160x600 iframe unit                                                         |
 
 Links use `rel="nofollow sponsored noopener noreferrer"` and are labelled "Iklan".
 `rect` and `tower` run inside a sandboxed `srcdoc` iframe (see `PartnerAd.js`).

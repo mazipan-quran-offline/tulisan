@@ -2535,18 +2535,14 @@ tbody tr:hover {
   border-radius: var(--radius);
 }
 
-/* Banner and 300x250 side by side on wide screens, stacked on phones */
-.partner-ad-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 1.5rem 2rem;
-  margin: 2rem 0;
+/* The article rail is a little narrower than the 250px banner, so it scales down */
+.partner-ad--rail {
+  margin: 2rem 0 0;
 }
 
-.partner-ad-row > .partner-ad {
-  margin: 0;
+.partner-ad--rail .partner-ad__link,
+.partner-ad--rail .partner-ad__link img {
+  width: 100%;
 }
 
 .partner-ad--rect,
