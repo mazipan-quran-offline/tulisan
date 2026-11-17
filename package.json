@@ -22,6 +22,7 @@
     "clean": "gatsby clean",
     "dev": "gatsby develop -p 3500",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "prepare": "git config core.hooksPath .githooks || true",
     "format:check": "prettier --check \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve --prefix-paths",
     "start": "npm run develop",

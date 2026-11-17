@@ -268,6 +268,12 @@ Ringkasan aturan penting:
 - Untuk menambah, mengganti, atau mematikan iklan, ubah `AD_SLOTS` di `src/config/ads.js` (isi `null` untuk mematikan).
 - Jangan menaruh iklan di dekat tombol bagikan atau tombol ajakan, di atas judul, atau di halaman pencarian, 404, dan daftar kategori.
 
+## Format Kode (Prettier)
+
+- Prettier (versi yang dipin di `package.json`) wajib lolos. `pnpm install` memasang git hook dari `.githooks/` lewat skrip `prepare`: `pre-commit` memformat file yang di-stage, dan `pre-push` menjalankan `pnpm run format:check` sebelum push mencapai remote. PR Check menjalankan pemeriksaan yang sama.
+- Jalankan `pnpm format` untuk memformat semua file. Folder `content/` diabaikan (lihat `.prettierignore`).
+- Jangan melewati hook dengan `--no-verify`.
+
 ## Alur Kerja PR (Pull Request)
 
 - Setiap pekerjaan selalu dikerjakan di **branch baru yang dibuat dari `master` terbaru**, bukan melanjutkan branch lama.
