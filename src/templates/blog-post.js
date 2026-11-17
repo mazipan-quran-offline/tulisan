@@ -232,6 +232,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                   <a href={`${MAIN_SITE}/daily-doa/`}>Doa Harian</a>
                 </li>
               </ul>
+              <PartnerAd variant="banner" className="partner-ad--rail" />
             </aside>
           </div>
         </article>
@@ -265,10 +266,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </section>
         )}
 
-        <div className="partner-ad-row">
-          <PartnerAd variant="banner" />
-          <PartnerAd variant="rect" />
-        </div>
+        <PartnerAd variant="rect" />
 
         <AdSlot slot={AD_SLOTS.articleEnd} variant="multiplex" />
 
