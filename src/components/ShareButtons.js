@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import { FacebookIcon, XIcon, WhatsAppIcon, GitHubIcon, LinkIcon, SparklesIcon, ShareIcon } from './icons';
 
-const copyText = async text => {
+const copyText = async (text) => {
   try {
     await navigator.clipboard.writeText(text);
     return true;
@@ -41,9 +41,7 @@ const CopyButton = ({ getText, label, doneLabel, ariaLabel, icon }) => {
       aria-label={ariaLabel}
     >
       {icon}
-      <span aria-live="polite">
-        {status === 'done' ? doneLabel : status === 'error' ? 'Gagal menyalin' : label}
-      </span>
+      <span aria-live="polite">{status === 'done' ? doneLabel : status === 'error' ? 'Gagal menyalin' : label}</span>
     </button>
   );
 };

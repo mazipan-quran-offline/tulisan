@@ -1,12 +1,5 @@
 {
   "permissions": {
-    "allow": [
-      "Bash(git *)",
-      "Bash(find *)",
-      "Bash(grep *)",
-      "Bash(cat *)",
-      "Bash(ls *)",
-      "Bash(mkdir *)"
-    ]
+    "allow": ["Bash(git *)", "Bash(find *)", "Bash(grep *)", "Bash(cat *)", "Bash(ls *)", "Bash(mkdir *)"]
   }
 }

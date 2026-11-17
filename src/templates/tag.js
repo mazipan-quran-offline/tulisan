@@ -23,21 +23,21 @@ const TagTemplate = ({ data, location, pageContext }) => {
 
       <div className="site-main__inner">
         <div className="with-sidebar">
-        <div className="with-sidebar__main">
-        <div className="section-header">
-          <h1 className="section-title">Kategori {label}</h1>
-          <span className="section-count" aria-live="polite">
-            {totalCount} artikel
-          </span>
-        </div>
+          <div className="with-sidebar__main">
+            <div className="section-header">
+              <h1 className="section-title">Kategori {label}</h1>
+              <span className="section-count" aria-live="polite">
+                {totalCount} artikel
+              </span>
+            </div>
 
-        <p className="tag-page__back">
-          <Link to="/tags/">&larr; Semua kategori</Link>
-        </p>
+            <p className="tag-page__back">
+              <Link to="/tags/">&larr; Semua kategori</Link>
+            </p>
 
-        <PostList nodes={edges.map(({ node }) => node)} label={`Artikel ${label}`} />
-        </div>
-        <Sidebar tags={data.tags.group} activeTag={tag} />
+            <PostList nodes={edges.map(({ node }) => node)} label={`Artikel ${label}`} />
+          </div>
+          <Sidebar tags={data.tags.group} activeTag={tag} />
         </div>
       </div>
     </Layout>
@@ -59,10 +59,7 @@ export const pageQuery = graphql`
         totalCount
       }
     }
-    allMarkdownRemark(
-      sort: { frontmatter: { date: DESC } }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
-    ) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }, filter: { frontmatter: { tags: { in: [$tag] } } }) {
       totalCount
       edges {
         node {

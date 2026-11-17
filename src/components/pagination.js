@@ -12,11 +12,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
   const getVisiblePages = () => {
     const WING = 2;
     const shown = new Set([1, numPages]);
-    for (
-      let p = Math.max(2, currentPage - WING);
-      p <= Math.min(numPages - 1, currentPage + WING);
-      p++
-    ) {
+    for (let p = Math.max(2, currentPage - WING); p <= Math.min(numPages - 1, currentPage + WING); p++) {
       shown.add(p);
     }
 
@@ -50,7 +46,7 @@ const Pagination = ({ numPages, currentPage, prevPage, nextPage, isFirst, isLast
         </Link>
       )}
 
-      {getVisiblePages().map(item => {
+      {getVisiblePages().map((item) => {
         if (item.type === 'ellipsis') {
           return (
             <span key={item.key} className="pagination__ellipsis" aria-hidden="true">

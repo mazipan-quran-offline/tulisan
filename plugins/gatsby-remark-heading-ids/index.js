@@ -5,13 +5,13 @@
 // of gatsby-transformer-remark (it reads `data.id`), so the table of contents
 // can be rendered on the server without any client-side DOM scanning.
 module.exports = ({ markdownAST }) => {
-  const extractText = node => {
+  const extractText = (node) => {
     if (typeof node.value === 'string') return node.value;
     if (Array.isArray(node.children)) return node.children.map(extractText).join('');
     return '';
   };
 
-  const slugify = text =>
+  const slugify = (text) =>
     text
       .toLowerCase()
       .normalize('NFKD')
@@ -23,14 +23,14 @@ module.exports = ({ markdownAST }) => {
   const used = new Map();
   let fallbackCount = 0;
 
-  const uniqueId = base => {
+  const uniqueId = (base) => {
     const root = base || `bagian-${++fallbackCount}`;
     const count = used.get(root) || 0;
     used.set(root, count + 1);
     return count === 0 ? root : `${root}-${count}`;
   };
 
-  const walk = node => {
+  const walk = (node) => {
     if (node.type === 'heading' && (node.depth === 2 || node.depth === 3)) {
       const id = uniqueId(slugify(extractText(node)));
       node.data = node.data || {};

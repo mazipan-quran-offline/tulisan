@@ -27,11 +27,7 @@ const LazyDisqus = ({ config }) => {
 
   return (
     <div ref={ref}>
-      {show ? (
-        <Disqus config={config} />
-      ) : (
-        <div className="comments-placeholder">Komentar akan dimuat di sini…</div>
-      )}
+      {show ? <Disqus config={config} /> : <div className="comments-placeholder">Komentar akan dimuat di sini…</div>}
     </div>
   );
 };

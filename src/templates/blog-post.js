@@ -9,26 +9,11 @@ import TableOfContents from '../components/TableOfContents';
 import LazyDisqus from '../components/LazyDisqus';
 import AdSlot from '../components/AdSlot';
 import PartnerAd from '../components/PartnerAd';
-import {
-  AD_SLOTS,
-  IN_ARTICLE_BEFORE_H2,
-  MIN_H2_FOR_IN_ARTICLE,
-} from '../config/ads';
-import {
-  CalendarIcon,
-  ClockIcon,
-  ArrowLeftIcon,
-  ArrowRightIcon,
-  BookOpenIcon,
-} from '../components/icons';
+import { AD_SLOTS, IN_ARTICLE_BEFORE_H2, MIN_H2_FOR_IN_ARTICLE } from '../config/ads';
+import { CalendarIcon, ClockIcon, ArrowLeftIcon, ArrowRightIcon, BookOpenIcon } from '../components/icons';
 import ShareButtons from '../components/ShareButtons';
 import { formatTag, tagPath } from '../utils/tags';
-import {
-  SITE_URL,
-  blogPostingSchema,
-  breadcrumbSchema,
-  faqSchema,
-} from '../utils/structured-data';
+import { SITE_URL, blogPostingSchema, breadcrumbSchema, faqSchema } from '../utils/structured-data';
 
 const MAIN_SITE = 'https://www.baca-quran.id';
 const ARTICLE_ID = 'article';
@@ -36,7 +21,7 @@ const MIN_TOC_HEADINGS = 3;
 
 // Splits the rendered article HTML before the Nth <h2> so an ad can sit
 // between two sections. Returns [html] when the article is too short.
-const splitForAd = html => {
+const splitForAd = (html) => {
   if (!AD_SLOTS.inArticle) return [html];
   const starts = [];
   const re = /<h2[\s>]/g;
@@ -64,9 +49,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const aiText = `# ${post.frontmatter.title}\n\nSumber: ${pageUrl}\n\n${post.rawMarkdownBody}`;
   const editPath = location.pathname.replace(rootPath, '');
 
-  const tocHeadings = (post.headings || []).filter(
-    h => h.id && (h.depth === 2 || h.depth === 3),
-  );
+  const tocHeadings = (post.headings || []).filter((h) => h.id && (h.depth === 2 || h.depth === 3));
   const hasToc = tocHeadings.length >= MIN_TOC_HEADINGS;
 
   return (
@@ -129,7 +112,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               )}
               {tags && tags.length > 0 ? (
                 <ul className="post-tags" aria-label="Tag artikel" role="list">
-                  {tags.map(tag => (
+                  {tags.map((tag) => (
                     <li key={tag}>
                       <Link to={tagPath(tag)} className="blog-post__tag">
                         {formatTag(tag)}
@@ -156,10 +139,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 const [first, second] = splitForAd(post.html);
                 return (
                   <>
-                    <section
-                      className="blog-post__content"
-                      dangerouslySetInnerHTML={{ __html: first }}
-                    />
+                    <section className="blog-post__content" dangerouslySetInnerHTML={{ __html: first }} />
                     {second && (
                       <>
                         <AdSlot slot={AD_SLOTS.inArticle} variant="in-article" />
@@ -192,8 +172,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                   Lanjutkan membaca di Baca-Quran.id
                 </h2>
                 <p className="cta-card__text">
-                  Baca Al-Qur&apos;an per ayat, buka Juz Amma, atau berdzikir dengan tasbih digital
-                  langsung di aplikasi Baca-Quran.id.
+                  Baca Al-Qur&apos;an per ayat, buka Juz Amma, atau berdzikir dengan tasbih digital langsung di aplikasi
+                  Baca-Quran.id.
                 </p>
                 <div className="cta-card__links">
                   <a className="btn btn--primary" href={`${MAIN_SITE}/`}>
@@ -236,11 +216,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               />
               <p className="post-rail__heading">Di Baca-Quran.id</p>
               <ul className="post-rail__links" role="list">
-                <li><a href={`${MAIN_SITE}/all-surah/`}>Semua Surah</a></li>
-                <li><a href={`${MAIN_SITE}/juz-amma/`}>Juz Amma</a></li>
-                <li><a href={`${MAIN_SITE}/ayat-kursi/`}>Ayat Kursi</a></li>
-                <li><a href={`${MAIN_SITE}/tasbih/`}>Tasbih Digital</a></li>
-                <li><a href={`${MAIN_SITE}/daily-doa/`}>Doa Harian</a></li>
+                <li>
+                  <a href={`${MAIN_SITE}/all-surah/`}>Semua Surah</a>
+                </li>
+                <li>
+                  <a href={`${MAIN_SITE}/juz-amma/`}>Juz Amma</a>
+                </li>
+                <li>
+                  <a href={`${MAIN_SITE}/ayat-kursi/`}>Ayat Kursi</a>
+                </li>
+                <li>
+                  <a href={`${MAIN_SITE}/tasbih/`}>Tasbih Digital</a>
+                </li>
+                <li>
+                  <a href={`${MAIN_SITE}/daily-doa/`}>Doa Harian</a>
+                </li>
               </ul>
             </aside>
           </div>
@@ -253,14 +243,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               Baca Juga
             </h2>
             <ul className="related-posts__grid" role="list">
-              {relatedPosts.map(rp => (
+              {relatedPosts.map((rp) => (
                 <li key={rp.slug} className="related-posts__item reveal">
                   <Link to={rp.slug} className="related-posts__link">
                     <span className="related-posts__date">{rp.date}</span>
                     <span className="related-posts__name">{rp.title}</span>
                     {rp.tags && rp.tags.length > 0 && (
                       <span className="related-posts__tags">
-                        {rp.tags.slice(0, 2).map(tag => (
+                        {rp.tags.slice(0, 2).map((tag) => (
                           <span key={tag} className="related-posts__tag">
                             {formatTag(tag)}
                           </span>

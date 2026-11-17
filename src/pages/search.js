@@ -11,7 +11,7 @@ function searchPosts(posts, rawQuery) {
   const q = rawQuery.trim().toLowerCase();
   if (!q) return [];
   const terms = q.split(/\s+/);
-  return posts.filter(post => {
+  return posts.filter((post) => {
     const haystack = [
       post.frontmatter.title,
       post.frontmatter.description,
@@ -21,7 +21,7 @@ function searchPosts(posts, rawQuery) {
       .filter(Boolean)
       .join(' ')
       .toLowerCase();
-    return terms.every(term => haystack.includes(term));
+    return terms.every((term) => haystack.includes(term));
   });
 }
 
@@ -76,7 +76,7 @@ const SearchPage = ({ location }) => {
     }
   }, [location.search]);
 
-  const handleChange = e => {
+  const handleChange = (e) => {
     const val = e.target.value;
     setQuery(val);
     if (typeof window !== 'undefined') {
@@ -101,9 +101,7 @@ const SearchPage = ({ location }) => {
       <div className="site-main__inner">
         <div className="page-intro">
           <h1 className="page-intro__title">Cari Artikel</h1>
-          <p className="page-intro__text">
-            Temukan artikel dari {allPosts.length} tulisan yang tersedia
-          </p>
+          <p className="page-intro__text">Temukan artikel dari {allPosts.length} tulisan yang tersedia</p>
         </div>
 
         <div className="search-form" role="search">
@@ -129,9 +127,7 @@ const SearchPage = ({ location }) => {
         {hasQuery && (
           <div className="section-header">
             <h2 className="section-title">
-              {results.length > 0
-                ? `Hasil untuk "${query}"`
-                : `Tidak ada hasil untuk "${query}"`}
+              {results.length > 0 ? `Hasil untuk "${query}"` : `Tidak ada hasil untuk "${query}"`}
             </h2>
             <span className="section-count" aria-live="polite">
               {results.length} artikel
@@ -141,7 +137,7 @@ const SearchPage = ({ location }) => {
 
         {results.length > 0 && (
           <ul className="post-grid" role="list" aria-label="Hasil pencarian">
-            {results.map(node => (
+            {results.map((node) => (
               <PostCard key={node.fields.slug} node={node} />
             ))}
           </ul>
@@ -150,12 +146,10 @@ const SearchPage = ({ location }) => {
         {hasQuery && results.length === 0 && (
           <div className="search-empty">
             <p>
-              Tidak ada artikel yang cocok dengan{' '}
-              <strong>&ldquo;{query}&rdquo;</strong>.
+              Tidak ada artikel yang cocok dengan <strong>&ldquo;{query}&rdquo;</strong>.
             </p>
             <p>
-              Coba kata kunci lain atau{' '}
-              <Link to="/">lihat semua artikel</Link>.
+              Coba kata kunci lain atau <Link to="/">lihat semua artikel</Link>.
             </p>
           </div>
         )}

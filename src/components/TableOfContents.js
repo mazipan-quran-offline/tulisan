@@ -10,7 +10,7 @@ const TableOfContents = ({ headings }) => {
   const [activeId, setActiveId] = useState(null);
 
   useEffect(() => {
-    const elements = headings.map(h => document.getElementById(h.id)).filter(Boolean);
+    const elements = headings.map((h) => document.getElementById(h.id)).filter(Boolean);
     if (!elements.length) return undefined;
 
     // Active section = the last heading that has scrolled past a line just
@@ -44,7 +44,7 @@ const TableOfContents = ({ headings }) => {
         className="toc__toggle"
         aria-expanded={open}
         aria-controls="toc-list"
-        onClick={() => setOpen(o => !o)}
+        onClick={() => setOpen((o) => !o)}
       >
         <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.6rem' }}>
           <ListIcon />
@@ -56,7 +56,7 @@ const TableOfContents = ({ headings }) => {
         Daftar isi
       </p>
       <ol className="toc__list" id="toc-list">
-        {headings.map(h => (
+        {headings.map((h) => (
           <li key={h.id} className={h.depth === 3 ? 'toc__item--sub' : undefined}>
             <a
               className="toc__link"

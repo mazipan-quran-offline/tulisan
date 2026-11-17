@@ -18,38 +18,25 @@ const DEFAULT_IMAGE = {
 };
 
 // Keep one trailing slash so every page has a single canonical form.
-const withTrailingSlash = path => (path.endsWith('/') ? path : `${path}/`);
+const withTrailingSlash = (path) => (path.endsWith('/') ? path : `${path}/`);
 
 // `<` is escaped so content can never close the script tag.
-const serializeJsonLd = data => JSON.stringify(data).replace(/</g, '\\u003c');
+const serializeJsonLd = (data) => JSON.stringify(data).replace(/</g, '\\u003c');
 
-const MetaHead = ({
-  description,
-  lang,
-  meta,
-  title,
-  pathname,
-  type,
-  noindex,
-  publishedTime,
-  tags,
-  jsonLd,
-}) => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            social {
-              twitter
-            }
+const MetaHead = ({ description, lang, meta, title, pathname, type, noindex, publishedTime, tags, jsonLd }) => {
+  const { site } = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          title
+          description
+          social {
+            twitter
           }
         }
       }
-    `,
-  );
+    }
+  `);
 
   const metaDescription = description || site.siteMetadata.description;
   const canonical = pathname ? `${SITE_URL}${withTrailingSlash(pathname)}` : null;
@@ -59,7 +46,7 @@ const MetaHead = ({
     type === 'article'
       ? [
           publishedTime && { property: 'article:published_time', content: publishedTime },
-          ...(tags || []).map(tag => ({ property: 'article:tag', content: tag })),
+          ...(tags || []).map((tag) => ({ property: 'article:tag', content: tag })),
         ].filter(Boolean)
       : [];
 
@@ -73,7 +60,7 @@ const MetaHead = ({
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       link={canonical ? [{ rel: 'canonical', href: canonical }] : []}
-      script={schemas.map(data => ({
+      script={schemas.map((data) => ({
         type: 'application/ld+json',
         innerHTML: serializeJsonLd(data),
       }))}

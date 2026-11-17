@@ -19,12 +19,12 @@ Two mechanisms run side by side:
 
 ## Placements
 
-| Key (`AD_SLOTS`) | Unit type | Where it appears | Component / file |
-|---|---|---|---|
-| `inArticle` | In-article (`fluid`, `in-article` layout) | Inside an article, before the 3rd `<h2>` (after the 2nd section). Only articles with 4 or more `<h2>` | `splitForAd()` in `src/templates/blog-post.js` |
-| `articleEnd` | Multiplex (`autorelaxed`) | After "Baca Juga", before previous/next, on every article. Container max 60rem | `src/templates/blog-post.js` |
-| `sidebar` | Display (`auto`, full-width responsive) | Sticky sidebar on home and tag pages, only at 1200px and wider (hidden by CSS below that) | `src/components/Sidebar.js` |
-| `inFeed` | In-feed (`fluid` + `data-ad-layout-key`) | One card in the article grid after the 6th article, on home and tag pages with more than 6 articles | `src/components/post-list.js` |
+| Key (`AD_SLOTS`) | Unit type                                 | Where it appears                                                                                      | Component / file                               |
+| ---------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `inArticle`      | In-article (`fluid`, `in-article` layout) | Inside an article, before the 3rd `<h2>` (after the 2nd section). Only articles with 4 or more `<h2>` | `splitForAd()` in `src/templates/blog-post.js` |
+| `articleEnd`     | Multiplex (`autorelaxed`)                 | After "Baca Juga", before previous/next, on every article. Container max 60rem                        | `src/templates/blog-post.js`                   |
+| `sidebar`        | Display (`auto`, full-width responsive)   | Sticky sidebar on home and tag pages, only at 1200px and wider (hidden by CSS below that)             | `src/components/Sidebar.js`                    |
+| `inFeed`         | In-feed (`fluid` + `data-ad-layout-key`)  | One card in the article grid after the 6th article, on home and tag pages with more than 6 articles   | `src/components/post-list.js`                  |
 
 Slot IDs and the in-feed layout key live in `src/config/ads.js`. That file also
 holds `IN_ARTICLE_BEFORE_H2`, `MIN_H2_FOR_IN_ARTICLE` and `IN_FEED_AFTER`.
@@ -38,10 +38,10 @@ Besides AdSense, `PartnerAd` (`src/components/PartnerAd.js`) renders two plain-l
 ads configured in `PARTNER_ADS` in `src/config/ads.js` (`enabled: false` turns
 both off). They load no ad script.
 
-| Variant | Where | Notes |
-|---|---|---|
+| Variant  | Where                                                  | Notes                                       |
+| -------- | ------------------------------------------------------ | ------------------------------------------- |
 | `banner` | Articles, after "Baca Juga", before the Multiplex unit | Adsterra referral GIF, 250x250, lazy-loaded |
-| `promo` | Sidebar on home and tag pages, 1200px and wider | Text card linking to a partner page |
+| `promo`  | Sidebar on home and tag pages, 1200px and wider        | Text card linking to a partner page         |
 
 Links use `rel="nofollow sponsored noopener noreferrer"` and are labelled "Iklan".
 The `promo` link is an ad-network redirect, so its destination is chosen by that
@@ -93,6 +93,7 @@ somewhere unsuitable for this site.
 `src/config/ads.js`.
 
 **Add a new placement:**
+
 1. Create the ad unit in AdSense and copy `data-ad-slot` (and, for in-feed,
    `data-ad-layout-key`) from its generated code.
 2. Add a key to `AD_SLOTS`.

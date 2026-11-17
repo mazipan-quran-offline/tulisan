@@ -110,19 +110,23 @@ Nilai `date` pada frontmatter sangat penting karena situs ini menampilkan seluru
 Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang merangkum jawaban. Agar artikel kita mudah dipahami, dikutip, dan diarahkan ke Baca-Quran.id, tulis dengan pola berikut. Pola ini juga bagus untuk pembaca manusia, jadi tidak perlu dipilih salah satu.
 
 **Tulis untuk pertanyaan, bukan hanya kata kunci**
+
 - Sebelum menulis, daftar 5 sampai 8 pertanyaan nyata yang mungkin diketik atau diucapkan orang tentang topik itu, termasuk pertanyaan lanjutan ("apakah boleh...", "berapa kali...", "kapan waktunya..."). Pastikan semuanya terjawab di artikel.
 - Cek pertanyaan itu di Google (kolom "People also ask" dan saran pencarian) dan Google Trends sebelum menulis, jangan hanya menebak.
 
 **Jawaban langsung di awal**
+
 - Setelah pembuka, pastikan jawaban inti topik muncul dalam 1 sampai 3 kalimat yang bisa berdiri sendiri. Contoh, untuk artikel doa saat hujan, sebutkan bacaan dan artinya lebih dulu sebelum membahas latar belakang.
 - Setiap heading sebaiknya menjawab satu pertanyaan yang jelas, dan kalimat pertama di bawahnya langsung menjawab. Hindari heading yang kabur seperti "Penjelasan Lengkap".
 
 **Bagian tanya jawab wajib ada**
+
 - Setiap artikel memiliki bagian `## Pertanyaan yang Sering Ditanyakan` di dekat akhir artikel.
 - Tulis pertanyaan persis seperti cara orang bertanya, lalu jawab dengan 1 sampai 3 kalimat yang lengkap dan tidak bergantung pada kalimat lain. Jawaban harus tetap masuk akal kalau dikutip sendirian.
 - Hindari pertanyaan yang jawabannya hanya "tergantung" tanpa penjelasan.
 
 **Fakta yang jelas dan bisa dipercaya**
+
 - Sebutkan dalil lengkap dengan nama surat dan nomor ayat, dan tautkan ke halaman ayat di Baca-Quran.id. Untuk hadis, sebutkan perawinya (misalnya Bukhari, Muslim, Tirmidzi).
 - Jangan menulis kutipan ayat, hadis, atau doa dari ingatan tanpa memeriksanya. Cocokkan teks Arab dan arti dengan Baca-Quran.id atau sumber hadis yang jelas. Bila derajat hadis diperselisihkan, katakan dengan jujur.
 - **Semua teks Arab wajib diverifikasi ke sumber yang bisa dipercaya, jangan mengandalkan ingatan atau asumsi.**
@@ -134,6 +138,7 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 - Jangan mengarang angka, tanggal, atau klaim keutamaan yang tidak punya sumber. Untuk tanggal acara (Ramadhan, Isra Miraj, Idul Adha), tulis bahwa tanggal resmi menunggu ketetapan pemerintah bila memang belum pasti.
 
 **Mudah diambil mesin**
+
 - Pakai nama yang konsisten. Tulis nama yang sama untuk hal yang sama sepanjang artikel (misalnya selalu "Ayat Kursi", bukan berganti-ganti).
 - Definisikan istilah pada penyebutan pertama dengan satu kalimat sederhana ("Tahajud adalah sholat sunnah yang dikerjakan malam hari setelah bangun tidur").
 - Pakai tabel untuk perbandingan atau daftar fakta (nama, arti, jumlah rakaat, waktu), dan daftar bernomor untuk langkah. Tabel dan daftar mudah diekstrak, tapi tetap sertakan penjelasan dalam kalimat.
@@ -141,11 +146,13 @@ Semakin banyak orang bertanya langsung kepada asisten AI dan mesin pencari yang 
 - Gunakan teks sebagai teks. Jangan menaruh informasi penting hanya di dalam gambar. Beri teks alternatif yang bermakna pada setiap gambar.
 
 **Tunjukkan keahlian dan kesegaran**
+
 - Perbarui artikel yang berisi tanggal atau jadwal acara setiap tahun, dan ubah `date` sesuai aturan tanggal bila isinya memang diperbarui.
 - Taut ke artikel lain dan ke Baca-Quran.id dengan teks tautan yang menjelaskan tujuannya ("baca QS. Al-Baqarah ayat 255"), bukan "klik di sini".
 - Dalam isi artikel, sebut Baca-Quran.id secara wajar sebagai tempat membaca ayat dan memakai fitur (tasbih digital, Juz Amma), supaya kaitan antara topik dan situs utama jelas.
 
 **Daftar periksa sebelum membuka PR**
+
 - [ ] Judul tanpa `:` dan `-`, bahasa sederhana.
 - [ ] Jawaban inti ada di awal artikel.
 - [ ] Ada bagian `Pertanyaan yang Sering Ditanyakan` dengan 3 sampai 5 pertanyaan nyata.
@@ -161,13 +168,13 @@ Bagian ini menjelaskan dari mana teks keagamaan boleh diambil, dalam urutan prio
 
 ### Sumber utama
 
-| Kebutuhan | Sumber utama | Pembanding |
-| --- | --- | --- |
-| Ayat Arab | Repo [`mazipan/baca-quran.id`](https://github.com/mazipan/baca-quran.id), file `src/data/surah-data/{nomor-surat}.ts`, kolom `text`. Teks Mushaf Standar Indonesia (Kemenag). | `risan/quran-json` (naskah `kemenag` dan `tanzil/uthmani`), Tanzil, King Fahd Quran Complex |
-| Terjemahan Indonesia | Repo Baca-Quran.id, kolom `translations.id.text` (terjemahan Kemenag). | `risan/quran-json` berkas `data/quranenc/indonesian_affairs.json`, `fawazahmed0/quran-api` edisi `ind-indonesianislam` |
-| Tafsir Indonesia | Repo Baca-Quran.id, kolom `tafsir.id.kemenag.text` (Tafsir Kemenag). | Aplikasi Quran Kemenag |
-| Doa harian dan dzikir | Repo Baca-Quran.id, berkas `src/data/daily-doa.ts`, `adhkar.ts`, `wirid.ts`, `tahlil.ts`, `ayat-kursi.ts`. Setiap butir memuat Arab, Latin, arti, dan kolom `source` (perawi, nomor hadis, atau bab Hisnul Muslim). | Sunnah.com, Hisnul Muslim |
-| Hadis | `fawazahmed0/hadith-api` (kitab `bukhari`, `muslim`, `abudawud`, `tirmidhi`, `nasai`, `ibnmajah`, `malik`, `nawawi`, `qudsi`, `dehlawi`). | `AhmedBaset/hadith-json`, lalu Sunnah.com saat review |
+| Kebutuhan             | Sumber utama                                                                                                                                                                                                        | Pembanding                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Ayat Arab             | Repo [`mazipan/baca-quran.id`](https://github.com/mazipan/baca-quran.id), file `src/data/surah-data/{nomor-surat}.ts`, kolom `text`. Teks Mushaf Standar Indonesia (Kemenag).                                       | `risan/quran-json` (naskah `kemenag` dan `tanzil/uthmani`), Tanzil, King Fahd Quran Complex                            |
+| Terjemahan Indonesia  | Repo Baca-Quran.id, kolom `translations.id.text` (terjemahan Kemenag).                                                                                                                                              | `risan/quran-json` berkas `data/quranenc/indonesian_affairs.json`, `fawazahmed0/quran-api` edisi `ind-indonesianislam` |
+| Tafsir Indonesia      | Repo Baca-Quran.id, kolom `tafsir.id.kemenag.text` (Tafsir Kemenag).                                                                                                                                                | Aplikasi Quran Kemenag                                                                                                 |
+| Doa harian dan dzikir | Repo Baca-Quran.id, berkas `src/data/daily-doa.ts`, `adhkar.ts`, `wirid.ts`, `tahlil.ts`, `ayat-kursi.ts`. Setiap butir memuat Arab, Latin, arti, dan kolom `source` (perawi, nomor hadis, atau bab Hisnul Muslim). | Sunnah.com, Hisnul Muslim                                                                                              |
+| Hadis                 | `fawazahmed0/hadith-api` (kitab `bukhari`, `muslim`, `abudawud`, `tirmidhi`, `nasai`, `ibnmajah`, `malik`, `nawawi`, `qudsi`, `dehlawi`).                                                                           | `AhmedBaset/hadith-json`, lalu Sunnah.com saat review                                                                  |
 
 Contoh berkas hadis, `https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/editions/ara-tirmidhi.json`. Contoh berkas ayat Arab dari `risan/quran-json`, `data/kemenag/quran.json` dan `data/tanzil/uthmani.json`.
 
@@ -177,14 +184,17 @@ Contoh membaca satu ayat dari clone repo Baca-Quran.id dengan Node.js.
 
 ```js
 import fs from 'fs';
-const surah = 17, ayat = 24;
-const src = fs.readFileSync(`src/data/surah-data/${surah}.ts`, 'utf8')
-  .replace(/^export default /, 'module.exports = ').replace(/;\s*$/, '');
+const surah = 17,
+  ayat = 24;
+const src = fs
+  .readFileSync(`src/data/surah-data/${surah}.ts`, 'utf8')
+  .replace(/^export default /, 'module.exports = ')
+  .replace(/;\s*$/, '');
 const m = { exports: {} };
 new Function('module', src + ';')(m);
 const s = m.exports[String(surah)];
-console.log(s.text[ayat]);                        // Arab
-console.log(s.translations.id.text[ayat]);        // terjemahan Kemenag
+console.log(s.text[ayat]); // Arab
+console.log(s.translations.id.text[ayat]); // terjemahan Kemenag
 console.log(s.tafsir?.id?.kemenag?.text?.[ayat]); // tafsir Kemenag
 ```
 
@@ -208,12 +218,12 @@ Sandbox cloud hanya bisa menjangkau sebagian host. Hasil pengecekan pada 2026-11
 
 Daftar ini tidak bisa dijangkau dari sandbox cloud, tetapi cocok untuk verifikasi manual oleh reviewer. Kredibel tidak berarti tanpa perbedaan pendapat, jadi sebut rujukan yang dipakai dalam artikel.
 
-| Kebutuhan | Sumber |
-| --- | --- |
-| Ayat Arab | Tanzil (tanzil.net), King Fahd Quran Complex (qurancomplex.gov.sa), Quran.com |
-| Terjemahan dan tafsir Indonesia | Quran Kemenag (quran.kemenag.go.id), QuranEnc (quranenc.com) |
-| Hadis dan derajatnya | Sunnah.com, Dorar.net |
-| Doa dan dzikir | Hisnul Muslim karya Sa'id bin Ali Al-Qahthani (hisnulmuslim.com) |
+| Kebutuhan                                                        | Sumber                                                                                                   |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Ayat Arab                                                        | Tanzil (tanzil.net), King Fahd Quran Complex (qurancomplex.gov.sa), Quran.com                            |
+| Terjemahan dan tafsir Indonesia                                  | Quran Kemenag (quran.kemenag.go.id), QuranEnc (quranenc.com)                                             |
+| Hadis dan derajatnya                                             | Sunnah.com, Dorar.net                                                                                    |
+| Doa dan dzikir                                                   | Hisnul Muslim karya Sa'id bin Ali Al-Qahthani (hisnulmuslim.com)                                         |
 | Fikih, lafal niat, dan masalah khilafiyah dalam bahasa Indonesia | NU Online (islam.nu.or.id), Tarjih Muhammadiyah (tarjih.or.id), MUI (mui.or.id), Rumaysho (rumaysho.com) |
 
 ### Alur verifikasi singkat

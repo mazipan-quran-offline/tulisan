@@ -19,13 +19,13 @@ const canTransition = () =>
   typeof document.startViewTransition === 'function' &&
   !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-const findCard = pathname =>
+const findCard = (pathname) =>
   Array.from(document.querySelectorAll(CARD_SELECTOR)).find(
-    el => `${__PATH_PREFIX__}${el.dataset.vtPath}` === pathname,
+    (el) => `${__PATH_PREFIX__}${el.dataset.vtPath}` === pathname,
   );
 
 const clearNames = () => {
-  document.querySelectorAll(CARD_SELECTOR).forEach(el => {
+  document.querySelectorAll(CARD_SELECTOR).forEach((el) => {
     el.style.viewTransitionName = '';
   });
 };
@@ -39,7 +39,7 @@ export const onPreRouteUpdate = ({ location, prevLocation }) => {
   if (card) card.style.viewTransitionName = SHARED_NAME;
 
   let release;
-  const ready = new Promise(resolve => {
+  const ready = new Promise((resolve) => {
     release = resolve;
   });
   const transition = document.startViewTransition(() => ready);

@@ -54,7 +54,7 @@ const FOOTER_GROUPS = [
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   const isRoot = location.pathname === rootPath;
-  const isPath = prefix => location.pathname.startsWith(`${__PATH_PREFIX__}${prefix}`);
+  const isPath = (prefix) => location.pathname.startsWith(`${__PATH_PREFIX__}${prefix}`);
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -118,8 +118,8 @@ const Layout = ({ location, title, children }) => {
           <div className="site-footer__brand">
             <span className="site-footer__site-name">{title}</span>
             <p className="site-footer__copy">
-              Kumpulan artikel, panduan, dan tips seputar aplikasi Baca-Qur'an.id. Temukan konten
-              berkualitas untuk membantu perjalanan membaca Al-Qur'an Anda.
+              Kumpulan artikel, panduan, dan tips seputar aplikasi Baca-Qur'an.id. Temukan konten berkualitas untuk
+              membantu perjalanan membaca Al-Qur'an Anda.
             </p>
             <a className="btn btn--primary" href={`${MAIN_SITE}/`}>
               Buka Baca-Quran.id
@@ -127,12 +127,12 @@ const Layout = ({ location, title, children }) => {
             </a>
           </div>
 
-          {FOOTER_GROUPS.map(group => (
+          {FOOTER_GROUPS.map((group) => (
             <nav key={group.label} className="site-footer__links" aria-label={group.label}>
               <span className="site-footer__link-label" aria-hidden="true">
                 {group.label}
               </span>
-              {group.links.map(link => (
+              {group.links.map((link) => (
                 <a
                   key={link.href}
                   className="site-footer__link"
