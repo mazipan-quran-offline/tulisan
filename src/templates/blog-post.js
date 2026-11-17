@@ -8,6 +8,7 @@ import ReadingProgress from '../components/ReadingProgress';
 import TableOfContents from '../components/TableOfContents';
 import LazyDisqus from '../components/LazyDisqus';
 import AdSlot from '../components/AdSlot';
+import PartnerAd from '../components/PartnerAd';
 import {
   AD_SLOTS,
   IN_ARTICLE_BEFORE_H2,
@@ -273,6 +274,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </ul>
           </section>
         )}
+
+        <PartnerAd variant="banner" />
 
         <AdSlot slot={AD_SLOTS.articleEnd} variant="multiplex" />
 

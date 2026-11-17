@@ -32,6 +32,22 @@ holds `IN_ARTICLE_BEFORE_H2`, `MIN_H2_FOR_IN_ARTICLE` and `IN_FEED_AFTER`.
 Pages with **no ads**: search (`/search`), 404, the category list (`/tags/`).
 Those are thin or utility pages.
 
+## Partner ads (plain links)
+
+Besides AdSense, `PartnerAd` (`src/components/PartnerAd.js`) renders two plain-link
+ads configured in `PARTNER_ADS` in `src/config/ads.js` (`enabled: false` turns
+both off). They load no ad script.
+
+| Variant | Where | Notes |
+|---|---|---|
+| `banner` | Articles, after "Baca Juga", before the Multiplex unit | Adsterra referral GIF, 250x250, lazy-loaded |
+| `promo` | Sidebar on home and tag pages, 1200px and wider | Text card linking to a partner page |
+
+Links use `rel="nofollow sponsored noopener noreferrer"` and are labelled "Iklan".
+The `promo` link is an ad-network redirect, so its destination is chosen by that
+network. Check where it lands now and then, and turn it off if it sends readers
+somewhere unsuitable for this site.
+
 ## How `AdSlot` behaves
 
 - Renders nothing when its slot ID is `null`/empty. Setting an ID to `null` in

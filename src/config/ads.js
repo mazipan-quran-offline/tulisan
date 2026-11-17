@@ -29,3 +29,23 @@ export const IN_FEED_AFTER = 6;
 // and only when the article has at least MIN_H2_FOR_IN_ARTICLE sections.
 export const IN_ARTICLE_BEFORE_H2 = 3;
 export const MIN_H2_FOR_IN_ARTICLE = 4;
+
+// Partner ads (not AdSense). Plain links, so they need no script.
+// Set `enabled` to false to turn all of them off.
+//   banner  Adsterra referral banner (250x250 GIF), shown after "Baca Juga" on articles
+//   promo   Text card, shown in the sidebar on wide screens
+export const PARTNER_ADS = {
+  enabled: true,
+  banner: {
+    href: 'https://beta.publishers.adsterra.com/referral/RhWnDTMEiS',
+    img: 'https://landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif',
+    alt: 'Adsterra',
+    size: 250,
+  },
+  promo: {
+    href: 'https://asiafilm.org/4/0d7154d073712416c9333fc307a7bd6d',
+    title: 'Rekomendasi tontonan',
+    text: 'Nonton film Asia pilihan, gratis dan tanpa daftar.',
+    cta: 'Lihat sekarang',
+  },
+};
