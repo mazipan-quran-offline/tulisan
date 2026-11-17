@@ -49,7 +49,10 @@ Links use `rel="nofollow sponsored noopener noreferrer"` and are labelled "Iklan
 `rect` and `tower` run inside a sandboxed `srcdoc` iframe (see `PartnerAd.js`).
 The Adsterra code sets a global `atOptions` and loads a script, which would clash
 with other ads and with page navigation if it ran in the page. The iframe is
-sandboxed without `allow-same-origin`, so the ad cannot read the page. If fill
+sandboxed without `allow-same-origin` (the ad cannot read the page) and without
+`allow-top-navigation` (the ad cannot send the reader's tab elsewhere; clicks open
+a new tab). `allow-popups-to-escape-sandbox` is kept so advertiser pages opened by a
+click work normally; those tabs are no longer sandboxed. If fill
 rate looks low in production, the sandbox is the first thing to check.
 
 ## How `AdSlot` behaves

@@ -32,7 +32,7 @@ const PartnerAd = ({ variant = 'banner', className = '' }) => {
           srcDoc={unitDoc(unit)}
           loading="lazy"
           scrolling="no"
-          sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+          sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox"
           referrerPolicy="no-referrer"
         />
       </aside>
