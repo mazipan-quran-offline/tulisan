@@ -254,6 +254,7 @@ Untuk artikel musiman yang harus terbit pada tanggal tertentu (misalnya konten t
 - Workflow `scheduled-merge.yml` berjalan setiap hari (serta bisa dijalankan manual lewat `workflow_dispatch`).
 - Tanggal dibandingkan dengan waktu WIB (UTC+7). Ketika tanggal hari ini sudah mencapai tanggal pada token, workflow akan menghapus token `[publish: ...]` dari judul PR lalu menambahkan label `automerge`.
 - Kodiak kemudian me-merge PR tersebut setelah pemeriksaan (PR check) lolos, dan push ke `master` memicu workflow `Deploy` ke GitHub Pages.
+- Setiap run workflow menulis ringkasan (GitHub job summary) di halaman run: tabel PR berpenanda `[publish: ...]` beserta statusnya (dipromosikan, belum jatuh tempo, draft, atau gagal). Run dinyatakan gagal bila ada PR yang gagal dipromosikan.
 - Catatan: karena cron GitHub bisa sedikit terlambat atau terlewat, penerbitan akurat pada level tanggal (bukan jam) dan bisa meleset satu hingga dua hari. Karena itulah artikel dijadwalkan jauh-jauh hari sebelum acara.
 
 **Penting:** jangan menambahkan label `automerge` secara manual pada PR terjadwal kecuali memang ingin segera menerbitkannya, sebab label itulah yang menjadi pemicu merge oleh Kodiak.

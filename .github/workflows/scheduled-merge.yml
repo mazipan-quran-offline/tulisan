@@ -50,38 +50,90 @@ jobs:
               per_page: 100,
             });
 
+            const esc = (v) =>
+              String(v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            const prLink = (pr) =>
+              `<a href="${pr.html_url}">#${pr.number}</a>`;
+
+            // One row per PR that has a [publish: ...] token, for the job summary.
+            const rows = [];
             let promoted = 0;
+            let failed = 0;
             for (const pr of prs) {
-              if (pr.draft) continue;
               const match = pr.title.match(TOKEN_RE);
               if (!match) continue;
 
               const publishDate = match[1];
+              const row = (status) => [prLink(pr), esc(pr.title), publishDate, status];
+
+              if (pr.draft) {
+                core.info(`PR #${pr.number} is a draft, skipping.`);
+                rows.push(row('⏭️ Draft, skipped'));
+                continue;
+              }
               if (publishDate > today) {
                 core.info(`PR #${pr.number} scheduled for ${publishDate}, not due yet.`);
+                rows.push(row('🕒 Not due yet'));
                 continue;
               }
 
               core.info(`PR #${pr.number} is due (${publishDate} <= ${today}). Promoting.`);
 
-              const cleanTitle = pr.title.replace(TOKEN_RE, '').replace(/\s{2,}/g, ' ').trim();
-              if (cleanTitle && cleanTitle !== pr.title) {
-                await github.rest.pulls.update({
+              try {
+                const cleanTitle = pr.title.replace(TOKEN_RE, '').replace(/\s{2,}/g, ' ').trim();
+                if (cleanTitle && cleanTitle !== pr.title) {
+                  await github.rest.pulls.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    pull_number: pr.number,
+                    title: cleanTitle,
+                  });
+                }
+
+                await github.rest.issues.addLabels({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  pull_number: pr.number,
-                  title: cleanTitle,
+                  issue_number: pr.number,
+                  labels: [AUTOMERGE_LABEL],
                 });
+                core.info(`PR #${pr.number} labelled '${AUTOMERGE_LABEL}' for Kodiak to merge.`);
+                promoted++;
+                rows.push(row(`✅ Promoted, labelled <code>${AUTOMERGE_LABEL}</code>`));
+              } catch (error) {
+                failed++;
+                core.error(`PR #${pr.number} failed: ${error.message}`);
+                rows.push(row(`❌ Failed: ${esc(error.message)}`));
               }
-
-              await github.rest.issues.addLabels({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: pr.number,
-                labels: [AUTOMERGE_LABEL],
-              });
-              core.info(`PR #${pr.number} labelled '${AUTOMERGE_LABEL}' for Kodiak to merge.`);
-              promoted++;
             }
 
             core.info(`Done. Promoted ${promoted} PR(s).`);
+
+            // GitHub job summary, shown on the workflow run page.
+            const summary = core.summary
+              .addHeading('Scheduled Merge', 2)
+              .addRaw(
+                `Today (WIB): <code>${today}</code> · ` +
+                  `Open PRs checked: <b>${prs.length}</b> · ` +
+                  `Scheduled: <b>${rows.length}</b> · ` +
+                  `Promoted: <b>${promoted}</b> · ` +
+                  `Failed: <b>${failed}</b>`,
+                true,
+              );
+            if (rows.length === 0) {
+              summary.addRaw('No open PRs have a <code>[publish: YYYY-MM-DD]</code> token.', true);
+            } else {
+              summary.addTable([
+                [
+                  { data: 'PR', header: true },
+                  { data: 'Title', header: true },
+                  { data: 'Publish date', header: true },
+                  { data: 'Status', header: true },
+                ],
+                ...rows,
+              ]);
+            }
+            await summary.write();
+
+            if (failed > 0) {
+              core.setFailed(`${failed} scheduled PR(s) failed to promote.`);
+            }
