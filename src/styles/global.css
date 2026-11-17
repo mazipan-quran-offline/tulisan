@@ -2535,32 +2535,34 @@ tbody tr:hover {
   border-radius: var(--radius);
 }
 
-.partner-ad__card {
+/* Banner and 300x250 side by side on wide screens, stacked on phones */
+.partner-ad-row {
   display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  padding: 0.875rem 1rem;
-  font-family: var(--font-sans);
-  text-decoration: none;
-  color: inherit;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem 2rem;
+  margin: 2rem 0;
 }
 
-.partner-ad__title {
-  font-size: 0.9375rem;
-  font-weight: 600;
+.partner-ad-row > .partner-ad {
+  margin: 0;
 }
 
-.partner-ad__text {
-  font-size: 0.8125rem;
-  color: var(--text-subtle);
+.partner-ad--rect,
+.partner-ad--tower {
+  text-align: center;
 }
 
-.partner-ad__cta {
-  font-size: 0.8125rem;
-  font-weight: 600;
+.partner-ad__frame {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 0;
+}
+
+.partner-ad--tower {
+  margin: 0;
 }
 
 /* The sidebar only exists on wide screens, so does its ad */

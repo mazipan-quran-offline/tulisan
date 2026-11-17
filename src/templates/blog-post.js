@@ -265,7 +265,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </section>
         )}
 
-        <PartnerAd variant="banner" />
+        <div className="partner-ad-row">
+          <PartnerAd variant="banner" />
+          <PartnerAd variant="rect" />
+        </div>
 
         <AdSlot slot={AD_SLOTS.articleEnd} variant="multiplex" />
 
