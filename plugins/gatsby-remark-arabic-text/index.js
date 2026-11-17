@@ -6,8 +6,7 @@
 // untouched — the browser's Unicode bidirectional algorithm handles short
 // inline Arabic runs correctly without extra markup.
 module.exports = ({ markdownAST }) => {
-  const ARABIC_RE =
-    /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]/;
+  const ARABIC_RE = /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]/;
 
   const BLOCK_THRESHOLD = 0.4;
 
@@ -33,13 +32,10 @@ module.exports = ({ markdownAST }) => {
       if (child.type === 'paragraph') {
         const text = extractText(child);
         if (ARABIC_RE.test(text) && arabicRatio(text) >= BLOCK_THRESHOLD) {
-          node.children.splice(
-            i,
-            1,
-            { type: 'html', value: '<div class="font-arabic" dir="rtl">' },
-            child,
-            { type: 'html', value: '</div>' }
-          );
+          node.children.splice(i, 1, { type: 'html', value: '<div class="font-arabic" dir="rtl">' }, child, {
+            type: 'html',
+            value: '</div>',
+          });
         } else {
           walk(child);
         }

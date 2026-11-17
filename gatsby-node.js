@@ -11,7 +11,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 const blogPost = path.resolve(`./src/templates/blog-post.js`);
 const blogIndex = path.resolve('./src/templates/blog-index.js');
 const tagTemplate = path.resolve('./src/templates/tag.js');
-const isDev = process.env.NODE_ENV === "development";
+const isDev = process.env.NODE_ENV === 'development';
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -38,15 +38,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
       }
     }
-    `)
+  `);
 
-    if (result.errors) {
-      reporter.panicOnBuild(
-        `There was an error loading your blog posts`,
-        result.errors
-      )
-      return
-    }
+  if (result.errors) {
+    reporter.panicOnBuild(`There was an error loading your blog posts`, result.errors);
+    return;
+  }
 
   // Create blog posts pages.
   const posts = result.data.allMarkdownRemark.nodes;
@@ -70,8 +67,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   });
 
   // Create a page listing all posts for each tag
-  const allTags = new Set(posts.flatMap(p => p.frontmatter.tags || []));
-  allTags.forEach(tag => {
+  const allTags = new Set(posts.flatMap((p) => p.frontmatter.tags || []));
+  allTags.forEach((tag) => {
     createPage({
       path: `/tag/${encodeURIComponent(tag)}/`,
       component: tagTemplate,
@@ -80,8 +77,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   });
 
   posts.forEach((post, index) => {
-    const previousPostId = index === 0 ? null : posts[index - 1].id
-    const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
+    const previousPostId = index === 0 ? null : posts[index - 1].id;
+    const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id;
 
     // posts are sorted by date ASC, so the previous entry is the older article
     const previous = index === 0 ? null : posts[index - 1];
@@ -91,9 +88,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     const currentTags = post.frontmatter.tags || [];
     const scored = posts
       .filter((_, i) => i !== index)
-      .map(p => {
+      .map((p) => {
         const pTags = p.frontmatter.tags || [];
-        const overlap = currentTags.filter(t => pTags.includes(t)).length;
+        const overlap = currentTags.filter((t) => pTags.includes(t)).length;
         return { post: p, overlap };
       })
       .sort((a, b) => b.overlap - a.overlap);
@@ -147,7 +144,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 };
 
 // Plain text for structured data: drop links, emphasis and code markers.
-const toPlainText = md =>
+const toPlainText = (md) =>
   md
     .replace(/\[([^\]]+)\]\([^)]*\)/g, `$1`)
     .replace(/[*_`]/g, ``)
@@ -162,12 +159,15 @@ const toPlainText = md =>
  *   **Question?**\nanswer on the next line
  *   **Question?**\n\nanswer in the next paragraph
  */
-const extractFaq = content => {
+const extractFaq = (content) => {
   const body = content.replace(/^---[\s\S]*?\n---\n?/, ``);
   const match = body.match(/^##\s+Pertanyaan yang Sering[^\n]*\n([\s\S]*?)(?=^##\s|(?![\s\S]))/m);
   if (!match) return [];
 
-  const paragraphs = match[1].split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+  const paragraphs = match[1]
+    .split(/\n\s*\n/)
+    .map((p) => p.trim())
+    .filter(Boolean);
   const items = [];
 
   for (let i = 0; i < paragraphs.length; i++) {
@@ -188,7 +188,7 @@ const extractFaq = content => {
  * @type {import('gatsby').GatsbyNode['createSchemaCustomization']}
  */
 exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
+  const { createTypes } = actions;
 
   // Explicitly define the siteMetadata {} object
   // This way those will always be defined even if removed from gatsby-config.js
@@ -233,5 +233,5 @@ exports.createSchemaCustomization = ({ actions }) => {
       slug: String
       faq: [FaqItem]
     }
-  `)
-}
+  `);
+};

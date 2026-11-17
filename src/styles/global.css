@@ -2513,6 +2513,71 @@ tbody tr:hover {
   }
 }
 
+/* Partner ads (plain links, see src/config/ads.js) */
+.partner-ad {
+  margin: 2rem 0;
+  clear: both;
+}
+
+.partner-ad--banner {
+  text-align: center;
+}
+
+.partner-ad__link {
+  display: inline-block;
+  max-width: 100%;
+  line-height: 0;
+}
+
+.partner-ad__link img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+/* Banner and 300x250 side by side on wide screens, stacked on phones */
+.partner-ad-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem 2rem;
+  margin: 2rem 0;
+}
+
+.partner-ad-row > .partner-ad {
+  margin: 0;
+}
+
+.partner-ad--rect,
+.partner-ad--tower {
+  text-align: center;
+}
+
+.partner-ad__frame {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 0;
+}
+
+.partner-ad--tower {
+  margin: 0;
+}
+
+/* The sidebar only exists on wide screens, so does its ad */
+@media (max-width: 1199px) {
+  .partner-ad--sidebar {
+    display: none;
+  }
+}
+
+@media print {
+  .partner-ad {
+    display: none;
+  }
+}
+
 .blog-post__content--cont > :first-child {
   margin-top: 0;
 }

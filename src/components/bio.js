@@ -7,7 +7,7 @@
 
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage } from 'gatsby-plugin-image';
 
 import { rhythm } from '../utils/typography';
 
@@ -41,7 +41,7 @@ const Bio = () => {
       <StaticImage
         className="bio-avatar"
         layout="fixed"
-        formats={["auto", "webp", "avif"]}
+        formats={['auto', 'webp', 'avif']}
         src="/profile.jpeg"
         width={50}
         height={50}

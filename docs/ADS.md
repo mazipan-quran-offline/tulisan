@@ -19,18 +19,41 @@ Two mechanisms run side by side:
 
 ## Placements
 
-| Key (`AD_SLOTS`) | Unit type | Where it appears | Component / file |
-|---|---|---|---|
-| `inArticle` | In-article (`fluid`, `in-article` layout) | Inside an article, before the 3rd `<h2>` (after the 2nd section). Only articles with 4 or more `<h2>` | `splitForAd()` in `src/templates/blog-post.js` |
-| `articleEnd` | Multiplex (`autorelaxed`) | After "Baca Juga", before previous/next, on every article. Container max 60rem | `src/templates/blog-post.js` |
-| `sidebar` | Display (`auto`, full-width responsive) | Sticky sidebar on home and tag pages, only at 1200px and wider (hidden by CSS below that) | `src/components/Sidebar.js` |
-| `inFeed` | In-feed (`fluid` + `data-ad-layout-key`) | One card in the article grid after the 6th article, on home and tag pages with more than 6 articles | `src/components/post-list.js` |
+| Key (`AD_SLOTS`) | Unit type                                 | Where it appears                                                                                      | Component / file                               |
+| ---------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `inArticle`      | In-article (`fluid`, `in-article` layout) | Inside an article, before the 3rd `<h2>` (after the 2nd section). Only articles with 4 or more `<h2>` | `splitForAd()` in `src/templates/blog-post.js` |
+| `articleEnd`     | Multiplex (`autorelaxed`)                 | After "Baca Juga", before previous/next, on every article. Container max 60rem                        | `src/templates/blog-post.js`                   |
+| `sidebar`        | Display (`auto`, full-width responsive)   | Sticky sidebar on home and tag pages, only at 1200px and wider (hidden by CSS below that)             | `src/components/Sidebar.js`                    |
+| `inFeed`         | In-feed (`fluid` + `data-ad-layout-key`)  | One card in the article grid after the 6th article, on home and tag pages with more than 6 articles   | `src/components/post-list.js`                  |
 
 Slot IDs and the in-feed layout key live in `src/config/ads.js`. That file also
 holds `IN_ARTICLE_BEFORE_H2`, `MIN_H2_FOR_IN_ARTICLE` and `IN_FEED_AFTER`.
 
 Pages with **no ads**: search (`/search`), 404, the category list (`/tags/`).
 Those are thin or utility pages.
+
+## Partner ads (plain links)
+
+Besides AdSense, `PartnerAd` (`src/components/PartnerAd.js`) renders two plain-link
+ads configured in `PARTNER_ADS` in `src/config/ads.js` (`enabled: false` turns
+both off). The link ads load no ad script; the two iframe units (`rect`, `tower`)
+load Adsterra's script inside their own iframe.
+
+| Variant  | Where                                                                            | Notes                                       |
+| -------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
+| `banner` | Articles, after "Baca Juga", before the Multiplex unit                           | Adsterra referral GIF, 250x250, lazy-loaded |
+| `rect`   | Articles, next to the `banner` (side by side on wide screens, stacked on phones) | Adsterra 300x250 iframe unit                |
+| `tower`  | Sidebar, below the AdSense unit, 1200px and wider                                | Adsterra 160x600 iframe unit                |
+
+Links use `rel="nofollow sponsored noopener noreferrer"` and are labelled "Iklan".
+`rect` and `tower` run inside a sandboxed `srcdoc` iframe (see `PartnerAd.js`).
+The Adsterra code sets a global `atOptions` and loads a script, which would clash
+with other ads and with page navigation if it ran in the page. The iframe is
+sandboxed without `allow-same-origin` (the ad cannot read the page) and without
+`allow-top-navigation` (the ad cannot send the reader's tab elsewhere; clicks open
+a new tab). `allow-popups-to-escape-sandbox` is kept so advertiser pages opened by a
+click work normally; those tabs are no longer sandboxed. If fill
+rate looks low in production, the sandbox is the first thing to check.
 
 ## How `AdSlot` behaves
 
@@ -77,6 +100,7 @@ Those are thin or utility pages.
 `src/config/ads.js`.
 
 **Add a new placement:**
+
 1. Create the ad unit in AdSense and copy `data-ad-slot` (and, for in-feed,
    `data-ad-layout-key`) from its generated code.
 2. Add a key to `AD_SLOTS`.

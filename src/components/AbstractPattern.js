@@ -27,7 +27,7 @@ class RNG {
 function strToSeed(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
-    h = (((h << 5) - h) + str.charCodeAt(i)) | 0;
+    h = ((h << 5) - h + str.charCodeAt(i)) | 0;
   }
   return Math.abs(h) || 42;
 }

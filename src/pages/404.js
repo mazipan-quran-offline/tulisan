@@ -18,8 +18,8 @@ const NotFoundPage = ({ data, location }) => {
           </span>
           <h1 className="not-found__title">Halaman tidak ditemukan</h1>
           <p className="not-found__text">
-            Tautan yang Anda buka mungkin sudah berpindah atau salah ketik. Coba cari artikelnya,
-            atau kembali ke beranda untuk melihat tulisan terbaru.
+            Tautan yang Anda buka mungkin sudah berpindah atau salah ketik. Coba cari artikelnya, atau kembali ke
+            beranda untuk melihat tulisan terbaru.
           </p>
           <div className="hero__actions" style={{ marginTop: '0.5rem' }}>
             <Link to="/search" className="btn btn--primary">

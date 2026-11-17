@@ -13,13 +13,13 @@ const publisher = {
   logo: { '@type': 'ImageObject', url: LOGO_URL, width: 192, height: 192 },
 };
 
-const author = siteMetadata => ({
+const author = (siteMetadata) => ({
   '@type': 'Person',
   name: siteMetadata.author.name,
   url: siteMetadata.social.website,
 });
 
-export const websiteSchema = siteMetadata => ({
+export const websiteSchema = (siteMetadata) => ({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   name: siteMetadata.title,
@@ -51,7 +51,7 @@ export const blogPostingSchema = ({ url, title, description, datePublished, tags
   publisher,
 });
 
-export const breadcrumbSchema = items => ({
+export const breadcrumbSchema = (items) => ({
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: items.map((item, i) => ({
@@ -63,7 +63,7 @@ export const breadcrumbSchema = items => ({
 });
 
 // Only emitted when the article really has a visible FAQ section.
-export const faqSchema = faq =>
+export const faqSchema = (faq) =>
   faq && faq.length >= 2
     ? {
         '@context': 'https://schema.org',

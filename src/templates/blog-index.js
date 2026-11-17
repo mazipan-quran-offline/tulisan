@@ -45,8 +45,23 @@ const BlogIndex = ({ data, location, pageContext }) => {
             <svg viewBox="0 0 200 200" fill="none" stroke="currentColor">
               {[92, 72, 52, 32].map((r, i) => (
                 <g key={r} className={`hero__ornament-ring hero__ornament-ring--${i}`}>
-                  <rect x={100 - r / 1.2} y={100 - r / 1.2} width={(r / 1.2) * 2} height={(r / 1.2) * 2} rx="3" strokeWidth={i === 0 ? 1.2 : 1} />
-                  <rect x={100 - r / 1.2} y={100 - r / 1.2} width={(r / 1.2) * 2} height={(r / 1.2) * 2} rx="3" strokeWidth={i === 0 ? 1.2 : 1} transform="rotate(45 100 100)" />
+                  <rect
+                    x={100 - r / 1.2}
+                    y={100 - r / 1.2}
+                    width={(r / 1.2) * 2}
+                    height={(r / 1.2) * 2}
+                    rx="3"
+                    strokeWidth={i === 0 ? 1.2 : 1}
+                  />
+                  <rect
+                    x={100 - r / 1.2}
+                    y={100 - r / 1.2}
+                    width={(r / 1.2) * 2}
+                    height={(r / 1.2) * 2}
+                    rx="3"
+                    strokeWidth={i === 0 ? 1.2 : 1}
+                    transform="rotate(45 100 100)"
+                  />
                 </g>
               ))}
             </svg>
@@ -61,8 +76,8 @@ const BlogIndex = ({ data, location, pageContext }) => {
               <span>Baca-Qur&apos;an.id</span>
             </h1>
             <p className="hero__description">
-              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi Baca-Qur&apos;an.id.
-              Temukan konten berkualitas untuk membantu perjalanan membaca Al-Qur&apos;an Anda.
+              Kumpulan artikel, panduan, dan tips seputar penggunaan aplikasi Baca-Qur&apos;an.id. Temukan konten
+              berkualitas untuk membantu perjalanan membaca Al-Qur&apos;an Anda.
             </p>
             <div className="hero__actions">
               <Link to="/search" className="btn btn--primary">
@@ -98,48 +113,44 @@ const BlogIndex = ({ data, location, pageContext }) => {
       {/* Constrained content area */}
       <div className="site-main__inner">
         <div className="with-sidebar">
-        <div className="with-sidebar__main">
-        {isFirst && topTopics.length > 0 && (
-          <nav className="topics topics--hide-wide" aria-labelledby="topics-label">
-            <span className="topics__label" id="topics-label">
-              Topik populer
-            </span>
-            <ul className="topics__list">
-              {topTopics.map(({ fieldValue, totalCount: count }) => (
-                <li key={fieldValue}>
-                  <Link to={tagPath(fieldValue)} className="chip">
-                    {formatTag(fieldValue)}
-                    <span className="chip__count">{count}</span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
-        )}
+          <div className="with-sidebar__main">
+            {isFirst && topTopics.length > 0 && (
+              <nav className="topics topics--hide-wide" aria-labelledby="topics-label">
+                <span className="topics__label" id="topics-label">
+                  Topik populer
+                </span>
+                <ul className="topics__list">
+                  {topTopics.map(({ fieldValue, totalCount: count }) => (
+                    <li key={fieldValue}>
+                      <Link to={tagPath(fieldValue)} className="chip">
+                        {formatTag(fieldValue)}
+                        <span className="chip__count">{count}</span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            )}
 
-        <div className="section-header">
-          <h2 className="section-title">{isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}</h2>
-          <span className="section-count" aria-live="polite">
-            {totalCount} artikel
-          </span>
-        </div>
+            <div className="section-header">
+              <h2 className="section-title">{isFirst ? 'Semua Artikel' : `Halaman ${currentPage}`}</h2>
+              <span className="section-count" aria-live="polite">
+                {totalCount} artikel
+              </span>
+            </div>
 
-        <PostList
-          nodes={posts.map(({ node }) => node)}
-          label="Daftar artikel"
-          featuredFirst={isFirst}
-        />
+            <PostList nodes={posts.map(({ node }) => node)} label="Daftar artikel" featuredFirst={isFirst} />
 
-        <Pagination
-          numPages={numPages}
-          currentPage={currentPage}
-          prevPage={prevPage}
-          nextPage={nextPage}
-          isFirst={isFirst}
-          isLast={isLast}
-        />
-        </div>
-        <Sidebar tags={tagGroups} />
+            <Pagination
+              numPages={numPages}
+              currentPage={currentPage}
+              prevPage={prevPage}
+              nextPage={nextPage}
+              isFirst={isFirst}
+              isLast={isLast}
+            />
+          </div>
+          <Sidebar tags={tagGroups} />
         </div>
       </div>
     </Layout>
@@ -168,11 +179,7 @@ export const pageQuery = graphql`
         totalCount
       }
     }
-    allMarkdownRemark(
-      sort: { frontmatter: { date: DESC } }
-      skip: $skip
-      limit: $limit
-    ) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }, skip: $skip, limit: $limit) {
       totalCount
       edges {
         node {

@@ -29,3 +29,24 @@ export const IN_FEED_AFTER = 6;
 // and only when the article has at least MIN_H2_FOR_IN_ARTICLE sections.
 export const IN_ARTICLE_BEFORE_H2 = 3;
 export const MIN_H2_FOR_IN_ARTICLE = 4;
+
+// Partner ads (not AdSense). Plain links, so they need no script.
+// Set `enabled` to false to turn all of them off.
+//   banner  Adsterra referral banner (250x250 GIF), shown after "Baca Juga" on articles
+//   rect    Adsterra 300x250 iframe unit, next to the banner at the end of articles
+//   tower   Adsterra 160x600 iframe unit, shown in the sidebar on wide screens
+export const PARTNER_ADS = {
+  enabled: true,
+  banner: {
+    href: 'https://beta.publishers.adsterra.com/referral/RhWnDTMEiS',
+    img: 'https://landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif',
+    alt: 'Adsterra',
+    size: 250,
+  },
+  // Iframe units: each runs inside its own sandboxed iframe (see PartnerAd.js),
+  // so its global `atOptions` cannot clash with other ads or page navigation.
+  rect: { key: 'f16f565f3b38a7538684c37a4c5e738c', width: 300, height: 250 },
+  tower: { key: '6f39b7fd17f16841bec54d7e4f6c4355', width: 160, height: 600 },
+};
+
+export const PARTNER_AD_SCRIPT_HOST = 'https://bicea.org/22/';

@@ -1,0 +1,6 @@
+#!/bin/sh
+# Block the push if anything is not formatted (same check as the PR check).
+pnpm run format:check || {
+  echo "Prettier check failed. Run 'pnpm format', commit, and push again."
+  exit 1
+}

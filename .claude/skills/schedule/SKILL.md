@@ -22,6 +22,7 @@ Follow these steps exactly:
 ### Step 1 — Plan
 
 Before writing anything, present a plan to the user:
+
 - Proposed title, slug, publish date, and target keywords for each article
 - Check the existing articles list above — do NOT create articles that would cannibalize existing keywords
 - Wait for the user to confirm or adjust the plan
@@ -29,6 +30,7 @@ Before writing anything, present a plan to the user:
 ### Step 2 — Write the articles
 
 For each article:
+
 - Create the folder `content/blog/YYYY-MM-DD-slug/` with `index.md` inside
 - Follow all writing rules from AGENTS.md (tone, length, format, no em-dashes, bold-headed paragraphs, etc.)
 - **YAML rule**: if `title` or `description` contains a colon (`:`), wrap the whole value in double quotes — e.g. `title: "Judul: Subjudul"`. Unquoted colons break the YAML parser and fail CI.

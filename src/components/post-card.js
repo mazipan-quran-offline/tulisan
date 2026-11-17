@@ -21,7 +21,7 @@ const PostCard = ({ node, featured = false }) => {
             </time>
             {tags.length > 0 && (
               <div className="post-card__tags">
-                {tags.slice(0, 2).map(tag => (
+                {tags.slice(0, 2).map((tag) => (
                   <Link key={tag} to={tagPath(tag)} className="post-card__tag">
                     {formatTag(tag)}
                   </Link>

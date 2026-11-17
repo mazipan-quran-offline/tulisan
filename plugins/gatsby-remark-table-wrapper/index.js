@@ -13,11 +13,10 @@ module.exports = ({ markdownAST }) => {
           1,
           {
             type: 'html',
-            value:
-              '<div class="table-scroll-wrapper" role="region" aria-label="Scrollable table" tabindex="0">',
+            value: '<div class="table-scroll-wrapper" role="region" aria-label="Scrollable table" tabindex="0">',
           },
           child,
-          { type: 'html', value: '</div>' }
+          { type: 'html', value: '</div>' },
         );
       } else {
         walk(child);

@@ -1,0 +1,6 @@
+#!/bin/sh
+# Format staged files with the pinned Prettier, then re-stage them.
+files=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '\.(js|jsx|json|md)$')
+[ -z "$files" ] && exit 0
+echo "$files" | tr '\n' '\0' | xargs -0 pnpm exec prettier --write --ignore-unknown >/dev/null || exit 1
+echo "$files" | tr '\n' '\0' | xargs -0 git add

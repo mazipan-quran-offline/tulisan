@@ -7,16 +7,9 @@ export default (props) => {
       <head>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="anonymous"
-        />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
           href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Noto+Naskh+Arabic:wght@400;700&display=swap"
           rel="stylesheet"
@@ -40,18 +33,11 @@ export default (props) => {
           // this client-side routed site.
           data-overlays="bottom"
         ></script>
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-63FEW7H70N"
-        ></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-63FEW7H70N"></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
-        <div
-          key="body"
-          dangerouslySetInnerHTML={{ __html: props.body }}
-          id="___gatsby"
-        />
+        <div key="body" dangerouslySetInnerHTML={{ __html: props.body }} id="___gatsby" />
         {props.postBodyComponents}
       </body>
     </html>

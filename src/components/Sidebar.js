@@ -3,6 +3,7 @@ import { Link, withPrefix } from 'gatsby';
 
 import { SearchIcon, ArrowRightIcon } from './icons';
 import AdSlot from './AdSlot';
+import PartnerAd from './PartnerAd';
 import { AD_SLOTS } from '../config/ads';
 import { formatTag, tagPath } from '../utils/tags';
 
@@ -69,6 +70,7 @@ const Sidebar = ({ tags = [], activeTag, limit = 14 }) => {
       )}
 
       <AdSlot slot={AD_SLOTS.sidebar} variant="sidebar" />
+      <PartnerAd variant="tower" className="partner-ad--sidebar" />
 
       <nav className="sidebar__card sidebar__card--accent" aria-labelledby="sidebar-main">
         <h2 className="sidebar__title" id="sidebar-main">
